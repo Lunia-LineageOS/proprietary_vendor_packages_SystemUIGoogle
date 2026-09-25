@@ -63,7 +63,6 @@ import com.android.systemui.media.nearby.NearbyMediaDevicesManager;
 import com.android.systemui.minmode.MinModeManager;
 import com.android.systemui.minmode.MinModeManagerImpl;
 import com.android.systemui.navigationbar.NavigationBarControllerModule;
-import com.android.systemui.navigationbar.gestural.GestureModule;
 import com.android.systemui.plugins.BcSmartspaceDataPlugin;
 import com.android.systemui.plugins.keyguard.ui.composable.elements.LockscreenElementProvider;
 import com.android.systemui.plugins.qs.QSFactory;
@@ -118,6 +117,7 @@ import com.android.systemui.util.kotlin.SysUICoroutinesModule;
 import com.android.systemui.volume.dagger.VolumeModule;
 import com.android.systemui.wallpapers.dagger.WallpaperModule;
 
+import com.google.android.systemui.gesture.GestureModule;
 import com.google.android.systemui.keyguard.AmbientIndicationCoreStartable;
 import com.google.android.systemui.keyguard.data.quickaffordance.NowPlayingQuickAffordanceConfig;
 import com.google.android.systemui.keyguard.data.repository.AmbientIndicationRepository;
