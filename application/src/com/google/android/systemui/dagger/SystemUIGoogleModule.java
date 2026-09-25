@@ -108,6 +108,7 @@ import com.android.systemui.statusbar.policy.IndividualSensorPrivacyControllerIm
 import com.android.systemui.statusbar.policy.SensorPrivacyController;
 import com.android.systemui.statusbar.policy.SensorPrivacyControllerImpl;
 import com.android.systemui.statusbar.policy.dagger.SmartRepliesInflationModule;
+import com.android.systemui.theme.ThemeOverlayController;
 import com.android.systemui.toast.ToastModule;
 import com.android.systemui.topwindoweffects.dagger.TopLevelWindowEffectsModule;
 import com.android.systemui.touchpad.tutorial.TouchpadTutorialModule;
@@ -127,6 +128,7 @@ import com.google.android.systemui.smartspace.DateSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.KeyguardSmartspaceStartable;
 import com.google.android.systemui.smartspace.WeatherSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.dagger.SmartspaceGoogleModule;
+import com.google.android.systemui.theme.ThemeOverlayControllerGoogle;
 
 import dagger.Binds;
 import dagger.Module;
@@ -370,4 +372,8 @@ public abstract class SystemUIGoogleModule {
     @IntoSet
     abstract KeyguardQuickAffordanceConfig bindNowPlayingQuickAffordanceConfig(
             NowPlayingQuickAffordanceConfig impl);
+
+    @Binds
+    abstract ThemeOverlayController bindThemeOverlayController(
+            ThemeOverlayControllerGoogle impl);
 }
