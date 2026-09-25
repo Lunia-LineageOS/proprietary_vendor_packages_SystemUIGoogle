@@ -32,7 +32,6 @@ import com.android.systemui.accessibility.AccessibilityModule;
 import com.android.systemui.accessibility.SystemActionsModule;
 import com.android.systemui.accessibility.data.repository.AccessibilityRepositoryModule;
 import com.android.systemui.actioncorner.ActionCornerModule;
-import com.android.systemui.battery.BatterySaverModule;
 import com.android.systemui.clipboardoverlay.dagger.ClipboardOverlayOverrideModule;
 import com.android.systemui.communal.posturing.dagger.PosturingModule;
 import com.android.systemui.contextualcursor.ContextualCursorModule;
@@ -117,6 +116,7 @@ import com.android.systemui.volume.dagger.VolumeModule;
 import com.android.systemui.wallpapers.dagger.WallpaperModule;
 
 import com.google.android.systemui.GoogleServices;
+import com.google.android.systemui.battery.BatterySaverModuleGoogle;
 import com.google.android.systemui.columbus.legacy.ColumbusModule;
 import com.google.android.systemui.gesture.GestureModule;
 import com.google.android.systemui.keyguard.AmbientIndicationCoreStartable;
@@ -164,7 +164,7 @@ import javax.inject.Provider;
         AccessibilityModule.class,
         AccessibilityRepositoryModule.class,
         AospPolicyModule.class,
-        BatterySaverModule.class,
+        BatterySaverModuleGoogle.class,
         CentralSurfacesModule.class,
         ClipboardOverlayOverrideModule.class,
         ColumbusModule.class,
