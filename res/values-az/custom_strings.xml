@@ -15,6 +15,18 @@
     <string name="accessibility_now_playing_play_icon">Defolt musiqi pleyerində oxudun</string>
     <string name="accessibility_now_playing_unlike_icon">Sevimlilərdən silin</string>
     <string name="now_playing_label">İndi oxudulanlar</string>
+
+    <!-- Battery Warnings -->
+    <string name="low_battery_notification_title">%s enerji qalıb</string>
+    <string name="low_battery_notification_text">Batareya istifadəsini artırmaq üçün Enerjiyə Qənaəti yandırın</string>
+    <string name="low_battery_notification_text_ebs">Batareya istifadəsini uzatmaq üçün Yüksək Enerji Qənaətini aktivləşdirin</string>
+    <string name="severe_battery_notification_title">%s batareya enerjisi qalıb</string>
+    <string name="severe_battery_notification_text">Yüksək Enerji Qənaətini aktiv edin. Qeyri-zəruri tətbiqlər durdurulacaq</string>
+    <string name="severe_battery_notification_switch_text">Yüksək Enerji Qənaətinə keçirilsin? \n\nQeyri-zəruri tətbiqlər və bildirişləri durdurulacaq</string>
+    <string name="severe_low_battery_dialog_switch_action_text">Dəyişdirin</string>
+    <string name="extreme_low_battery_notification_title">Enerji çox azdır</string>
+    <string name="extreme_low_battery_notification_text">Tezliklə şarj edilməsə, telefon sönəcək</string>
+
     <!-- Quick Tap -->
     <string name="columbus_bouncer_message">Sürətli Toxunuşu tamamlamaq mümkün deyil</string>
     <string name="columbus_target_request_dialog_title">%1$s tətbiqini açmaq üçün Qısa Toxunuşa icazə verilsin?</string>
