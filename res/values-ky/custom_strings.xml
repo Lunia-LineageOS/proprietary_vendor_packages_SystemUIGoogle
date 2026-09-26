@@ -27,6 +27,16 @@
     <string name="extreme_low_battery_notification_title">Батарея отурайын деп калды</string>
     <string name="extreme_low_battery_notification_text">Телефонду кубаттабасаңыз, ал бир аздан кийин өчүп калат</string>
 
+    <!-- Battery Saver Confirmation Dialog -->
+    <string name="saver_confirmation_dialog_title">Батареяны үнөмдөгүч режимине кош келиңиз</string>
+    <string name="saver_confirmation_dialog_subtitle">Колдонула турган режимди тандаңыз</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Батареяны үнөмдөөчү стандарттуу режим</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Визуалдык эффекттерди жана фондогу аракеттерди чектейт. Эгер күйгүзүлө элек болсо, караңгы теманы күйгүзүңүз.</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Батареяны кескин үнөмдөө режими</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Жогорудагы өзгөрүүлөрдөн тышкары, кереги жок колдонмолорду токтотуп, алардын билдирмелерин тындырат.</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Жок</string>
+    <string name="face_reenroll_dialog_confirm">Жөндөө</string>
+
     <!-- Quick Tap -->
     <string name="columbus_bouncer_message">Тез баскылоо жаңсоосун аягына чыгаруу үчүн кулпуну ачыңыз</string>
     <string name="columbus_target_request_dialog_title">%1$s колдонмосун ачуу үчүн тез баскылоо функциясын иштетесизби?</string>

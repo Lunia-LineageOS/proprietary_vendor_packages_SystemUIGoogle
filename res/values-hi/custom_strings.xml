@@ -27,6 +27,16 @@
     <string name="extreme_low_battery_notification_title">बैटरी बहुत कम है</string>
     <string name="extreme_low_battery_notification_text">फ़ोन को जल्दी चार्ज करें, नहीं तो यह बंद हो जाएगा</string>
 
+    <!-- Battery Saver Confirmation Dialog -->
+    <string name="saver_confirmation_dialog_title">बैटरी सेवर मोड में आपका स्वागत है</string>
+    <string name="saver_confirmation_dialog_subtitle">बैटरी सेवर मोड चुनें</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">स्टैंडर्ड बैटरी सेवर</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">यह मोड, विज़ुअल इफ़ेक्ट के इस्तेमाल और बैकग्राउंड में होने वाली गतिविधि को कम करता है. अगर गहरे रंग वाली थीम पहले से चालू नहीं है, तो उसे भी चालू करता है.</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">एक्स्ट्रीम बैटरी सेवर</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">इसमें ऊपर बताए गए सभी बदलाव शामिल हैं. इसके अलावा, यह ग़ैर-ज़रूरी ऐप्लिकेशन की गतिविधियों और उनसे मिलने वाली सूचनाओं को रोक देता है.</string>
+    <string name="saver_confirmation_dialog_dismiss_text">अभी नहीं</string>
+    <string name="face_reenroll_dialog_confirm">सेट अप करें</string>
+
     <!-- Quick Tap -->
     <string name="columbus_bouncer_message">क्विक टैप पूरा करने के लिए अनलॉक करें</string>
     <string name="columbus_target_request_dialog_title">क्या आप क्विक टैप को %1$s खोलने की अनुमति देना चाहते हैं?</string>

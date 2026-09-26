@@ -27,6 +27,16 @@
     <string name="extreme_low_battery_notification_title">බැටරිය ඉතා අඩුයි</string>
     <string name="extreme_low_battery_notification_text">ඔබේ දුරකථනය එය ඉක්මනින් ආරෝපණය නොකරන්නේ නම් වසා දමනු ඇත</string>
 
+    <!-- Battery Saver Confirmation Dialog -->
+    <string name="saver_confirmation_dialog_title">බැටරි සුරැකුම වෙත සාදරයෙන් පිළිගනිමු</string>
+    <string name="saver_confirmation_dialog_subtitle">භාවිතා කිරීමට ප්‍රකාරය තෝරන්න</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">සම්මත බැටරි සුරැකුම</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">දෘශ්‍ය ප්‍රයෝග සහ පසුබිම් ක්‍රියාකාරකම් සීමා කරයි. දැනටමත් ක්‍රියාත්මක නොවේ නම්, අඳුරු තේමාව ක්‍රියාත්මක කරයි.</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">උපරිම බැටරි සුරැකුම</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">ඉහත ලැයිස්තුගත කර ඇති සියලුම වෙනස්කම් ඇතුළත් වේ. අත්‍යවශ්‍ය නොවන යෙදුම් සහ ඒවායේ දැනුම්දීම් ද විරාම කරයි.</string>
+    <string name="saver_confirmation_dialog_dismiss_text">අවලංගු කරන්න</string>
+    <string name="face_reenroll_dialog_confirm">පිහිටුවන්න</string>
+
     <!-- Quick Tap -->
     <string name="columbus_bouncer_message">ඉක්මන් තට්ටු කිරීම සම්පූර්ණ කිරීමට අගුලු හරින්න</string>
     <string name="columbus_target_request_dialog_title">%1$s විවෘත කිරීමට ඉක්මන් තට්ටු කිරීමට ඉඩ දෙන්නද?</string>

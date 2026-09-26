@@ -27,6 +27,16 @@
     <string name="extreme_low_battery_notification_title">Nivel foarte scăzut al bateriei</string>
     <string name="extreme_low_battery_notification_text">Telefonul se va închide dacă nu este încărcat în curând</string>
 
+    <!-- Battery Saver Confirmation Dialog -->
+    <string name="saver_confirmation_dialog_title">Bun venit la Economisirea bateriei!</string>
+    <string name="saver_confirmation_dialog_subtitle">Selectează modul de folosit</string>
+    <string name="saver_confirmation_dialog_title_standard_mode">Economisirea bateriei standard</string>
+    <string name="saver_confirmation_dialog_summary_standard_mode">Limitează efectele vizuale și activitatea din fundal. Activează Tema întunecată dacă nu este deja activată.</string>
+    <string name="saver_confirmation_dialog_title_extreme_mode">Economisirea extremă a bateriei</string>
+    <string name="saver_confirmation_dialog_summary_extreme_mode">Include toate modificările menționate mai sus. Întrerupe și aplicațiile neesențiale și notificările aferente.</string>
+    <string name="saver_confirmation_dialog_dismiss_text">Anulează</string>
+    <string name="face_reenroll_dialog_confirm">Configurează</string>
+
     <!-- Quick Tap -->
     <string name="columbus_bouncer_message">Deblochează pentru a finaliza Atingerea rapidă</string>
     <string name="columbus_target_request_dialog_title">Permiți ca Atingerea rapidă să deschidă %1$s?</string>
