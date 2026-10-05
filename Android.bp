@@ -43,6 +43,7 @@ android_library {
         "androidx.compose.runtime_runtime",
         "columbus-lib",
         "columbus-proto-java",
+        "googlebattery-lib",
         "smartspace-proto-java",
         "smartspace-proto-lite-java",
         "tensorflowlite_java",
