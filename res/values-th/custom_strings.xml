@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">นำออกจากรายการโปรด</string>
     <string name="now_playing_label">กำลังเล่น</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ปลดล็อกเพื่อดำเนินการแตะด่วนให้เสร็จสมบูรณ์</string>
+    <string name="columbus_target_request_dialog_title">อนุญาตให้การแตะด่วนเปิด %1$s ใช่ไหม</string>
+    <string name="columbus_target_request_dialog_summary">แตะด้านหลังโทรศัพท์ 2 ครั้งเพื่อเปิด %1$s คุณเปลี่ยนการตั้งค่านี้ได้ทุกเมื่อในการตั้งค่า</string>
+    <string name="columbus_target_request_dialog_allow">อนุญาต</string>
+    <string name="columbus_target_request_dialog_deny">ไม่อนุญาต</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">แบตเตอรี่เหลืออยู่ %s</string>
     <string name="low_battery_notification_text">เปิดโหมดประหยัดแบตเตอรี่เพื่อยืดอายุการใช้งานแบตเตอรี่</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">ยกเลิก</string>
     <string name="face_reenroll_dialog_confirm">ตั้งค่า</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">ปลดล็อกเพื่อดำเนินการแตะด่วนให้เสร็จสมบูรณ์</string>
-    <string name="columbus_target_request_dialog_title">อนุญาตให้การแตะด่วนเปิด %1$s ใช่ไหม</string>
-    <string name="columbus_target_request_dialog_summary">แตะด้านหลังโทรศัพท์ 2 ครั้งเพื่อเปิด %1$s คุณเปลี่ยนการตั้งค่านี้ได้ทุกเมื่อในการตั้งค่า</string>
-    <string name="columbus_target_request_dialog_allow">อนุญาต</string>
-    <string name="columbus_target_request_dialog_deny">ไม่อนุญาต</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">การชาร์จแบบปรับอัตโนมัติเปิดอยู่</string>
+    <string name="adaptive_charging_notify_des">แบตเตอรี่จะเต็มภายในเวลา %1$s กำลังชาร์จอย่างต่อเนื่องเพื่อยืดอายุการใช้งานแบตเตอรี่</string>
+    <string name="adaptive_charging_notify_turn_off_once">ปิดเฉพาะครั้งนี้</string>
+    <string name="adaptive_charging_time_estimate">%1$s • กำลังชาร์จแบบปรับอัตโนมัติ • จะเต็มภายใน %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ปกป้องแบตเตอรี่ในระหว่างการชาร์จ</string>
+    <string name="charge_limit_discovery_notification_text">ลองเปิดฟีเจอร์จำกัดการชาร์จที่ 80% เพื่อปกป้องประสิทธิภาพแบตเตอรี่และยืดอายุการใช้งาน คุณจัดการฟีเจอร์นี้ได้ทุกเมื่อในการตั้งค่า</string>
+    <string name="charge_limit_discovery_notification_enable_button">เปิดใช้เลย</string>
+    <string name="battery_health_notify_learn_more">ดูข้อมูลเพิ่มเติม</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • ชาร์จเสร็จภายใน %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • ชาร์จเสร็จภายใน %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ชาร์จแล้ว</string>
 </resources>

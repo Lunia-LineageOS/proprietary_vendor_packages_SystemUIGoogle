@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Hapus dari favorit</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Buka kunci untuk menyelesaikan Ketuk Cepat</string>
+    <string name="columbus_target_request_dialog_title">Izinkan Ketuk Cepat untuk membuka %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Ketuk bagian belakang ponsel dua kali untuk membuka %1$s. Anda dapat mengubahnya kapan saja di Setelan.</string>
+    <string name="columbus_target_request_dialog_allow">Izinkan</string>
+    <string name="columbus_target_request_dialog_deny">Jangan izinkan</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Daya baterai tersisa %s</string>
     <string name="low_battery_notification_text">Aktifkan Penghemat Baterai untuk memperpanjang daya tahan baterai</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Batal</string>
     <string name="face_reenroll_dialog_confirm">Siapkan</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Buka kunci untuk menyelesaikan Ketuk Cepat</string>
-    <string name="columbus_target_request_dialog_title">Izinkan Ketuk Cepat untuk membuka %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Ketuk bagian belakang ponsel dua kali untuk membuka %1$s. Anda dapat mengubahnya kapan saja di Setelan.</string>
-    <string name="columbus_target_request_dialog_allow">Izinkan</string>
-    <string name="columbus_target_request_dialog_deny">Jangan izinkan</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Pengisian Daya Adaptif aktif</string>
+    <string name="adaptive_charging_notify_des">Baterai penuh dalam %1$s. Isi daya perlahan untuk memperpanjang masa pakai baterai.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Nonaktifkan sekali</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Pengisian Daya Adaptif • Penuh dalam %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Melindungi baterai Anda selama pengisian daya</string>
+    <string name="charge_limit_discovery_notification_text">Coba aktifkan fitur batas 80% untuk melindungi kesehatan baterai dan masa pakai baterai. Anda dapat mengelolanya di setelan kapan saja</string>
+    <string name="charge_limit_discovery_notification_enable_button">Aktifkan sekarang</string>
+    <string name="battery_health_notify_learn_more">Pelajari lebih lanjut</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Selesai mengisi daya pada %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Selesai mengisi daya dalam %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Selesai mengisi daya</string>
 </resources>

@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">পছন্দের বিভাগ থেকে সরান</string>
     <string name="now_playing_label">এখন চলছে</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">কুইক ট্যাপ সম্পূর্ণ করতে আনলক করুন</string>
+    <string name="columbus_target_request_dialog_title">%1$s খোলার জন্য কুইক ট্যাপ করার অনুমতি দেবেন?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s খুলতে আপনার ফোনের পেছন দিকে দুইবার ট্যাপ করুন। যেকোনও সময় সেটিংস থেকে এটি পরিবর্তন করতে পারবেন।</string>
+    <string name="columbus_target_request_dialog_allow">অনুমতি দিন</string>
+    <string name="columbus_target_request_dialog_deny">অনুমতি দেবেন না</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">ব্যাটারিতে আর %s চার্জ আছে</string>
     <string name="low_battery_notification_text">ব্যাটারির আয়ু বাড়াতে ব্যাটারি সেভার চালু করুন</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">বাতিল করুন</string>
     <string name="face_reenroll_dialog_confirm">সেট-আপ করুন</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">কুইক ট্যাপ সম্পূর্ণ করতে আনলক করুন</string>
-    <string name="columbus_target_request_dialog_title">%1$s খোলার জন্য কুইক ট্যাপ করার অনুমতি দেবেন?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s খুলতে আপনার ফোনের পেছন দিকে দুইবার ট্যাপ করুন। যেকোনও সময় সেটিংস থেকে এটি পরিবর্তন করতে পারবেন।</string>
-    <string name="columbus_target_request_dialog_allow">অনুমতি দিন</string>
-    <string name="columbus_target_request_dialog_deny">অনুমতি দেবেন না</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">\'অ্যাডাপ্টিভ চার্জিং\' ফিচারটি চালু আছে</string>
+    <string name="adaptive_charging_notify_des">%1$s-এর মধ্যে ব্যাটারি সম্পূর্ণ চার্জ হয়ে যাবে। ব্যাটারি ভালো রাখতে ধীরে ধীরে চার্জ হচ্ছে।</string>
+    <string name="adaptive_charging_notify_turn_off_once">একবার বন্ধ করুন</string>
+    <string name="adaptive_charging_time_estimate">%1$s • অ্যাডাপ্টিভ চার্জিং • %2$s-এর মধ্যে সম্পূর্ণ চার্জ হয়ে যাবে</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">চার্জ করার সময় আপনার ব্যাটারি সুরক্ষিত রাখুন</string>
+    <string name="charge_limit_discovery_notification_text">আপনার ব্যাটারির আয়ু বজায় রাখতে ও সেটি যাতে আরও বেশিদিন চলে তার জন্য ৮০% সীমাবদ্ধতার ফিচার চালু করে দেখুন। যেকোনও সময় আপনি সেটিংস থেকে এটি ম্যানেজ করতে পারবেন</string>
+    <string name="charge_limit_discovery_notification_enable_button">এখনই চালু করুন</string>
+    <string name="battery_health_notify_learn_more">আরও জানুন</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s-এর মধ্যে চার্জিং সম্পূর্ণ হবে</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s-এর মধ্যে চার্জ হয়ে যাবে</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • চার্জিং সম্পূর্ণ হয়েছে</string>
 </resources>

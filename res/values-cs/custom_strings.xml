@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Odebrat z oblíbených</string>
     <string name="now_playing_label">Co to hraje</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Rychlé poklepání dokončíte odemknutím</string>
+    <string name="columbus_target_request_dialog_title">Povolit otevírání aplikace %1$s rychlým poklepáním?</string>
+    <string name="columbus_target_request_dialog_summary">Dvojitým klepnutím na zadní část telefonu otevřete aplikaci %1$s. Tuto možnost můžete kdykoli změnit v Nastavení.</string>
+    <string name="columbus_target_request_dialog_allow">Povolit</string>
+    <string name="columbus_target_request_dialog_deny">Nepovolovat</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Stav baterie: %s</string>
     <string name="low_battery_notification_text">Pokud chcete prodloužit výdrž baterie, zapněte Spořič baterie</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Zrušit</string>
     <string name="face_reenroll_dialog_confirm">Nastavit</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Rychlé poklepání dokončíte odemknutím</string>
-    <string name="columbus_target_request_dialog_title">Povolit otevírání aplikace %1$s rychlým poklepáním?</string>
-    <string name="columbus_target_request_dialog_summary">Dvojitým klepnutím na zadní část telefonu otevřete aplikaci %1$s. Tuto možnost můžete kdykoli změnit v Nastavení.</string>
-    <string name="columbus_target_request_dialog_allow">Povolit</string>
-    <string name="columbus_target_request_dialog_deny">Nepovolovat</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Je zapnuté adaptivní nabíjení</string>
+    <string name="adaptive_charging_notify_des">Baterie bude plně nabitá v %1$s. Probíhá pomalé nabíjení, které prodlužuje životnost baterie.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Tentokrát vypnout</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptivní nabíjení • Plně nabito za %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Chraňte baterii při nabíjení</string>
+    <string name="charge_limit_discovery_notification_text">Zkuste zapnout funkci 80% limitu, abyste ochránili baterii a prodloužili její životnost. Tuto funkci můžete kdykoliv zapnout nebo vypnout v Nastavení.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Aktivovat</string>
+    <string name="battery_health_notify_learn_more">Další informace</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Zařízení se nabije do %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Nabito v %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Nabíjení je dokončeno</string>
 </resources>

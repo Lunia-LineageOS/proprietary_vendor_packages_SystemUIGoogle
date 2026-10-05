@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Favorilerden kaldır</string>
     <string name="now_playing_label">Ne Çalıyor?</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Hızlı Dokun hareketini tamamlamak için kilidi açın</string>
+    <string name="columbus_target_request_dialog_title">Hızlı Dokun özelliğinin %1$s uygulamasını açmasına izin verilsin mi?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s uygulamasını açmak için telefonunuzun arkasına iki kez dokunun. İstediğiniz zaman bunu Ayarlar\'dan değiştirebilirsiniz.</string>
+    <string name="columbus_target_request_dialog_allow">İzin ver</string>
+    <string name="columbus_target_request_dialog_deny">İzin verme</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s pil kaldı</string>
     <string name="low_battery_notification_text">Pil ömrünü uzatmak için Pil Tasarrufu özelliğini açın</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">İptal</string>
     <string name="face_reenroll_dialog_confirm">Kur</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Hızlı Dokun hareketini tamamlamak için kilidi açın</string>
-    <string name="columbus_target_request_dialog_title">Hızlı Dokun özelliğinin %1$s uygulamasını açmasına izin verilsin mi?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s uygulamasını açmak için telefonunuzun arkasına iki kez dokunun. İstediğiniz zaman bunu Ayarlar\'dan değiştirebilirsiniz.</string>
-    <string name="columbus_target_request_dialog_allow">İzin ver</string>
-    <string name="columbus_target_request_dialog_deny">İzin verme</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Uyarlanabilir Şarj açık</string>
+    <string name="adaptive_charging_notify_des">Pil, saat %1$s olduğunda dolacak. Pil kullanım ömrünü uzatmak için sürekli şarj oluyor.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Bir kez kapat</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Uyarlanabilir Şarj • Tam şarj zamanı: %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Şarj işlemi sırasında pilinizi koruyun</string>
+    <string name="charge_limit_discovery_notification_text">Pil sağlığını ve kullanım ömrünü korumak için %80 şarj sınırı özelliğini açmayı deneyin. Bu tercihi Ayarlar bölümünden yönetebilirsiniz.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Hemen etkinleştirin</string>
+    <string name="battery_health_notify_learn_more">Daha fazla bilgi</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Saat %1$s olduğunda şarjı dolacak</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s içinde şarjı dolacak</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Şarj doldu</string>
 </resources>

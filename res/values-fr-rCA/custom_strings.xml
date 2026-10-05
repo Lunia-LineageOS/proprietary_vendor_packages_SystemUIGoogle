@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Retirer des favoris</string>
     <string name="now_playing_label">En cours de lecture</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Déverrouillez pour utiliser le double toucher</string>
+    <string name="columbus_target_request_dialog_title">Autoriser le double toucher à accéder à %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Touchez deux fois l\'arrière de votre téléphone pour ouvrir %1$s. Vous pouvez changer cette option en tout temps dans les paramètres.</string>
+    <string name="columbus_target_request_dialog_allow">Autoriser</string>
+    <string name="columbus_target_request_dialog_deny">Ne pas autoriser</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s d\'autonomie de la pile</string>
     <string name="low_battery_notification_text">Activez l\'économiseur de pile pour prolonger l\'autonomie de la pile</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Annuler</string>
     <string name="face_reenroll_dialog_confirm">Configurer</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Déverrouillez pour utiliser le double toucher</string>
-    <string name="columbus_target_request_dialog_title">Autoriser le double toucher à accéder à %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Touchez deux fois l\'arrière de votre téléphone pour ouvrir %1$s. Vous pouvez changer cette option en tout temps dans les paramètres.</string>
-    <string name="columbus_target_request_dialog_allow">Autoriser</string>
-    <string name="columbus_target_request_dialog_deny">Ne pas autoriser</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">La recharge adaptative est activée</string>
+    <string name="adaptive_charging_notify_des">Pile chargée d\'ici %1$s. La pile est rechargée progressivement afin de prolonger sa durée de vie.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Désactiver une fois</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Recharge adaptative • Pile chargée d\'ici %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Protéger votre pile pendant la recharge</string>
+    <string name="charge_limit_discovery_notification_text">Essayez d\'activer la fonctionnalité de limite de recharge à 80 % pour protéger l\'état de santé et la durée de vie de la pile. Vous pouvez gérer cette option dans les paramètres en tout temps.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Activer</string>
+    <string name="battery_health_notify_learn_more">En savoir plus</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Fin de la recharge à %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Chargement terminé dans %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Recharge terminée</string>
 </resources>

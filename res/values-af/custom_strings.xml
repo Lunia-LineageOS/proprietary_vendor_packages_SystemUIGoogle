@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Verwyder uit gunstelinge</string>
     <string name="now_playing_label">Wat Speel</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ontsluit om Dubbeltik te voltooi</string>
+    <string name="columbus_target_request_dialog_title">Laat toe dat Dubbeltik %1$s oopmaak?</string>
+    <string name="columbus_target_request_dialog_summary">Tik twee keer op jou foon se agterkant om %1$s oop te maak. Jy kan dit enige tyd in Instellings verander.</string>
+    <string name="columbus_target_request_dialog_allow">Laat toe</string>
+    <string name="columbus_target_request_dialog_deny">Weier</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s batterykrag oor</string>
     <string name="low_battery_notification_text">Skakel Batterybespaarder aan om batterylewe te verleng</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Kanselleer</string>
     <string name="face_reenroll_dialog_confirm">Stel op</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Ontsluit om Dubbeltik te voltooi</string>
-    <string name="columbus_target_request_dialog_title">Laat toe dat Dubbeltik %1$s oopmaak?</string>
-    <string name="columbus_target_request_dialog_summary">Tik twee keer op jou foon se agterkant om %1$s oop te maak. Jy kan dit enige tyd in Instellings verander.</string>
-    <string name="columbus_target_request_dialog_allow">Laat toe</string>
-    <string name="columbus_target_request_dialog_deny">Weier</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Aanpasbare laaiproses is aan</string>
+    <string name="adaptive_charging_notify_des">Battery is vol teen %1$s. Laai geleidelik om batteryleeftyd te verleng.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Skakel een keer af</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Aanpasbare laaiproses • Vol teen %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Beskerm jou battery terwyl dit laai</string>
+    <string name="charge_limit_discovery_notification_text">Probeer om die 80%-limietkenmerk aan te skakel om battterygesondheid en -lewensduur te beskerm. Jy kan dit enige tyd in Instellings bestuur.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Aktiveer nou</string>
+    <string name="battery_health_notify_learn_more">Meer inligting</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Sal teen %1$s klaar gelaai wees</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Sal oor %1$s klaar gelaai wees</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Klaar gelaai</string>
 </resources>

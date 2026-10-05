@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Eltávolítás a kedvencek közül</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Oldja fel a zárolást a Gyors koppintás művelet befejezéséhez</string>
+    <string name="columbus_target_request_dialog_title">Engedélyezi, hogy a Gyors koppintás megnyissa a következőt: %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Koppintson kétszer a telefonja hátoldalán a(z) %1$s megnyitásához. A Beállításokban ezt bármikor módosíthatja.</string>
+    <string name="columbus_target_request_dialog_allow">Engedélyezés</string>
+    <string name="columbus_target_request_dialog_deny">Tiltás</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Az akkumulátor töltöttségi szintje: %s</string>
     <string name="low_battery_notification_text">Az akkumulátor üzemidejének meghosszabbításához kapcsolja be az Akkumulátorkímélő módot</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Mégse</string>
     <string name="face_reenroll_dialog_confirm">Beállítás</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Oldja fel a zárolást a Gyors koppintás művelet befejezéséhez</string>
-    <string name="columbus_target_request_dialog_title">Engedélyezi, hogy a Gyors koppintás megnyissa a következőt: %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Koppintson kétszer a telefonja hátoldalán a(z) %1$s megnyitásához. A Beállításokban ezt bármikor módosíthatja.</string>
-    <string name="columbus_target_request_dialog_allow">Engedélyezés</string>
-    <string name="columbus_target_request_dialog_deny">Tiltás</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Az adaptív töltés be van kapcsolva</string>
+    <string name="adaptive_charging_notify_des">A teljes töltöttséget ekkor éri el az akkumulátor: %1$s. Folyamatos töltés az akkumulátor élettartamának megőrzése érdekében.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Kikapcsolás egyszer</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptív töltés • Teljes töltöttség ekkorra: %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Gondoskodjon az akkumulátor töltés közbeni védelméről</string>
+    <string name="charge_limit_discovery_notification_text">Próbálja ki az akkumulátor állapotának és élettartamának védelmére szolgáló, 80%-os korlátot alkalmazó funkció bekapcsolását. A funkció működése a Beállításokban bármikor módosítható.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Engedélyezés most</string>
+    <string name="battery_health_notify_learn_more">További információ</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • A töltés ekkor lesz kész: %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • A töltés befejeződik %1$s múlva</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Töltés kész</string>
 </resources>

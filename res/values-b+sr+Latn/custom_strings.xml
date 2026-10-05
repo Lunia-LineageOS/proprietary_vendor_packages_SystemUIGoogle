@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Ukloni iz omiljenih</string>
     <string name="now_playing_label">Trenutno svira</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Otključajte da biste obavili brzi dodir</string>
+    <string name="columbus_target_request_dialog_title">Želite da dozvolite da se brzim dodirom otvara %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Dvaput dodirnite poleđinu telefona da biste otvorili: %1$s. Ovo možete da promenite u svakom trenutku u Podešavanjima.</string>
+    <string name="columbus_target_request_dialog_allow">Dozvoli</string>
+    <string name="columbus_target_request_dialog_deny">Ne dozvoli</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Nivo baterije: %s</string>
     <string name="low_battery_notification_text">Uključite uštedu baterije da biste produžili trajanje baterije</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Otkaži</string>
     <string name="face_reenroll_dialog_confirm">Podesi</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Otključajte da biste obavili brzi dodir</string>
-    <string name="columbus_target_request_dialog_title">Želite da dozvolite da se brzim dodirom otvara %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Dvaput dodirnite poleđinu telefona da biste otvorili: %1$s. Ovo možete da promenite u svakom trenutku u Podešavanjima.</string>
-    <string name="columbus_target_request_dialog_allow">Dozvoli</string>
-    <string name="columbus_target_request_dialog_deny">Ne dozvoli</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Prilagodljivo punjenje je uključeno</string>
+    <string name="adaptive_charging_notify_des">Baterija će se napuniti do %1$s. Puni se umerenom brzinom da bi se produžio vek trajanja baterije.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Isključi jednom</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Prilagodljivo punjenje • Napuniće se do %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Zaštitite bateriju tokom punjenja</string>
+    <string name="charge_limit_discovery_notification_text">Probajte da uključite funkciju ograničenja na 80% da biste očuvali bateriju u dobrom stanju i produžili joj radni vek. Ovim možete da upravljate u Podešavanjima</string>
+    <string name="charge_limit_discovery_notification_enable_button">Omogući</string>
+    <string name="battery_health_notify_learn_more">Saznajte više</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Punjenje se završava do %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Punjenje se završava za %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Punjenje je završeno</string>
 </resources>

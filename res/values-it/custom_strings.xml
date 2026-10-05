@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Rimuovi dai preferiti</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Sblocca per eseguire un Tocco rapido</string>
+    <string name="columbus_target_request_dialog_title">Vuoi consentire l\'apertura dell\'app %1$s con Tocco rapido?</string>
+    <string name="columbus_target_request_dialog_summary">Tocca due volte la parte posteriore del telefono per aprire l\'app %1$s. Puoi modificare questa preferenza in qualsiasi momento nelle Impostazioni.</string>
+    <string name="columbus_target_request_dialog_allow">Consenti</string>
+    <string name="columbus_target_request_dialog_deny">Non consentire</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Batteria rimanente: %s</string>
     <string name="low_battery_notification_text">Attiva il Risparmio energetico per prolungare la durata della batteria</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Annulla</string>
     <string name="face_reenroll_dialog_confirm">Configura</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Sblocca per eseguire un Tocco rapido</string>
-    <string name="columbus_target_request_dialog_title">Vuoi consentire l\'apertura dell\'app %1$s con Tocco rapido?</string>
-    <string name="columbus_target_request_dialog_summary">Tocca due volte la parte posteriore del telefono per aprire l\'app %1$s. Puoi modificare questa preferenza in qualsiasi momento nelle Impostazioni.</string>
-    <string name="columbus_target_request_dialog_allow">Consenti</string>
-    <string name="columbus_target_request_dialog_deny">Non consentire</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Ricarica adattiva attiva</string>
+    <string name="adaptive_charging_notify_des">Batteria completamente carica entro le ore %1$s. Ricarica lenta e costante per estendere la durata della batteria.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Disattiva una volta</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Ricarica adattiva • Completa entro le ore %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Proteggi la batteria durante la ricarica</string>
+    <string name="charge_limit_discovery_notification_text">Prova ad attivare la funzionalità di limitazione all\'80% per proteggere la durata e l\'integrità della batteria. Puoi gestire questa opzione nelle impostazioni in qualsiasi momento</string>
+    <string name="charge_limit_discovery_notification_enable_button">Attiva subito</string>
+    <string name="battery_health_notify_learn_more">Scopri di più</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ricarica terminata entro le ore %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Tempo rimanente al completamento della ricarica: %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Ricarica terminata</string>
 </resources>

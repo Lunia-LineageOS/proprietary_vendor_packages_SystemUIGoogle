@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">প্ৰিয়ৰ পৰা আঁতৰাওক</string>
     <string name="now_playing_label">সদ্য পৰিৱেশিত গীত</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">কুইক টেপ সম্পূৰ্ণ কৰিবলৈ আনলক কৰক</string>
+    <string name="columbus_target_request_dialog_title">%1$s খুলিবলৈ কুইক টেপ ব্যৱহাৰ কৰিবলৈ অনুমতি দিবনে?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s খুলিবলৈ নিজৰ ফ’নটোৰ পিছফালে দুবাৰ টিপক। আপুনি যিকোনো সময়তে ছেটিঙত এইটো সলনি কৰিব পাৰে।</string>
+    <string name="columbus_target_request_dialog_allow">অনুমতি দিয়ক</string>
+    <string name="columbus_target_request_dialog_deny">অনুমতি নিদিব</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s বেটাৰী বাকী আছে</string>
     <string name="low_battery_notification_text">বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ বেটাৰী সঞ্চয়কাৰী অন কৰক</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">বাতিল কৰক</string>
     <string name="face_reenroll_dialog_confirm">ছেট আপ কৰক</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">কুইক টেপ সম্পূৰ্ণ কৰিবলৈ আনলক কৰক</string>
-    <string name="columbus_target_request_dialog_title">%1$s খুলিবলৈ কুইক টেপ ব্যৱহাৰ কৰিবলৈ অনুমতি দিবনে?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s খুলিবলৈ নিজৰ ফ’নটোৰ পিছফালে দুবাৰ টিপক। আপুনি যিকোনো সময়তে ছেটিঙত এইটো সলনি কৰিব পাৰে।</string>
-    <string name="columbus_target_request_dialog_allow">অনুমতি দিয়ক</string>
-    <string name="columbus_target_request_dialog_deny">অনুমতি নিদিব</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">অভিযোজিত চাৰ্জিং অন হৈ আছে</string>
+    <string name="adaptive_charging_notify_des">%1$s বেটাৰী বাকী আছে। বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰিবলৈ স্থিৰভাৱে চাৰ্জ কৰি থকা হৈছে।</string>
+    <string name="adaptive_charging_notify_turn_off_once">এবাৰ অফ কৰক</string>
+    <string name="adaptive_charging_time_estimate">%1$s • অভিযোজিত চাৰ্জিং • %2$sৰ ভিতৰত সম্পূৰ্ণ হ’ব</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">চাৰ্জ কৰি থকাৰ সময়ত আপোনাৰ বেটাৰী সুৰক্ষিত কৰি ৰাখক</string>
+    <string name="charge_limit_discovery_notification_text">বেটাৰীৰ অৱস্থা আৰু জীৱনকাল সুৰক্ষিত কৰিবলৈ ৮০% সীমাৰ সুবিধাটো অন কৰি চাওক। আপুনি ছেটিঙত এইটো যিকোনো সময়তে পৰিচালনা কৰিব পাৰে</string>
+    <string name="charge_limit_discovery_notification_enable_button">এতিয়াই সক্ষম কৰক</string>
+    <string name="battery_health_notify_learn_more">অধিক জানক</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$sলৈকে চাৰ্জিং সম্পূৰ্ণ হ’ব</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$sত চার্জিং সম্পূর্ণ হৈছে</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • চাৰ্জিং সম্পূৰ্ণ হৈছে</string>
 </resources>

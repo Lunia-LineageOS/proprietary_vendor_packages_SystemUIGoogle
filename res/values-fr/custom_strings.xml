@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Supprimer des favoris</string>
     <string name="now_playing_label">En écoute</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Déverrouillez pour utiliser Double appui</string>
+    <string name="columbus_target_request_dialog_title">Autoriser le Double appui pour ouvrir %1$s ?</string>
+    <string name="columbus_target_request_dialog_summary">Appuyez deux fois sur le dos de votre téléphone pour ouvrir %1$s. Vous pouvez modifier cela à tout moment dans les paramètres.</string>
+    <string name="columbus_target_request_dialog_allow">Autoriser</string>
+    <string name="columbus_target_request_dialog_deny">Ne pas autoriser</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s de batterie restante</string>
     <string name="low_battery_notification_text">Activer l\'économiseur de batterie pour plus d\'autonomie</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Annuler</string>
     <string name="face_reenroll_dialog_confirm">Configurer</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Déverrouillez pour utiliser Double appui</string>
-    <string name="columbus_target_request_dialog_title">Autoriser le Double appui pour ouvrir %1$s ?</string>
-    <string name="columbus_target_request_dialog_summary">Appuyez deux fois sur le dos de votre téléphone pour ouvrir %1$s. Vous pouvez modifier cela à tout moment dans les paramètres.</string>
-    <string name="columbus_target_request_dialog_allow">Autoriser</string>
-    <string name="columbus_target_request_dialog_deny">Ne pas autoriser</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">La recharge adaptative est activée</string>
+    <string name="adaptive_charging_notify_des">La recharge sera terminée à %1$s. Chargement progressif pour prolonger la durée de vie de la batterie.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Désactiver une fois</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Recharge adaptative • Batterie chargée d\'ici %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Protégez votre batterie pendant la charge</string>
+    <string name="charge_limit_discovery_notification_text">Essayez d\'activer la fonctionnalité de limitation de la charge à 80 % pour protéger l\'état de la batterie et sa durée de vie. Vous pouvez gérer cela à tout moment dans les paramètres.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Activer</string>
+    <string name="battery_health_notify_learn_more">En savoir plus</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Fin de la recharge à %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Fin de la recharge dans %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Fin de la recharge</string>
 </resources>

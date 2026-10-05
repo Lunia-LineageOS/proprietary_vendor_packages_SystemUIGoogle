@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Alisin sa mga paborito</string>
     <string name="now_playing_label">Nagpi-play Ngayon</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">I-unlock para tapusin ang Quick Tap</string>
+    <string name="columbus_target_request_dialog_title">Payagan ang Quick Tap na buksan ang %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">I-tap ang likod ng iyong telepono nang dalawang beses para buksan ang %1$s. Puwede mo itong baguhin anumang oras sa Mga Setting.</string>
+    <string name="columbus_target_request_dialog_allow">Payagan</string>
+    <string name="columbus_target_request_dialog_deny">Huwag payagan</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s na lang ang baterya</string>
     <string name="low_battery_notification_text">I-on ang Pantipid ng Baterya para patagalin ang baterya</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Kanselahin</string>
     <string name="face_reenroll_dialog_confirm">I-set up</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">I-unlock para tapusin ang Quick Tap</string>
-    <string name="columbus_target_request_dialog_title">Payagan ang Quick Tap na buksan ang %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">I-tap ang likod ng iyong telepono nang dalawang beses para buksan ang %1$s. Puwede mo itong baguhin anumang oras sa Mga Setting.</string>
-    <string name="columbus_target_request_dialog_allow">Payagan</string>
-    <string name="columbus_target_request_dialog_deny">Huwag payagan</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Naka-on ang Adaptive na Pag-charge</string>
+    <string name="adaptive_charging_notify_des">Mapupuno ang baterya bago mag-%1$s. Nagcha-charge nang mabagal para pahabain ang tagal ng baterya.</string>
+    <string name="adaptive_charging_notify_turn_off_once">I-off nang isang beses</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptive na Pag-charge • mapupuno bago mag-%2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Protektahan ang iyong baterya habang naka-charge</string>
+    <string name="charge_limit_discovery_notification_text">Subukang i-on ang feature na 80% limitasyon para protektahan ang kalagayan at tagal ng baterya. Mapapamahalaan mo ito sa mga setting anumang oras</string>
+    <string name="charge_limit_discovery_notification_enable_button">I-enable ngayon</string>
+    <string name="battery_health_notify_learn_more">Matuto pa</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Matatapos mag-charge bago mag-%1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Matatapos mag-charge sa loob ng %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Tapos nang mag-charge</string>
 </resources>

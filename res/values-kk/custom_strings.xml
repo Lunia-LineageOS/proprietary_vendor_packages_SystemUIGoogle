@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Таңдаулылардан өшіру</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Жылдам түрту қимылын орындау үшін құлыпты ашыңыз.</string>
+    <string name="columbus_target_request_dialog_title">\"Жылдам түрту\" қимылына %1$s қолданбасын ашуға рұқсат берілсін бе?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s қолданбасын ашу үшін телефонның артын екі рет түртіңіз. Мұны кез келген уақытта \"Параметрлер\" бөлімінен өзгертуге болады.</string>
+    <string name="columbus_target_request_dialog_allow">Рұқсат ету</string>
+    <string name="columbus_target_request_dialog_deny">Рұқсат бермеу</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Батарея қуаты — %s.</string>
     <string name="low_battery_notification_text">Батарея жұмысының ұзақтығын арттыру үшін батареяны үнемдеу режимін қосыңыз.</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Бас тарту</string>
     <string name="face_reenroll_dialog_confirm">Реттеу</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Жылдам түрту қимылын орындау үшін құлыпты ашыңыз.</string>
-    <string name="columbus_target_request_dialog_title">\"Жылдам түрту\" қимылына %1$s қолданбасын ашуға рұқсат берілсін бе?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s қолданбасын ашу үшін телефонның артын екі рет түртіңіз. Мұны кез келген уақытта \"Параметрлер\" бөлімінен өзгертуге болады.</string>
-    <string name="columbus_target_request_dialog_allow">Рұқсат ету</string>
-    <string name="columbus_target_request_dialog_deny">Рұқсат бермеу</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Бейімдеп зарядтау функциясы қосулы</string>
+    <string name="adaptive_charging_notify_des">Батарея толатын уақыт: %1$s. Тұрақты түрде зарядтау арқылы батареяның қызмет мерзімі ұзартылып жатыр.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Бір рет өшіру</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Бейімдеп зарядтау • Толық зарядталу уақыты: %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Зарядтау барысында батареяны қорғаңыз</string>
+    <string name="charge_limit_discovery_notification_text">80%-ға шектеу функциясын қосып көрсеңіз, батареяның күйі мен қызмет мерзімін қорғай аласыз. Мұны кез келген уақытта параметрлерден басқаруға болады.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Қазір қосу</string>
+    <string name="battery_health_notify_learn_more">Толық ақпарат</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s шамасында зарядталып болады.</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зарядталып болатын уақыт: %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • зарядталып болды.</string>
 </resources>

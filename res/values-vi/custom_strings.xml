@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Xoá khỏi mục yêu thích</string>
     <string name="now_playing_label">Phát hiện nhạc</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Mở khóa để hoàn tất thao tác Chạm nhanh</string>
+    <string name="columbus_target_request_dialog_title">Cho phép cử chỉ Chạm nhanh mở %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Nhấn hai lần vào mặt sau của điện thoại để mở %1$s. Bạn có thể thay đổi tùy chọn này bất kỳ lúc nào trong phần Cài đặt.</string>
+    <string name="columbus_target_request_dialog_allow">Cho phép</string>
+    <string name="columbus_target_request_dialog_deny">Không cho phép</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Còn %s pin</string>
     <string name="low_battery_notification_text">Bật Trình tiết kiệm pin để kéo dài thời lượng pin</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Huỷ</string>
     <string name="face_reenroll_dialog_confirm">Thiết lập</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Mở khóa để hoàn tất thao tác Chạm nhanh</string>
-    <string name="columbus_target_request_dialog_title">Cho phép cử chỉ Chạm nhanh mở %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Nhấn hai lần vào mặt sau của điện thoại để mở %1$s. Bạn có thể thay đổi tùy chọn này bất kỳ lúc nào trong phần Cài đặt.</string>
-    <string name="columbus_target_request_dialog_allow">Cho phép</string>
-    <string name="columbus_target_request_dialog_deny">Không cho phép</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Tính năng Sạc thích ứng đang bật</string>
+    <string name="adaptive_charging_notify_des">Đến %1$s pin sẽ đầy. Đang sạc đều đặn để kéo dài thời lượng pin.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Tắt một lần</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Đang sạc thích ứng • Đến %2$s pin sẽ đầy</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Bảo vệ pin của bạn trong quá trình sạc</string>
+    <string name="charge_limit_discovery_notification_text">Hãy thử bật tính năng giới hạn ở mức 80% để bảo vệ tình trạng và tuổi thọ của pin. Bạn có thể quản lý tính năng này trong phần Cài đặt bất cứ lúc nào.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Bật ngay</string>
+    <string name="battery_health_notify_learn_more">Tìm hiểu thêm</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Đến %1$s sẽ sạc xong</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Sạc xong sau %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Sạc xong</string>
 </resources>

@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">إزالة من المفضّلة</string>
     <string name="now_playing_label">التعرّف التلقائي على الموسيقى</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">يجب فتح قفل الجهاز لإكمال النقرة السريعة.</string>
+    <string name="columbus_target_request_dialog_title">هل تريد السماح لإيماءة \"النقرة السريعة\" بفتح %1$s؟</string>
+    <string name="columbus_target_request_dialog_summary">انقر مرتين على ظهر الهاتف لفتح %1$s. يمكنك تغيير هذا في أي وقت من خلال الإعدادات.</string>
+    <string name="columbus_target_request_dialog_allow">السماح</string>
+    <string name="columbus_target_request_dialog_deny">عدم السماح</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">‏يتبقّى ‎%s من طاقة البطارية</string>
     <string name="low_battery_notification_text">فعِّل ميزة \"توفير شحن البطارية\" لإطالة عمر البطارية</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">إلغاء</string>
     <string name="face_reenroll_dialog_confirm">إعداد</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">يجب فتح قفل الجهاز لإكمال النقرة السريعة.</string>
-    <string name="columbus_target_request_dialog_title">هل تريد السماح لإيماءة \"النقرة السريعة\" بفتح %1$s؟</string>
-    <string name="columbus_target_request_dialog_summary">انقر مرتين على ظهر الهاتف لفتح %1$s. يمكنك تغيير هذا في أي وقت من خلال الإعدادات.</string>
-    <string name="columbus_target_request_dialog_allow">السماح</string>
-    <string name="columbus_target_request_dialog_deny">عدم السماح</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">ميزة \"الشحن التكيُّفي\" مفعّلة</string>
+    <string name="adaptive_charging_notify_des">سيكتمل شحن البطارية في الساعة %1$s. يجري الشحن بوتيرة ثابتة لإطالة عمر البطارية.</string>
+    <string name="adaptive_charging_notify_turn_off_once">الإيقاف مرة واحدة</string>
+    <string name="adaptive_charging_time_estimate">‏‫‎%1$s • جارٍ الشحن الذكي • يكتمل الشحن في الساعة %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">الحفاظ على حالة البطارية أثناء الشحن</string>
+    <string name="charge_limit_discovery_notification_text">جرِّب ضبط الحدّ الأقصى للشحن على نسبة ‏80% للحفاظ على حالة البطارية وإطالة عمرها. يمكنك في أي وقت إدارة هذه الميزة في الإعدادات.</string>
+    <string name="charge_limit_discovery_notification_enable_button">التفعيل الآن</string>
+    <string name="battery_health_notify_learn_more">مزيد من المعلومات</string>
+    <string name="keyguard_indication_charging_time_charge_limit">‏‫‎%2$s • اكتمل الشحن في الساعة %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">‫%2$s • سيكتمل الشحن خلال %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">‫%1$s • تم الوصول إلى حد الشحن المطلوب</string>
 </resources>

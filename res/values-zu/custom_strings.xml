@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Susa ezintandokazini</string>
     <string name="now_playing_label">Okudlala Manje</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Vula ukuze uqedele Ukuthepha Okusheshayo</string>
+    <string name="columbus_target_request_dialog_title">Vumela Ukuthepha Okusheshayo ukuze uvule i-%1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Thepha ngemuva kwefoni yakho kabili ukuze uvule i-%1$s. Ungashintsha lokhu noma kunini kokuthi Amasethingi.</string>
+    <string name="columbus_target_request_dialog_allow">Vumela</string>
+    <string name="columbus_target_request_dialog_deny">Ungavumeli</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s ibhethri elisele</string>
     <string name="low_battery_notification_text">Vula Isilondolozi Sebhethri ukuze wandise impilo yebhethri</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Khansela</string>
     <string name="face_reenroll_dialog_confirm">Setha</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Vula ukuze uqedele Ukuthepha Okusheshayo</string>
-    <string name="columbus_target_request_dialog_title">Vumela Ukuthepha Okusheshayo ukuze uvule i-%1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Thepha ngemuva kwefoni yakho kabili ukuze uvule i-%1$s. Ungashintsha lokhu noma kunini kokuthi Amasethingi.</string>
-    <string name="columbus_target_request_dialog_allow">Vumela</string>
-    <string name="columbus_target_request_dialog_deny">Ungavumeli</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Ukushaja okuzivumelana nezimo kuvuliwe</string>
+    <string name="adaptive_charging_notify_des">Ibhethri ligcwele ngo-%1$s. Ishaja kancane ukuze inwebe isikhathi sokuphila kwebhethri.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Vala kanye</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Ukushaja Okuzivumelanisa Nezimo • Izogcwala ngo-%2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Vikela ibhethri lakho ngesikhathi sokushaja</string>
+    <string name="charge_limit_discovery_notification_text">Zama ukuvula isakhi somkhawulo ongu-80% ukuze uvikele impilo yebhethri nokuphila. Ungaphatha lokhu kumasethingi noma kunini</string>
+    <string name="charge_limit_discovery_notification_enable_button">Vula manje</string>
+    <string name="battery_health_notify_learn_more">Funda kabanzi</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Iqede ukushaja ngo-%1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Iqedile ukushaja ngo-%1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Iqedile ukushaja</string>
 </resources>

@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Тандалмалардан өчүрүү</string>
     <string name="now_playing_label">Эмне ойноп жатат?</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Тез баскылоо жаңсоосун аягына чыгаруу үчүн кулпуну ачыңыз</string>
+    <string name="columbus_target_request_dialog_title">%1$s колдонмосун ачуу үчүн тез баскылоо функциясын иштетесизби?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ачуу үчүн телефонуңуздун аркасын эки жолу басыңыз. Бул функциянын параметрлерин \"Параметрлер\" бөлүмүнөн өзгөртө аласыз.</string>
+    <string name="columbus_target_request_dialog_allow">Уруксат берүү</string>
+    <string name="columbus_target_request_dialog_deny">Тыюу салуу</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Батареянын кубаты %s калды</string>
     <string name="low_battery_notification_text">Батареяны көбүрөөк убакытка жеткирүү үчүн Батареяны үнөмдөгүч режимин күйгүзүңүз</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Жок</string>
     <string name="face_reenroll_dialog_confirm">Жөндөө</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Тез баскылоо жаңсоосун аягына чыгаруу үчүн кулпуну ачыңыз</string>
-    <string name="columbus_target_request_dialog_title">%1$s колдонмосун ачуу үчүн тез баскылоо функциясын иштетесизби?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s ачуу үчүн телефонуңуздун аркасын эки жолу басыңыз. Бул функциянын параметрлерин \"Параметрлер\" бөлүмүнөн өзгөртө аласыз.</string>
-    <string name="columbus_target_request_dialog_allow">Уруксат берүү</string>
-    <string name="columbus_target_request_dialog_deny">Тыюу салуу</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Этият кубаттоо күйүк</string>
+    <string name="adaptive_charging_notify_des">Батарея cаат %1$s толук кубатталат. Батареяны пайдалануу мөөнөтүн узартуу максатында туруктуу кубатталууда.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Бир жолу өчүрүү</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Ыңгайлашып кубаттоо • Саат %2$s кубатталып бүтөт</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Кубатталып жаткан батареяны коргоңуз</string>
+    <string name="charge_limit_discovery_notification_text">Түзмөктүн кубаты 80% жогору көтөрүлбөгөндөй кылып, батареясын коргоп, көпкө уруна аласыз. Бул функцияны каалаган убакта параметрлерден өзгөртсөңүз болот.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Азыр иштетүү</string>
+    <string name="battery_health_notify_learn_more">Кененирээк</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Саат %1$s кубатталып бүтөт</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s кийин кубатталып бүтөт</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Кубатталып бүттү</string>
 </resources>

@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Poista suosikeista</string>
     <string name="now_playing_label">Musiikintunnistus</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Avaa lukitus, jotta voit käyttää pikanäpäytystä</string>
+    <string name="columbus_target_request_dialog_title">Voidaanko %1$s avata pikanäpäytyksellä?</string>
+    <string name="columbus_target_request_dialog_summary">Avaa %1$s napauttamalla puhelimen takaosaa kaksi kertaa. Voit vaihtaa valintasi milloin tahansa asetuksista.</string>
+    <string name="columbus_target_request_dialog_allow">Salli</string>
+    <string name="columbus_target_request_dialog_deny">Älä salli</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Akkua jäljellä %s</string>
     <string name="low_battery_notification_text">Laita virransäästö päälle akunkeston parantamiseksi</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Peru</string>
     <string name="face_reenroll_dialog_confirm">Ota käyttöön</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Avaa lukitus, jotta voit käyttää pikanäpäytystä</string>
-    <string name="columbus_target_request_dialog_title">Voidaanko %1$s avata pikanäpäytyksellä?</string>
-    <string name="columbus_target_request_dialog_summary">Avaa %1$s napauttamalla puhelimen takaosaa kaksi kertaa. Voit vaihtaa valintasi milloin tahansa asetuksista.</string>
-    <string name="columbus_target_request_dialog_allow">Salli</string>
-    <string name="columbus_target_request_dialog_deny">Älä salli</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Mukautuva lataus on päällä</string>
+    <string name="adaptive_charging_notify_des">Akku täynnä klo %1$s mennessä. Akkua ladataan hiljalleen, jotta akunkäyttöikä on pidempi.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Laita kerran pois päältä</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Mukautuva lataus • Täynnä klo %2$s mennessä</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Suojaa akkua latauksen aikana</string>
+    <string name="charge_limit_discovery_notification_text">Kokeile suojata akun kuntoa ja kestoa laittamalla 80 prosentin latausrajoitusominaisuus päälle. Voit muuttaa valintaa asetuksista milloin vain.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Ota käyttöön nyt</string>
+    <string name="battery_health_notify_learn_more">Lue lisää</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Lataus valmis klo %1$s mennessä</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Latausaikaa jäljellä %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Lataus valmis</string>
 </resources>

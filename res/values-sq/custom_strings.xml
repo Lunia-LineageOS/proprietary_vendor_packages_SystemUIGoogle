@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Hiq nga të preferuarat</string>
     <string name="now_playing_label">Po luhet tani</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Shkyçe për të përfunduar \"Trokitjen e shpejtë\"</string>
+    <string name="columbus_target_request_dialog_title">Të lejohet që \"Trokitja e shpejtë\" të hapë %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Trokit dy herë në pjesën e pasme të telefonit për të hapur %1$s. Këtë mund ta ndryshosh në çdo kohë te \"Cilësimet\".</string>
+    <string name="columbus_target_request_dialog_allow">Lejo</string>
+    <string name="columbus_target_request_dialog_deny">Mos lejo</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Bateria e mbetur: %s</string>
     <string name="low_battery_notification_text">Aktivizo \"Kursyesin e baterisë\" për të rritur kohëzgjatjen e baterisë</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Anulo</string>
     <string name="face_reenroll_dialog_confirm">Konfiguro</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Shkyçe për të përfunduar \"Trokitjen e shpejtë\"</string>
-    <string name="columbus_target_request_dialog_title">Të lejohet që \"Trokitja e shpejtë\" të hapë %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Trokit dy herë në pjesën e pasme të telefonit për të hapur %1$s. Këtë mund ta ndryshosh në çdo kohë te \"Cilësimet\".</string>
-    <string name="columbus_target_request_dialog_allow">Lejo</string>
-    <string name="columbus_target_request_dialog_deny">Mos lejo</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">\"Karikimi me përshtatje\" është aktiv</string>
+    <string name="adaptive_charging_notify_des">Bateria do të karikohet plotësisht deri në %1$s. Po karikohet në mënyrë të qëndrueshme për të rritur jetëgjatësinë e baterisë.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Çaktivizo një herë</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Karikim me përshtatje • Plot deri në %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Mbro baterinë tënde gjatë karikimit</string>
+    <string name="charge_limit_discovery_notification_text">Provo të aktivizosh veçorinë e kufirit të karikimit në 80% për të mbrojtur gjendjen e baterisë dhe jetëgjatësinë e saj. Mund ta menaxhosh këtë te cilësimet në çdo kohë</string>
+    <string name="charge_limit_discovery_notification_enable_button">Aktivizo tani</string>
+    <string name="battery_health_notify_learn_more">Mëso më shumë</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Karikimi përfundon në %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Karikimi përfundoi për %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Karikimi përfundoi</string>
 </resources>

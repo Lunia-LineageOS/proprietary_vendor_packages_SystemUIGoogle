@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">برداشتن از موارد دلخواه</string>
     <string name="now_playing_label">درحال پخش</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">برای تکمیل «ضربه سریع»، قفل را باز کنید</string>
+    <string name="columbus_target_request_dialog_title">«ضربه سریع» اجازه دارد %1$s را باز کند؟</string>
+    <string name="columbus_target_request_dialog_summary">دوبار به پشت تلفنتان تک‌ضرب بزنید تا %1$s باز شود. هرزمان خواستید می‌توانید آن را در «تنظیمات» تغییر دهید.</string>
+    <string name="columbus_target_request_dialog_allow">اجازه دادن</string>
+    <string name="columbus_target_request_dialog_deny">اجازه ندادن</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s از شارژ باتری باقی مانده است</string>
     <string name="low_battery_notification_text">برای افزایش عمر باتری، «بهینه‌سازی باتری» را روشن کنید</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">لغو</string>
     <string name="face_reenroll_dialog_confirm">تنظیم</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">برای تکمیل «ضربه سریع»، قفل را باز کنید</string>
-    <string name="columbus_target_request_dialog_title">«ضربه سریع» اجازه دارد %1$s را باز کند؟</string>
-    <string name="columbus_target_request_dialog_summary">دوبار به پشت تلفنتان تک‌ضرب بزنید تا %1$s باز شود. هرزمان خواستید می‌توانید آن را در «تنظیمات» تغییر دهید.</string>
-    <string name="columbus_target_request_dialog_allow">اجازه دادن</string>
-    <string name="columbus_target_request_dialog_deny">اجازه ندادن</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">«شارژ تطبیقی» روشن است</string>
+    <string name="adaptive_charging_notify_des">شارژ باتری در ساعت %1$s کامل می‌شود. برای افزایش طول عمر باتری، شارژ پیوسته انجام می‌شود.</string>
+    <string name="adaptive_charging_notify_turn_off_once">یک‌بار خاموش شود</string>
+    <string name="adaptive_charging_time_estimate">‫%1$s • شارژ تطبیقی • تا %2$s کامل می‌شود</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">از باتری‌تان درحین شارژ شدن محافظت کنید</string>
+    <string name="charge_limit_discovery_notification_text">برای حفظ سلامت باتری و افزایش عمر آن، حداکثر شارژ را روی ۸۰٪ تنظیم کنید. هر زمان بخواهید می‌توانید این ویژگی را در تنظیمات مدیریت کنید</string>
+    <string name="charge_limit_discovery_notification_enable_button">اکنون فعال شود</string>
+    <string name="battery_health_notify_learn_more">بیشتر بدانید</string>
+    <string name="keyguard_indication_charging_time_charge_limit">‫%2$s • شارژ تا %1$s کامل می‌شود</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">‫%2$s • %1$s تا شارژ کامل مانده است</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">‫%1$s • شارژ کامل شد</string>
 </resources>

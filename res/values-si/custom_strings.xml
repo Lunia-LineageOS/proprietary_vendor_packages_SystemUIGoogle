@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">ප්‍රියතමවලින් ඉවත් කරන්න</string>
     <string name="now_playing_label">දැන් වාදනය වේ</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ඉක්මන් තට්ටු කිරීම සම්පූර්ණ කිරීමට අගුලු හරින්න</string>
+    <string name="columbus_target_request_dialog_title">%1$s විවෘත කිරීමට ඉක්මන් තට්ටු කිරීමට ඉඩ දෙන්නද?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s විවෘත කිරීමට ඔබගේ දුරකථනයෙහි පසුපසට තට්ටු කරන්න. ඔබට සැකසීම් තුළ මෙය ඕනෑම වේලාවක වෙනස් කළ හැකිය.</string>
+    <string name="columbus_target_request_dialog_allow">ඉඩ දෙන්න</string>
+    <string name="columbus_target_request_dialog_deny">ඉඩ නොදෙන්න</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s බැටරිය ඉතිරියි</string>
     <string name="low_battery_notification_text">බැටරි ආයු කාලය දීර්ඝ කිරීමට බැටරි සුරැකුම ක්‍රියාත්මක කරන්න</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">අවලංගු කරන්න</string>
     <string name="face_reenroll_dialog_confirm">පිහිටුවන්න</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">ඉක්මන් තට්ටු කිරීම සම්පූර්ණ කිරීමට අගුලු හරින්න</string>
-    <string name="columbus_target_request_dialog_title">%1$s විවෘත කිරීමට ඉක්මන් තට්ටු කිරීමට ඉඩ දෙන්නද?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s විවෘත කිරීමට ඔබගේ දුරකථනයෙහි පසුපසට තට්ටු කරන්න. ඔබට සැකසීම් තුළ මෙය ඕනෑම වේලාවක වෙනස් කළ හැකිය.</string>
-    <string name="columbus_target_request_dialog_allow">ඉඩ දෙන්න</string>
-    <string name="columbus_target_request_dialog_deny">ඉඩ නොදෙන්න</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">අනුවර්තී ආරෝපණය ක්‍රියාත්මකයි</string>
+    <string name="adaptive_charging_notify_des">%1$s වන විට බැටරිය පිරෙනු ඇත. බැටරි ආයු කාලය දීර්ඝ කිරීමට ස්ථාවර ලෙස ආරෝපණය කිරීම.</string>
+    <string name="adaptive_charging_notify_turn_off_once">එක් වරක් ක්‍රියාවිරහිත කරන්න</string>
+    <string name="adaptive_charging_time_estimate">%1$s • අනුවර්තී ආරෝපණය%2$s • වන විට සම්පූර්ණයි</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ආරෝපණය කිරීමේ දී ඔබේ බැටරිය ආරක්ෂා කරන්න</string>
+    <string name="charge_limit_discovery_notification_text">බැටරි සෞඛ්‍යය සහ ආයු කාලය ආරක්ෂා කිරීමට 80% සීමා කිරීමේ විශේෂාංගය ක්‍රියාත්මක කිරීමට උත්සාහ කරන්න. ඔබට මෙය ඕනෑම වේලාවක සැකසීම් තුළ කළමනාකරණය කළ හැක</string>
+    <string name="charge_limit_discovery_notification_enable_button">දැන් සබල කරන්න</string>
+    <string name="battery_health_notify_learn_more">තව දැන ගන්න</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • නිමයි, %1$s වන විට ආරෝපිතයි</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$sකින් ආරෝපණය කර නිමයි</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ආරෝපණය අවසන්</string>
 </resources>

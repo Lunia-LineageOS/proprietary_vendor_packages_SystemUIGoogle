@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Дуртайгаас хасах</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Шуурхай товшилтыг дуусгахын тулд түгжээг тайлна уу</string>
+    <string name="columbus_target_request_dialog_title">Шуурхай товшилтод %1$s-г нээхийг зөвшөөрөх үү?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s-г нээхийн тулд утасныхаа ард талд хоёр товшино уу. Та үүнийг Тохиргоо хэсэгт хүссэн үедээ өөрчлөх боломжтой.</string>
+    <string name="columbus_target_request_dialog_allow">Зөвшөөрөх</string>
+    <string name="columbus_target_request_dialog_deny">Бүү зөвшөөр</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s батарей үлдсэн</string>
     <string name="low_battery_notification_text">Батарейн ажиллах хугацааг уртасгахын тулд Батарей хэмнэгчийг асаана уу</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Цуцлах</string>
     <string name="face_reenroll_dialog_confirm">Тохируулах</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Шуурхай товшилтыг дуусгахын тулд түгжээг тайлна уу</string>
-    <string name="columbus_target_request_dialog_title">Шуурхай товшилтод %1$s-г нээхийг зөвшөөрөх үү?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s-г нээхийн тулд утасныхаа ард талд хоёр товшино уу. Та үүнийг Тохиргоо хэсэгт хүссэн үедээ өөрчлөх боломжтой.</string>
-    <string name="columbus_target_request_dialog_allow">Зөвшөөрөх</string>
-    <string name="columbus_target_request_dialog_deny">Бүү зөвшөөр</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Орчинтой тохируулан цэнэглэх онцлог асаалттай байна</string>
+    <string name="adaptive_charging_notify_des">%1$s гэхэд батарей дүүрнэ. Батарейн эдэлгээг уртасгахын тулд тогтвортой цэнэглэж байна.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Дараахыг болмогц унтраах</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Орчинтой тохируулан цэнэглэх • %2$s гэхэд дүүрнэ</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Цэнэглэх үеэр батарейгаа хамгаалах</string>
+    <string name="charge_limit_discovery_notification_text">Цэнэг барилт болон эдэлгээг хамгаалахын тулд 80%-ийн хязгаар онцлогийг асааж үзнэ үү. Та үүнийг тохиргоонд хүссэн үедээ удирдах боломжтой</string>
+    <string name="charge_limit_discovery_notification_enable_button">Одоо идэвхжүүлэх</string>
+    <string name="battery_health_notify_learn_more">Нэмэлт мэдээлэл авах</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s гэхэд цэнэглэж дуусна</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s-н дараа цэнэглэж дуусна</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Цэнэглэж дууссан</string>
 </resources>

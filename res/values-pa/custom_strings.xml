@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">ਮਨਪਸੰਦ ਵਿੱਚੋਂ ਹਟਾਓ</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ਕਵਿੱਕ ਟੈਪ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਅਣਲਾਕ ਕਰੋ</string>
+    <string name="columbus_target_request_dialog_title">ਕੀ ਕਵਿੱਕ ਟੈਪ ਨੂੰ %1$s ਖੋਲ੍ਹਣ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ਐਪ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ। ਤੁਸੀਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਇਸਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="columbus_target_request_dialog_allow">ਆਗਿਆ ਦਿਓ</string>
+    <string name="columbus_target_request_dialog_deny">ਆਗਿਆ ਨਾ ਦਿਓ</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s ਬੈਟਰੀ ਬਾਕੀ ਬਚੀ ਹੈ</string>
     <string name="low_battery_notification_text">ਬੈਟਰੀ ਲਾਈਫ਼ ਵਧਾਉਣ ਲਈ ਬੈਟਰੀ ਸੇਵਰ ਚਾਲੂ ਕਰੋ</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">ਰੱਦ ਕਰੋ</string>
     <string name="face_reenroll_dialog_confirm">ਸੈੱਟਅੱਪ ਕਰੋ</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">ਕਵਿੱਕ ਟੈਪ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਅਣਲਾਕ ਕਰੋ</string>
-    <string name="columbus_target_request_dialog_title">ਕੀ ਕਵਿੱਕ ਟੈਪ ਨੂੰ %1$s ਖੋਲ੍ਹਣ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s ਐਪ ਨੂੰ ਖੋਲ੍ਹਣ ਲਈ ਆਪਣੇ ਫ਼ੋਨ ਦੇ ਪਿਛਲੇ ਪਾਸੇ ਦੋ ਵਾਰ ਟੈਪ ਕਰੋ। ਤੁਸੀਂ ਕਿਸੇ ਵੇਲੇ ਵੀ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਇਸਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
-    <string name="columbus_target_request_dialog_allow">ਆਗਿਆ ਦਿਓ</string>
-    <string name="columbus_target_request_dialog_deny">ਆਗਿਆ ਨਾ ਦਿਓ</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">ਅਡੈਪਟਿਵ ਚਾਰਜਿੰਗ ਚਾਲੂ ਹੈ</string>
+    <string name="adaptive_charging_notify_des">%1$s ਤੱਕ ਬੈਟਰੀ ਪੂਰੀ ਚਾਰਜ ਹੋ ਜਾਵੇਗੀ। ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਲਈ ਹੌਲੀ-ਹੌਲੀ ਚਾਰਜ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ।</string>
+    <string name="adaptive_charging_notify_turn_off_once">ਇੱਕ ਵਾਰ ਬੰਦ ਕਰੋ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ਅਡੈਪਟਿਵ ਚਾਰਜਿੰਗ • %2$s ਤੱਕ ਪੂਰੀ ਚਾਰਜ ਹੋ ਜਾਵੇਗੀ</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ਚਾਰਜਿੰਗ ਦੌਰਾਨ ਆਪਣੀ ਬੈਟਰੀ ਨੂੰ ਸੁਰੱਖਿਅਤ ਰੱਖੋ</string>
+    <string name="charge_limit_discovery_notification_text">ਬੈਟਰੀ ਦੀ ਹਾਲਤ ਅਤੇ ਲਾਈਫ਼ ਬਚਾਉਣ ਲਈ 80% ਸੀਮਾ ਵਾਲੀ ਵਿਸ਼ੇਸ਼ਤਾ ਚਾਲੂ ਕਰ ਕੇ ਦੇਖੋ। ਤੁਸੀਂ ਕਿਸੇ ਵੀ ਸਮੇਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਇਸਦਾ ਪ੍ਰਬੰਧਨ ਕਰ ਸਕਦੇ ਹੋ</string>
+    <string name="charge_limit_discovery_notification_enable_button">ਹੁਣੇ ਚਾਲੂ ਕਰੋ</string>
+    <string name="battery_health_notify_learn_more">ਹੋਰ ਜਾਣੋ</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s ਤੱਕ ਚਾਰਜਿੰਗ ਪੂਰੀ ਹੋ ਜਾਵੇਗੀ</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s ਵਿੱਚ ਚਾਰਜਿੰਗ ਹੋ ਜਾਵੇਗੀ</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ਚਾਰਜਿੰਗ ਪੂਰੀ ਹੋ ਗਈ</string>
 </resources>

@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">ከተወዳጆች አስወግድ</string>
     <string name="now_playing_label">አሁን በመጫወት ላይ</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">በፍጥነት መታ ማድረግን ለማጠናቀቅ ይክፈቱ</string>
+    <string name="columbus_target_request_dialog_title">ፈጣን መታ ማድረግ %1$sን እንዲከፍት ይፈቀድለት?</string>
+    <string name="columbus_target_request_dialog_summary">%1$sን ለመክፈት የስልክዎን ጀርባ ሁለት ጊዜ መታ ያድርጉ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
+    <string name="columbus_target_request_dialog_allow">ፍቀድ</string>
+    <string name="columbus_target_request_dialog_deny">አትፍቀድ</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s ባትሪ ቀርቷል</string>
     <string name="low_battery_notification_text">የባትሪ ዕድሜን ለማራዘም የባትሪ ኃይል ቆጣቢን ያብሩ</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">ይቅር</string>
     <string name="face_reenroll_dialog_confirm">አዋቅር</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">በፍጥነት መታ ማድረግን ለማጠናቀቅ ይክፈቱ</string>
-    <string name="columbus_target_request_dialog_title">ፈጣን መታ ማድረግ %1$sን እንዲከፍት ይፈቀድለት?</string>
-    <string name="columbus_target_request_dialog_summary">%1$sን ለመክፈት የስልክዎን ጀርባ ሁለት ጊዜ መታ ያድርጉ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
-    <string name="columbus_target_request_dialog_allow">ፍቀድ</string>
-    <string name="columbus_target_request_dialog_deny">አትፍቀድ</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">ተስማሚ ኃይል መሙላት በርቷል</string>
+    <string name="adaptive_charging_notify_des">ባትሪ እስከ %1$s ድረስ ይሞላል። የባትሪ የዕድሜ ዘመንን ለማራዘም ያለማቋረጥ ኃይል በመሙላት ላይ።</string>
+    <string name="adaptive_charging_notify_turn_off_once">አንዴ አጥፋ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ተስማሚ የኃይል መሙላት • እስከ %2$s ድረስ ይሞላል</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ኃይል በሚሞላበት ጊዜ ባትሪዎን ይጠብቁ</string>
+    <string name="charge_limit_discovery_notification_text">የባትሪ ጤናን እና የህይወት ዘመንን ለመጠበቅ የ80% ገደብ ባህሪን ለማብራት ይሞክሩ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ ማስተዳደር ይችላሉ</string>
+    <string name="charge_limit_discovery_notification_enable_button">አሁን ያንቁ</string>
+    <string name="battery_health_notify_learn_more">የበለጠ መረዳት</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s ላይ ኃይል መሙላት ተጠናቅቋል</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s ውስጥ ኃይል መሙላት ተጠናቅቋል</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ኃይል መሙላት ተጠናቅቋል</string>
 </resources>

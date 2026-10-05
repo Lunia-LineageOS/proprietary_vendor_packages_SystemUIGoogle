@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Lemmikutest eemaldamine</string>
     <string name="now_playing_label">Hetkel mängimas</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Avage, et kiirpuudutus lõpetada</string>
+    <string name="columbus_target_request_dialog_title">Kas lubada kiirpuudutus rakenduse %1$s avamiseks?</string>
+    <string name="columbus_target_request_dialog_summary">Puudutage kaks korda oma telefoni tagakülge, et avada rakendus %1$s. Saate seda menüüs Seaded alati muuta.</string>
+    <string name="columbus_target_request_dialog_allow">Luba</string>
+    <string name="columbus_target_request_dialog_deny">Ära luba</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Akut on jäänud %s</string>
     <string name="low_battery_notification_text">Lülitage aku tööea pikendamiseks sisse akusäästja</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Tühista</string>
     <string name="face_reenroll_dialog_confirm">Seadista</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Avage, et kiirpuudutus lõpetada</string>
-    <string name="columbus_target_request_dialog_title">Kas lubada kiirpuudutus rakenduse %1$s avamiseks?</string>
-    <string name="columbus_target_request_dialog_summary">Puudutage kaks korda oma telefoni tagakülge, et avada rakendus %1$s. Saate seda menüüs Seaded alati muuta.</string>
-    <string name="columbus_target_request_dialog_allow">Luba</string>
-    <string name="columbus_target_request_dialog_deny">Ära luba</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Kohanduv laadimine on sisse lülitatud</string>
+    <string name="adaptive_charging_notify_des">Aku saab täielikult laetud kell %1$s. Aku eluea pikendamiseks laetakse aeglase laadimiskiirusega ja pidevalt.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Lülita üheks korraks välja</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptiivne laadimine • Täielikult laetud kell %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Kaitske oma akut laadimise ajal</string>
+    <string name="charge_limit_discovery_notification_text">Aku seisukorra ja eluea kaitsmiseks proovige sisse lülitada 80% piirangu funktsioon. Seda saab seadetes igal ajal hallata.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Luba kohe</string>
+    <string name="battery_health_notify_learn_more">Lisateave</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Laadimine lõpeb kell %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Laadimine lõpeb %1$s pärast</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Laadimine on lõppenud</string>
 </resources>

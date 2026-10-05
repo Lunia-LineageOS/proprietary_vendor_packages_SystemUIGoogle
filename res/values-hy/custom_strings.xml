@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Հեռացնել ընտրանուց</string>
     <string name="now_playing_label">Այժմ հնչում է</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Արագ հպումը կատարելու համար ապակողպեք էկրանը</string>
+    <string name="columbus_target_request_dialog_title">Թույլատրե՞լ, որ %1$s հավելվածը բացվի կարճ հպումով</string>
+    <string name="columbus_target_request_dialog_summary">Կրկնակի հպեք հեռախոսի հետևի կողմին՝ %1$s հավելվածը բացելու համար։ Այս գործառույթը ցանկացած ժամանակ կարող եք փոփոխել Կարգավորումներում։</string>
+    <string name="columbus_target_request_dialog_allow">Թույլատրել</string>
+    <string name="columbus_target_request_dialog_deny">Չթույլատրել</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Մնացել է %s մարտկոցի լիցք</string>
     <string name="low_battery_notification_text">Միացրեք Մարտկոցի տնտեսումը՝ մարտկոցի աշխատաժամանակը երկարացնելու համար</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Չեղարկել</string>
     <string name="face_reenroll_dialog_confirm">Կարգավորել</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Արագ հպումը կատարելու համար ապակողպեք էկրանը</string>
-    <string name="columbus_target_request_dialog_title">Թույլատրե՞լ, որ %1$s հավելվածը բացվի կարճ հպումով</string>
-    <string name="columbus_target_request_dialog_summary">Կրկնակի հպեք հեռախոսի հետևի կողմին՝ %1$s հավելվածը բացելու համար։ Այս գործառույթը ցանկացած ժամանակ կարող եք փոփոխել Կարգավորումներում։</string>
-    <string name="columbus_target_request_dialog_allow">Թույլատրել</string>
-    <string name="columbus_target_request_dialog_deny">Չթույլատրել</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Հարմարվող լիցքավորումը միացված է</string>
+    <string name="adaptive_charging_notify_des">Լիցքավորումը կավարտվի %1$s։ Այն դանդաղ է ընթանում՝ մարտկոցի աշխատաժամանակը երկարացնելու համար։</string>
+    <string name="adaptive_charging_notify_turn_off_once">Անջատել մեկ անգամ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Հարմարվող լիցքավորում • Կավարտվի %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Պաշտպանեք մարտկոցը լիցքավորման ժամանակ</string>
+    <string name="charge_limit_discovery_notification_text">Փորձեք միացնել 80%-ով սահմանափակման գործառույթը՝ մարտկոցի վիճակը բարելավելու և աշխատաժամանակը երկարացնելու համար։ Սա կարող եք ցանկացած ժամանակ փոխել կարգավորումներում</string>
+    <string name="charge_limit_discovery_notification_enable_button">Միացնել հիմա</string>
+    <string name="battery_health_notify_learn_more">Իմանալ ավելին</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Լիցքավորումը կավարտվի %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Լիցքավորումը կավարտվի %1$s հետո</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Լիցքավորումն ավարտված է</string>
 </resources>

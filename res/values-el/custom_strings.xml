@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Κατάργηση από τα αγαπημένα</string>
     <string name="now_playing_label">Ακούγεται τώρα</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ξεκλειδώστε για ολοκλήρωση του Γρήγορου πατήματος</string>
+    <string name="columbus_target_request_dialog_title">Να επιτραπεί το άνοιγμα της εφαρμογής %1$s με το Γρήγορο πάτημα;</string>
+    <string name="columbus_target_request_dialog_summary">Πατήστε δύο φορές το πίσω μέρος του τηλεφώνου για άνοιγμα της εφαρμογής %1$s. Μπορείτε να αλλάξετε αυτήν τη ρύθμιση ανά πάσα στιγμή από τις Ρυθμίσεις.</string>
+    <string name="columbus_target_request_dialog_allow">Αποδοχή</string>
+    <string name="columbus_target_request_dialog_deny">Να μην επιτραπεί</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Απομένει %s μπαταρία</string>
     <string name="low_battery_notification_text">Ενεργοποιήστε την Εξοικονόμηση μπαταρίας για να επεκτείνετε τη διάρκεια ζωής της μπαταρίας</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Ακύρωση</string>
     <string name="face_reenroll_dialog_confirm">Ρύθμιση</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Ξεκλειδώστε για ολοκλήρωση του Γρήγορου πατήματος</string>
-    <string name="columbus_target_request_dialog_title">Να επιτραπεί το άνοιγμα της εφαρμογής %1$s με το Γρήγορο πάτημα;</string>
-    <string name="columbus_target_request_dialog_summary">Πατήστε δύο φορές το πίσω μέρος του τηλεφώνου για άνοιγμα της εφαρμογής %1$s. Μπορείτε να αλλάξετε αυτήν τη ρύθμιση ανά πάσα στιγμή από τις Ρυθμίσεις.</string>
-    <string name="columbus_target_request_dialog_allow">Αποδοχή</string>
-    <string name="columbus_target_request_dialog_deny">Να μην επιτραπεί</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Η προσαρμοστική φόρτιση είναι ενεργή</string>
+    <string name="adaptive_charging_notify_des">Η μπαταρία θα έχει φορτίσει πλήρως έως τις %1$s. Σταθερή φόρτιση με σκοπό την επιμήκυνση της διάρκειας ζωής της μπαταρίας.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Απενεργοποίηση μία φορά</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Προσαρμοστική φόρτιση • Πλήρης φόρτιση έως τις %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Προστατέψτε την μπαταρία σας κατά τη διάρκεια της φόρτισης</string>
+    <string name="charge_limit_discovery_notification_text">Ενεργοποιήστε τη λειτουργία ορίου 80% για να προστατέψετε την υγεία και τη διάρκεια ζωής της μπαταρίας. Μπορείτε να διαχειριστείτε αυτή την επιλογή στις Ρυθμίσεις ανά πάσα στιγμή</string>
+    <string name="charge_limit_discovery_notification_enable_button">Ενεργοποίηση τώρα</string>
+    <string name="battery_health_notify_learn_more">Μάθετε περισσότερα</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Η φόρτιση θα ολοκληρωθεί έως τις %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Η φόρτιση θα ολοκληρωθεί σε %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Η φόρτιση ολοκληρώθηκε</string>
 </resources>

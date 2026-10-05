@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Pašalinti iš mėgstamiausių</string>
     <string name="now_playing_label">Dabar leidžiama</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Atrakinkite, norėdami užbaigti „Quick Tap“ veiksmą</string>
+    <string name="columbus_target_request_dialog_title">Leisti naudoti „Quick Tap“, kad būtų galima atidaryti „%1$s“?</string>
+    <string name="columbus_target_request_dialog_summary">Dukart palieskite telefono nugarėlę, kad atidarytumėte „%1$s“. Tai galite bet kada pakeisti skiltyje „Nustatymai“.</string>
+    <string name="columbus_target_request_dialog_allow">Leisti</string>
+    <string name="columbus_target_request_dialog_deny">Neleisti</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Liko akumuliatoriaus energijos: %s</string>
     <string name="low_battery_notification_text">Įjunkite Akumuliatoriaus tausojimo priemonę, kad akumuliatorius veiktų ilgiau</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Atšaukti</string>
     <string name="face_reenroll_dialog_confirm">Nustatyti</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Atrakinkite, norėdami užbaigti „Quick Tap“ veiksmą</string>
-    <string name="columbus_target_request_dialog_title">Leisti naudoti „Quick Tap“, kad būtų galima atidaryti „%1$s“?</string>
-    <string name="columbus_target_request_dialog_summary">Dukart palieskite telefono nugarėlę, kad atidarytumėte „%1$s“. Tai galite bet kada pakeisti skiltyje „Nustatymai“.</string>
-    <string name="columbus_target_request_dialog_allow">Leisti</string>
-    <string name="columbus_target_request_dialog_deny">Neleisti</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Prisitaikantis įkrovimas įjungtas</string>
+    <string name="adaptive_charging_notify_des">Akumuliatorius bus visiškai įkrautas %1$s. Įkraunama stabiliai, kad akumuliatorius ilgiau veiktų.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Išjungti kartą</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Prisitaikantis įkrovimas • Visiškai įkrauta bus %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Akumuliatoriaus apsauga įkraunant</string>
+    <string name="charge_limit_discovery_notification_text">Pabandykite įjungti 80 proc. apribojimo funkciją, kad apsaugotumėte akumuliatoriaus būseną ir naudojimo trukmę. Galite bet kada tvarkyti tai nustatymuose.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Įgalinti dabar</string>
+    <string name="battery_health_notify_learn_more">Sužinokite daugiau</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Įkrovimas bus baigtas %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Įkrovimas bus baigtas po %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Įkrovimas baigtas</string>
 </resources>

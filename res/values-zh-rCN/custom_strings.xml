@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">从收藏夹中移除</string>
     <string name="now_playing_label">闻曲知音</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">请解锁以完成快速轻触操作</string>
+    <string name="columbus_target_request_dialog_title">允许使用“快速轻触”手势打开“%1$s”吗？</string>
+    <string name="columbus_target_request_dialog_summary">触碰手机背面两次即可打开“%1$s”。您可以随时在“设置”中更改此设置。</string>
+    <string name="columbus_target_request_dialog_allow">允许</string>
+    <string name="columbus_target_request_dialog_deny">不允许</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">电量仅剩 %s</string>
     <string name="low_battery_notification_text">开启省电模式可延长电池续航时间</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">取消</string>
     <string name="face_reenroll_dialog_confirm">设置</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">请解锁以完成快速轻触操作</string>
-    <string name="columbus_target_request_dialog_title">允许使用“快速轻触”手势打开“%1$s”吗？</string>
-    <string name="columbus_target_request_dialog_summary">触碰手机背面两次即可打开“%1$s”。您可以随时在“设置”中更改此设置。</string>
-    <string name="columbus_target_request_dialog_allow">允许</string>
-    <string name="columbus_target_request_dialog_deny">不允许</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">已启用自动调节充电功能</string>
+    <string name="adaptive_charging_notify_des">电池将于%1$s 前充满电。稳定地充电可延长电池寿命。</string>
+    <string name="adaptive_charging_notify_turn_off_once">关闭一次</string>
+    <string name="adaptive_charging_time_estimate">%1$s • 正在自动调节充电 • %2$s 前充满</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">在充电期间保护您的电池</string>
+    <string name="charge_limit_discovery_notification_text">尝试开启“80% 充电上限”功能以保障电池健康度并延长电池寿命。您随时可在“设置”中管理此功能</string>
+    <string name="charge_limit_discovery_notification_enable_button">立即启用</string>
+    <string name="battery_health_notify_learn_more">了解详情</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s 前完成充电</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • 将于 %1$s后完成充电</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • 充电完成</string>
 </resources>

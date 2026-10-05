@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Fjarlægja úr uppáhaldi</string>
     <string name="now_playing_label">Í spilun</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Taktu úr lás til að ljúka við að pikka</string>
+    <string name="columbus_target_request_dialog_title">Leyfa pikki að opna %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Ýttu tvisvar á bakhlið símans til að opna %1$s. Þú getur breytt þessu hvenær sem er í stillingunum.</string>
+    <string name="columbus_target_request_dialog_allow">Leyfa</string>
+    <string name="columbus_target_request_dialog_deny">Ekki leyfa</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s rafhleðsla eftir</string>
     <string name="low_battery_notification_text">Kveiktu á rafhlöðusparnaði til að auka endingu rafhlöðunnar</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Hætta við</string>
     <string name="face_reenroll_dialog_confirm">Setja upp</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Taktu úr lás til að ljúka við að pikka</string>
-    <string name="columbus_target_request_dialog_title">Leyfa pikki að opna %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Ýttu tvisvar á bakhlið símans til að opna %1$s. Þú getur breytt þessu hvenær sem er í stillingunum.</string>
-    <string name="columbus_target_request_dialog_allow">Leyfa</string>
-    <string name="columbus_target_request_dialog_deny">Ekki leyfa</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Kveikt er á aðlagaðri hleðslu</string>
+    <string name="adaptive_charging_notify_des">Rafhlaða fullhlaðin kl. %1$s. Hleður jafnt og þétt til að lengja endingartíma rafhlöðu.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Slökkva einu sinni</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Aðlöguð hleðsla • Full hleðsla kl. %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Verndaðu rafhlöðuna þína meðan þú hleður</string>
+    <string name="charge_limit_discovery_notification_text">Prófaðu að kveikja á 80% takmörkunarvirkni til að verja ástand og líftíma rafhlöðunnar. Þú getur stjórnað þessu í stillingum hvenær sem er</string>
+    <string name="charge_limit_discovery_notification_enable_button">Kveikja núna</string>
+    <string name="battery_health_notify_learn_more">Nánar</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Hleðslu lýkur kl. %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Hleðslu lokið eftir %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Hleðslu lokið</string>
 </resources>

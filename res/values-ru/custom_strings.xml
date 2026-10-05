@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Удалить из избранного</string>
     <string name="now_playing_label">Что сейчас играет?</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Чтобы завершить короткое касание, разблокируйте экран.</string>
+    <string name="columbus_target_request_dialog_title">Разрешить использовать короткое касание для запуска приложения \"%1$s\"?</string>
+    <string name="columbus_target_request_dialog_summary">Чтобы открыть приложение \"%1$s\", дважды коснитесь задней панели телефона. Этот параметр можно в любой момент изменить в настройках.</string>
+    <string name="columbus_target_request_dialog_allow">Разрешить</string>
+    <string name="columbus_target_request_dialog_deny">Не разрешать</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Осталось %s заряда батареи</string>
     <string name="low_battery_notification_text">Включите режим энергосбережения, чтобы увеличить время работы от батареи.</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Отмена</string>
     <string name="face_reenroll_dialog_confirm">Настроить</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Чтобы завершить короткое касание, разблокируйте экран.</string>
-    <string name="columbus_target_request_dialog_title">Разрешить использовать короткое касание для запуска приложения \"%1$s\"?</string>
-    <string name="columbus_target_request_dialog_summary">Чтобы открыть приложение \"%1$s\", дважды коснитесь задней панели телефона. Этот параметр можно в любой момент изменить в настройках.</string>
-    <string name="columbus_target_request_dialog_allow">Разрешить</string>
-    <string name="columbus_target_request_dialog_deny">Не разрешать</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Адаптивная зарядка включена</string>
+    <string name="adaptive_charging_notify_des">Зарядка будет завершена к %1$s. Не прерывайте зарядку, чтобы продлить срок службы батареи.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Отключить один раз</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Адаптивная зарядка • Завершится к %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Защитите батарею во время зарядки</string>
+    <string name="charge_limit_discovery_notification_text">Включите ограничение на уровень заряда, чтобы он не поднимался выше 80 %. Это защитит батарею и продлит срок ее службы. Изменить параметры функции можно в настройках.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Включить</string>
+    <string name="battery_health_notify_learn_more">Подробнее</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Зарядка завершится к %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зарядится через %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Зарядка завершена</string>
 </resources>

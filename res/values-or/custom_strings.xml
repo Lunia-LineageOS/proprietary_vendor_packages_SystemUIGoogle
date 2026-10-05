@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">ପସନ୍ଦରୁ କାଢ଼ି ଦିଅନ୍ତୁ</string>
     <string name="now_playing_label">ବର୍ତ୍ତମାନ ଚାଲୁଛି</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">କୁଇକ୍ ଟାପ୍ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଅନଲକ୍ କରନ୍ତୁ</string>
+    <string name="columbus_target_request_dialog_title">%1$s ଖୋଲିବାକୁ କୁଇକ୍ ଟାପକୁ ଅନୁମତି ଦେବେ କି?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ଖୋଲିବାକୁ ଆପଣଙ୍କ ଫୋନର ପଛ ପଟେ ଦୁଇଥର ଟାପ କରନ୍ତୁ। ଆପଣ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଏହାକୁ ବଦଳାଇପାରିବେ।</string>
+    <string name="columbus_target_request_dialog_allow">ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="columbus_target_request_dialog_deny">ଅନୁମତି ଦିଅନାହିଁ</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s ବେଟେରୀ ଚାର୍ଜ ବାକି ଅଛି</string>
     <string name="low_battery_notification_text">ବେଟେରୀ ଲାଇଫକୁ ବଢ଼ାଇବା ପାଇଁ ବେଟେରୀ ସେଭରକୁ ଚାଲୁ କରନ୍ତୁ</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">ବାତିଲ କରନ୍ତୁ</string>
     <string name="face_reenroll_dialog_confirm">ସେଟ ଅପ କରନ୍ତୁ</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">କୁଇକ୍ ଟାପ୍ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଅନଲକ୍ କରନ୍ତୁ</string>
-    <string name="columbus_target_request_dialog_title">%1$s ଖୋଲିବାକୁ କୁଇକ୍ ଟାପକୁ ଅନୁମତି ଦେବେ କି?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s ଖୋଲିବାକୁ ଆପଣଙ୍କ ଫୋନର ପଛ ପଟେ ଦୁଇଥର ଟାପ କରନ୍ତୁ। ଆପଣ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଏହାକୁ ବଦଳାଇପାରିବେ।</string>
-    <string name="columbus_target_request_dialog_allow">ଅନୁମତି ଦିଅନ୍ତୁ</string>
-    <string name="columbus_target_request_dialog_deny">ଅନୁମତି ଦିଅନାହିଁ</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">ଆଡେପ୍ଟିଭ ଚାର୍ଜିଂ ଚାଲୁ ଅଛି</string>
+    <string name="adaptive_charging_notify_des">%1$sରେ ବେଟେରୀ ସମ୍ପୂର୍ଣ୍ଣ ଚାର୍ଜ ହେବ। ବେଟେରୀ ଲାଇଫସ୍ପାନକୁ ବଢ଼ାଇବା ପାଇଁ ସ୍ଥିର ଭାବେ ଚାର୍ଜ ହେଉଛି।</string>
+    <string name="adaptive_charging_notify_turn_off_once">ଥରେ ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ଆଡେପ୍ଟିଭ ଚାର୍ଜିଂ • %2$sରେ ସମ୍ପୂର୍ଣ୍ଣ ହେବ</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ଚାର୍ଜିଂ ସମୟରେ ଆପଣଙ୍କ ବେଟେରୀକୁ ସୁରକ୍ଷିତ ରଖନ୍ତୁ</string>
+    <string name="charge_limit_discovery_notification_text">ବେଟେରୀ ହେଲ୍ଥ ଏବଂ ଲାଇଫସ୍ପାନକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ 80% ସୀମା ଫିଚର ଚାଲୁ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ। ଆପଣ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଏହାକୁ ପରିଚାଳନା କରିପାରିବେ</string>
+    <string name="charge_limit_discovery_notification_enable_button">ବର୍ତ୍ତମାନ ସକ୍ଷମ କରନ୍ତୁ</string>
+    <string name="battery_health_notify_learn_more">ଅଧିକ ଜାଣନ୍ତୁ</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s ସୁଦ୍ଧା ଚାର୍ଜିଂ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$sରେ ଚାର୍ଜିଂ ଶେଷ ହୋଇଛି</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ଚାର୍ଜିଂ ସମ୍ପୂର୍ଣ୍ଣ ହୋଇଛି</string>
 </resources>

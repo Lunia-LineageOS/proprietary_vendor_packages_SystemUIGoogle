@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Aus Favoriten entfernen</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Zum Schnelltippen entsperren</string>
+    <string name="columbus_target_request_dialog_title">Der Funktion „Schnelltippen“ erlauben, %1$s zu öffnen?</string>
+    <string name="columbus_target_request_dialog_summary">Wenn du zweimal auf die Rückseite deines Smartphones tippst, wird %1$s geöffnet. Du kannst dies jederzeit in den Einstellungen ändern.</string>
+    <string name="columbus_target_request_dialog_allow">Zulassen</string>
+    <string name="columbus_target_request_dialog_deny">Nicht zulassen</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Der Akkustand beträgt noch %s</string>
     <string name="low_battery_notification_text">Aktiviere den Energiesparmodus, um die Akkulaufzeit zu erhöhen</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Abbrechen</string>
     <string name="face_reenroll_dialog_confirm">Einrichten</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Zum Schnelltippen entsperren</string>
-    <string name="columbus_target_request_dialog_title">Der Funktion „Schnelltippen“ erlauben, %1$s zu öffnen?</string>
-    <string name="columbus_target_request_dialog_summary">Wenn du zweimal auf die Rückseite deines Smartphones tippst, wird %1$s geöffnet. Du kannst dies jederzeit in den Einstellungen ändern.</string>
-    <string name="columbus_target_request_dialog_allow">Zulassen</string>
-    <string name="columbus_target_request_dialog_deny">Nicht zulassen</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Adaptives Laden ist aktiviert</string>
+    <string name="adaptive_charging_notify_des">Akku um %1$s vollständig geladen. Konstantes Laden, um Lebensdauer des Akkus zu erhöhen.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Dieses Mal deaktivieren</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptives Laden • Vollständig geladen um %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Akku beim Laden schonen</string>
+    <string name="charge_limit_discovery_notification_text">Aktiviere den Lade-Grenzwert von 80 %, um den Akku zu pflegen und seine Lebensdauer zu verlängern. Du kannst den Grenzwert jederzeit in den Einstellungen ändern.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Jetzt aktivieren</string>
+    <string name="battery_health_notify_learn_more">Weitere Informationen</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Um %1$s geladen</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Vollständig geladen in %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • vollständig geladen</string>
 </resources>

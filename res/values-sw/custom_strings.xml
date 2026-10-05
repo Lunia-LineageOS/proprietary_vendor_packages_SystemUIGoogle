@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Ondoa kwenye vipendwa</string>
     <string name="now_playing_label">Kitambua Ngoma</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Fungua ili umalize Kugusa Haraka</string>
+    <string name="columbus_target_request_dialog_title">Ungependa kuruhusu ishara ya Kugusa Haraka ifungue %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Gusa nyuma ya simu yako mara mbili ili ufungue %1$s. Unaweza kubadilisha hali hii wakati wowote katika Mipangilio.</string>
+    <string name="columbus_target_request_dialog_allow">Ruhusu</string>
+    <string name="columbus_target_request_dialog_deny">Usiruhusu</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Imebaki %s ya chaji ya betri</string>
     <string name="low_battery_notification_text">Washa Kiokoa Betri ili uongeze muda wa matumizi ya betri</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Ghairi</string>
     <string name="face_reenroll_dialog_confirm">Weka mipangilio</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Fungua ili umalize Kugusa Haraka</string>
-    <string name="columbus_target_request_dialog_title">Ungependa kuruhusu ishara ya Kugusa Haraka ifungue %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Gusa nyuma ya simu yako mara mbili ili ufungue %1$s. Unaweza kubadilisha hali hii wakati wowote katika Mipangilio.</string>
-    <string name="columbus_target_request_dialog_allow">Ruhusu</string>
-    <string name="columbus_target_request_dialog_deny">Usiruhusu</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Hali ya kuchaji inayojirekebisha imewashwa</string>
+    <string name="adaptive_charging_notify_des">Betri itajaa kufikia %1$s. Inachaji kwa utaratibu ili kuongeza muda wa matumizi ya betri.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Zima mara moja</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Hali ya Kuchaji Inayojirekebisha • Itajaa chaji kufikia %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Linda betri yako wakati inachaji</string>
+    <string name="charge_limit_discovery_notification_text">Jaribu kuwasha kipengele cha kuweka kikomo cha chaji kuwa asilimia 80 ili ulinde betri yako na idumu zaidi. Unaweza kudhibiti hali hii katika mipangilio wakati wowote</string>
+    <string name="charge_limit_discovery_notification_enable_button">Washa sasa</string>
+    <string name="battery_health_notify_learn_more">Pata maelezo zaidi</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Itamaliza kuchaji kufikia %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Itamaliza kuchaji baada ya %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Imemaliza kuchaji</string>
 </resources>

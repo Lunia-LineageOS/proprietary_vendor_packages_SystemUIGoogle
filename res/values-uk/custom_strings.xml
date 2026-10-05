@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Вилучити з вибраного</string>
     <string name="now_playing_label">Зараз грає</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Розблокуйте екран, щоб здійснити подвійний дотик</string>
+    <string name="columbus_target_request_dialog_title">Дозволити відкривати додаток %1$s подвійним дотиком?</string>
+    <string name="columbus_target_request_dialog_summary">Двічі торкніться задньої панелі телефона, щоб відкрити %1$s. Це можна будь-коли змінити в Налаштуваннях.</string>
+    <string name="columbus_target_request_dialog_allow">Дозволити</string>
+    <string name="columbus_target_request_dialog_deny">Не дозволяти</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Залишилось %s заряду акумулятора</string>
     <string name="low_battery_notification_text">Щоб подовжити час роботи акумулятора, увімкніть режим енергозбереження</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Скасувати</string>
     <string name="face_reenroll_dialog_confirm">Налаштувати</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Розблокуйте екран, щоб здійснити подвійний дотик</string>
-    <string name="columbus_target_request_dialog_title">Дозволити відкривати додаток %1$s подвійним дотиком?</string>
-    <string name="columbus_target_request_dialog_summary">Двічі торкніться задньої панелі телефона, щоб відкрити %1$s. Це можна будь-коли змінити в Налаштуваннях.</string>
-    <string name="columbus_target_request_dialog_allow">Дозволити</string>
-    <string name="columbus_target_request_dialog_deny">Не дозволяти</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Адаптивне заряджання ввімкнено</string>
+    <string name="adaptive_charging_notify_des">Акумулятор повністю зарядиться до %1$s. Щоб подовжити строк служби акумулятора, він заряджається рівномірно.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Вимкнути лише цього разу</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Адаптивне заряджання • Завершиться до %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Захистіть свій акумулятор під час заряджання</string>
+    <string name="charge_limit_discovery_notification_text">Щоб захистити акумулятор і подовжити строк його служби, увімкніть обмеження заряджання на рівні 80%. Цей параметр можна будь-коли змінити в налаштуваннях.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Увімкнути</string>
+    <string name="battery_health_notify_learn_more">Докладніше</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Заряджання завершиться до %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Заряджання завершиться через %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Заряджання завершено</string>
 </resources>

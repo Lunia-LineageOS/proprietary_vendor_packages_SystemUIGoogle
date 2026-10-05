@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">പ്രിയപ്പെട്ടവയിൽ നിന്ന് നീക്കം ചെയ്യുക</string>
     <string name="now_playing_label">ഇപ്പോൾ കേൾക്കുന്നത്</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">വേഗത്തിലുള്ള ടാപ്പ് പൂർത്തിയാക്കാൻ അൺലോക്ക് ചെയ്യുക</string>
+    <string name="columbus_target_request_dialog_title">%1$s തുറക്കാൻ വേഗത്തിലുള്ള ടാപ്പ് അനുവദിക്കണോ?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s തുറക്കാൻ നിങ്ങളുടെ ഫോണിന്റെ പിൻഭാഗത്ത് രണ്ടുതവണ ടാപ്പ് ചെയ്യുക. ക്രമീകരണത്തിൽ ഏതുസമയത്തും ഇത് മാറ്റാം.</string>
+    <string name="columbus_target_request_dialog_allow">അനുവദിക്കുക</string>
+    <string name="columbus_target_request_dialog_deny">അനുവദിക്കരുത്</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s ബാറ്ററി ചാർജ് അവശേഷിക്കുന്നു</string>
     <string name="low_battery_notification_text">ബാറ്ററി ലെെഫ് വർദ്ധിപ്പിക്കാൻ ബാറ്ററി സേവർ ഓണാക്കുക</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">റദ്ദാക്കുക</string>
     <string name="face_reenroll_dialog_confirm">സജ്ജീകരിക്കുക</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">വേഗത്തിലുള്ള ടാപ്പ് പൂർത്തിയാക്കാൻ അൺലോക്ക് ചെയ്യുക</string>
-    <string name="columbus_target_request_dialog_title">%1$s തുറക്കാൻ വേഗത്തിലുള്ള ടാപ്പ് അനുവദിക്കണോ?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s തുറക്കാൻ നിങ്ങളുടെ ഫോണിന്റെ പിൻഭാഗത്ത് രണ്ടുതവണ ടാപ്പ് ചെയ്യുക. ക്രമീകരണത്തിൽ ഏതുസമയത്തും ഇത് മാറ്റാം.</string>
-    <string name="columbus_target_request_dialog_allow">അനുവദിക്കുക</string>
-    <string name="columbus_target_request_dialog_deny">അനുവദിക്കരുത്</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">അഡാപ്റ്റീവ് ചാർജിംഗ് ഓണാണ്</string>
+    <string name="adaptive_charging_notify_des">%1$s-ഓടെ ബാറ്ററി പൂർണ്ണമായി ചാർജാകും. ബാറ്ററിയുടെ ആയുസ് വർദ്ധിപ്പിക്കുന്നതിന് ചാർജിംഗ് വേഗത ക്രമീകരിച്ച് ചാർജ് ചെയ്യുന്നു.</string>
+    <string name="adaptive_charging_notify_turn_off_once">ഒറ്റത്തവണത്തേക്ക് ഓഫാക്കുക</string>
+    <string name="adaptive_charging_time_estimate">%1$s • അഡാപ്റ്റീവ് ചാർജിംഗ് • %2$s-ന് പൂർത്തിയാകും</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ചാർജ് ചെയ്യുമ്പോൾ നിങ്ങളുടെ ബാറ്ററി പരിരക്ഷിക്കുക</string>
+    <string name="charge_limit_discovery_notification_text">ബാറ്ററി ക്ഷമതയും ബാറ്ററിയുടെ ആയുസ്സും പരിരക്ഷിക്കാൻ 80% പരിധി ഫീച്ചർ ഓണാക്കാൻ ശ്രമിക്കുക. നിങ്ങൾക്ക് ഇത് ക്രമീകരണത്തിൽ ഏതുസമയത്തും മാനേജ് ചെയ്യാം</string>
+    <string name="charge_limit_discovery_notification_enable_button">ഇപ്പോൾ പ്രവർത്തനക്ഷമമാക്കുക</string>
+    <string name="battery_health_notify_learn_more">കൂടുതലറിയുക</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s-നകം ചാർജ് ചെയ്യൽ പൂർത്തിയാകും</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s-നുള്ളിൽ പൂർണ്ണമായി ചാർജ് ചെയ്യും</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ചാർജ്ജ് ചെയ്യൽ പൂർത്തിയായി</string>
 </resources>

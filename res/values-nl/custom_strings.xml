@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Verwijderen uit favorieten</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ontgrendel het apparaat om snel tikken af te ronden</string>
+    <string name="columbus_target_request_dialog_title">%1$s openen via Snel tikken?</string>
+    <string name="columbus_target_request_dialog_summary">Tik 2 keer op de achterkant van je telefoon om %1$s te openen. Je kunt dit op elk moment wijzigen in Instellingen.</string>
+    <string name="columbus_target_request_dialog_allow">Toestaan</string>
+    <string name="columbus_target_request_dialog_deny">Niet toestaan</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Nog %s batterijlading over</string>
     <string name="low_battery_notification_text">Zet Batterijbesparing aan om de batterijduur te verlengen</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Annuleren</string>
     <string name="face_reenroll_dialog_confirm">Instellen</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Ontgrendel het apparaat om snel tikken af te ronden</string>
-    <string name="columbus_target_request_dialog_title">%1$s openen via Snel tikken?</string>
-    <string name="columbus_target_request_dialog_summary">Tik 2 keer op de achterkant van je telefoon om %1$s te openen. Je kunt dit op elk moment wijzigen in Instellingen.</string>
-    <string name="columbus_target_request_dialog_allow">Toestaan</string>
-    <string name="columbus_target_request_dialog_deny">Niet toestaan</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Aangepast opladen staat aan</string>
+    <string name="adaptive_charging_notify_des">Batterij vol om %1$s. Er wordt geleidelijk opgeladen om de levensduur van de batterij te verlengen.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Eén keer uitzetten</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Aangepast opladen • Vol om %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Bescherm je batterij tijdens het opladen</string>
+    <string name="charge_limit_discovery_notification_text">Probeer de functie voor begrenzing tot 80% aan te zetten om de batterijconditie en -levensduur te beschermen. Je kunt dit altijd beheren via de instellingen.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Nu aanzetten</string>
+    <string name="battery_health_notify_learn_more">Meer informatie</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Opladen klaar om %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Opladen klaar over %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Helemaal opgeladen</string>
 </resources>

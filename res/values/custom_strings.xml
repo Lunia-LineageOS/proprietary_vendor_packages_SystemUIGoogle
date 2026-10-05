@@ -17,6 +17,13 @@
     <string name="accessibility_now_playing_unlike_icon">Remove from favorites</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Unlock to complete Quick Tap</string>
+    <string name="columbus_target_request_dialog_title">Allow Quick Tap to open %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Tap the back of your phone twice to open %1$s. You can change this anytime in Settings.</string>
+    <string name="columbus_target_request_dialog_allow">Allow</string>
+    <string name="columbus_target_request_dialog_deny">Don’t allow</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s battery left</string>
     <string name="low_battery_notification_text">Turn on Battery Saver to extend battery life</string>
@@ -38,10 +45,19 @@
     <string name="saver_confirmation_dialog_dismiss_text">Cancel</string>
     <string name="face_reenroll_dialog_confirm">Set up</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Unlock to complete Quick Tap</string>
-    <string name="columbus_target_request_dialog_title">Allow Quick Tap to open %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Tap the back of your phone twice to open %1$s. You can change this anytime in Settings.</string>
-    <string name="columbus_target_request_dialog_allow">Allow</string>
-    <string name="columbus_target_request_dialog_deny">Don’t allow</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Adaptive Charging is on</string>
+    <string name="adaptive_charging_notify_des">Battery full by %1$s. Charging steadily to extend battery lifespan.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Turn off once</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptive Charging • Full by %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Protect your battery during charging</string>
+    <string name="charge_limit_discovery_notification_text">Try turning on the 80% limit feature to protect battery health and lifespan. You can manage this in settings anytime</string>
+    <string name="charge_limit_discovery_notification_enable_button">Enable now</string>
+    <string name="battery_health_notify_learn_more">Learn more</string>
+    <string name="charge_limit_discovery_notification_help_url" translatable="false">https://support.google.com/pixelphone?p=eu_ecodesign_charging</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Done charging by %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Done charging in %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Done charging</string>
 </resources>

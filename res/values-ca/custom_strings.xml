@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Suprimeix de preferits</string>
     <string name="now_playing_label">Està sonant</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Desbloqueja per completar Toc ràpid</string>
+    <string name="columbus_target_request_dialog_title">Vols permetre que Toc ràpid obri %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Fes doble toc a la part posterior del telèfon per obrir %1$s. Pots canviar aquesta opció en qualsevol moment a Configuració.</string>
+    <string name="columbus_target_request_dialog_allow">Permet</string>
+    <string name="columbus_target_request_dialog_deny">No permetis</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Queda un %s de bateria</string>
     <string name="low_battery_notification_text">Activa Estalvi de bateria per allargar la durada de la bateria</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Cancel·la</string>
     <string name="face_reenroll_dialog_confirm">Configura</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Desbloqueja per completar Toc ràpid</string>
-    <string name="columbus_target_request_dialog_title">Vols permetre que Toc ràpid obri %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Fes doble toc a la part posterior del telèfon per obrir %1$s. Pots canviar aquesta opció en qualsevol moment a Configuració.</string>
-    <string name="columbus_target_request_dialog_allow">Permet</string>
-    <string name="columbus_target_request_dialog_deny">No permetis</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">La càrrega intel·ligent està activada</string>
+    <string name="adaptive_charging_notify_des">La bateria s\'haurà completat a les %1$s. Es carrega de manera estable per allargar-ne la vida útil.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Desactiva una vegada</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Càrrega intel·ligent • S\'haurà completat a les %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Protegeix la bateria durant la càrrega</string>
+    <string name="charge_limit_discovery_notification_text">Prova d\'activar la funció de límit de càrrega del 80 % per protegir l\'estat i la vida útil de la bateria. Pots gestionar-ho a la configuració en qualsevol moment.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Activa ara</string>
+    <string name="battery_health_notify_learn_more">Més informació</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • La càrrega es completarà a les %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • La càrrega es completarà d\'aquí a %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • La càrrega s\'ha completat</string>
 </resources>

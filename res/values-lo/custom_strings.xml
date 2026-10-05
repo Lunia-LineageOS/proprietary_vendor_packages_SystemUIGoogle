@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">ລຶບອອກຈາກລາຍການທີ່ມັກ</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ປົດລັອກເພື່ອໃຊ້ການແຕະດ່ວນໃຫ້ສຳເລັດ</string>
+    <string name="columbus_target_request_dialog_title">ອະນຸຍາດການແຕະດ່ວນໃຫ້ເປີດ %1$s ບໍ?</string>
+    <string name="columbus_target_request_dialog_summary">ແຕະໃສ່ທາງຫຼັງໂທລະສັບຂອງທ່ານສອງເທື່ອເພື່ອເປີດ %1$s. ທ່ານສາມາດປ່ຽນສິ່ງນີ້ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ.</string>
+    <string name="columbus_target_request_dialog_allow">ອະນຸຍາດ</string>
+    <string name="columbus_target_request_dialog_deny">ບໍ່ອະນຸຍາດ</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">ເຫຼືອແບັດເຕີຣີ %s</string>
     <string name="low_battery_notification_text">ທ່ານສາມາດເປີດໃຊ້ຕົວປະຢັດແບັດເຕີຣີເພື່ອຍືດອາຍຸແບັດເຕີຣີໄດ້</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">ຍົກເລີກ</string>
     <string name="face_reenroll_dialog_confirm">ຕັ້ງຄ່າ</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">ປົດລັອກເພື່ອໃຊ້ການແຕະດ່ວນໃຫ້ສຳເລັດ</string>
-    <string name="columbus_target_request_dialog_title">ອະນຸຍາດການແຕະດ່ວນໃຫ້ເປີດ %1$s ບໍ?</string>
-    <string name="columbus_target_request_dialog_summary">ແຕະໃສ່ທາງຫຼັງໂທລະສັບຂອງທ່ານສອງເທື່ອເພື່ອເປີດ %1$s. ທ່ານສາມາດປ່ຽນສິ່ງນີ້ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ.</string>
-    <string name="columbus_target_request_dialog_allow">ອະນຸຍາດ</string>
-    <string name="columbus_target_request_dialog_deny">ບໍ່ອະນຸຍາດ</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">ເປີດໃຊ້ການສາກໄຟແບບປັບອັດຕະໂນມັດແລ້ວ</string>
+    <string name="adaptive_charging_notify_des">ແບັດເຕີຣີຈະເຕັມພາຍໃນ %1$s. ກຳລັງສາກໄຟຢ່າງຕໍ່ເນື່ອງເພື່ອຍືດອາຍຸການນຳໃຊ້ແບັດເຕີຣີ.</string>
+    <string name="adaptive_charging_notify_turn_off_once">ປິດເທື່ອດຽວ</string>
+    <string name="adaptive_charging_time_estimate">%1$s • ກຳລັງສາກໄຟແບບປັບອັດຕະໂນມັດ • ຈະເຕັມພາຍໃນ %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ປົກປ້ອງແບັດເຕີຣີຂອງທ່ານໃນລະຫວ່າງການສາກ</string>
+    <string name="charge_limit_discovery_notification_text">ລອງເປີດຄຸນສົມບັດຂີດຈຳກັດ 80% ເພື່ອປົກປ້ອງສຸຂະພາບແບັດເຕີຣີ ແລະ ອາຍຸການນຳໃຊ້. ທ່ານສາມາດຈັດການສິ່ງນີ້ໄດ້ທຸກເວລາໃນການຕັ້ງຄ່າ</string>
+    <string name="charge_limit_discovery_notification_enable_button">ເປີດການນຳໃຊ້ດຽວນີ້</string>
+    <string name="battery_health_notify_learn_more">ສຶກສາເພີ່ມເຕີມ</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • ສາກສຳເລັດພາຍໃນ %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • ສາກສຳເລັດພາຍໃນ %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ສາກສຳເລັດແລ້ວ</string>
 </resources>

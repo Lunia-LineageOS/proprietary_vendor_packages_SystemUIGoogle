@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Kendu gogokoetatik</string>
     <string name="now_playing_label">Orain erreproduzitzen</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Sakatze bizkorra osatzeko, desblokeatu</string>
+    <string name="columbus_target_request_dialog_title">%1$s irekitzeko baimena eman nahi diozu Sakatze bizkorra keinuari?</string>
+    <string name="columbus_target_request_dialog_summary">Sakatu birritan telefonoaren atzealdea %1$s irekitzeko. Ezarpenetan alda dezakezu aukera hori.</string>
+    <string name="columbus_target_request_dialog_allow">Eman baimena</string>
+    <string name="columbus_target_request_dialog_deny">Ez eman baimenik</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s gelditzen zaio bateriari</string>
     <string name="low_battery_notification_text">Aktibatu Bateria-aurreztailea bateriaren iraupena luzatzeko</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Utzi</string>
     <string name="face_reenroll_dialog_confirm">Konfiguratu</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Sakatze bizkorra osatzeko, desblokeatu</string>
-    <string name="columbus_target_request_dialog_title">%1$s irekitzeko baimena eman nahi diozu Sakatze bizkorra keinuari?</string>
-    <string name="columbus_target_request_dialog_summary">Sakatu birritan telefonoaren atzealdea %1$s irekitzeko. Ezarpenetan alda dezakezu aukera hori.</string>
-    <string name="columbus_target_request_dialog_allow">Eman baimena</string>
-    <string name="columbus_target_request_dialog_deny">Ez eman baimenik</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Karga egokitua aktibatuta dago</string>
+    <string name="adaptive_charging_notify_des">Ordu honetan egongo da guztiz kargatuta bateria: %1$s. Apurka-apurka ari da kargatzen, haren balio-bizitza luzatzeko.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Desaktibatu behin</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Karga egokitua • Ordu honetan egongo da guztiz kargatuta: %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Babestu bateria hura kargatu bitartean</string>
+    <string name="charge_limit_discovery_notification_text">Aktibatu % 80ko mugaren eginbidea, bateriaren egoera eta balio-bizitza babesteko. Hori kudeatzeko, joan ezarpenetara.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Gaitu</string>
+    <string name="battery_health_notify_learn_more">Lortu informazio gehiago</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ordu honetan egongo da guztiz kargatuta: %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s barru amaituko da kargatzen</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Guztiz kargatu da</string>
 </resources>

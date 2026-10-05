@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">பிடித்தவற்றிலிருந்து அகற்றும்</string>
     <string name="now_playing_label">பாடல் விவரம்</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">விரைவுத் தட்டல் சைகையை நிறைவுசெய்ய அன்லாக் செய்யவும்</string>
+    <string name="columbus_target_request_dialog_title">%1$s ஆப்ஸைத் திறக்க, விரைவுத் தட்டல் சைகையை அனுமதிக்கவா?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ஆப்ஸைத் திறக்க மொபைலின் பின்புறத்தில் இருமுறை தட்டுங்கள். அமைப்புகளில் இதை எப்போது வேண்டுமானாலும் மாற்றிக்கொள்ளலாம்.</string>
+    <string name="columbus_target_request_dialog_allow">அனுமதி</string>
+    <string name="columbus_target_request_dialog_deny">அனுமதிக்காதே</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s பேட்டரி மீதமுள்ளது</string>
     <string name="low_battery_notification_text">பேட்டரி ஆயுளை நீட்டிக்க பேட்டரி சேமிப்பு அம்சத்தை இயக்குங்கள்</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">ரத்துசெய்</string>
     <string name="face_reenroll_dialog_confirm">அமை</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">விரைவுத் தட்டல் சைகையை நிறைவுசெய்ய அன்லாக் செய்யவும்</string>
-    <string name="columbus_target_request_dialog_title">%1$s ஆப்ஸைத் திறக்க, விரைவுத் தட்டல் சைகையை அனுமதிக்கவா?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s ஆப்ஸைத் திறக்க மொபைலின் பின்புறத்தில் இருமுறை தட்டுங்கள். அமைப்புகளில் இதை எப்போது வேண்டுமானாலும் மாற்றிக்கொள்ளலாம்.</string>
-    <string name="columbus_target_request_dialog_allow">அனுமதி</string>
-    <string name="columbus_target_request_dialog_deny">அனுமதிக்காதே</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">சூழலுக்கேற்பச் சார்ஜ் செய்தல் அம்சம் இயக்கப்பட்டுள்ளது</string>
+    <string name="adaptive_charging_notify_des">%1$sக்கு பேட்டரி முழுமையாகச் சார்ஜாகிவிடும். பேட்டரி ஆயுட்காலத்தை நீட்டிக்க சீராகச் சார்ஜ் செய்யப்படுகிறது.</string>
+    <string name="adaptive_charging_notify_turn_off_once">ஒருமுறை முடக்கு</string>
+    <string name="adaptive_charging_time_estimate">%1$s • அடாப்டிவ் சார்ஜிங் • %2$sக்கு முழுமையாகச் சார்ஜாகிவிடும்</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">சார்ஜ் செய்யும்போது உங்கள் பேட்டரியைப் பாதுகாத்தல்</string>
+    <string name="charge_limit_discovery_notification_text">பேட்டரி நிலையையும் ஆயுட்காலத்தையும் பாதுகாக்க 80% வரம்பு அம்சத்தை இயக்க முயலவும். நீங்கள் எப்போது வேண்டுமானாலும் இதை அமைப்புகளில் நிர்வகிக்கலாம்.</string>
+    <string name="charge_limit_discovery_notification_enable_button">இப்போதே இயக்கு</string>
+    <string name="battery_health_notify_learn_more">மேலும் அறிக</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$sக்குச் சார்ஜாகிவிட்டது</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s இல் சார்ஜாகிவிட்டது</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • சார்ஜாகிவிட்டது</string>
 </resources>

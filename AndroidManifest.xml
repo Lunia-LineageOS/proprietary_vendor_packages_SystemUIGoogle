@@ -43,5 +43,10 @@
                 <action android:name="com.google.android.systemui.QUICK_TAP_TARGET_REQUEST"/>
             </intent-filter>
         </service>
+
+        <!-- Battery Health -->
+        <service
+            android:name="com.google.android.systemui.power.batteryhealth.HealthService"
+            android:exported="true"/>
     </application>
 </manifest>

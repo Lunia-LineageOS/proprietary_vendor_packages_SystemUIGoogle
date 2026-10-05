@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Sevimlilərdən silin</string>
     <string name="now_playing_label">İndi oxudulanlar</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Sürətli Toxunuşu tamamlamaq mümkün deyil</string>
+    <string name="columbus_target_request_dialog_title">%1$s tətbiqini açmaq üçün Qısa Toxunuşa icazə verilsin?</string>
+    <string name="columbus_target_request_dialog_summary">Telefonun arxasına iki dəfə toxunaraq %1$s tətbiqini açın. Bunu istənilən zaman Ayarlarda dəyişə bilərsiniz.</string>
+    <string name="columbus_target_request_dialog_allow">İcazə verin</string>
+    <string name="columbus_target_request_dialog_deny">İcazə verməyin</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s enerji qalıb</string>
     <string name="low_battery_notification_text">Batareya istifadəsini artırmaq üçün Enerjiyə Qənaəti yandırın</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Ləğv edin</string>
     <string name="face_reenroll_dialog_confirm">Ayarlayın</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Sürətli Toxunuşu tamamlamaq mümkün deyil</string>
-    <string name="columbus_target_request_dialog_title">%1$s tətbiqini açmaq üçün Qısa Toxunuşa icazə verilsin?</string>
-    <string name="columbus_target_request_dialog_summary">Telefonun arxasına iki dəfə toxunaraq %1$s tətbiqini açın. Bunu istənilən zaman Ayarlarda dəyişə bilərsiniz.</string>
-    <string name="columbus_target_request_dialog_allow">İcazə verin</string>
-    <string name="columbus_target_request_dialog_deny">İcazə verməyin</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Uyğunlaşan Şarj aktivdir</string>
+    <string name="adaptive_charging_notify_des">Batareya bu vaxtadək tam şarj olacaq: %1$s. Batareya ömrünü uzatmaq üçün sabit şarj edilir.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Deaktiv edin</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Adaptiv Şarj • %2$s radələrinə qədər tam dolacaq</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Şarj zamanı batareyanı qoruyun</string>
+    <string name="charge_limit_discovery_notification_text">Batareya tutumu və istifadə müddətini qorumaq üçün 80% limit funksiyasını aktiv edin. Bunu ayarlarda idarə edə bilərsiniz</string>
+    <string name="charge_limit_discovery_notification_enable_button">İndi aktivləşdirin</string>
+    <string name="battery_health_notify_learn_more">Ətraflı məlumat</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Şarjetmə %1$s radələrində bitəcək</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s sonra şarjetmə tamamlanır</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Şarjetmə bitib</string>
 </resources>

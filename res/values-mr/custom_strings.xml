@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">आवडतेमधून काढून टाका</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">क्विक टॅप पूर्ण करण्यासाठी अनलॉक करा</string>
+    <string name="columbus_target_request_dialog_title">क्विक टॅप ला %1$s उघडण्याची अनुमती द्यायची का?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s उघडण्यासाठी तुमच्या फोनच्या मागच्या बाजूला दोनदा टॅप करा. तुम्ही सेटिंग्ज मध्ये हे कधीही बदलू शकता.</string>
+    <string name="columbus_target_request_dialog_allow">अनुमती द्या</string>
+    <string name="columbus_target_request_dialog_deny">अनुमती देऊ नका</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s बॅटरी शिल्लक आहे</string>
     <string name="low_battery_notification_text">बॅटरी लाइफ वाढवण्यासाठी बॅटरी सेव्हर सुरू करा</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">रद्द करा</string>
     <string name="face_reenroll_dialog_confirm">सेट करा</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">क्विक टॅप पूर्ण करण्यासाठी अनलॉक करा</string>
-    <string name="columbus_target_request_dialog_title">क्विक टॅप ला %1$s उघडण्याची अनुमती द्यायची का?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s उघडण्यासाठी तुमच्या फोनच्या मागच्या बाजूला दोनदा टॅप करा. तुम्ही सेटिंग्ज मध्ये हे कधीही बदलू शकता.</string>
-    <string name="columbus_target_request_dialog_allow">अनुमती द्या</string>
-    <string name="columbus_target_request_dialog_deny">अनुमती देऊ नका</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">अडॅप्टिव्ह चार्जिंग सुरू आहे</string>
+    <string name="adaptive_charging_notify_des">बॅटरी %1$s पर्यंत पूर्ण चार्ज होईल. बॅटरीचा कालावधी वाढवण्यासाठी सतत चार्ज करत आहे.</string>
+    <string name="adaptive_charging_notify_turn_off_once">एकदा बंद करा</string>
+    <string name="adaptive_charging_time_estimate">%1$s • अडॅप्टिव्ह चार्जिंग • %2$s पर्यंत पूर्ण चार्ज होईल</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">तुमच्या बॅटरीचे चार्जिंगदरम्यान संरक्षण करा</string>
+    <string name="charge_limit_discovery_notification_text">बॅटरीची स्थिती संरक्षित करण्यासाठी आणि तिचा कालावधी वाढवण्यासाठी ८०% मर्यादेचे वैशिष्‍ट्य सुरू करून पहा. तुम्ही हे सेटिंग्जमध्ये कधीही व्यवस्थापित करू शकता</string>
+    <string name="charge_limit_discovery_notification_enable_button">आता सुरू करा</string>
+    <string name="battery_health_notify_learn_more">अधिक जाणून घ्या</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • चार्जिंग %1$s पर्यंत पूर्ण होईल</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s पर्यंत चार्जिंग पूर्ण होईल</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • चार्जिंग पूर्ण झाले आहे</string>
 </resources>

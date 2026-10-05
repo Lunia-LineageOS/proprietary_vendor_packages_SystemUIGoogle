@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">ఫేవరెట్స్ నుండి తీసివేయండి</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">క్విక్ ట్యాప్‌ను పూర్తి చేయడానికి అన్‌లాక్ చేయండి</string>
+    <string name="columbus_target_request_dialog_title">%1$sను తెరవడానికి క్విక్ ట్యాప్‌ను అనుమతించాలా?</string>
+    <string name="columbus_target_request_dialog_summary">%1$sను తెరవడానికి మీ ఫోన్ వెనుక భాగాన్ని వేగంగా రెండు సార్లు ట్యాప్ చేయండి. మీరు ఎప్పుడైనా సెట్టింగ్‌లలో దీనిని మార్చవచ్చు.</string>
+    <string name="columbus_target_request_dialog_allow">అనుమతించండి</string>
+    <string name="columbus_target_request_dialog_deny">అనుమతించవద్దు</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s బ్యాటరీ మిగిలి ఉంది</string>
     <string name="low_battery_notification_text">బ్యాటరీ లైఫ్‌ను పొడిగించ‌డానికి బ్యాటరీ సేవర్‌ను ఆన్ చేయండి</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">రద్దు చేయండి</string>
     <string name="face_reenroll_dialog_confirm">సెటప్ చేయండి</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">క్విక్ ట్యాప్‌ను పూర్తి చేయడానికి అన్‌లాక్ చేయండి</string>
-    <string name="columbus_target_request_dialog_title">%1$sను తెరవడానికి క్విక్ ట్యాప్‌ను అనుమతించాలా?</string>
-    <string name="columbus_target_request_dialog_summary">%1$sను తెరవడానికి మీ ఫోన్ వెనుక భాగాన్ని వేగంగా రెండు సార్లు ట్యాప్ చేయండి. మీరు ఎప్పుడైనా సెట్టింగ్‌లలో దీనిని మార్చవచ్చు.</string>
-    <string name="columbus_target_request_dialog_allow">అనుమతించండి</string>
-    <string name="columbus_target_request_dialog_deny">అనుమతించవద్దు</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">అనుకూల ఛార్జింగ్ ఆన్‌లో ఉంది</string>
+    <string name="adaptive_charging_notify_des">%1$sకు బ్యాటరీ నిండింది. బ్యాటరీ లైఫ్‌ను పొడిగించడానికి స్థిరంగా ఛార్జింగ్ అవుతోంది.</string>
+    <string name="adaptive_charging_notify_turn_off_once">ఒకసారి ఆఫ్ చేయండి</string>
+    <string name="adaptive_charging_time_estimate">%1$s • అనుకూల ఛార్జింగ్ • %2$s సమయంలోగా పూర్తి అవుతుంది</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">ఛార్జింగ్ సమయంలో మీ బ్యాటరీని సంరక్షించుకోండి</string>
+    <string name="charge_limit_discovery_notification_text">బ్యాటరీ హెల్త్‌ను సంరక్షించడానికి, దీని జీవితకాలాన్ని పొడిగించడానికి 80% పరిమితి ఫీచర్‌ను ఆన్ చేయడానికి ట్రై చేయండి. ఈ ఫీచర్‌ను సెట్టింగ్స్‌లో ఏ సమయంలోనైనా మేనేజ్ చేయవచ్చు</string>
+    <string name="charge_limit_discovery_notification_enable_button">ప్రారంభించండి</string>
+    <string name="battery_health_notify_learn_more">మరింత తెలుసుకోండి</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s సమయానికి ఛార్జింగ్ పూర్తయింది</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s సమయంలో ఛార్జింగ్ పూర్తవుతుంది</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • సమయానికి ఛార్జింగ్ పూర్తయింది</string>
 </resources>

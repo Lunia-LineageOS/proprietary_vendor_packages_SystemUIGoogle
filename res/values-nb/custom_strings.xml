@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Fjern fra favoritter</string>
     <string name="now_playing_label">Spilles nå</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Lås opp for å fullføre hurtigtrykk</string>
+    <string name="columbus_target_request_dialog_title">Vil du tillate at hurtigtrykk åpner %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Trykk to ganger på baksiden av telefonen for å åpne %1$s. Du kan endre dette når som helst i innstillingene.</string>
+    <string name="columbus_target_request_dialog_allow">Tillat</string>
+    <string name="columbus_target_request_dialog_deny">Ikke tillat</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s batteri gjenstår</string>
     <string name="low_battery_notification_text">Slå på batterisparing for å forlenge batterilevetiden</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Avbryt</string>
     <string name="face_reenroll_dialog_confirm">Konfigurer</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Lås opp for å fullføre hurtigtrykk</string>
-    <string name="columbus_target_request_dialog_title">Vil du tillate at hurtigtrykk åpner %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Trykk to ganger på baksiden av telefonen for å åpne %1$s. Du kan endre dette når som helst i innstillingene.</string>
-    <string name="columbus_target_request_dialog_allow">Tillat</string>
-    <string name="columbus_target_request_dialog_deny">Ikke tillat</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Tilpasset lading er på</string>
+    <string name="adaptive_charging_notify_des">Batteriet er fullt om %1$s. Lader gradvis for å forlenge brukstiden for batteriet.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Slå av én gang</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Tilpasset lading • Fullt innen %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Beskytt batteriet under lading</string>
+    <string name="charge_limit_discovery_notification_text">Prøv å slå på funksjonen for grensen på 80 % for å beskytte batteritilstanden og -levetiden. Du kan administrere dette i innstillingene når som helst.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Slå på nå</string>
+    <string name="battery_health_notify_learn_more">Finn ut mer</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ferdig ladet innen %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Ferdig ladet om %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Ferdig ladet</string>
 </resources>

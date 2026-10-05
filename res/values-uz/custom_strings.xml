@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Sevimlilardan olib tashlash</string>
     <string name="now_playing_label">Hozir ijroda</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Qisqa teginish uchun qulfni oching</string>
+    <string name="columbus_target_request_dialog_title">%1$s ilovasini qisqa teginish yordamida ochishga ruxsat berilsinmi?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ilovasini ochish uchun telefonning orqa tomoniga ikki marta tegining. Buni istalgan vaqtda sozlamalardan oʻzgartirish mumkin.</string>
+    <string name="columbus_target_request_dialog_allow">Ruxsat</string>
+    <string name="columbus_target_request_dialog_deny">Rad etish</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Batareya quvvati %s qoldi</string>
     <string name="low_battery_notification_text">Batareya quvvatini tejash uchun Quvvat tejash funksiyasini yoqing</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Bekor qilish</string>
     <string name="face_reenroll_dialog_confirm">Sozlash</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Qisqa teginish uchun qulfni oching</string>
-    <string name="columbus_target_request_dialog_title">%1$s ilovasini qisqa teginish yordamida ochishga ruxsat berilsinmi?</string>
-    <string name="columbus_target_request_dialog_summary">%1$s ilovasini ochish uchun telefonning orqa tomoniga ikki marta tegining. Buni istalgan vaqtda sozlamalardan oʻzgartirish mumkin.</string>
-    <string name="columbus_target_request_dialog_allow">Ruxsat</string>
-    <string name="columbus_target_request_dialog_deny">Rad etish</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Moslashuvchan quvvatlash yoniq</string>
+    <string name="adaptive_charging_notify_des">Batareya toʻliq quvvat olishiga %1$s qoldi. Batareyaning ishlash muddatini uzaytirish uchun doimo quvvatlang.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Bir marta faolsizlantirish</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Moslashuvchan quvvatlash • %2$s qoldi</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Quvvatlashda batareyani himoyalang</string>
+    <string name="charge_limit_discovery_notification_text">Xizmat davrini uzaytirish va himoyalash uchun batareyani 80% quvvat bilan cheklang. Buni istalgan vaqt sozlamalar orqali boshqarish mumkin.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Yoqish</string>
+    <string name="battery_health_notify_learn_more">Batafsil</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Quvvatlanishiga %1$s qoldi</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Quvvatlanishiga %1$s qoldi</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Quvvatlandi</string>
 </resources>

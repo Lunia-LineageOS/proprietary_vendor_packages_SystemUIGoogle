@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Remova dos favoritos</string>
     <string name="now_playing_label">A tocar</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Desbloqueie para efetuar o Quick Tap</string>
+    <string name="columbus_target_request_dialog_title">Permitir que o Quick Tap abra a app %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Toque duas vezes na parte posterior do telemóvel para abrir a app %1$s. Poderá alterar esta definição em qualquer altura nas Definições.</string>
+    <string name="columbus_target_request_dialog_allow">Permitir</string>
+    <string name="columbus_target_request_dialog_deny">Não permitir</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">%s de bateria restante</string>
     <string name="low_battery_notification_text">Ative a Poupança de bateria para prolongar a autonomia da bateria</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Cancelar</string>
     <string name="face_reenroll_dialog_confirm">Configurar</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Desbloqueie para efetuar o Quick Tap</string>
-    <string name="columbus_target_request_dialog_title">Permitir que o Quick Tap abra a app %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Toque duas vezes na parte posterior do telemóvel para abrir a app %1$s. Poderá alterar esta definição em qualquer altura nas Definições.</string>
-    <string name="columbus_target_request_dialog_allow">Permitir</string>
-    <string name="columbus_target_request_dialog_deny">Não permitir</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">O carregamento adaptável está ativado</string>
+    <string name="adaptive_charging_notify_des">Bateria totalmente carregada até à(s) %1$s. A carregar de forma regular para prolongar a vida útil da bateria.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Desativar uma vez</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Carregamento adaptável • Completo até à(s) %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Proteja a sua bateria durante o carregamento</string>
+    <string name="charge_limit_discovery_notification_text">Experimente ativar a funcionalidade de limite de 80% para proteger a vida útil e o estado da bateria. Pode gerir esta opção nas definições em qualquer altura</string>
+    <string name="charge_limit_discovery_notification_enable_button">Ativar agora</string>
+    <string name="battery_health_notify_learn_more">Saber mais</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Carregamento concluído até à(s) %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Carregamento concluído em %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Carregamento concluído</string>
 </resources>

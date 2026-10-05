@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Выдаліць з абраных</string>
     <string name="now_playing_label">Зараз іграе</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Разблакіруйце, каб выканаць хуткі дотык</string>
+    <string name="columbus_target_request_dialog_title">Дазволіць хуткі дотык для адкрыцця праграмы \"%1$s\"?</string>
+    <string name="columbus_target_request_dialog_summary">Двойчы дакрануцца да задняй панэлі тэлефона, каб адкрыць праграму \"%1$s\". Вы можаце змяніць гэта ў любы час у Наладах.</string>
+    <string name="columbus_target_request_dialog_allow">Дазволіць</string>
+    <string name="columbus_target_request_dialog_deny">Не дазваляць</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Засталося %s зараду акумулятара</string>
     <string name="low_battery_notification_text">Уключыце рэжым энергазберажэння, каб павялічыць час працы ад акумулятара</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Скасаваць</string>
     <string name="face_reenroll_dialog_confirm">Наладзіць</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Разблакіруйце, каб выканаць хуткі дотык</string>
-    <string name="columbus_target_request_dialog_title">Дазволіць хуткі дотык для адкрыцця праграмы \"%1$s\"?</string>
-    <string name="columbus_target_request_dialog_summary">Двойчы дакрануцца да задняй панэлі тэлефона, каб адкрыць праграму \"%1$s\". Вы можаце змяніць гэта ў любы час у Наладах.</string>
-    <string name="columbus_target_request_dialog_allow">Дазволіць</string>
-    <string name="columbus_target_request_dialog_deny">Не дазваляць</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">Адаптыўная зарадка ўключана</string>
+    <string name="adaptive_charging_notify_des">Акумулятар поўнасцю зарадзіцца да %1$s. Каб павялічыць тэрмін службы акумулятара, зарадка адбываецца паступова.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Выключыць адзін раз</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Адаптыўная зарадка • Поўнасцю зарадзіцца да %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Абараніце акумулятар падчас зарадкі</string>
+    <string name="charge_limit_discovery_notification_text">Абмяжуйце зарад акумулятара да 80%, каб абараніць яго стан і прадоўжыць тэрмін службы. Кіраваць гэтай функцыяй можна ў наладах.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Уключыць</string>
+    <string name="battery_health_notify_learn_more">Даведацца больш</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Зарадка будзе завершана да %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зарадка будзе завершана праз %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Зарадка завершана</string>
 </resources>

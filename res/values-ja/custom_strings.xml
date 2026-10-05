@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">お気に入りから削除</string>
     <string name="now_playing_label">この曲なに？</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">クイックタップを完了するにはロックを解除してください</string>
+    <string name="columbus_target_request_dialog_title">クイックタップで %1$s を開くことを許可しますか？</string>
+    <string name="columbus_target_request_dialog_summary">スマートフォンの背面を 2 回タップすると、%1$s が開きます。これは [設定] でいつでも変更できます。</string>
+    <string name="columbus_target_request_dialog_allow">許可</string>
+    <string name="columbus_target_request_dialog_deny">許可しない</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">バッテリー残量: %s</string>
     <string name="low_battery_notification_text">バッテリー セーバーを ON にするとバッテリーが長持ちします</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">キャンセル</string>
     <string name="face_reenroll_dialog_confirm">設定</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">クイックタップを完了するにはロックを解除してください</string>
-    <string name="columbus_target_request_dialog_title">クイックタップで %1$s を開くことを許可しますか？</string>
-    <string name="columbus_target_request_dialog_summary">スマートフォンの背面を 2 回タップすると、%1$s が開きます。これは [設定] でいつでも変更できます。</string>
-    <string name="columbus_target_request_dialog_allow">許可</string>
-    <string name="columbus_target_request_dialog_deny">許可しない</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">アダプティブ充電は ON です</string>
+    <string name="adaptive_charging_notify_des">%1$sまでに充電が完了します。バッテリーの劣化を防ぐために、ゆっくりと充電しています。</string>
+    <string name="adaptive_charging_notify_turn_off_once">一度だけ OFF にする</string>
+    <string name="adaptive_charging_time_estimate">%1$s • アダプティブ充電中 • %2$s までにフル充電</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">充電時にバッテリーを保護</string>
+    <string name="charge_limit_discovery_notification_text">バッテリー ヘルスを守り、長持ちさせるため、充電を 80% に制限する機能を有効にしてみましょう。これはいつでも [設定] で管理できます。</string>
+    <string name="charge_limit_discovery_notification_enable_button">今すぐ有効にする</string>
+    <string name="battery_health_notify_learn_more">詳細</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$sまでに充電完了</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s後に充電完了</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • 充電完了</string>
 </resources>

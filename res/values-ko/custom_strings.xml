@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">즐겨찾기에서 삭제</string>
     <string name="now_playing_label">나우 플레잉</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">더블 탭을 완료하려면 잠금 해제하세요.</string>
+    <string name="columbus_target_request_dialog_title">더블 탭으로 %1$s 열기를 허용하시겠습니까?</string>
+    <string name="columbus_target_request_dialog_summary">휴대전화 뒷면을 두 번 탭하여 %1$s 앱을 실행합니다. 언제든지 설정에서 변경할 수 있습니다.</string>
+    <string name="columbus_target_request_dialog_allow">허용</string>
+    <string name="columbus_target_request_dialog_deny">허용 안함</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">배터리 %s 남음</string>
     <string name="low_battery_notification_text">절전 모드를 사용 설정하여 배터리 수명을 늘리세요</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">취소</string>
     <string name="face_reenroll_dialog_confirm">설정</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">더블 탭을 완료하려면 잠금 해제하세요.</string>
-    <string name="columbus_target_request_dialog_title">더블 탭으로 %1$s 열기를 허용하시겠습니까?</string>
-    <string name="columbus_target_request_dialog_summary">휴대전화 뒷면을 두 번 탭하여 %1$s 앱을 실행합니다. 언제든지 설정에서 변경할 수 있습니다.</string>
-    <string name="columbus_target_request_dialog_allow">허용</string>
-    <string name="columbus_target_request_dialog_deny">허용 안함</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">자동 조절 충전이 사용 설정됨</string>
+    <string name="adaptive_charging_notify_des">%1$s까지 완전히 충전됩니다. 배터리 수명을 늘리기 위해 천천히 충전합니다.</string>
+    <string name="adaptive_charging_notify_turn_off_once">한 번만 사용 중지</string>
+    <string name="adaptive_charging_time_estimate">%1$s • 자동 조절 충전 • %2$s까지 완전 충전</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">충전 중에 배터리를 보호하세요</string>
+    <string name="charge_limit_discovery_notification_text">80%까지만 충전하는 기능을 사용 설정해 배터리 상태와 수명을 보호하세요. 이 기능은 언제든지 설정에서 관리할 수 있습니다.</string>
+    <string name="charge_limit_discovery_notification_enable_button">지금 사용하기</string>
+    <string name="battery_health_notify_learn_more">자세히 알아보기</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s까지 충전 완료</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s 후 충전 완료</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • 충전 완료</string>
 </resources>

@@ -16,6 +16,13 @@
     <string name="accessibility_now_playing_unlike_icon">Elimină din favorite</string>
     <string name="now_playing_label">Now Playing</string>
 
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Deblochează pentru a finaliza Atingerea rapidă</string>
+    <string name="columbus_target_request_dialog_title">Permiți ca Atingerea rapidă să deschidă %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Atinge de două ori partea din spate a telefonului pentru a deschide %1$s. Poți modifica oricând opțiunea din setări.</string>
+    <string name="columbus_target_request_dialog_allow">Permite</string>
+    <string name="columbus_target_request_dialog_deny">Nu permite</string>
+
     <!-- Battery Warnings -->
     <string name="low_battery_notification_title">Baterie rămasă: %s</string>
     <string name="low_battery_notification_text">Activează Economisirea bateriei pentru a mări autonomia bateriei</string>
@@ -37,10 +44,18 @@
     <string name="saver_confirmation_dialog_dismiss_text">Anulează</string>
     <string name="face_reenroll_dialog_confirm">Configurează</string>
 
-    <!-- Quick Tap -->
-    <string name="columbus_bouncer_message">Deblochează pentru a finaliza Atingerea rapidă</string>
-    <string name="columbus_target_request_dialog_title">Permiți ca Atingerea rapidă să deschidă %1$s?</string>
-    <string name="columbus_target_request_dialog_summary">Atinge de două ori partea din spate a telefonului pentru a deschide %1$s. Poți modifica oricând opțiunea din setări.</string>
-    <string name="columbus_target_request_dialog_allow">Permite</string>
-    <string name="columbus_target_request_dialog_deny">Nu permite</string>
+    <!-- Adaptive Charging -->
+    <string name="adaptive_charging_notify_title">S-a activat încărcarea adaptabilă</string>
+    <string name="adaptive_charging_notify_des">Bateria se va încărca în %1$s. Încărcarea este constantă, pentru a mări durata de viață a bateriei.</string>
+    <string name="adaptive_charging_notify_turn_off_once">Dezactivează o dată</string>
+    <string name="adaptive_charging_time_estimate">%1$s • Încărcare adaptabilă • Timp rămas %2$s</string>
+
+    <!-- Charge Limit -->
+    <string name="charge_limit_discovery_notification_title">Protejează bateria în timpul încărcării</string>
+    <string name="charge_limit_discovery_notification_text">Activează funcția de limitare a încărcării la 80 % pentru a proteja starea și durata de viață ale bateriei. Poți gestiona oricând opțiunea din setări.</string>
+    <string name="charge_limit_discovery_notification_enable_button">Activează acum</string>
+    <string name="battery_health_notify_learn_more">Află mai multe</string>
+    <string name="keyguard_indication_charging_time_charge_limit">%2$s • Încărcarea se încheie la %1$s</string>
+    <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Încărcarea se încheie în %1$s</string>
+    <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Încărcarea s-a încheiat</string>
 </resources>
