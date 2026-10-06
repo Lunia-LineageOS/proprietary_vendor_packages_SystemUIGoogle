@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Putar di Pemutar Musik Default</string>
     <string name="accessibility_now_playing_unlike_icon">Hapus dari favorit</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Buka kunci untuk menyelesaikan Ketuk Cepat</string>
+    <string name="columbus_target_request_dialog_title">Izinkan Ketuk Cepat untuk membuka %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Ketuk bagian belakang ponsel dua kali untuk membuka %1$s. Anda dapat mengubahnya kapan saja di Setelan.</string>
+    <string name="columbus_target_request_dialog_allow">Izinkan</string>
+    <string name="columbus_target_request_dialog_deny">Jangan izinkan</string>
 </resources>

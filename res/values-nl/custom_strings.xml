@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Afspelen op standaard muziekspeler</string>
     <string name="accessibility_now_playing_unlike_icon">Verwijderen uit favorieten</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ontgrendel het apparaat om snel tikken af te ronden</string>
+    <string name="columbus_target_request_dialog_title">%1$s openen via Snel tikken?</string>
+    <string name="columbus_target_request_dialog_summary">Tik 2 keer op de achterkant van je telefoon om %1$s te openen. Je kunt dit op elk moment wijzigen in Instellingen.</string>
+    <string name="columbus_target_request_dialog_allow">Toestaan</string>
+    <string name="columbus_target_request_dialog_deny">Niet toestaan</string>
 </resources>

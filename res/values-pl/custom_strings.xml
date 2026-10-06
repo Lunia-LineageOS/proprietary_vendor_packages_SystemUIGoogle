@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Odtwórz w domyślnym odtwarzaczu muzyki</string>
     <string name="accessibility_now_playing_unlike_icon">Usuń z ulubionych</string>
     <string name="now_playing_label">Co jest grane</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Odblokuj, aby przeprowadzić dwukrotne dotknięcie</string>
+    <string name="columbus_target_request_dialog_title">Zezwolić na otwieranie aplikacji %1$s dwukrotnym dotknięciem?</string>
+    <string name="columbus_target_request_dialog_summary">Kliknij dwukrotnie tylną część telefonu, aby otworzyć aplikację %1$s. Możesz to zmienić w dowolnym momencie w Ustawieniach.</string>
+    <string name="columbus_target_request_dialog_allow">Zezwól</string>
+    <string name="columbus_target_request_dialog_deny">Nie zezwalaj</string>
 </resources>

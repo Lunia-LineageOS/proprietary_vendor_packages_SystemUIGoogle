@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Reproducir no reprodutor de música predeterminado</string>
     <string name="accessibility_now_playing_unlike_icon">Quitar de favoritos</string>
     <string name="now_playing_label">Está soando</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Desbloquea o dispositivo para completar Toque rápido</string>
+    <string name="columbus_target_request_dialog_title">Queres permitir o uso de Toque rápido para abrir a aplicación %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Toca dúas veces a parte traseira do teléfono para abrir %1$s. Podes cambiar esta opción en calquera momento en Configuración.</string>
+    <string name="columbus_target_request_dialog_allow">Permitir</string>
+    <string name="columbus_target_request_dialog_deny">Non permitir</string>
 </resources>

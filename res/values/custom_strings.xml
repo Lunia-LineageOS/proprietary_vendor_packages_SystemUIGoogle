@@ -16,4 +16,11 @@
     <string name="accessibility_now_playing_play_icon">Play on Default Music Player</string>
     <string name="accessibility_now_playing_unlike_icon">Remove from favorites</string>
     <string name="now_playing_label">Now Playing</string>
+
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Unlock to complete Quick Tap</string>
+    <string name="columbus_target_request_dialog_title">Allow Quick Tap to open %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Tap the back of your phone twice to open %1$s. You can change this anytime in Settings.</string>
+    <string name="columbus_target_request_dialog_allow">Allow</string>
+    <string name="columbus_target_request_dialog_deny">Don’t allow</string>
 </resources>

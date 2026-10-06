@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">기본 음악 플레이어에서 재생</string>
     <string name="accessibility_now_playing_unlike_icon">즐겨찾기에서 삭제</string>
     <string name="now_playing_label">나우 플레잉</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">더블 탭을 완료하려면 잠금 해제하세요.</string>
+    <string name="columbus_target_request_dialog_title">더블 탭으로 %1$s 열기를 허용하시겠습니까?</string>
+    <string name="columbus_target_request_dialog_summary">휴대전화 뒷면을 두 번 탭하여 %1$s 앱을 실행합니다. 언제든지 설정에서 변경할 수 있습니다.</string>
+    <string name="columbus_target_request_dialog_allow">허용</string>
+    <string name="columbus_target_request_dialog_deny">허용 안함</string>
 </resources>

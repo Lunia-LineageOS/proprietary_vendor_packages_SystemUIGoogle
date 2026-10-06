@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Նվագարկել կանխադրված երաժշտական նվագարկիչում</string>
     <string name="accessibility_now_playing_unlike_icon">Հեռացնել ընտրանուց</string>
     <string name="now_playing_label">Այժմ հնչում է</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Արագ հպումը կատարելու համար ապակողպեք էկրանը</string>
+    <string name="columbus_target_request_dialog_title">Թույլատրե՞լ, որ %1$s հավելվածը բացվի կարճ հպումով</string>
+    <string name="columbus_target_request_dialog_summary">Կրկնակի հպեք հեռախոսի հետևի կողմին՝ %1$s հավելվածը բացելու համար։ Այս գործառույթը ցանկացած ժամանակ կարող եք փոփոխել Կարգավորումներում։</string>
+    <string name="columbus_target_request_dialog_allow">Թույլատրել</string>
+    <string name="columbus_target_request_dialog_deny">Չթույլատրել</string>
 </resources>

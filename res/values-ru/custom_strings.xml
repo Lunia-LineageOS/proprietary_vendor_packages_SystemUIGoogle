@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Воспроизвести в аудиоплеере по умолчанию</string>
     <string name="accessibility_now_playing_unlike_icon">Удалить из избранного</string>
     <string name="now_playing_label">Что сейчас играет?</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Чтобы завершить короткое касание, разблокируйте экран.</string>
+    <string name="columbus_target_request_dialog_title">Разрешить использовать короткое касание для запуска приложения \"%1$s\"?</string>
+    <string name="columbus_target_request_dialog_summary">Чтобы открыть приложение \"%1$s\", дважды коснитесь задней панели телефона. Этот параметр можно в любой момент изменить в настройках.</string>
+    <string name="columbus_target_request_dialog_allow">Разрешить</string>
+    <string name="columbus_target_request_dialog_deny">Не разрешать</string>
 </resources>

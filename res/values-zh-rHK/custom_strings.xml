@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">在預設音樂播放器上播放</string>
     <string name="accessibility_now_playing_unlike_icon">從我的最愛中移除</string>
     <string name="now_playing_label">歌曲識別</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">解鎖才能完成「快速輕觸」</string>
+    <string name="columbus_target_request_dialog_title">是否允許「快速輕觸」開啟「%1$s」？</string>
+    <string name="columbus_target_request_dialog_summary">輕按手機背面兩下即可開啟「%1$s」。你隨時可以在「設定」中變更此設定。</string>
+    <string name="columbus_target_request_dialog_allow">允許</string>
+    <string name="columbus_target_request_dialog_deny">不允許</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ഡിഫോൾട്ട് മ്യൂസിക് പ്ലേയറിൽ പ്ലേ ചെയ്യുക</string>
     <string name="accessibility_now_playing_unlike_icon">പ്രിയപ്പെട്ടവയിൽ നിന്ന് നീക്കം ചെയ്യുക</string>
     <string name="now_playing_label">ഇപ്പോൾ കേൾക്കുന്നത്</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">വേഗത്തിലുള്ള ടാപ്പ് പൂർത്തിയാക്കാൻ അൺലോക്ക് ചെയ്യുക</string>
+    <string name="columbus_target_request_dialog_title">%1$s തുറക്കാൻ വേഗത്തിലുള്ള ടാപ്പ് അനുവദിക്കണോ?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s തുറക്കാൻ നിങ്ങളുടെ ഫോണിന്റെ പിൻഭാഗത്ത് രണ്ടുതവണ ടാപ്പ് ചെയ്യുക. ക്രമീകരണത്തിൽ ഏതുസമയത്തും ഇത് മാറ്റാം.</string>
+    <string name="columbus_target_request_dialog_allow">അനുവദിക്കുക</string>
+    <string name="columbus_target_request_dialog_deny">അനുവദിക്കരുത്</string>
 </resources>

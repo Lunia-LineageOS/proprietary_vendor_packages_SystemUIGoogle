@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Leisti naudojant numatytąją muzikos leistuvę</string>
     <string name="accessibility_now_playing_unlike_icon">Pašalinti iš mėgstamiausių</string>
     <string name="now_playing_label">Dabar leidžiama</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Atrakinkite, norėdami užbaigti „Quick Tap“ veiksmą</string>
+    <string name="columbus_target_request_dialog_title">Leisti naudoti „Quick Tap“, kad būtų galima atidaryti „%1$s“?</string>
+    <string name="columbus_target_request_dialog_summary">Dukart palieskite telefono nugarėlę, kad atidarytumėte „%1$s“. Tai galite bet kada pakeisti skiltyje „Nustatymai“.</string>
+    <string name="columbus_target_request_dialog_allow">Leisti</string>
+    <string name="columbus_target_request_dialog_deny">Neleisti</string>
 </resources>

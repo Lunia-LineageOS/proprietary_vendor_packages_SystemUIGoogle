@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Възпроизвеждане в основния музикален плейър</string>
     <string name="accessibility_now_playing_unlike_icon">Премахване от любимите</string>
     <string name="now_playing_label">Сега слушате</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Отключете, за да завършите жеста „Бързо докосване“</string>
+    <string name="columbus_target_request_dialog_title">Да се отваря ли %1$s посредством жеста „Бързо докосване“?</string>
+    <string name="columbus_target_request_dialog_summary">Докоснете задната част на телефона си два пъти, за да отворите %1$s. Можете да промените това по всяко време от „Настройки“.</string>
+    <string name="columbus_target_request_dialog_allow">Разрешаване</string>
+    <string name="columbus_target_request_dialog_deny">Забраняване</string>
 </resources>

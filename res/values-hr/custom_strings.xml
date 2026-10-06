@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Reproduciraj na zadanomu playeru</string>
     <string name="accessibility_now_playing_unlike_icon">Ukloni iz favorita</string>
     <string name="now_playing_label">Upravo svira</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Otključajte da biste dovršili brzi dodir</string>
+    <string name="columbus_target_request_dialog_title">Želite li dopustiti da se brzim dodirom otvara %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Dvaput dodirnite stražnju stranu telefona da biste otvorili aplikaciju %1$s. To uvijek možete promijeniti u postavkama.</string>
+    <string name="columbus_target_request_dialog_allow">Dopusti</string>
+    <string name="columbus_target_request_dialog_deny">Nemoj dopustiti</string>
 </resources>

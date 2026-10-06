@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Reprodueix al reproductor de música predeterminat</string>
     <string name="accessibility_now_playing_unlike_icon">Suprimeix de preferits</string>
     <string name="now_playing_label">Està sonant</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Desbloqueja per completar Toc ràpid</string>
+    <string name="columbus_target_request_dialog_title">Vols permetre que Toc ràpid obri %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Fes doble toc a la part posterior del telèfon per obrir %1$s. Pots canviar aquesta opció en qualsevol moment a Configuració.</string>
+    <string name="columbus_target_request_dialog_allow">Permet</string>
+    <string name="columbus_target_request_dialog_deny">No permetis</string>
 </resources>

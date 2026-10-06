@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">မူရင်း သီချင်းပလေယာတွင် ဖွင့်ရန်</string>
     <string name="accessibility_now_playing_unlike_icon">စိတ်ကြိုက်များမှ ဖယ်ရှားရန်</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">‘အမြန်တို့’ ကို အပြီးသတ်ရန် ဖွင့်ပါ</string>
+    <string name="columbus_target_request_dialog_title">%1$s ဖွင့်ရန် ‘အမြန်တို့’ ကို ခွင့်ပြုမလား။</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ဖွင့်ရန် သင့်ဖုန်း၏နောက်ဘက်ကို နှစ်ချက်တို့ပါ။ ၎င်းကို ဆက်တင်များတွင် အချိန်မရွေး ပြောင်းနိုင်သည်။</string>
+    <string name="columbus_target_request_dialog_allow">ခွင့်ပြုရန်</string>
+    <string name="columbus_target_request_dialog_deny">ခွင့်မပြုပါ</string>
 </resources>

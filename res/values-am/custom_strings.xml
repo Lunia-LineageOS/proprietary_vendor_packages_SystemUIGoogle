@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ነባሪ የሙዚቃ ማጫወቻ ላይ አጫውት</string>
     <string name="accessibility_now_playing_unlike_icon">ከተወዳጆች አስወግድ</string>
     <string name="now_playing_label">አሁን በመጫወት ላይ</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">በፍጥነት መታ ማድረግን ለማጠናቀቅ ይክፈቱ</string>
+    <string name="columbus_target_request_dialog_title">ፈጣን መታ ማድረግ %1$sን እንዲከፍት ይፈቀድለት?</string>
+    <string name="columbus_target_request_dialog_summary">%1$sን ለመክፈት የስልክዎን ጀርባ ሁለት ጊዜ መታ ያድርጉ። ይህን በማንኛውም ጊዜ በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
+    <string name="columbus_target_request_dialog_allow">ፍቀድ</string>
+    <string name="columbus_target_request_dialog_deny">አትፍቀድ</string>
 </resources>

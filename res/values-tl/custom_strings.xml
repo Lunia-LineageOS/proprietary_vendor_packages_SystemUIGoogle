@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">I-play sa Default na Player ng Musika</string>
     <string name="accessibility_now_playing_unlike_icon">Alisin sa mga paborito</string>
     <string name="now_playing_label">Nagpi-play Ngayon</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">I-unlock para tapusin ang Quick Tap</string>
+    <string name="columbus_target_request_dialog_title">Payagan ang Quick Tap na buksan ang %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">I-tap ang likod ng iyong telepono nang dalawang beses para buksan ang %1$s. Puwede mo itong baguhin anumang oras sa Mga Setting.</string>
+    <string name="columbus_target_request_dialog_allow">Payagan</string>
+    <string name="columbus_target_request_dialog_deny">Huwag payagan</string>
 </resources>

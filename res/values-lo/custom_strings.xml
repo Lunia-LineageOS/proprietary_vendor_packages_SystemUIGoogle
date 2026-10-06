@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ຫຼິ້ນໃນໂປຣແກຣມຫຼິ້ນເພງເລີ່ມຕົ້ນ</string>
     <string name="accessibility_now_playing_unlike_icon">ລຶບອອກຈາກລາຍການທີ່ມັກ</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ປົດລັອກເພື່ອໃຊ້ການແຕະດ່ວນໃຫ້ສຳເລັດ</string>
+    <string name="columbus_target_request_dialog_title">ອະນຸຍາດການແຕະດ່ວນໃຫ້ເປີດ %1$s ບໍ?</string>
+    <string name="columbus_target_request_dialog_summary">ແຕະໃສ່ທາງຫຼັງໂທລະສັບຂອງທ່ານສອງເທື່ອເພື່ອເປີດ %1$s. ທ່ານສາມາດປ່ຽນສິ່ງນີ້ຕອນໃດກໍໄດ້ໃນການຕັ້ງຄ່າ.</string>
+    <string name="columbus_target_request_dialog_allow">ອະນຸຍາດ</string>
+    <string name="columbus_target_request_dialog_deny">ບໍ່ອະນຸຍາດ</string>
 </resources>

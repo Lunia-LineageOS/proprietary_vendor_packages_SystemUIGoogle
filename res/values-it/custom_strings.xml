@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Riproduci sul lettore musicale predefinito</string>
     <string name="accessibility_now_playing_unlike_icon">Rimuovi dai preferiti</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Sblocca per eseguire un Tocco rapido</string>
+    <string name="columbus_target_request_dialog_title">Vuoi consentire l\'apertura dell\'app %1$s con Tocco rapido?</string>
+    <string name="columbus_target_request_dialog_summary">Tocca due volte la parte posteriore del telefono per aprire l\'app %1$s. Puoi modificare questa preferenza in qualsiasi momento nelle Impostazioni.</string>
+    <string name="columbus_target_request_dialog_allow">Consenti</string>
+    <string name="columbus_target_request_dialog_deny">Non consentire</string>
 </resources>

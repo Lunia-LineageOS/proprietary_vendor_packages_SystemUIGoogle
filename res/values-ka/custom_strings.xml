@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">მუსიკის ნაგულისხმევ დამკვრელზე დაკვრა</string>
     <string name="accessibility_now_playing_unlike_icon">რჩეულებიდან ამოშლა</string>
     <string name="now_playing_label">რა უკრავს</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">განბლოკეთ სწრაფი შეხების შესასრულებლად</string>
+    <string name="columbus_target_request_dialog_title">დართავთ ნებას სწრაფ შეხებას, გახსნას %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">ორჯერ შეეხეთ თქვენი ტელეფონის უკანა მხარეს, რომ გახსნათ %1$s. ამის შეცვლა ნებისმიერ დროს შეგიძლიათ პარამეტრებში</string>
+    <string name="columbus_target_request_dialog_allow">დაშვება</string>
+    <string name="columbus_target_request_dialog_deny">არ დაიშვას</string>
 </resources>

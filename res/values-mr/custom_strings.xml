@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">डीफॉल्ट संगीत प्लेअरवर प्ले करा</string>
     <string name="accessibility_now_playing_unlike_icon">आवडतेमधून काढून टाका</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">क्विक टॅप पूर्ण करण्यासाठी अनलॉक करा</string>
+    <string name="columbus_target_request_dialog_title">क्विक टॅप ला %1$s उघडण्याची अनुमती द्यायची का?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s उघडण्यासाठी तुमच्या फोनच्या मागच्या बाजूला दोनदा टॅप करा. तुम्ही सेटिंग्ज मध्ये हे कधीही बदलू शकता.</string>
+    <string name="columbus_target_request_dialog_allow">अनुमती द्या</string>
+    <string name="columbus_target_request_dialog_deny">अनुमती देऊ नका</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ডিফ’ল্ট সংগীত প্লে’য়াৰত প্লে’ কৰক</string>
     <string name="accessibility_now_playing_unlike_icon">প্ৰিয়ৰ পৰা আঁতৰাওক</string>
     <string name="now_playing_label">সদ্য পৰিৱেশিত গীত</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">কুইক টেপ সম্পূৰ্ণ কৰিবলৈ আনলক কৰক</string>
+    <string name="columbus_target_request_dialog_title">%1$s খুলিবলৈ কুইক টেপ ব্যৱহাৰ কৰিবলৈ অনুমতি দিবনে?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s খুলিবলৈ নিজৰ ফ’নটোৰ পিছফালে দুবাৰ টিপক। আপুনি যিকোনো সময়তে ছেটিঙত এইটো সলনি কৰিব পাৰে।</string>
+    <string name="columbus_target_request_dialog_allow">অনুমতি দিয়ক</string>
+    <string name="columbus_target_request_dialog_deny">অনুমতি নিদিব</string>
 </resources>

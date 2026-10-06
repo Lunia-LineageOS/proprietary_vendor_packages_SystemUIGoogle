@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ڈیفالٹ میوزک پلیئر پر چلائیں</string>
     <string name="accessibility_now_playing_unlike_icon">پسندیدہ سے ہٹائیں</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">فوری تھپتھپاہٹ کو مکمل کرنے کے لیے غیر مقفل کریں</string>
+    <string name="columbus_target_request_dialog_title">فوری تھپتھپاہٹ کو %1$s کو کھولنے کی اجازت دیں؟</string>
+    <string name="columbus_target_request_dialog_summary">%1$s کھولنے کے لیے اپنے فون کے پچھلے حصے پر دو بار تھپتھپائیں۔ آپ اسے ترتیبات میں کسی بھی وقت تبدیل کر سکتے ہیں۔</string>
+    <string name="columbus_target_request_dialog_allow">اجازت دیں</string>
+    <string name="columbus_target_request_dialog_deny">اجازت نہ دیں</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Ouça no leitor de música predefinido</string>
     <string name="accessibility_now_playing_unlike_icon">Remova dos favoritos</string>
     <string name="now_playing_label">A tocar</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Desbloqueie para efetuar o Quick Tap</string>
+    <string name="columbus_target_request_dialog_title">Permitir que o Quick Tap abra a app %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Toque duas vezes na parte posterior do telemóvel para abrir a app %1$s. Poderá alterar esta definição em qualquer altura nas Definições.</string>
+    <string name="columbus_target_request_dialog_allow">Permitir</string>
+    <string name="columbus_target_request_dialog_deny">Não permitir</string>
 </resources>

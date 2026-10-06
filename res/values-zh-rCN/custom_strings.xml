@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">在默认音乐播放器中播放</string>
     <string name="accessibility_now_playing_unlike_icon">从收藏夹中移除</string>
     <string name="now_playing_label">闻曲知音</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">请解锁以完成快速轻触操作</string>
+    <string name="columbus_target_request_dialog_title">允许使用“快速轻触”手势打开“%1$s”吗？</string>
+    <string name="columbus_target_request_dialog_summary">触碰手机背面两次即可打开“%1$s”。您可以随时在“设置”中更改此设置。</string>
+    <string name="columbus_target_request_dialog_allow">允许</string>
+    <string name="columbus_target_request_dialog_deny">不允许</string>
 </resources>

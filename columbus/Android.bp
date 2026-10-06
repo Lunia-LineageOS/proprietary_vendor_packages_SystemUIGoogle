@@ -1,0 +1,4 @@
+java_library {
+    name: "columbus-lib",
+    srcs: ["src/**/*.aidl"],
+}

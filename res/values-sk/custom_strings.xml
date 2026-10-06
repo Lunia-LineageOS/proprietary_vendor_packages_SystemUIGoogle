@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Prehrať v predvolenom prehrávači hudby</string>
     <string name="accessibility_now_playing_unlike_icon">Odobrať z obľúbených</string>
     <string name="now_playing_label">Čo to hrá</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ak chcete dokončiť rýchle poklepanie, odomknite</string>
+    <string name="columbus_target_request_dialog_title">Chcete rýchlym poklepaním otvárať aplikáciu %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s otvoríte dvojitým klepnutím na zadnú stranu telefónu. Môžete to kedykoľvek zmeniť v Nastaveniach.</string>
+    <string name="columbus_target_request_dialog_allow">Povoliť</string>
+    <string name="columbus_target_request_dialog_deny">Nepovoliť</string>
 </resources>

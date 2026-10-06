@@ -39,7 +39,10 @@ android_library {
     static_libs: [
         "SystemUI-core",
         "SystemUIGoogle-res",
+        "android.frameworks.stats-V2-java",
         "androidx.compose.runtime_runtime",
+        "columbus-lib",
+        "columbus-proto-java",
         "smartspace-proto-java",
         "smartspace-proto-lite-java",
         "tensorflowlite_java",

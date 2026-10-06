@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Phát trên trình phát nhạc mặc định</string>
     <string name="accessibility_now_playing_unlike_icon">Xoá khỏi mục yêu thích</string>
     <string name="now_playing_label">Phát hiện nhạc</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Mở khóa để hoàn tất thao tác Chạm nhanh</string>
+    <string name="columbus_target_request_dialog_title">Cho phép cử chỉ Chạm nhanh mở %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Nhấn hai lần vào mặt sau của điện thoại để mở %1$s. Bạn có thể thay đổi tùy chọn này bất kỳ lúc nào trong phần Cài đặt.</string>
+    <string name="columbus_target_request_dialog_allow">Cho phép</string>
+    <string name="columbus_target_request_dialog_deny">Không cho phép</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Өгөгдмөл хөгжим тоглуулагч дээр тоглуулна</string>
     <string name="accessibility_now_playing_unlike_icon">Дуртайгаас хасах</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Шуурхай товшилтыг дуусгахын тулд түгжээг тайлна уу</string>
+    <string name="columbus_target_request_dialog_title">Шуурхай товшилтод %1$s-г нээхийг зөвшөөрөх үү?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s-г нээхийн тулд утасныхаа ард талд хоёр товшино уу. Та үүнийг Тохиргоо хэсэгт хүссэн үедээ өөрчлөх боломжтой.</string>
+    <string name="columbus_target_request_dialog_allow">Зөвшөөрөх</string>
+    <string name="columbus_target_request_dialog_deny">Бүү зөвшөөр</string>
 </resources>

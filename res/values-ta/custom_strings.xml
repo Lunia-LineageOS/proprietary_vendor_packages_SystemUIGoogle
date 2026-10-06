@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">இயல்பு மியூசிக் பிளேயரில் பிளே செய்யும்</string>
     <string name="accessibility_now_playing_unlike_icon">பிடித்தவற்றிலிருந்து அகற்றும்</string>
     <string name="now_playing_label">பாடல் விவரம்</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">விரைவுத் தட்டல் சைகையை நிறைவுசெய்ய அன்லாக் செய்யவும்</string>
+    <string name="columbus_target_request_dialog_title">%1$s ஆப்ஸைத் திறக்க, விரைவுத் தட்டல் சைகையை அனுமதிக்கவா?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ஆப்ஸைத் திறக்க மொபைலின் பின்புறத்தில் இருமுறை தட்டுங்கள். அமைப்புகளில் இதை எப்போது வேண்டுமானாலும் மாற்றிக்கொள்ளலாம்.</string>
+    <string name="columbus_target_request_dialog_allow">அனுமதி</string>
+    <string name="columbus_target_request_dialog_deny">அனுமதிக்காதே</string>
 </resources>

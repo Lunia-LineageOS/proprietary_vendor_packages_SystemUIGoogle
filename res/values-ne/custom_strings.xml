@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">डिफल्ट म्युजिक प्लेयरमा प्ले गर्नुहोस्</string>
     <string name="accessibility_now_playing_unlike_icon">मन पर्ने कुराहरूको सूचीबाट हटाउनुहोस्</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">\"क्विक ट्याप\" नामक कारबाही पूरा गर्न अनलक गर्नुहोस्</string>
+    <string name="columbus_target_request_dialog_title">%1$s क्विक ट्याप गरेर खोल्न दिने हो?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s खोल्न आफ्नो फोनको पछाडिपट्टि दुई पटक ट्याप गर्नुहोस्। तपाईं जुनसुकै बेला सेटिङमा गई यो कुरा परिवर्तन गर्न सक्नुहुन्छ।</string>
+    <string name="columbus_target_request_dialog_allow">अनुमति दिनुहोस्</string>
+    <string name="columbus_target_request_dialog_deny">अनुमति नदिनुहोस्</string>
 </resources>

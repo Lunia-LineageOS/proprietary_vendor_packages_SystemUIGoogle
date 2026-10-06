@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Přehrát ve výchozím přehrávači hudby</string>
     <string name="accessibility_now_playing_unlike_icon">Odebrat z oblíbených</string>
     <string name="now_playing_label">Co to hraje</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Rychlé poklepání dokončíte odemknutím</string>
+    <string name="columbus_target_request_dialog_title">Povolit otevírání aplikace %1$s rychlým poklepáním?</string>
+    <string name="columbus_target_request_dialog_summary">Dvojitým klepnutím na zadní část telefonu otevřete aplikaci %1$s. Tuto možnost můžete kdykoli změnit v Nastavení.</string>
+    <string name="columbus_target_request_dialog_allow">Povolit</string>
+    <string name="columbus_target_request_dialog_deny">Nepovolovat</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Varsayılan müzik çalarda oynat</string>
     <string name="accessibility_now_playing_unlike_icon">Favorilerden kaldır</string>
     <string name="now_playing_label">Ne Çalıyor?</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Hızlı Dokun hareketini tamamlamak için kilidi açın</string>
+    <string name="columbus_target_request_dialog_title">Hızlı Dokun özelliğinin %1$s uygulamasını açmasına izin verilsin mi?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s uygulamasını açmak için telefonunuzun arkasına iki kez dokunun. İstediğiniz zaman bunu Ayarlar\'dan değiştirebilirsiniz.</string>
+    <string name="columbus_target_request_dialog_allow">İzin ver</string>
+    <string name="columbus_target_request_dialog_deny">İzin verme</string>
 </resources>

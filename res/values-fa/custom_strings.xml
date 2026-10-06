@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">پخش کردن در «پخش‌کننده موسیقی پیش‌فرض»</string>
     <string name="accessibility_now_playing_unlike_icon">برداشتن از موارد دلخواه</string>
     <string name="now_playing_label">درحال پخش</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">برای تکمیل «ضربه سریع»، قفل را باز کنید</string>
+    <string name="columbus_target_request_dialog_title">«ضربه سریع» اجازه دارد %1$s را باز کند؟</string>
+    <string name="columbus_target_request_dialog_summary">دوبار به پشت تلفنتان تک‌ضرب بزنید تا %1$s باز شود. هرزمان خواستید می‌توانید آن را در «تنظیمات» تغییر دهید.</string>
+    <string name="columbus_target_request_dialog_allow">اجازه دادن</string>
+    <string name="columbus_target_request_dialog_deny">اجازه ندادن</string>
 </resources>

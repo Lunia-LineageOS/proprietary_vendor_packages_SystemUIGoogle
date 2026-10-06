@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Αναπαραγωγή στο προεπιλεγμένο πρόγραμμα αναπαραγωγής μουσικής</string>
     <string name="accessibility_now_playing_unlike_icon">Κατάργηση από τα αγαπημένα</string>
     <string name="now_playing_label">Ακούγεται τώρα</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ξεκλειδώστε για ολοκλήρωση του Γρήγορου πατήματος</string>
+    <string name="columbus_target_request_dialog_title">Να επιτραπεί το άνοιγμα της εφαρμογής %1$s με το Γρήγορο πάτημα;</string>
+    <string name="columbus_target_request_dialog_summary">Πατήστε δύο φορές το πίσω μέρος του τηλεφώνου για άνοιγμα της εφαρμογής %1$s. Μπορείτε να αλλάξετε αυτήν τη ρύθμιση ανά πάσα στιγμή από τις Ρυθμίσεις.</string>
+    <string name="columbus_target_request_dialog_allow">Αποδοχή</string>
+    <string name="columbus_target_request_dialog_deny">Να μην επιτραπεί</string>
 </resources>

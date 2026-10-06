@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Spila í sjálfgefnum tónlistarspilara</string>
     <string name="accessibility_now_playing_unlike_icon">Fjarlægja úr uppáhaldi</string>
     <string name="now_playing_label">Í spilun</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Taktu úr lás til að ljúka við að pikka</string>
+    <string name="columbus_target_request_dialog_title">Leyfa pikki að opna %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Ýttu tvisvar á bakhlið símans til að opna %1$s. Þú getur breytt þessu hvenær sem er í stillingunum.</string>
+    <string name="columbus_target_request_dialog_allow">Leyfa</string>
+    <string name="columbus_target_request_dialog_deny">Ekki leyfa</string>
 </resources>

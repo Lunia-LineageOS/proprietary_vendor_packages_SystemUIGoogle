@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ଡିଫଲ୍ଟ ମ୍ୟୁଜିକ ପ୍ଲେୟାରରେ ଚଲାନ୍ତୁ</string>
     <string name="accessibility_now_playing_unlike_icon">ପସନ୍ଦରୁ କାଢ଼ି ଦିଅନ୍ତୁ</string>
     <string name="now_playing_label">ବର୍ତ୍ତମାନ ଚାଲୁଛି</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">କୁଇକ୍ ଟାପ୍ ସମ୍ପୂର୍ଣ୍ଣ କରିବା ପାଇଁ ଅନଲକ୍ କରନ୍ତୁ</string>
+    <string name="columbus_target_request_dialog_title">%1$s ଖୋଲିବାକୁ କୁଇକ୍ ଟାପକୁ ଅନୁମତି ଦେବେ କି?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ଖୋଲିବାକୁ ଆପଣଙ୍କ ଫୋନର ପଛ ପଟେ ଦୁଇଥର ଟାପ କରନ୍ତୁ। ଆପଣ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସରେ ଏହାକୁ ବଦଳାଇପାରିବେ।</string>
+    <string name="columbus_target_request_dialog_allow">ଅନୁମତି ଦିଅନ୍ତୁ</string>
+    <string name="columbus_target_request_dialog_deny">ଅନୁମତି ଦିଅନାହିଁ</string>
 </resources>

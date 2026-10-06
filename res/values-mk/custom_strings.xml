@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Пушти на стандарден музички плеер</string>
     <string name="accessibility_now_playing_unlike_icon">Отстрани од омилените</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Отклучете за да се заврши „Брз допир“</string>
+    <string name="columbus_target_request_dialog_title">Да се дозволи „Брз допир“ да ја отвора %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Допрете ја задната страна на телефонот двапати за да ја отворите %1$s. Ова може да го промените во секое време во „Поставки“.</string>
+    <string name="columbus_target_request_dialog_allow">Дозволи</string>
+    <string name="columbus_target_request_dialog_deny">Не дозволувај</string>
 </resources>

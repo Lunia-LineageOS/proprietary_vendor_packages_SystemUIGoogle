@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ಡೀಫಾಲ್ಟ್ ಮ್ಯೂಸಿಕ್ ಪ್ಲೇಯರ್‌ನಲ್ಲಿ ಪ್ಲೇ ಮಾಡಿ</string>
     <string name="accessibility_now_playing_unlike_icon">ಮೆಚ್ಚಿನವುಗಳಿಂದ ತೆಗೆದುಹಾಕಿ</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ಕ್ವಿಕ್ ಟ್ಯಾಪ್ ಅನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ಅನ್‌ಲಾಕ್ ಮಾಡಿ</string>
+    <string name="columbus_target_request_dialog_title">ಕ್ವಿಕ್ ಟ್ಯಾಪ್‌ಗೆ %1$s ಅನ್ನು ತೆರೆಯಲು ಅನುಮತಿಸಬೇಕೇ?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s ಅನ್ನು ತೆರೆಯಲು ನಿಮ್ಮ ಫೋನ್‌ನ ಹಿಂಭಾಗವನ್ನು ನೀವು ಡಬಲ್-ಟ್ಯಾಪ್ ಮಾಡಿ. ನೀವು ಇದನ್ನು ಯಾವುದೇ ಸಮಯದಲ್ಲಿಯೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಿಸಬಹುದು.</string>
+    <string name="columbus_target_request_dialog_allow">ಅನುಮತಿಸಿ</string>
+    <string name="columbus_target_request_dialog_deny">ಅನುಮತಿಸಬೇಡಿ</string>
 </resources>

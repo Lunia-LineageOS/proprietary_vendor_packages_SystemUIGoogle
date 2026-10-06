@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Faire jouer sur le lecteur de musique par défaut</string>
     <string name="accessibility_now_playing_unlike_icon">Retirer des favoris</string>
     <string name="now_playing_label">En cours de lecture</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Déverrouillez pour utiliser le double toucher</string>
+    <string name="columbus_target_request_dialog_title">Autoriser le double toucher à accéder à %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Touchez deux fois l\'arrière de votre téléphone pour ouvrir %1$s. Vous pouvez changer cette option en tout temps dans les paramètres.</string>
+    <string name="columbus_target_request_dialog_allow">Autoriser</string>
+    <string name="columbus_target_request_dialog_deny">Ne pas autoriser</string>
 </resources>

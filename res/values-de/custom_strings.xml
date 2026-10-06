@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Im Standard-Musikplayer abspielen</string>
     <string name="accessibility_now_playing_unlike_icon">Aus Favoriten entfernen</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Zum Schnelltippen entsperren</string>
+    <string name="columbus_target_request_dialog_title">Der Funktion „Schnelltippen“ erlauben, %1$s zu öffnen?</string>
+    <string name="columbus_target_request_dialog_summary">Wenn du zweimal auf die Rückseite deines Smartphones tippst, wird %1$s geöffnet. Du kannst dies jederzeit in den Einstellungen ändern.</string>
+    <string name="columbus_target_request_dialog_allow">Zulassen</string>
+    <string name="columbus_target_request_dialog_deny">Nicht zulassen</string>
 </resources>

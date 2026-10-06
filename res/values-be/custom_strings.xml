@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Прайграць на стандартным прайгравальніку музыкі</string>
     <string name="accessibility_now_playing_unlike_icon">Выдаліць з абраных</string>
     <string name="now_playing_label">Зараз іграе</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Разблакіруйце, каб выканаць хуткі дотык</string>
+    <string name="columbus_target_request_dialog_title">Дазволіць хуткі дотык для адкрыцця праграмы \"%1$s\"?</string>
+    <string name="columbus_target_request_dialog_summary">Двойчы дакрануцца да задняй панэлі тэлефона, каб адкрыць праграму \"%1$s\". Вы можаце змяніць гэта ў любы час у Наладах.</string>
+    <string name="columbus_target_request_dialog_allow">Дазволіць</string>
+    <string name="columbus_target_request_dialog_deny">Не дазваляць</string>
 </resources>

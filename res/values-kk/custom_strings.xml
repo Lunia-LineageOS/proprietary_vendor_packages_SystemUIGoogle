@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Әдепкі музыка ойнатқышта ойнату</string>
     <string name="accessibility_now_playing_unlike_icon">Таңдаулылардан өшіру</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Жылдам түрту қимылын орындау үшін құлыпты ашыңыз.</string>
+    <string name="columbus_target_request_dialog_title">\"Жылдам түрту\" қимылына %1$s қолданбасын ашуға рұқсат берілсін бе?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s қолданбасын ашу үшін телефонның артын екі рет түртіңіз. Мұны кез келген уақытта \"Параметрлер\" бөлімінен өзгертуге болады.</string>
+    <string name="columbus_target_request_dialog_allow">Рұқсат ету</string>
+    <string name="columbus_target_request_dialog_deny">Рұқсат бермеу</string>
 </resources>

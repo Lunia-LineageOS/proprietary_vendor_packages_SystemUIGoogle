@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Spela upp i standardmusikspelare</string>
     <string name="accessibility_now_playing_unlike_icon">Ta bort från Favoriter</string>
     <string name="now_playing_label">Nu spelas</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Lås upp för att slutföra snabbtryck</string>
+    <string name="columbus_target_request_dialog_title">Vill du tillåta att %1$s öppnas med snabbtryck?</string>
+    <string name="columbus_target_request_dialog_summary">Öppna %1$s genom att trycka snabbt två gånger på baksidan av telefonen. Du kan när som helst ändra detta i inställningarna.</string>
+    <string name="columbus_target_request_dialog_allow">Tillåt</string>
+    <string name="columbus_target_request_dialog_deny">Tillåt inte</string>
 </resources>

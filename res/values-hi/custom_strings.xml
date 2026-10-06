@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">डिफ़ॉल्ट म्यूज़िक प्लेयर पर चलाएं</string>
     <string name="accessibility_now_playing_unlike_icon">\'पसंदीदा\' से हटाएं</string>
     <string name="now_playing_label">आस-पास चल रहा संगीत</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">क्विक टैप पूरा करने के लिए अनलॉक करें</string>
+    <string name="columbus_target_request_dialog_title">क्या आप क्विक टैप को %1$s खोलने की अनुमति देना चाहते हैं?</string>
+    <string name="columbus_target_request_dialog_summary">%1$s खोलने के लिए, अपने फ़ोन के पीछे वाले हिस्से पर दो बार टैप करें. सेटिंग में जाकर, इस विकल्प को कभी भी बदला जा सकता है.</string>
+    <string name="columbus_target_request_dialog_allow">अनुमति दें</string>
+    <string name="columbus_target_request_dialog_deny">अनुमति न दें</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Esitamine vaikemuusikapleieris</string>
     <string name="accessibility_now_playing_unlike_icon">Lemmikutest eemaldamine</string>
     <string name="now_playing_label">Hetkel mängimas</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Avage, et kiirpuudutus lõpetada</string>
+    <string name="columbus_target_request_dialog_title">Kas lubada kiirpuudutus rakenduse %1$s avamiseks?</string>
+    <string name="columbus_target_request_dialog_summary">Puudutage kaks korda oma telefoni tagakülge, et avada rakendus %1$s. Saate seda menüüs Seaded alati muuta.</string>
+    <string name="columbus_target_request_dialog_allow">Luba</string>
+    <string name="columbus_target_request_dialog_deny">Ära luba</string>
 </resources>

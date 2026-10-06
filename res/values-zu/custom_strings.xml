@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Dlala Esidlalini Somculo Esizenzakalelayo</string>
     <string name="accessibility_now_playing_unlike_icon">Susa ezintandokazini</string>
     <string name="now_playing_label">Okudlala Manje</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Vula ukuze uqedele Ukuthepha Okusheshayo</string>
+    <string name="columbus_target_request_dialog_title">Vumela Ukuthepha Okusheshayo ukuze uvule i-%1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Thepha ngemuva kwefoni yakho kabili ukuze uvule i-%1$s. Ungashintsha lokhu noma kunini kokuthi Amasethingi.</string>
+    <string name="columbus_target_request_dialog_allow">Vumela</string>
+    <string name="columbus_target_request_dialog_deny">Ungavumeli</string>
 </resources>

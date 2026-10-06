@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Cheza kwenye Kicheza Muziki Chaguomsingi</string>
     <string name="accessibility_now_playing_unlike_icon">Ondoa kwenye vipendwa</string>
     <string name="now_playing_label">Kitambua Ngoma</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Fungua ili umalize Kugusa Haraka</string>
+    <string name="columbus_target_request_dialog_title">Ungependa kuruhusu ishara ya Kugusa Haraka ifungue %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Gusa nyuma ya simu yako mara mbili ili ufungue %1$s. Unaweza kubadilisha hali hii wakati wowote katika Mipangilio.</string>
+    <string name="columbus_target_request_dialog_allow">Ruhusu</string>
+    <string name="columbus_target_request_dialog_deny">Usiruhusu</string>
 </resources>

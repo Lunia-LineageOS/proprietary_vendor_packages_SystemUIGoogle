@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Redă în playerul muzical prestabilit</string>
     <string name="accessibility_now_playing_unlike_icon">Elimină din favorite</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Deblochează pentru a finaliza Atingerea rapidă</string>
+    <string name="columbus_target_request_dialog_title">Permiți ca Atingerea rapidă să deschidă %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Atinge de două ori partea din spate a telefonului pentru a deschide %1$s. Poți modifica oricând opțiunea din setări.</string>
+    <string name="columbus_target_request_dialog_allow">Permite</string>
+    <string name="columbus_target_request_dialog_deny">Nu permite</string>
 </resources>

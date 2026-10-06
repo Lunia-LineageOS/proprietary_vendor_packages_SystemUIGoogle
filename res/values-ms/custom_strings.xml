@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Mainkan pada Pemain Muzik Lalai</string>
     <string name="accessibility_now_playing_unlike_icon">Alih keluar daripada kegemaran</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Buka kunci untuk melengkapkan Ketikan Segera</string>
+    <string name="columbus_target_request_dialog_title">Benarkan Ketikan Segera untuk membuka %1$s?</string>
+    <string name="columbus_target_request_dialog_summary">Ketik dua kali pada belakang telefon anda untuk membuka %1$s. Anda boleh menukar pilihan ini pada bila-bila masa dalam Tetapan.</string>
+    <string name="columbus_target_request_dialog_allow">Benarkan</string>
+    <string name="columbus_target_request_dialog_deny">Jangan benarkan</string>
 </resources>

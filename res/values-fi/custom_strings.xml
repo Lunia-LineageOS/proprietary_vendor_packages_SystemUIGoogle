@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Toista oletusmusiikkisoittimella</string>
     <string name="accessibility_now_playing_unlike_icon">Poista suosikeista</string>
     <string name="now_playing_label">Musiikintunnistus</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Avaa lukitus, jotta voit käyttää pikanäpäytystä</string>
+    <string name="columbus_target_request_dialog_title">Voidaanko %1$s avata pikanäpäytyksellä?</string>
+    <string name="columbus_target_request_dialog_summary">Avaa %1$s napauttamalla puhelimen takaosaa kaksi kertaa. Voit vaihtaa valintasi milloin tahansa asetuksista.</string>
+    <string name="columbus_target_request_dialog_allow">Salli</string>
+    <string name="columbus_target_request_dialog_deny">Älä salli</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ចាក់នៅលើកម្មវិធីចាក់តន្ត្រីលំនាំដើម</string>
     <string name="accessibility_now_playing_unlike_icon">ដកចេញពី​សំណព្វ</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">ដោះសោ​ដើម្បីបញ្ចប់​ការប៉ះរហ័ស</string>
+    <string name="columbus_target_request_dialog_title">អនុញ្ញាតឱ្យ \"ការប៉ះរហ័ស\" បើក %1$s ឬ?</string>
+    <string name="columbus_target_request_dialog_summary">ប៉ះផ្នែក​ខាងក្រោយទូរសព្ទ​របស់អ្នក​ពីរដង ដើម្បីបើក %1$s។ អ្នកអាច​ប្ដូរវា​បានគ្រប់ពេល​នៅក្នុង​ការកំណត់។</string>
+    <string name="columbus_target_request_dialog_allow">អនុញ្ញាត</string>
+    <string name="columbus_target_request_dialog_deny">មិនអនុញ្ញាត</string>
 </resources>

@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Speel op verstekmusiekspeler</string>
     <string name="accessibility_now_playing_unlike_icon">Verwyder uit gunstelinge</string>
     <string name="now_playing_label">Wat Speel</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Ontsluit om Dubbeltik te voltooi</string>
+    <string name="columbus_target_request_dialog_title">Laat toe dat Dubbeltik %1$s oopmaak?</string>
+    <string name="columbus_target_request_dialog_summary">Tik twee keer op jou foon se agterkant om %1$s oop te maak. Jy kan dit enige tyd in Instellings verander.</string>
+    <string name="columbus_target_request_dialog_allow">Laat toe</string>
+    <string name="columbus_target_request_dialog_deny">Weier</string>
 </resources>

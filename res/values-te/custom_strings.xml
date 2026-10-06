@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">ఆటోమేటిక్ సెట్టింగ్ మ్యూజిక్ ప్లేయర్‌లో ప్లే చేయండి</string>
     <string name="accessibility_now_playing_unlike_icon">ఫేవరెట్స్ నుండి తీసివేయండి</string>
     <string name="now_playing_label">Now Playing</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">క్విక్ ట్యాప్‌ను పూర్తి చేయడానికి అన్‌లాక్ చేయండి</string>
+    <string name="columbus_target_request_dialog_title">%1$sను తెరవడానికి క్విక్ ట్యాప్‌ను అనుమతించాలా?</string>
+    <string name="columbus_target_request_dialog_summary">%1$sను తెరవడానికి మీ ఫోన్ వెనుక భాగాన్ని వేగంగా రెండు సార్లు ట్యాప్ చేయండి. మీరు ఎప్పుడైనా సెట్టింగ్‌లలో దీనిని మార్చవచ్చు.</string>
+    <string name="columbus_target_request_dialog_allow">అనుమతించండి</string>
+    <string name="columbus_target_request_dialog_deny">అనుమతించవద్దు</string>
 </resources>

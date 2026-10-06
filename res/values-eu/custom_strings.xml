@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">Erreproduzitu musika-erreproduzigailu lehenetsian</string>
     <string name="accessibility_now_playing_unlike_icon">Kendu gogokoetatik</string>
     <string name="now_playing_label">Orain erreproduzitzen</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">Sakatze bizkorra osatzeko, desblokeatu</string>
+    <string name="columbus_target_request_dialog_title">%1$s irekitzeko baimena eman nahi diozu Sakatze bizkorra keinuari?</string>
+    <string name="columbus_target_request_dialog_summary">Sakatu birritan telefonoaren atzealdea %1$s irekitzeko. Ezarpenetan alda dezakezu aukera hori.</string>
+    <string name="columbus_target_request_dialog_allow">Eman baimena</string>
+    <string name="columbus_target_request_dialog_deny">Ez eman baimenik</string>
 </resources>

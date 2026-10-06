@@ -15,4 +15,10 @@
     <string name="accessibility_now_playing_play_icon">التشغيل على مشغِّل الموسيقى التلقائي</string>
     <string name="accessibility_now_playing_unlike_icon">إزالة من المفضّلة</string>
     <string name="now_playing_label">التعرّف التلقائي على الموسيقى</string>
+    <!-- Quick Tap -->
+    <string name="columbus_bouncer_message">يجب فتح قفل الجهاز لإكمال النقرة السريعة.</string>
+    <string name="columbus_target_request_dialog_title">هل تريد السماح لإيماءة \"النقرة السريعة\" بفتح %1$s؟</string>
+    <string name="columbus_target_request_dialog_summary">انقر مرتين على ظهر الهاتف لفتح %1$s. يمكنك تغيير هذا في أي وقت من خلال الإعدادات.</string>
+    <string name="columbus_target_request_dialog_allow">السماح</string>
+    <string name="columbus_target_request_dialog_deny">عدم السماح</string>
 </resources>
