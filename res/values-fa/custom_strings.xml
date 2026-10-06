@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">‫%2$s • شارژ تا %1$s کامل می‌شود</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">‫%2$s • %1$s تا شارژ کامل مانده است</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">‫%1$s • شارژ کامل شد</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">دستیار سلامت باتری روشن است</string>
+    <string name="pulsar_enabled_notification_text">‏‫Pixel اکنون در مدیریت عملکرد و سلامت بلندمدت باتری به شما کمک می‌کند. می‌توانید این ویژگی را در «تنظیمات» خاموش کنید.</string>
+    <string name="pulsar_reminder_notification_title">«دستیار سلامت باتری» خاموش است</string>
+    <string name="pulsar_reminder_notification_text">«دستیار سلامت باتری» را روشن کنید تا در مدیریت عملکرد و سلامت بلندمدت باتری به شما کمک کند</string>
 </resources>

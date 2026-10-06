@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ordu honetan egongo da guztiz kargatuta: %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s barru amaituko da kargatzen</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Guztiz kargatu da</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Bateriaren egoerari buruzko laguntza aktibatuta dago</string>
+    <string name="pulsar_enabled_notification_text">Orain, Pixel-ek bateriaren epe luzeko egoera eta errendimendua kudeatzen laguntzen du. Aukera hori desaktibatzeko, joan Ezarpenak atalera.</string>
+    <string name="pulsar_reminder_notification_title">Bateriaren egoerari buruzko laguntza desaktibatuta dago</string>
+    <string name="pulsar_reminder_notification_text">Aktibatu bateriaren egoerari buruzko laguntza epe luzeko egoera eta errendimendua kudeatzeko</string>
 </resources>

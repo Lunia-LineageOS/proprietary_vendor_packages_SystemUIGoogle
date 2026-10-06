@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • დამუხტვის დასრულების დრო: %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • დატენის დასრულებამდე დარჩენილი დრო: %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • დატენა დასრულებულია</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ბატარეის მდგომარეობის ასისტენტი ჩართულია</string>
+    <string name="pulsar_enabled_notification_text">Pixel ახლა უკვე თქვენი ბატარეის მდგომარეობისა და ეფექტურობის გრძელვადიან პერსპექტივაში მართვაში გეხმარებათ. ამის გამორთვა პარამეტრებიდან შეგიძლიათ.</string>
+    <string name="pulsar_reminder_notification_title">ბატარეის მდგომარეობის შენარჩუნებაში დამხმარე გამორთულია</string>
+    <string name="pulsar_reminder_notification_text">ჩართეთ ბატარეის მდგომარეობის შენარჩუნებაში დამხმარე, რათა თქვენი ბატარეის მდგომარეობა და ეფექტურობა გრძელვადიანად მართოთ</string>
 </resources>

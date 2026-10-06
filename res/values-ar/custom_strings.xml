@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">‏‫‎%2$s • اكتمل الشحن في الساعة %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">‫%2$s • سيكتمل الشحن خلال %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">‫%1$s • تم الوصول إلى حد الشحن المطلوب</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ميزة \"مساعدة بشأن حالة البطارية\" مفعَّلة</string>
+    <string name="pulsar_enabled_notification_text">‏يساعدك هاتف Pixel الآن في إدارة حالة البطارية وأدائها على المدى الطويل. ويمكنك إيقاف هذه الميزة من خلال \"الإعدادات\".</string>
+    <string name="pulsar_reminder_notification_title">ميزة \"مساعدة بشأن حالة البطارية\" غير مفعّلة</string>
+    <string name="pulsar_reminder_notification_text">يمكنك تفعيل ميزة \"مساعدة بشأن حالة البطارية\" لتسهيل إدارة حالة البطارية وأدائها على المدى الطويل</string>
 </resources>

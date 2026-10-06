@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • A töltés ekkor lesz kész: %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • A töltés befejeződik %1$s múlva</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Töltés kész</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Az akkumulátor állapotával kapcsolatos segítség be van kapcsolva</string>
+    <string name="pulsar_enabled_notification_text">A Pixel mostantól segít az akkumulátor hosszú távú állapotának és teljesítményének kezelésében. Ezt a funkciót a beállítások között lehet kikapcsolni.</string>
+    <string name="pulsar_reminder_notification_title">Az akkumulátor állapotával kapcsolatos segítség ki van kapcsolva</string>
+    <string name="pulsar_reminder_notification_text">Kapcsolja be az akkumulátor állapotával kapcsolatos segítséget, amely segít az akkumulátor hosszú távú állapotának és teljesítményének kezelésében.</string>
 </resources>

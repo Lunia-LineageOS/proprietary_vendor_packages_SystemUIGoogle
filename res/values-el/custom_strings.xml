@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Η φόρτιση θα ολοκληρωθεί έως τις %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Η φόρτιση θα ολοκληρωθεί σε %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Η φόρτιση ολοκληρώθηκε</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Η υποστήριξη για την υγεία μπαταρίας είναι ενεργή</string>
+    <string name="pulsar_enabled_notification_text">Το Pixel συμβάλλει πλέον στη διαχείριση της υγείας και της απόδοσης της μπαταρίας μακροπρόθεσμα. Μπορείτε να απενεργοποιήσετε αυτή τη λειτουργία στις Ρυθμίσεις.</string>
+    <string name="pulsar_reminder_notification_title">Η υποστήριξη για την υγεία μπαταρίας είναι απενεργοποιημένη</string>
+    <string name="pulsar_reminder_notification_text">Ενεργοποιήστε την υποστήριξη για την υγεία μπαταρίας, για να διαχειριστείτε την υγεία και την απόδοση της μπαταρίας μακροπρόθεσμα</string>
 </resources>

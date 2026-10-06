@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Zařízení se nabije do %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Nabito v %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Nabíjení je dokončeno</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Asistence s výdrží baterie je zapnutá</string>
+    <string name="pulsar_enabled_notification_text">Pixel teď pomáhá dlouhodobě udržovat stav a výkon baterie. Tuhle funkci můžete vypnout v nastavení.</string>
+    <string name="pulsar_reminder_notification_title">Je vypnutá pomoc s výdrží baterie</string>
+    <string name="pulsar_reminder_notification_text">Zapněte asistenci s výdrží baterie, která vám pomůže zachovat dlouhodobě stav a výkon baterie.</string>
 </resources>

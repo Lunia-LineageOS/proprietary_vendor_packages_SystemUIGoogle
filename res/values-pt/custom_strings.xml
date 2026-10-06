@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Carregamento concluído até %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Carga total em %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Carregamento concluído</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">A assistência de integridade da bateria está ativada</string>
+    <string name="pulsar_enabled_notification_text">Agora o Pixel ajuda a gerenciar o desempenho e a integridade de longo prazo da bateria. É possível desativar essa opção nas configurações.</string>
+    <string name="pulsar_reminder_notification_title">A assistência de integridade da bateria está desativada</string>
+    <string name="pulsar_reminder_notification_text">Ative a assistência de integridade da bateria para gerenciar o desempenho e a integridade de longo prazo da bateria</string>
 </resources>

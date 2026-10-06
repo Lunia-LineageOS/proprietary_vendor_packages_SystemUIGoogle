@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Polnjenje bo končano do %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Polnjenje bo končano čez %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Polnjenje je končano</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Pomoč pri stanju baterije je vklopljena</string>
+    <string name="pulsar_enabled_notification_text">Pixel zdaj pomaga upravljati dolgoročno stanje in učinkovitost delovanja baterije. To lahko izklopite v nastavitvah.</string>
+    <string name="pulsar_reminder_notification_title">Pomoč pri stanju baterije je izklopljena</string>
+    <string name="pulsar_reminder_notification_text">Vklopite pomoč pri stanju baterije, ki vam bo pomagala upravljati dolgoročno stanje in učinkovitost delovanja baterije.</string>
 </resources>

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$sলৈকে চাৰ্জিং সম্পূৰ্ণ হ’ব</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$sত চার্জিং সম্পূর্ণ হৈছে</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • চাৰ্জিং সম্পূৰ্ণ হৈছে</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">বেটাৰীৰ স্বাস্থ্য সম্পৰ্কীয় সহায়ক অন আছে</string>
+    <string name="pulsar_enabled_notification_text">Pixelএ এতিয়া আপোনাৰ বেটাৰীৰ দীঘলীয়া সময়ৰ স্বাস্থ্য আৰু কাৰ্যদক্ষতা পৰিচালনা কৰাত সহায় কৰি আছে। আপুনি ছেটিঙত এই সুবিধাটো অফ কৰিব পাৰে।</string>
+    <string name="pulsar_reminder_notification_title">বেটাৰীৰ স্বাস্থ্য সম্পৰ্কীয় সহায় অফ আছে</string>
+    <string name="pulsar_reminder_notification_text">আপোনাৰ বেটাৰীৰ দীঘলীয়া সময়ৰ বেটাৰীৰ স্বাস্থ্য আৰু কাৰ্যদক্ষতা পৰিচালনা কৰাত সহায় কৰিবলৈ বেটাৰীৰ স্বাস্থ্য সম্পৰ্কীয় সহায় অন কৰক।</string>
 </resources>

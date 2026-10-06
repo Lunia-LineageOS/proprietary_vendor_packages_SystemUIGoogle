@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Fin da carga á/s %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • A carga finalizará dentro de %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Carga finalizada</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Está activada a asistencia respecto do estado da batería</string>
+    <string name="pulsar_enabled_notification_text">Agora Pixel axuda a xestionar o estado e o rendemento da batería a longo prazo. Podes desactivar esta función en Configuración.</string>
+    <string name="pulsar_reminder_notification_title">Está desactivada a asistencia respecto do estado da batería</string>
+    <string name="pulsar_reminder_notification_text">Activa a asistencia respecto do estado da batería para que che axude a xestionar o estado e rendemento da batería a longo prazo.</string>
 </resources>

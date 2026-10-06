@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Itamaliza kuchaji kufikia %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Itamaliza kuchaji baada ya %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Imemaliza kuchaji</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Umewasha kisaidizi cha kudumu kwa betri</string>
+    <string name="pulsar_enabled_notification_text">Sasa Pixel inasaidia kudhibiti utendaji na muda wa kudumu wa betri yako. Unaweza kuzima hali hii katika Mipangilio.</string>
+    <string name="pulsar_reminder_notification_title">Kipengele cha kisaidizi cha kudumu kwa betri kimezima</string>
+    <string name="pulsar_reminder_notification_text">Washa kisaidizi cha kudumu kwa betri ili kikusaidia kudhibiti utendaji na muda wa kudumu kwa betri yako</string>
 </resources>

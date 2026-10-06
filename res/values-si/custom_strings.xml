@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • නිමයි, %1$s වන විට ආරෝපිතයි</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$sකින් ආරෝපණය කර නිමයි</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ආරෝපණය අවසන්</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">බැටරි සෞඛ්‍ය සහාය ක්‍රියාත්මකයි</string>
+    <string name="pulsar_enabled_notification_text">Pixel දැන් ඔබේ බැටරියේ දිගුකාලීන සෞඛ්‍යය සහ ක්‍රියාකාරිත්වය කළමනාකරණය කිරීමට උපකාරී වේ. ඔබට මෙය සැකසීම් තුළ ක්‍රියාවිරහිත කළ හැක.</string>
+    <string name="pulsar_reminder_notification_title">බැටරි සෞඛ්‍යය සහය ක්‍රියාවිරහිතයි</string>
+    <string name="pulsar_reminder_notification_text">ඔබේ බැටරියේ දිගුකාලීන සෞඛ්‍යය සහ ක්‍රියාකාරිත්වය කළමනාකරණය කිරීමට උදවු කිරීම සඳහා බැටරි සෞඛ්‍යය සහය ක්‍රියාත්මක කරන්න</string>
 </resources>

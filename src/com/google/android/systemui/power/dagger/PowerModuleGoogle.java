@@ -17,6 +17,7 @@
 package com.google.android.systemui.power.dagger;
 
 import android.app.Service;
+import android.content.BroadcastReceiver;
 
 import com.android.systemui.CoreStartable;
 import com.android.systemui.power.EnhancedEstimates;
@@ -27,6 +28,7 @@ import com.android.systemui.statusbar.policy.ConfigurationController;
 import com.google.android.systemui.power.EnhancedEstimatesGoogleImpl;
 import com.google.android.systemui.power.PowerNotificationWarningsGoogleImpl;
 import com.google.android.systemui.power.batteryhealth.HealthService;
+import com.google.android.systemui.power.batteryhealth.HealthUpdateReceiver;
 
 import dagger.Binds;
 import dagger.Module;
@@ -65,4 +67,10 @@ public interface PowerModuleGoogle {
     @IntoMap
     @ClassKey(HealthService.class)
     Service bindHealthService(HealthService service);
+
+    /** Injects HealthUpdateReceiver. */
+    @Binds
+    @IntoMap
+    @ClassKey(HealthUpdateReceiver.class)
+    BroadcastReceiver bindHealthUpdateReceiver(HealthUpdateReceiver receiver);
 }

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • La càrrega es completarà a les %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • La càrrega es completarà d\'aquí a %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • La càrrega s\'ha completat</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">L\'assistència sobre l\'estat de la bateria està activada</string>
+    <string name="pulsar_enabled_notification_text">Ara, Pixel t\'ajuda a gestionar l\'estat i el rendiment a llarg termini de la bateria. Pots desactivar aquesta opció a Configuració.</string>
+    <string name="pulsar_reminder_notification_title">L\'assistència sobre l\'estat de la bateria està desactivada</string>
+    <string name="pulsar_reminder_notification_text">Activa l\'assistència sobre l\'estat de la bateria per gestionar-ne l\'estat i el rendiment a llarg termini</string>
 </resources>

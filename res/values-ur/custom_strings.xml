@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • چارجنگ %1$s تک مکمل ہو جائے گا</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s میں مکمل چارج ہو جائے گی</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • چارجنگ مکمل ہو گئی</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">بیٹری کی صحت اسسٹنٹ آن ہے</string>
+    <string name="pulsar_enabled_notification_text">‏اب Pixel آپ کی بیٹری کی طویل مدتی صحت اور کارکردگی کا نظم کرنے میں مدد کر رہا ہے۔ آپ اسے ترتیبات میں آف کر سکتے ہیں۔</string>
+    <string name="pulsar_reminder_notification_title">بیٹری کی صحت کی معاونت آف ہے</string>
+    <string name="pulsar_reminder_notification_text">اپنی بیٹری کی طویل مدتی صحت اور کارکردگی کا نظم کرنے میں مدد کیلئے، بیٹری کی صحت کی معاونت کو آن کریں</string>
 </resources>

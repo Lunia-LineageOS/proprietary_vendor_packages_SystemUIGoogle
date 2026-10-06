@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ќе се наполни до %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Полнењето ќе заврши по %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Полнењето е завршено</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">„Помош за состојбата на батеријата“ е вклучена</string>
+    <string name="pulsar_enabled_notification_text">Отсега Pixel помага при управувањето со долгорочната состојба и изведба на вашата батерија. Ова може да се исклучи во „Поставки“.</string>
+    <string name="pulsar_reminder_notification_title">„Помош за состојбата на батеријата“ е исклучена</string>
+    <string name="pulsar_reminder_notification_text">Вклучете „Помош за состојбата на батеријата“ за да ви помогне при управувањето со долгорочната состојба и изведба</string>
 </resources>

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Hleðslu lýkur kl. %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Hleðslu lokið eftir %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Hleðslu lokið</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Kveikt er á rafhlöðuaðstoð</string>
+    <string name="pulsar_enabled_notification_text">Pixel hjálpar þér nú að fínstilla langtímaástand og -afköst rafhlöðunnar. Þú getur slökkt á þessu í stillingunum.</string>
+    <string name="pulsar_reminder_notification_title">Slökkt er á rafhlöðuaðstoð</string>
+    <string name="pulsar_reminder_notification_text">Kveiktu á rafhlöðuaðstoð til að fá hjálp við að fínstilla langtímaástand og -afköst rafhlöðunnar þinnar.</string>
 </resources>

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Đến %1$s sẽ sạc xong</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Sạc xong sau %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Sạc xong</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Tính năng hỗ trợ tình trạng pin đang bật</string>
+    <string name="pulsar_enabled_notification_text">Giờ đây, Pixel giúp quản lý tình trạng và hiệu suất pin trong thời gian dài. Bạn có thể tắt chế độ này trong phần Cài đặt.</string>
+    <string name="pulsar_reminder_notification_title">Tính năng hỗ trợ tình trạng pin đang tắt</string>
+    <string name="pulsar_reminder_notification_text">Bật tính năng hỗ trợ tình trạng pin để giúp quản lý tình trạng và hiệu suất của pin trong thời gian dài</string>
 </resources>

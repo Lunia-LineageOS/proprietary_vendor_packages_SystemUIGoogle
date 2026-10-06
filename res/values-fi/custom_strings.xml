@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Lataus valmis klo %1$s mennessä</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Latausaikaa jäljellä %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Lataus valmis</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Akun kunnon parannus on päällä</string>
+    <string name="pulsar_enabled_notification_text">Pixel auttaa nyt ylläpitämään akun pitkäaikaista kuntoa ja suorituskykyä. Voit estää tämän asetuksista.</string>
+    <string name="pulsar_reminder_notification_title">Akun kunnon parannus on poissa päältä</string>
+    <string name="pulsar_reminder_notification_text">Laita akun kunnon parannus päälle, niin voit ylläpitää akun kuntoa ja suorituskykyä pitkällä aikavälillä.</string>
 </resources>

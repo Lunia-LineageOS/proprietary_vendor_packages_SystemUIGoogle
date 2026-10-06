@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ще се зареди до %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зареждането ще завърши след %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • зареждането завърши</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Функцията за съдействие за състоянието на батерията е включена</string>
+    <string name="pulsar_enabled_notification_text">Pixel вече помага за управление на състоянието и ефективността на батерията ви в дългосрочен план. Можете да го изключите от настройките.</string>
+    <string name="pulsar_reminder_notification_title">Функцията за съдействие за състоянието на батерията е изключена</string>
+    <string name="pulsar_reminder_notification_text">Включете функцията за съдействие за състоянието на батерията, за да управлявате състоянието и ефективността ѝ в дългосрочен план</string>
 </resources>

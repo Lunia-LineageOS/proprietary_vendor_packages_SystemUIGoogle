@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Įkrovimas bus baigtas %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Įkrovimas bus baigtas po %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Įkrovimas baigtas</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Pagalba dėl akumuliatoriaus būsenos įjungta</string>
+    <string name="pulsar_enabled_notification_text">„Pixel“ dabar padeda valdyti ilgalaikes akumuliatoriaus savybes ir našumą. Šią parinktį bet kada galite išjungti skiltyje „Nustatymai“.</string>
+    <string name="pulsar_reminder_notification_title">Pagalba dėl akumuliatoriaus būsenos išjungta</string>
+    <string name="pulsar_reminder_notification_text">Įjunkite pagalbą dėl akumuliatoriaus būsenos, kad galėtumėte tvarkyti ilgalaikę akumuliatoriaus būseną ir našumą</string>
 </resources>

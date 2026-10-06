@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Саат %1$s кубатталып бүтөт</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s кийин кубатталып бүтөт</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Кубатталып бүттү</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Батареянын абалынын жардамчысы</string>
+    <string name="pulsar_enabled_notification_text">Pixel батареяныңыздын узак убакыт бою иштешин жана майнаптуулугун тескөөгө жардам берет. Муну параметрлерден өчүрсөңүз болот.</string>
+    <string name="pulsar_reminder_notification_title">Батареянын абалы боюнча жардамчы өчүк</string>
+    <string name="pulsar_reminder_notification_text">Батареянын узак убакыт бою иштешин жана майнаптуулугун тескөө үчүн, батареянын абалы боюнча жардамчыны күйгүзүңүз</string>
 </resources>

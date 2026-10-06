@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Зарадка будзе завершана да %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зарадка будзе завершана праз %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Зарадка завершана</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Дапамога па стане акумулятара ўключана</string>
+    <string name="pulsar_enabled_notification_text">Цяпер тэлефон Pixel дапамагае кіраваць станам і прадукцыйнасцю акумулятара ў доўгатэрміновай перспектыве. Гэту функцыю можна адключыць у наладах.</string>
+    <string name="pulsar_reminder_notification_title">Дапамога па стане акумулятара выключана</string>
+    <string name="pulsar_reminder_notification_text">Уключыце дапамогу па стане акумулятара, каб забяспечыць аптымальны стан і прадукцыйнасць акумулятара ў доўгатэрміновай перспектыве.</string>
 </resources>

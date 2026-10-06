@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • សាកថ្មពេញនៅត្រឹមម៉ោង %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • សាកថ្មរួចរាល់ក្នុងរយៈពេល %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • សាកថ្មពេញ</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ជំនួយ​ការគុណភាព​ថ្មត្រូវបានបើក</string>
+    <string name="pulsar_enabled_notification_text">ឥឡូវនេះ Pixel កំពុងជួយគ្រប់គ្រងប្រតិបត្តិការ និងគុណភាព​ថ្មរយៈពេលវែងរបស់អ្នក។ អ្នកអាចបិទវា​បាននៅក្នុងការកំណត់។</string>
+    <string name="pulsar_reminder_notification_title">ជំនួយ​ការគុណភាព​ថ្មត្រូវបានបិទ</string>
+    <string name="pulsar_reminder_notification_text">បើកជំនួយ​ការគុណភាព​ថ្ម ដើម្បីជួយគ្រប់គ្រងប្រតិបត្តិការ និងគុណភាព​ថ្មរយៈពេលវែងរបស់អ្នក</string>
 </resources>

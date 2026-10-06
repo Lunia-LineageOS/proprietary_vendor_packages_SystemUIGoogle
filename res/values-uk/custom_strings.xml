@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Заряджання завершиться до %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Заряджання завершиться через %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Заряджання завершено</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Керування станом акумулятора ввімкнено</string>
+    <string name="pulsar_enabled_notification_text">Тепер Pixel допомагає керувати продуктивністю й довговічністю акумулятора. Цю функцію можна вимкнути в налаштуваннях.</string>
+    <string name="pulsar_reminder_notification_title">Керування станом акумулятора вимкнено</string>
+    <string name="pulsar_reminder_notification_text">Увімкніть керування станом акумулятора, щоб підтримувати його продуктивність й довговічність</string>
 </resources>

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s तक बैटरी चार्ज हो जाएगी</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s में बैटरी चार्ज हो जाएगी</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • बैटरी चार्ज हो गई है</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">बैटरी की परफ़ॉर्मेंस को बेहतर बनाने की सुविधा चालू है</string>
+    <string name="pulsar_enabled_notification_text">Pixel से अब अपने डिवाइस की बैटरी की परफ़ॉर्मेंस और लाइफ़ को लंबे समय तक बेहतर रखा जा सकता है. इस सुविधा को सेटिंग में जाकर बंद किया जा सकता है.</string>
+    <string name="pulsar_reminder_notification_title">बैटरी की परफ़ॉर्मेंस को बेहतर करने की सुविधा बंद है</string>
+    <string name="pulsar_reminder_notification_text">बैटरी की परफ़ॉर्मेंस बेहतर करने की सुविधा चालू करें, ताकि बैटरी की परफ़ॉर्मेंस को लंबे समय तक बेहतर किया जा सके</string>
 </resources>

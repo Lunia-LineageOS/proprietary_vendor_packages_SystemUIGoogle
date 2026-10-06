@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Um %1$s geladen</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Vollständig geladen in %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • vollständig geladen</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Optimierung des Akkuzustands ist aktiviert</string>
+    <string name="pulsar_enabled_notification_text">Dein Pixel hilft dir jetzt dabei, Zustand und Leistung des Akkus auf lange Sicht zu optimieren. Dies lässt sich in den Einstellungen deaktivieren.</string>
+    <string name="pulsar_reminder_notification_title">Optimierung des Akkuzustands deaktiviert</string>
+    <string name="pulsar_reminder_notification_text">Wenn du die Optimierung des Akkuzustands aktivierst, trägt das dazu bei, Zustand und Leistung des Akkus auf lange Sicht zu optimieren.</string>
 </resources>

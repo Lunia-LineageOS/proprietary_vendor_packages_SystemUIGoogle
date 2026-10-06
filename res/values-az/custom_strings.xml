@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Şarjetmə %1$s radələrində bitəcək</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s sonra şarjetmə tamamlanır</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Şarjetmə bitib</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Batareya tutumu yardımçısı aktivdir</string>
+    <string name="pulsar_enabled_notification_text">Pixel artıq batareyanın uzunmüddətli tutum və performansını idarə etməyə kömək edir. Ayarlarda söndürə bilərsiniz.</string>
+    <string name="pulsar_reminder_notification_title">Batareya tutumu yardımı sönülüdür</string>
+    <string name="pulsar_reminder_notification_text">Batareyanın uzunmüddətli tutum və performansını idarə etmək üçün batareya tutumu yardımını yandırın</string>
 </resources>

@@ -90,8 +90,6 @@ import com.android.systemui.statusbar.NotificationLockscreenUserManager;
 import com.android.systemui.statusbar.NotificationLockscreenUserManagerImpl;
 import com.android.systemui.statusbar.NotificationShadeWindowController;
 import com.android.systemui.statusbar.SysuiStatusBarStateController;
-import com.android.systemui.statusbar.dagger.CentralSurfacesModule;
-import com.android.systemui.statusbar.dagger.StartCentralSurfacesModule;
 import com.android.systemui.statusbar.notification.dagger.ReferenceNotificationsModule;
 import com.android.systemui.statusbar.notification.headsup.HeadsUpModule;
 import com.android.systemui.statusbar.phone.CentralSurfaces;
@@ -131,6 +129,8 @@ import com.google.android.systemui.smartspace.KeyguardSmartspaceStartable;
 import com.google.android.systemui.smartspace.WeatherSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.dagger.SmartspaceGoogleModule;
 import com.google.android.systemui.statusbar.KeyguardIndicationControllerGoogle;
+import com.google.android.systemui.statusbar.dagger.CentralSurfacesModuleGoogle;
+import com.google.android.systemui.statusbar.dagger.StartCentralSurfacesModuleGoogle;
 import com.google.android.systemui.statusbar.policy.GooglePolicyModule;
 import com.google.android.systemui.theme.ThemeOverlayControllerGoogle;
 
@@ -167,7 +167,7 @@ import javax.inject.Provider;
         AccessibilityRepositoryModule.class,
         GooglePolicyModule.class,
         BatterySaverModuleGoogle.class,
-        CentralSurfacesModule.class,
+        CentralSurfacesModuleGoogle.class,
         ClipboardOverlayOverrideModule.class,
         ColumbusModule.class,
         ConnectingDisplayViewModel.StartableModule.class,
@@ -201,7 +201,7 @@ import javax.inject.Provider;
         StatusBarPhoneModule.class,
         SystemActionsModule.class,
         ShadeModule.class,
-        StartCentralSurfacesModule.class,
+        StartCentralSurfacesModuleGoogle.class,
         SceneContainerFrameworkModule.class,
         ScreenAwareLightModeMonitorModule.class,
         SysUICoroutinesModule.class,

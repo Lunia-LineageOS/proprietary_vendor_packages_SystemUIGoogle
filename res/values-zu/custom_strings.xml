@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Iqede ukushaja ngo-%1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Iqedile ukushaja ngo-%1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Iqedile ukushaja</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Ukusizwa kwempilo yebhethri kuvuliwe</string>
+    <string name="pulsar_enabled_notification_text">IPixel manje isiza ukulawula impilo yesikhathi eside yebhethri lakho nokusebenza. Ungavala lokhu Kumasethingi.</string>
+    <string name="pulsar_reminder_notification_title">Usizo lwempilo yebhethri luvaliwe</string>
+    <string name="pulsar_reminder_notification_text">Vula usizo lwempilo yebhethri ukuze usize ukuphatha impilo yebhethri yesikhathi eside nokusebenza kwayo.</string>
 </resources>

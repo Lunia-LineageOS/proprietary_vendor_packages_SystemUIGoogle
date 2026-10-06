@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Quvvatlanishiga %1$s qoldi</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Quvvatlanishiga %1$s qoldi</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Quvvatlandi</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Batareya salomatligiga yordam yoniq</string>
+    <string name="pulsar_enabled_notification_text">Pixel endi batareyaning uzoq muddatli salomatligi va unumdorligini boshqarishga yordam bermoqda. Buni Sozlamalarda faolsizlantirishingiz mumkin.</string>
+    <string name="pulsar_reminder_notification_title">Batareya salomatligiga yordam funksiyasi oʻchiq</string>
+    <string name="pulsar_reminder_notification_text">Batareyaning uzoq muddatli salomatligi va unumdorligini boshqarishga yordam berish uchun batareya salomatligiga yordam funksiyasini yoqing</string>
 </resources>

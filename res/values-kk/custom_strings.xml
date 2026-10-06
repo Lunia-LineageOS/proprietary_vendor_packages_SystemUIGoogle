@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s шамасында зарядталып болады.</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зарядталып болатын уақыт: %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • зарядталып болды.</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Батарея күйін қадағалау функциясы қосулы</string>
+    <string name="pulsar_enabled_notification_text">Pixel енді батареяның ұзақ мерзімді күйі мен өнімділігін басқаруға көмектеседі. Мұны параметрлерден өшіруге болады.</string>
+    <string name="pulsar_reminder_notification_title">Батарея күйін қадағалау функциясы өшірулі</string>
+    <string name="pulsar_reminder_notification_text">Батареяның қызмет мерзімін және өнімділігін арттыру үшін батарея күйін қадағалау функциясын қосыңыз.</string>
 </resources>

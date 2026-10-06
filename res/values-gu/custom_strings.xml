@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s - %1$s સુધીમાં પૂરું ચાર્જિંગ થઈ જશે</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$sમાં સંપૂર્ણ ચાર્જ થઈ જશે</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • પૂરું ચાર્જિંગ થઈ ગયું</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">બૅટરીની ક્ષમતા સંબંધિત સહાયક ચાલુ છે</string>
+    <string name="pulsar_enabled_notification_text">Pixel હવે તમારી બૅટરીની લાંબા ગાળાની ક્ષમતા અને પર્ફોર્મન્સને મેનેજ કરવામાં સહાય કરી રહ્યું છે. તમે સેટિંગમાં જઈને આને બંધ કરી શકો છો.</string>
+    <string name="pulsar_reminder_notification_title">બૅટરીની ક્ષમતા માટેની સહાય બંધ છે</string>
+    <string name="pulsar_reminder_notification_text">તમારી બૅટરીની લાંબા ગાળાની ક્ષમતા અને પર્ફોર્મન્સને મેનેજ કરવામાં સહાય કરવા માટે બૅટરીની ક્ષમતા માટેની સહાય ચાલુ કરો</string>
 </resources>

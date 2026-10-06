@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Matatapos mag-charge bago mag-%1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Matatapos mag-charge sa loob ng %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Tapos nang mag-charge</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Naka-on ang tulong sa tagal ng baterya</string>
+    <string name="pulsar_enabled_notification_text">Tumutulong na ngayon ang Pixel sa pamamahala ng pangmatagalang tagal at performance ng iyong baterya. Puwede mo itong i-off sa Mga Setting.</string>
+    <string name="pulsar_reminder_notification_title">Naka-off ang tulong sa tagal ng baterya</string>
+    <string name="pulsar_reminder_notification_text">I-on ang tulong sa tagal ng baterya para makatulong na pamahalaan ang pangmatagalang kalusugan at performance ng iyong baterya</string>
 </resources>

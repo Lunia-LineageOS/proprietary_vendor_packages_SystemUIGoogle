@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Uzlāde tiks pabeigta līdz plkst. %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Uzlāde tiks pabeigta pēc šāda laika: %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Uzlāde pabeigta</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Akumulatora stāvokļa palīdzības funkcija ir ieslēgta</string>
+    <string name="pulsar_enabled_notification_text">Tagad Pixel palīdz pārvaldīt akumulatora stāvokli un veiktspēju ilgtermiņā. To var izslēgt iestatījumos.</string>
+    <string name="pulsar_reminder_notification_title">Akumulatora stāvokļa palīdzības funkcija ir izslēgta</string>
+    <string name="pulsar_reminder_notification_text">Ieslēdziet akumulatora stāvokļa palīdzības funkciju, lai pārvaldītu akumulatora stāvokli un veiktspēju ilgtermiņā.</string>
 </resources>

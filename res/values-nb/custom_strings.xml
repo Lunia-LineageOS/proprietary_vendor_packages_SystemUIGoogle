@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ferdig ladet innen %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Ferdig ladet om %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Ferdig ladet</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Hjelp for batteritilstand er på</string>
+    <string name="pulsar_enabled_notification_text">Nå hjelper Pixel deg med å administrere batteriets langsiktige tilstand og ytelse. Du kan slå av denne funksjonen i innstillingene.</string>
+    <string name="pulsar_reminder_notification_title">Hjelp med batteritilstand er av</string>
+    <string name="pulsar_reminder_notification_text">Slå på hjelp med batteritilstand for å administrere batteriets langsiktige tilstand og ytelse</string>
 </resources>

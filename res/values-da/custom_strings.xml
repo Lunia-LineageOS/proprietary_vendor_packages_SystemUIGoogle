@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s •Opladning færdig senest kl. %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Fuldt opladet om %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Fuldt opladet</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Hjælp til batteritilstand er aktiveret</string>
+    <string name="pulsar_enabled_notification_text">Pixel hjælper nu med at administrere dit batteris tilstand og ydeevne på lang sigt. Du kan deaktivere dette i Indstillinger.</string>
+    <string name="pulsar_reminder_notification_title">Hjælp til batteritilstand er deaktiveret</string>
+    <string name="pulsar_reminder_notification_text">Aktivér Hjælp til batteritilstand for at få hjælp til at administrere dit batteris tilstand og ydeevne på lang sigt</string>
 </resources>

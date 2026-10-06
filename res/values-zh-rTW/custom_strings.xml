@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s 前充電完成</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • 離充電完成還有 %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • 充電完成</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">電池健康守護功能已開啟</string>
+    <string name="pulsar_enabled_notification_text">Pixel 目前正在協助管理電池的長期健康度和效能。你可以前往「設定」關閉這項功能。</string>
+    <string name="pulsar_reminder_notification_title">電池健康守護功能已關閉</string>
+    <string name="pulsar_reminder_notification_text">開啟電池健康守護功能，系統就能協助管理電池的長期健康度和效能。</string>
 </resources>

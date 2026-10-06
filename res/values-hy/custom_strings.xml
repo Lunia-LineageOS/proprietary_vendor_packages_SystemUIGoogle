@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Լիցքավորումը կավարտվի %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Լիցքավորումը կավարտվի %1$s հետո</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Լիցքավորումն ավարտված է</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Մարտկոցի վիճակի վերահսկումը միացված է</string>
+    <string name="pulsar_enabled_notification_text">Pixel-ն այժմ օգնում է երկարաժամկետ կտրվածքով կառավարել մարտկոցի վիճակը և արդյունավետությունը։ Դուք կարող եք անջատել այս գործառույթը Կարգավորումներում։</string>
+    <string name="pulsar_reminder_notification_title">Մարտկոցի վիճակի վերահսկումն անջատված է</string>
+    <string name="pulsar_reminder_notification_text">Միացրեք մարտկոցի վիճակի վերահսկումը, որպեսզի օգնեք երկարաժամկետ կտրվածքով կառավարել մարտկոցի վիճակը և արդյունավետությունը</string>
 </resources>

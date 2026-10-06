@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Opladen klaar om %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Opladen klaar over %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Helemaal opgeladen</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Hulp bij batterijconditie staat aan</string>
+    <string name="pulsar_enabled_notification_text">De Pixel helpt nu om de conditie en prestaties van je batterij op de lange termijn te beheren. Je kunt dit uitzetten via Instellingen.</string>
+    <string name="pulsar_reminder_notification_title">Hulp bij batterijconditie staat uit</string>
+    <string name="pulsar_reminder_notification_text">Zet de functie Hulp bij batterijconditie aan om de conditie en prestaties van je batterij op de lange termijn te beheren</string>
 </resources>

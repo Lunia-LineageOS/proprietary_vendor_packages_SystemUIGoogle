@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Sal teen %1$s klaar gelaai wees</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Sal oor %1$s klaar gelaai wees</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Klaar gelaai</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Hulp Met Batterygesondheid is aan</string>
+    <string name="pulsar_enabled_notification_text">Pixel help nou om jou battery se langtermyngesondheid en -werkverrigting te bestuur. Jy kan dit in Instellings afskakel.</string>
+    <string name="pulsar_reminder_notification_title">Batterygesondheidbystand is af</string>
+    <string name="pulsar_reminder_notification_text">Skakel batterygesondheidbystand aan om jou battery se langtermyngesondheid en werkverrigting te help bestuur</string>
 </resources>

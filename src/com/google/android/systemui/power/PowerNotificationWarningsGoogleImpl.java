@@ -73,6 +73,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private final Handler mHandler;
     private final Provider<BatterySaverConfirmationDialog> mBatterySaverConfirmationDialogProvider;
     private final Provider<SevereLowBatteryNotification> mSevereLowBatteryNotificationProvider;
+    private final PulsarController mPulsarController;
     private final DeviceProvisionedController mDeviceProvisionedController;
     private final BatterySaverAutoDisableController mBatterySaverAutoDisableController;
     private final SubscriptionManager mSubscriptionManager;
@@ -120,6 +121,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                         handleBatteryChanged(intent);
                     }
                     mChargeLimitController.dispatchIntent(intent);
+                    mPulsarController.dispatchIntent(intent);
                     if (mAdaptiveChargingNotification != null) {
                         switch (action) {
                             case Intent.ACTION_BATTERY_CHANGED:
@@ -172,6 +174,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
             Provider<BatterySaverConfirmationDialog> batterySaverConfirmationDialogProvider,
             Provider<SevereLowBatteryNotification> severeLowBatteryNotificationProvider,
             SecureSettings secureSettings,
+            PulsarController pulsarController,
             DeviceProvisionedController deviceProvisionedController,
             BatterySaverAutoDisableController batterySaverAutoDisableController,
             SubscriptionManager subscriptionManager,
@@ -196,6 +199,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         mHandler = mainHandler;
         mBatterySaverConfirmationDialogProvider = batterySaverConfirmationDialogProvider;
         mSevereLowBatteryNotificationProvider = severeLowBatteryNotificationProvider;
+        mPulsarController = pulsarController;
         mDeviceProvisionedController = deviceProvisionedController;
         mBatterySaverAutoDisableController = batterySaverAutoDisableController;
         mSubscriptionManager = subscriptionManager;
@@ -228,6 +232,10 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         filter.addAction("com.android.settingslib.fuelgauge.ACTION_SAVER_STATE_MANUAL_UPDATE");
         filter.addAction("systemui.power.action.START_FLIPENDO");
         filter.addAction("PNW.dismissSevereLowBatteryWarning");
+        filter.addAction(PulsarController.ACTION_CLICK_PULSAR_ENABLED_NOTIFICATION);
+        filter.addAction(PulsarController.ACTION_DISMISS_PULSAR_ENABLED_NOTIFICATION);
+        filter.addAction(PulsarController.ACTION_CLICK_PULSAR_REMINDER_NOTIFICATION);
+        filter.addAction(PulsarController.ACTION_DISMISS_PULSAR_REMINDER_NOTIFICATION);
         Resources resources = context.getResources();
         if (resources.getBoolean(R.bool.config_adaptive_charging_warning_enabled)) {
             mAdaptiveChargingNotification =

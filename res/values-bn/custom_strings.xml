@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s-এর মধ্যে চার্জিং সম্পূর্ণ হবে</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s-এর মধ্যে চার্জ হয়ে যাবে</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • চার্জিং সম্পূর্ণ হয়েছে</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ব্যাটারির আয়ু সংক্রান্ত সহায়তা চালু রয়েছে</string>
+    <string name="pulsar_enabled_notification_text">Pixel এখন আপনার ব্যাটারির আয়ু দীর্ঘস্থায়ী করা ও পারফর্ম্যান্স বাড়ানো ম্যানেজ করার ব্যাপারে সাহায্য করছে। আপনি সেটিংস থেকে এটি বন্ধ করতে পারবেন।</string>
+    <string name="pulsar_reminder_notification_title">ব্যাটারির আয়ু সংক্রান্ত সহায়তা বন্ধ আছে</string>
+    <string name="pulsar_reminder_notification_text">আপনার ব্যাটারি যাতে দীর্ঘ সময় ধরে ভালো থাকে তার জন্য ব্যাটারির আয়ু ম্যানেজ করতে ব্যাটারির আয়ু সংক্রান্ত সহায়তা চালু করুন</string>
 </resources>

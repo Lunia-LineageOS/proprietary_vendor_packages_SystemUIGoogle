@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s సమయానికి ఛార్జింగ్ పూర్తయింది</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s సమయంలో ఛార్జింగ్ పూర్తవుతుంది</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • సమయానికి ఛార్జింగ్ పూర్తయింది</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">బ్యాటరీ స్థితి సహాయం ఆన్‌లో ఉంది</string>
+    <string name="pulsar_enabled_notification_text">Pixel ఇప్పుడు మీ బ్యాటరీ దీర్ఘకాలిక స్థితిని, పనితీరును మేనేజ్ చేయడంలో సహాయపడుతుంది. మీరు దీన్ని సెట్టింగ్‌లలో ఆఫ్ చేయవచ్చు.</string>
+    <string name="pulsar_reminder_notification_title">బ్యాటరీ స్థితి సహాయం ఆఫ్‌లో ఉంది</string>
+    <string name="pulsar_reminder_notification_text">మీ బ్యాటరీ దీర్ఘకాలిక స్థితిని, పనితీరును మేనేజ్ చేయడంలో సహాయపడటానికి బ్యాటరీ స్థితి సహాయాన్ని ఆన్ చేయండి</string>
 </resources>

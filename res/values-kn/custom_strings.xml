@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s ವೇಳೆಗೆ ಸಂಪೂರ್ಣವಾಗಿ ಚಾರ್ಜ್ ಆಗುತ್ತದೆ</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s ಸಮಯದಲ್ಲಿ ಚಾರ್ಜಿಂಗ್ ಪೂರ್ಣಗೊಳ್ಳುತ್ತದೆ</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ಚಾರ್ಜಿಂಗ್ ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ಬ್ಯಾಟರಿ ಹೆಲ್ತ್ ಅಸಿಸ್ಟೆನ್ಸ್ ಆನ್ ಆಗಿದೆ</string>
+    <string name="pulsar_enabled_notification_text">Pixel ಈಗ ನಿಮ್ಮ ಬ್ಯಾಟರಿಯ ದೀರ್ಘಕಾಲೀನ ಹೆಲ್ತ್ ಮತ್ತು ಪರ್ಫಾರ್ಮೆನ್ಸ್ ಅನ್ನು ನಿರ್ವಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತಿದೆ. ನೀವು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಇದನ್ನು ಆಫ್ ಮಾಡಬಹುದು.</string>
+    <string name="pulsar_reminder_notification_title">ಬ್ಯಾಟರಿ ಹೆಲ್ತ್ ಅಸಿಸ್ಟೆನ್ಸ್ ಆಫ್ ಆಗಿದೆ</string>
+    <string name="pulsar_reminder_notification_text">ನಿಮ್ಮ ಬ್ಯಾಟರಿಯ ದೀರ್ಘಕಾಲೀನ ಹೆಲ್ತ್ ಮತ್ತು ಪರ್ಫಾರ್ಮೆನ್ಸ್ ಅನ್ನು ನಿರ್ವಹಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು ಬ್ಯಾಟರಿ ಹೆಲ್ತ್ ಅಸಿಸ್ಟೆನ್ಸ್ ಅನ್ನು ಆನ್ ಮಾಡಿ</string>
 </resources>

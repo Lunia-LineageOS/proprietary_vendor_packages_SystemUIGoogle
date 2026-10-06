@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$sக்குச் சார்ஜாகிவிட்டது</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s இல் சார்ஜாகிவிட்டது</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • சார்ஜாகிவிட்டது</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">பேட்டரி நிலை தொடர்பான உதவி ஆன் செய்யப்பட்டுள்ளது</string>
+    <string name="pulsar_enabled_notification_text">Pixel இப்போது உங்கள் பேட்டரியின் நீண்டகாலப் பயன்பாட்டையும் செயல்திறனையும் நிர்வகிக்க உதவுகிறது. இதை நீங்கள் அமைப்புகளில் ஆஃப் செய்யலாம்.</string>
+    <string name="pulsar_reminder_notification_title">பேட்டரி நிலை உதவி ஆஃப் செய்யப்பட்டுள்ளது</string>
+    <string name="pulsar_reminder_notification_text">உங்கள் பேட்டரியின் நீண்டகாலப் பயன்பாட்டையும் செயல்திறனையும் நிர்வகிக்க உதவுவதற்கு பேட்டரி நிலை உதவியை ஆன் செய்யவும்</string>
 </resources>

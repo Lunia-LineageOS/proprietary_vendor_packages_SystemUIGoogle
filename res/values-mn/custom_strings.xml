@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s гэхэд цэнэглэж дуусна</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s-н дараа цэнэглэж дуусна</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Цэнэглэж дууссан</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Цэнэг барилтын туслах асаалттай байна</string>
+    <string name="pulsar_enabled_notification_text">Pixel одоо таны батарейн цэнэгийг удаан барих, гүйцэтгэлийг нь удирдахад тусалж байна. Та үүнийг Тохиргооноос унтрааж болно.</string>
+    <string name="pulsar_reminder_notification_title">Цэнэг барилтын туслах унтраалттай байна</string>
+    <string name="pulsar_reminder_notification_text">Цэнэг удаан барих, гүйцэтгэлийг удирдахад туслахын тулд цэнэг барилтын туслахыг асаана уу</string>
 </resources>

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • ສາກສຳເລັດພາຍໃນ %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • ສາກສຳເລັດພາຍໃນ %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ສາກສຳເລັດແລ້ວ</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ຄວາມຊ່ວຍເຫຼືອດ້ານສຸຂະພາບແບັດເຕີຣີເປີດຢູ່</string>
+    <string name="pulsar_enabled_notification_text">ຕອນນີ້ Pixel ກຳລັງຊ່ວຍຈັດການສຸຂະພາບ ແລະ ປະສິດທິພາບຂອງແບັດເຕີຣີຂອງທ່ານໃນໄລຍະຍາວ. ທ່ານສາມາດປິດສິ່ງນີ້ໄດ້ໃນການຕັ້ງຄ່າ.</string>
+    <string name="pulsar_reminder_notification_title">ການຊ່ວຍເຫຼືອດ້ານສຸຂະພາບແບັດເຕີຣີປິດຢູ່</string>
+    <string name="pulsar_reminder_notification_text">ເປີດໃຊ້ການຊ່ວຍເຫຼືອດ້ານສຸຂະພາບແບັດເຕີຣີເພື່ອຊ່ວຍຈັດການສຸຂະພາບ ແລະ ປະສິດທິພາບຂອງແບັດເຕີຣີຂອງທ່ານໃນໄລຍະຍາວ</string>
 </resources>

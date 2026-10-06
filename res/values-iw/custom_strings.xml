@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">‫%2$s • טעינה מלאה עד %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">‫%2$s • הטעינה תסתיים בעוד %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">‫%1$s • הטעינה הסתיימה</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">הסיוע לתקינות הסוללה פועל</string>
+    <string name="pulsar_enabled_notification_text">‏עכשיו Pixel עוזר לך לשמור על התקינות והביצועים של הסוללה לאורך זמן. אפשר להשבית את התכונה הזו בהגדרות.</string>
+    <string name="pulsar_reminder_notification_title">התכונה \"עזרה בנושא תקינות הסוללה\" מושבתת</string>
+    <string name="pulsar_reminder_notification_text">כדי לשמור על התקינות והביצועים של הסוללה לאורך זמן, צריך להפעיל את התכונה \"עזרה בנושא תקינות הסוללה\".</string>
 </resources>

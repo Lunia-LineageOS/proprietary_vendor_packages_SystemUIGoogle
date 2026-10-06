@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Зарядка завершится к %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Зарядится через %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Зарядка завершена</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Контроль состояния батареи включен</string>
+    <string name="pulsar_enabled_notification_text">Теперь Pixel помогает поддерживать батарею устройства в рабочем состоянии. Эту функцию можно отключить в настройках.</string>
+    <string name="pulsar_reminder_notification_title">Контроль состояния батареи отключен</string>
+    <string name="pulsar_reminder_notification_text">Включите эту функцию, чтобы дольше поддерживать батарею устройства в рабочем состоянии.</string>
 </resources>

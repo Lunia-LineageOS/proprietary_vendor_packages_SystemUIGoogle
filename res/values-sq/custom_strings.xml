@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Karikimi përfundon në %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Karikimi përfundoi për %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Karikimi përfundoi</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Ndihma për gjendjen e baterisë është aktive</string>
+    <string name="pulsar_enabled_notification_text">Pixel tani ndihmon në menaxhimin e gjendjes dhe performancës së baterisë sate në planin afatgjatë. Mund ta çaktivizosh këtë te \"Cilësimet\".</string>
+    <string name="pulsar_reminder_notification_title">Ndihma për gjendjen e baterisë është joaktive</string>
+    <string name="pulsar_reminder_notification_text">Aktivizo ndihmën për gjendjen e baterisë për të ndihmuar në menaxhimin e gjendjes dhe performancës së baterisë sate në planin afatgjatë</string>
 </resources>

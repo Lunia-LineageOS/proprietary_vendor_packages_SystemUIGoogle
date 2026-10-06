@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s တွင် အားသွင်းမှုပြီးမည်</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s တွင် အားသွင်းမှုပြီးမည်</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • အားသွင်းပြီးပါပြီ</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ဘက်ထရီအခြေအနေ အထောက်အကူ ဖွင့်ထားသည်</string>
+    <string name="pulsar_enabled_notification_text">Pixel သည် သင့်ဘက်ထရီ၏ ရေရှည်ခံမှုနှင့် စွမ်းဆောင်ရည်တို့ကို ကူညီစီမံပေးနေသည်။ ၎င်းကို ဆက်တင်များတွင် ပိတ်နိုင်သည်။</string>
+    <string name="pulsar_reminder_notification_title">ဘက်ထရီအခြေအနေ အထောက်အကူ ပိတ်ထားသည်</string>
+    <string name="pulsar_reminder_notification_text">သင့်ဘက်ထရီ၏ ရေရှည်ခံမှုနှင့် စွမ်းဆောင်ရည်တို့ကို ကူညီစီမံရန်အတွက် ဘက်ထရီအခြေအနေ အထောက်အကူ ဖွင့်ပါ</string>
 </resources>

@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • %1$s ላይ ኃይል መሙላት ተጠናቅቋል</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s ውስጥ ኃይል መሙላት ተጠናቅቋል</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ኃይል መሙላት ተጠናቅቋል</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">የባትሪ ጤና ረዳት በርቷል</string>
+    <string name="pulsar_enabled_notification_text">Pixel አሁን የባትሪዎን የረዥም ጊዜ ጤና እና አፈጻጸም ለማስተዳደር እያገዘዎት ነው። ይህን በቅንብሮች ውስጥ ሊያጠፉት ይችላሉ።</string>
+    <string name="pulsar_reminder_notification_title">የባትሪ ጤና ረዳት ጠፍቷል</string>
+    <string name="pulsar_reminder_notification_text">የባትሪዎን የረዥም ጊዜ ጤና እና አፈጻጸም ለማስተዳደር የባትሪ ጤና ረዳትን ያብሩ</string>
 </resources>

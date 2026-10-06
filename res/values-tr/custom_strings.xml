@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Saat %1$s olduğunda şarjı dolacak</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • %1$s içinde şarjı dolacak</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Şarj doldu</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Pil sağlığı yardımı açık</string>
+    <string name="pulsar_enabled_notification_text">Pixel artık uzun vadeli pil sağlığını ve performansını yönetmenize yardımcı oluyor. Bu özelliği Ayarlar\'dan kapatabilirsiniz.</string>
+    <string name="pulsar_reminder_notification_title">Pil sağlığı yardımı devre dışı</string>
+    <string name="pulsar_reminder_notification_text">Uzun vadeli pil sağlığını ve performansını yönetmenize yardımcı olması için pil sağlığı yardımını etkinleştirin</string>
 </resources>

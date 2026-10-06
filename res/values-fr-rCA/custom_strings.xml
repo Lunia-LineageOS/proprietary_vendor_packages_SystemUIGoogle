@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Fin de la recharge à %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Chargement terminé dans %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Recharge terminée</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">L\'assistance à l\'état de santé de la pile est activée</string>
+    <string name="pulsar_enabled_notification_text">Le Pixel aide désormais à gérer la santé et les performances à long terme de votre pile. Vous pouvez désactiver cette option dans les paramètres.</string>
+    <string name="pulsar_reminder_notification_title">L\'assistance à l\'état de santé de la pile est désactivée</string>
+    <string name="pulsar_reminder_notification_text">Activez l\'assistance à l\'état de santé de la pile pour vous aider à gérer la santé et les performances à long terme de votre pile</string>
 </resources>

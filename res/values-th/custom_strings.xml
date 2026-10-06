@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • ชาร์จเสร็จภายใน %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • ชาร์จเสร็จภายใน %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • ชาร์จแล้ว</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">ความช่วยเหลือด้านประสิทธิภาพแบตเตอรี่เปิดอยู่</string>
+    <string name="pulsar_enabled_notification_text">ตอนนี้ Pixel จะช่วยจัดการสุขภาพและประสิทธิภาพของแบตเตอรี่ในระยะยาว คุณปิดโหมดนี้ได้ในการตั้งค่า</string>
+    <string name="pulsar_reminder_notification_title">ความช่วยเหลือด้านประสิทธิภาพแบตเตอรี่ปิดอยู่</string>
+    <string name="pulsar_reminder_notification_text">เปิดความช่วยเหลือด้านประสิทธิภาพแบตเตอรี่เพื่อช่วยจัดการสุขภาพและประสิทธิภาพของแบตเตอรี่ในระยะยาว</string>
 </resources>

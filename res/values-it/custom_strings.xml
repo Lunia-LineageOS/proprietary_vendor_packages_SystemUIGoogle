@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Ricarica terminata entro le ore %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Tempo rimanente al completamento della ricarica: %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Ricarica terminata</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">I consigli sulla batteria sono attivi</string>
+    <string name="pulsar_enabled_notification_text">Ora Pixel contribuisce a gestire l\'integrità e le prestazioni a lungo termine della batteria. Puoi disattivare questa opzione in Impostazioni.</string>
+    <string name="pulsar_reminder_notification_title">I consigli sulla batteria sono disattivati</string>
+    <string name="pulsar_reminder_notification_text">Attiva i consigli sulla batteria per gestire l\'integrità e le prestazioni a lungo termine della batteria</string>
 </resources>

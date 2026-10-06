@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Pengecasan selesai selewat-lewatnya pada %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Pengecasan selesai selepas %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Pengecasan selesai</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Bantuan kesihatan bateri dihidupkan</string>
+    <string name="pulsar_enabled_notification_text">Kini Pixel sedang membantu untuk mengurus kesihatan dan prestasi jangka panjang bateri anda. Anda boleh mematikan ciri ini dalam Tetapan.</string>
+    <string name="pulsar_reminder_notification_title">Bantuan kesihatan bateri dimatikan</string>
+    <string name="pulsar_reminder_notification_text">Hidupkan bantuan kesihatan bateri untuk membantu anda mengurus kesihatan dan prestasi jangka panjang bateri anda</string>
 </resources>

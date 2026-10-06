@@ -58,4 +58,10 @@
     <string name="keyguard_indication_charging_time_charge_limit">%2$s • Selesai mengisi daya pada %1$s</string>
     <string name="keyguard_indication_charging_time_charge_limit_v1">%2$s • Selesai mengisi daya dalam %1$s</string>
     <string name="keyguard_indication_charging_time_reach_charge_limit">%1$s • Selesai mengisi daya</string>
+
+    <!-- Battery Health Assistance -->
+    <string name="pulsar_enabled_notification_title">Bantuan kesehatan baterai aktif</string>
+    <string name="pulsar_enabled_notification_text">Pixel kini membantu mengelola kesehatan dan performa jangka panjang baterai Anda. Anda dapat menonaktifkannya di Setelan.</string>
+    <string name="pulsar_reminder_notification_title">Bantuan kesehatan baterai nonaktif</string>
+    <string name="pulsar_reminder_notification_text">Aktifkan bantuan kesehatan baterai untuk membantu mengelola kesehatan dan performa jangka panjang baterai Anda</string>
 </resources>
