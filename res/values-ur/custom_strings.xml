@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">‏اب Pixel آپ کی بیٹری کی طویل مدتی صحت اور کارکردگی کا نظم کرنے میں مدد کر رہا ہے۔ آپ اسے ترتیبات میں آف کر سکتے ہیں۔</string>
     <string name="pulsar_reminder_notification_title">بیٹری کی صحت کی معاونت آف ہے</string>
     <string name="pulsar_reminder_notification_text">اپنی بیٹری کی طویل مدتی صحت اور کارکردگی کا نظم کرنے میں مدد کیلئے، بیٹری کی صحت کی معاونت کو آن کریں</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">بیٹری کی حفاظت کرنے کیلئے چارجنگ محدود ہے</string>
+    <string name="temp_defender_notify_des">آپ کی بیٹری توسیعی مدت تک گرم رہی۔ آپ کی بیٹری کے مزید ٹھنڈے ہونے کے بعد نارمل چارجنگ دوبارہ شروع ہو جائے گی</string>
+    <string name="dwell_defender_notify_title">بیٹری کی حفاظت کرنے کے لیے چارجنگ ہولڈ پر ہے</string>
+    <string name="dwell_defender_notify_des">جب آپ کے فون کو کافی عرصے تک چارج کرنے کیلئے چھوڑ دیا جاتا ہے تو یہ بیٹری کی عمر بڑھانے میں مدد کرتا ہے</string>
+    <string name="defender_notify_title">بیٹری کی حفاظت کی جا رہی ہے</string>
+    <string name="defender_notify_resume_charge">بہرحال چارج کریں</string>
+    <string name="defender_post_notify_title">بیٹری کی حفاظت کیلئے چارجنگ کو محدود کیا گیا</string>
+    <string name="defender_post_notify_des">آپ کی بیٹری کی عمر بڑھانے میں مدد کے لیے، چارجنگ کو %1$s سے %2$s محدود کیا گیا</string>
+    <string name="dock_defender_first_run_title">بیٹری کی حفاظت کرنے کے لیے چارجنگ ہولڈ پر ہے</string>
+    <string name="dock_defender_first_run_des">بیٹری کی عمر بڑھانے میں مدد کے لیے، آپ کے ٹیبلیٹ کے ڈاک ہونے کے دوران چارجنگ %90 پر ہولڈ پر ہے۔ اوور رائڈ کرنے کیلئے کسی بھی وقت ترتیبات پر جائیں۔</string>
+    <string name="dock_defender_first_run_settings">ترتیبات</string>
 </resources>

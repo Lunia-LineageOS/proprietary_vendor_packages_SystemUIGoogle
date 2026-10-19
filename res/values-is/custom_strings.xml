@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel hjálpar þér nú að fínstilla langtímaástand og -afköst rafhlöðunnar. Þú getur slökkt á þessu í stillingunum.</string>
     <string name="pulsar_reminder_notification_title">Slökkt er á rafhlöðuaðstoð</string>
     <string name="pulsar_reminder_notification_text">Kveiktu á rafhlöðuaðstoð til að fá hjálp við að fínstilla langtímaástand og -afköst rafhlöðunnar þinnar.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Hleðsla er takmörkuð til að vernda rafhlöðuna</string>
+    <string name="temp_defender_notify_des">Rafhlaðan var heit í langan tíma. Venjuleg hleðsla heldur áfram þegar rafhlaðan hefur kólnað meira</string>
+    <string name="dwell_defender_notify_title">Hleðsla í bið til að vernda rafhlöðuna</string>
+    <string name="dwell_defender_notify_des">Þetta hjálpar til við að lengja endingartíma rafhlöðunnar þegar síminn er skilinn eftir í hleðslu of lengi</string>
+    <string name="defender_notify_title">Verndar rafhlöðuna þína</string>
+    <string name="defender_notify_resume_charge">Hlaða samt</string>
+    <string name="defender_post_notify_title">Hleðsla var takmörkuð til að vernda rafhlöðuna</string>
+    <string name="defender_post_notify_des">Hleðsla var takmörkuð á milli %1$s og %2$s til að lengja endingartíma rafhlöðunnar</string>
+    <string name="dock_defender_first_run_title">Hleðsla í bið til að vernda rafhlöðuna</string>
+    <string name="dock_defender_first_run_des">Þegar spjaldtölvan er tengd við dokku og hefur náð 90% hleðslu verður gert hlé á hleðslunni til að lengja endingartíma rafhlöðunnar. Þú getur hnekkt þessu hvenær sem er í stillingunum.</string>
+    <string name="dock_defender_first_run_settings">Stillingar</string>
 </resources>

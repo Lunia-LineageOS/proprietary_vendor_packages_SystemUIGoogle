@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel አሁን የባትሪዎን የረዥም ጊዜ ጤና እና አፈጻጸም ለማስተዳደር እያገዘዎት ነው። ይህን በቅንብሮች ውስጥ ሊያጠፉት ይችላሉ።</string>
     <string name="pulsar_reminder_notification_title">የባትሪ ጤና ረዳት ጠፍቷል</string>
     <string name="pulsar_reminder_notification_text">የባትሪዎን የረዥም ጊዜ ጤና እና አፈጻጸም ለማስተዳደር የባትሪ ጤና ረዳትን ያብሩ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ኃይል መሙላት ባትሪን ለመጠበቅ ተገድቧል</string>
+    <string name="temp_defender_notify_des">ባትሪዎ ለረጅም ጊዜ ሞቅ ያለ ነበር። መደበኛ ኃይል መሙላት ባትሪዎ በኋላ ላይ ከቀዘቀዘ በኋላ ከቆመበት ይቀጥላል</string>
+    <string name="dwell_defender_notify_title">ባትሪን ለመጠበቅ ኃይል መሙላት በይቆይ ላይ</string>
+    <string name="dwell_defender_notify_des">ይህ ስልክዎ ለረጅም ጊዜ ኃይል እንዲሞላ ሲደረግ የባትሪ የዕድሜ ዘመን ለማራዘም ያግዛል</string>
+    <string name="defender_notify_title">ባትሪዎን በመጠበቅ ላይ</string>
+    <string name="defender_notify_resume_charge">ለማንኛውም ኃይል ሙላ</string>
+    <string name="defender_post_notify_title">ኃይል መሙላት ባትሪን ለመጠበቅ ተገድቧል</string>
+    <string name="defender_post_notify_des">የባትሪ የዕድሜ ዘመንን ለማራዘም ለማገዝ፣ ኃይል መሙላት ከ%1$s ወደ %2$s ተገድቧል</string>
+    <string name="dock_defender_first_run_title">ባትሪን ለመጠበቅ ኃይል መሙላት በይቆይ ላይ</string>
+    <string name="dock_defender_first_run_des">የባትሪ የዕድሜ ዘመንን ለማራዘም ለማገዝ፣ ጡባዊዎ በተሰካበት ጊዜ ኃይል መሙላት በ90% ላይ በይቆይ ላይ ይሆናል። ለመሻር በማንኛውም ጊዜ ወደ ቅንብሮች ይሂዱ።</string>
+    <string name="dock_defender_first_run_settings">ቅንብሮች</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ఇప్పుడు మీ బ్యాటరీ దీర్ఘకాలిక స్థితిని, పనితీరును మేనేజ్ చేయడంలో సహాయపడుతుంది. మీరు దీన్ని సెట్టింగ్‌లలో ఆఫ్ చేయవచ్చు.</string>
     <string name="pulsar_reminder_notification_title">బ్యాటరీ స్థితి సహాయం ఆఫ్‌లో ఉంది</string>
     <string name="pulsar_reminder_notification_text">మీ బ్యాటరీ దీర్ఘకాలిక స్థితిని, పనితీరును మేనేజ్ చేయడంలో సహాయపడటానికి బ్యాటరీ స్థితి సహాయాన్ని ఆన్ చేయండి</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">బ్యాటరీని రక్షించడానికి ఛార్జింగ్‌ను పరిమితం చేశారు</string>
+    <string name="temp_defender_notify_des">మీ బ్యాటరీ చాలా సమయం నుండి వెచ్చగా ఉంది. మీ బ్యాటరీ మరింత చల్లబడిన తర్వాత సాధారణ ఛార్జింగ్ తిరిగి ప్రారంభమవుతుంది</string>
+    <string name="dwell_defender_notify_title">బ్యాటరీని రక్షించడానికి ఛార్జింగ్ హోల్డ్‌లో ఉంచబడింది</string>
+    <string name="dwell_defender_notify_des">మీ ఫోన్‌ను ఛార్జింగ్ పెట్టి ఎక్కువ సమయం ఉంచినప్పుడు, బ్యాటరీ లైఫ్‌ను పెంచడంలో ఇది సహాయపడుతుంది</string>
+    <string name="defender_notify_title">మీ బ్యాటరీని రక్షించడం</string>
+    <string name="defender_notify_resume_charge">ఏదేమైనా మార్చండి</string>
+    <string name="defender_post_notify_title">బ్యాటరీని రక్షించడానికి ఛార్జింగ్‌ను పరిమితం చేశారు</string>
+    <string name="defender_post_notify_des">బ్యాటరీ లైఫ్‌ను పొడిగించడంలో సహాయపడటానికి, ఛార్జింగ్ %1$s నుండి %2$s వరకు పరిమితం చేయబడింది</string>
+    <string name="dock_defender_first_run_title">బ్యాటరీని రక్షించడానికి ఛార్జింగ్ హోల్డ్‌లో ఉంచబడింది</string>
+    <string name="dock_defender_first_run_des">బ్యాటరీ లైఫ్‌ను ఎక్స్‌టెండ్ చేయడంలో సహాయపడటానికి, మీ టాబ్లెట్ డాక్ అయినప్పుడు ఛార్జింగ్ 90% వద్ద హోల్డ్‌లో ఉంటుంది. ఓవర్‌రైడ్ చేయడానికి ఎప్పుడైనా సెట్టింగ్‌లకు వెళ్లండి.</string>
+    <string name="dock_defender_first_run_settings">సెట్టింగ్‌లు</string>
 </resources>

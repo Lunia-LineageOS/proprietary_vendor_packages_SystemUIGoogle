@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Nå hjelper Pixel deg med å administrere batteriets langsiktige tilstand og ytelse. Du kan slå av denne funksjonen i innstillingene.</string>
     <string name="pulsar_reminder_notification_title">Hjelp med batteritilstand er av</string>
     <string name="pulsar_reminder_notification_text">Slå på hjelp med batteritilstand for å administrere batteriets langsiktige tilstand og ytelse</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Ladingen er begrenset for å beskytte batteriet</string>
+    <string name="temp_defender_notify_des">Batteriet har vært varmt i en lengre periode. Normal lading gjenopptas når batteriet er blitt enda kjøligere.</string>
+    <string name="dwell_defender_notify_title">Ladingen er satt på vent for å beskytte batteriet</string>
+    <string name="dwell_defender_notify_des">Dette bidrar til å forlenge brukstiden for batteriet når telefonen lades for lenge</string>
+    <string name="defender_notify_title">Batteribeskyttelse</string>
+    <string name="defender_notify_resume_charge">Lad likevel</string>
+    <string name="defender_post_notify_title">Ladingen ble begrenset for å beskytte batteriet</string>
+    <string name="defender_post_notify_des">For å forlenge brukstiden for batteriet ble ladingen begrenset fra %1$s til %2$s</string>
+    <string name="dock_defender_first_run_title">Ladingen er satt på vent for å beskytte batteriet</string>
+    <string name="dock_defender_first_run_des">For å bidra til å forlenge brukstiden for batteriet er ladingen på vent på 90 % mens nettbrettet er dokket Du kan overstyre dette når som helst ved å gå til innstillingene.</string>
+    <string name="dock_defender_first_run_settings">Innstillinger</string>
 </resources>

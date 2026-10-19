@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel енді батареяның ұзақ мерзімді күйі мен өнімділігін басқаруға көмектеседі. Мұны параметрлерден өшіруге болады.</string>
     <string name="pulsar_reminder_notification_title">Батарея күйін қадағалау функциясы өшірулі</string>
     <string name="pulsar_reminder_notification_text">Батареяның қызмет мерзімін және өнімділігін арттыру үшін батарея күйін қадағалау функциясын қосыңыз.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Батареяны қорғау үшін зарядтауға шектеу қойылды</string>
+    <string name="temp_defender_notify_des">Батарея ұзақ уақыт бойы қызып тұрды. Суығаннан кейін, зарядтау әдеттегідей жалғасады.</string>
+    <string name="dwell_defender_notify_title">Батареяны қорғау үшін зарядтау кідіртілді</string>
+    <string name="dwell_defender_notify_des">Телефон тым ұзақ зарядталса, батареяның қызмет мерзімін ұзартуға көмектеседі.</string>
+    <string name="defender_notify_title">Батареяны қорғау</string>
+    <string name="defender_notify_resume_charge">Бәрібір зарядтау</string>
+    <string name="defender_post_notify_title">Батареяны қорғау үшін зарядтауға шектеу қойылды</string>
+    <string name="defender_post_notify_des">Батареяның қызмет мерзімін ұзарту үшін зарядтау %1$s – %2$s уақыт аралығымен шектелді.</string>
+    <string name="dock_defender_first_run_title">Батареяны қорғау үшін зарядтау кідіртілді</string>
+    <string name="dock_defender_first_run_des">Батареяның қызмет мерзімін созу үшін планшет қондыру станциясында тұрғанда, зарядтау 90% деңгейінде кідіртіледі. Қайта анықтау үшін кез келген уақытта параметрлерге өтіңіз.</string>
+    <string name="dock_defender_first_run_settings">Параметрлер</string>
 </resources>

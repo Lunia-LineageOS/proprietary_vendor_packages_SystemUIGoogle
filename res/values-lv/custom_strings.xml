@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Tagad Pixel palīdz pārvaldīt akumulatora stāvokli un veiktspēju ilgtermiņā. To var izslēgt iestatījumos.</string>
     <string name="pulsar_reminder_notification_title">Akumulatora stāvokļa palīdzības funkcija ir izslēgta</string>
     <string name="pulsar_reminder_notification_text">Ieslēdziet akumulatora stāvokļa palīdzības funkciju, lai pārvaldītu akumulatora stāvokli un veiktspēju ilgtermiņā.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Lai aizsargātu akumulatoru, uzlāde ir ierobežota</string>
+    <string name="temp_defender_notify_des">Jūsu akumulators ilgāku laiku bija silts. Tiklīdz akumulators būs vairāk atdzisis, tiks atsākta normāla uzlāde.</string>
+    <string name="dwell_defender_notify_title">Uzlāde apturēta, lai aizsargātu akumulatoru</string>
+    <string name="dwell_defender_notify_des">Tas palīdz paildzināt akumulatora darbmūžu, ja tālrunis tiek uzlādēts pārāk ilgu laiku.</string>
+    <string name="defender_notify_title">Akumulatora saudzēšana</string>
+    <string name="defender_notify_resume_charge">Tomēr uzlādēt</string>
+    <string name="defender_post_notify_title">Lai aizsargātu akumulatoru, uzlāde tika ierobežota</string>
+    <string name="defender_post_notify_des">Lai paildzinātu akumulatora darbmūžu, uzlāde tika ierobežota no plkst. %1$s līdz plkst. %2$s.</string>
+    <string name="dock_defender_first_run_title">Uzlāde apturēta, lai aizsargātu akumulatoru</string>
+    <string name="dock_defender_first_run_des">Lai paildzinātu akumulatora darbmūžu, kad planšetdators ir dokots, uzlāde tiek apturēta pie 90%. Jebkurā laikā varat to ignorēt, pārejot uz sadaļu Iestatījumi.</string>
+    <string name="dock_defender_first_run_settings">Iestatījumi</string>
 </resources>

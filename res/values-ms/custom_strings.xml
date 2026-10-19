@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Kini Pixel sedang membantu untuk mengurus kesihatan dan prestasi jangka panjang bateri anda. Anda boleh mematikan ciri ini dalam Tetapan.</string>
     <string name="pulsar_reminder_notification_title">Bantuan kesihatan bateri dimatikan</string>
     <string name="pulsar_reminder_notification_text">Hidupkan bantuan kesihatan bateri untuk membantu anda mengurus kesihatan dan prestasi jangka panjang bateri anda</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Pengecasan dihadkan untuk melindungi bateri</string>
+    <string name="temp_defender_notify_des">Bateri anda panas untuk tempoh yang panjang. Pengecasan biasa akan disambung semula setelah bateri anda menjadi lebih sejuk</string>
+    <string name="dwell_defender_notify_title">Pengecasan ditunda untuk melindungi bateri</string>
+    <string name="dwell_defender_notify_des">Tindakan ini membantu untuk melanjutkan jangka hayat bateri apabila telefon anda dibiarkan untuk dicas terlalu lama</string>
+    <string name="defender_notify_title">Melindungi bateri anda</string>
+    <string name="defender_notify_resume_charge">Cas juga</string>
+    <string name="defender_post_notify_title">Pengecasan telah dihadkan untuk melindungi bateri</string>
+    <string name="defender_post_notify_des">Untuk membantu jangka hayat bateri dilanjutkan, pengecasan telah dihadkan dari %1$s hingga %2$s</string>
+    <string name="dock_defender_first_run_title">Pengecasan ditunda untuk melindungi bateri</string>
+    <string name="dock_defender_first_run_des">Untuk melanjutkan jangka hayat bateri, pengecasan ditunda pada 90% semasa tablet anda didok. Akses Tetapan pada bila-bila masa untuk membuat pembatalan.</string>
+    <string name="dock_defender_first_run_settings">Tetapan</string>
 </resources>

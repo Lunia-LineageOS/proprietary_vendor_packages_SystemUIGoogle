@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel is now helping to manage your battery\'s long term health and performance. You can turn this off in Settings.</string>
     <string name="pulsar_reminder_notification_title">Battery health assistance is off</string>
     <string name="pulsar_reminder_notification_text">Turn on battery health assistance to help manage your battery\'s long term health and performance</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Charging is limited to protect battery</string>
+    <string name="temp_defender_notify_des">Your battery was warm for an extended period. Normal charging will resume once your battery has cooled down further</string>
+    <string name="dwell_defender_notify_title">Charging on hold to protect battery</string>
+    <string name="dwell_defender_notify_des">This helps extend battery lifespan when your phone is left to charge for too long</string>
+    <string name="defender_notify_title">Protecting your battery</string>
+    <string name="defender_notify_resume_charge">Charge anyway</string>
+    <string name="defender_post_notify_title">Charging was limited to protect battery</string>
+    <string name="defender_post_notify_des">To help extend battery lifespan, charging was limited from %1$s to %2$s</string>
+    <string name="dock_defender_first_run_title">Charging on hold to protect battery</string>
+    <string name="dock_defender_first_run_des">To help extend battery lifespan, charging is on hold at 90% while your tablet is docked. Go to Settings anytime to override.</string>
+    <string name="dock_defender_first_run_settings">Settings</string>
 </resources>

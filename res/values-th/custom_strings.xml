@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">ตอนนี้ Pixel จะช่วยจัดการสุขภาพและประสิทธิภาพของแบตเตอรี่ในระยะยาว คุณปิดโหมดนี้ได้ในการตั้งค่า</string>
     <string name="pulsar_reminder_notification_title">ความช่วยเหลือด้านประสิทธิภาพแบตเตอรี่ปิดอยู่</string>
     <string name="pulsar_reminder_notification_text">เปิดความช่วยเหลือด้านประสิทธิภาพแบตเตอรี่เพื่อช่วยจัดการสุขภาพและประสิทธิภาพของแบตเตอรี่ในระยะยาว</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">จำกัดการชาร์จเพื่อปกป้องแบตเตอรี่</string>
+    <string name="temp_defender_notify_des">แบตเตอรี่ของคุณร้อนเป็นเวลานาน การชาร์จตามปกติจะกลับมาทำงานอีกครั้งเมื่อแบตเตอรี่เย็นลง</string>
+    <string name="dwell_defender_notify_title">หยุดการชาร์จชั่วคราวเพื่อถนอมแบตเตอรี่</string>
+    <string name="dwell_defender_notify_des">การตั้งค่านี้จะช่วยยืดอายุการใช้งานแบตเตอรี่เมื่อชาร์จโทรศัพท์ทิ้งไว้นานเกินไป</string>
+    <string name="defender_notify_title">การถนอมแบตเตอรี่</string>
+    <string name="defender_notify_resume_charge">ชาร์จเลย</string>
+    <string name="defender_post_notify_title">จำกัดการชาร์จเพื่อปกป้องแบตเตอรี่</string>
+    <string name="defender_post_notify_des">จำกัดการชาร์จตั้งแต่ %1$s ถึง %2$s เพื่อช่วยยืดอายุการใช้งานแบตเตอรี่</string>
+    <string name="dock_defender_first_run_title">หยุดการชาร์จชั่วคราวเพื่อถนอมแบตเตอรี่</string>
+    <string name="dock_defender_first_run_des">การชาร์จหยุดชั่วคราวที่ 90% ขณะวางแท็บเล็ตบนแท่นชาร์จเพื่อช่วยยืดอายุการใช้งานแบตเตอรี่ ไปที่การตั้งค่าได้ทุกเมื่อเพื่อลบล้างลักษณะการทำงานนี้</string>
+    <string name="dock_defender_first_run_settings">การตั้งค่า</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel હવે તમારી બૅટરીની લાંબા ગાળાની ક્ષમતા અને પર્ફોર્મન્સને મેનેજ કરવામાં સહાય કરી રહ્યું છે. તમે સેટિંગમાં જઈને આને બંધ કરી શકો છો.</string>
     <string name="pulsar_reminder_notification_title">બૅટરીની ક્ષમતા માટેની સહાય બંધ છે</string>
     <string name="pulsar_reminder_notification_text">તમારી બૅટરીની લાંબા ગાળાની ક્ષમતા અને પર્ફોર્મન્સને મેનેજ કરવામાં સહાય કરવા માટે બૅટરીની ક્ષમતા માટેની સહાય ચાલુ કરો</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">બૅટરીની સુરક્ષા કરવા માટે, ચાર્જિંગને મર્યાદિત કરવામાં આવ્યું છે</string>
+    <string name="temp_defender_notify_des">તમારી બૅટરી લાંબા સમય સુધી ગરમ હતી. એકવાર તમારી બૅટરી વધુ ઠંડી થાય, તે પછી સામાન્ય ચાર્જિંગ ફરી શરૂ થશે</string>
+    <string name="dwell_defender_notify_title">બૅટરીને સુરક્ષિત રાખવા માટે, ચાર્જિંગ હોલ્ડ પર રાખવામાં આવ્યું છે</string>
+    <string name="dwell_defender_notify_des">તમારો ફોન ખૂબ લાંબા સમય સુધી ચાર્જમાં મૂકવામાં આવ્યો હોય, ત્યારે આનાથી બૅટરીની આવરદા વધારવામાં સહાય મળે છે</string>
+    <string name="defender_notify_title">તમારી બૅટરીની સુરક્ષા વિશે</string>
+    <string name="defender_notify_resume_charge">તેમ છતાં ચાર્જ કરો</string>
+    <string name="defender_post_notify_title">બૅટરીની સુરક્ષા કરવા માટે, ચાર્જિંગને મર્યાદિત કરવામાં આવ્યું હતું</string>
+    <string name="defender_post_notify_des">બૅટરીની આવરદા વધારવામાં મદદ કરવા માટે, %1$sથી %2$s સુધી ચાર્જિંગને મર્યાદિત કરવામાં આવ્યું હતું</string>
+    <string name="dock_defender_first_run_title">બૅટરીને સુરક્ષિત રાખવા માટે, ચાર્જિંગ હોલ્ડ પર રાખવામાં આવ્યું છે</string>
+    <string name="dock_defender_first_run_des">બૅટરીની આવરદા વધારવામાં સહાય કરવા માટે, જ્યારે તમારું ટૅબ્લેટ ડૉક કરેલું હોય ત્યારે ચાર્જિંગ 90% પર હોલ્ડ પર રાખવામાં આવે છે. ઓવરરાઇડ કરવા માટે કોઈપણ સમયે સેટિંગ પર જાઓ.</string>
+    <string name="dock_defender_first_run_settings">સેટિંગ</string>
 </resources>

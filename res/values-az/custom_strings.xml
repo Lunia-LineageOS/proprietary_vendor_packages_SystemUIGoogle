@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel artıq batareyanın uzunmüddətli tutum və performansını idarə etməyə kömək edir. Ayarlarda söndürə bilərsiniz.</string>
     <string name="pulsar_reminder_notification_title">Batareya tutumu yardımı sönülüdür</string>
     <string name="pulsar_reminder_notification_text">Batareyanın uzunmüddətli tutum və performansını idarə etmək üçün batareya tutumu yardımını yandırın</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Batareyanın qorunması üçün şarj məhdudlaşdırılıb</string>
+    <string name="temp_defender_notify_des">Batareya uzun müddət isti qalıb. Batareya daha da soyuduqdan sonra normal şarj bərpa olunacaq</string>
+    <string name="dwell_defender_notify_title">Batareyanı qorumaq üçün şarj gözlədilir</string>
+    <string name="dwell_defender_notify_des">Bu, telefon uzun müddət şarj edildikdə batareya ömrünü uzatmağa kömək edir</string>
+    <string name="defender_notify_title">Batareyanın qorunması</string>
+    <string name="defender_notify_resume_charge">İstənilən halda şarj edin</string>
+    <string name="defender_post_notify_title">Batareyanı qorumaq üçün şarj məhdudlaşdırıldı</string>
+    <string name="defender_post_notify_des">Batareya ömrünü uzatmaq üçün şarj %1$s-%2$s arasında məhdudlaşdırılıb</string>
+    <string name="dock_defender_first_run_title">Batareyanı qorumaq üçün şarj gözlədilir</string>
+    <string name="dock_defender_first_run_des">Batareya ömrünü uzatmaq üçün planşet dokda olarkən şarj 90%-də gözlədilir. Ayarlarda əvəzləyə bilərsiniz.</string>
+    <string name="dock_defender_first_run_settings">Ayarlar</string>
 </resources>

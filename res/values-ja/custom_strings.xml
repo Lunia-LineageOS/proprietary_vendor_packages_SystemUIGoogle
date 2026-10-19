@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Google Pixel ではバッテリー ヘルスやパフォーマンスを長期的に管理できます。この動作は設定で OFF にできます。</string>
     <string name="pulsar_reminder_notification_title">バッテリー ヘルス アシスタントは OFF です</string>
     <string name="pulsar_reminder_notification_text">バッテリー ヘルス アシスタントを ON にすると、バッテリー ヘルスやパフォーマンスの長期的な維持に役立ちます</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">バッテリーを保護するため、充電は制限されています</string>
+    <string name="temp_defender_notify_des">バッテリーが長時間熱くなっていました。バッテリーの温度がさらに下がると、通常の充電が再開されます</string>
+    <string name="dwell_defender_notify_title">バッテリーを保護するため、充電を一時停止しています</string>
+    <string name="dwell_defender_notify_des">この機能を使うと、スマートフォンが長時間充電されている状態のときに、バッテリーを長持ちさせることができます</string>
+    <string name="defender_notify_title">バッテリーの保護</string>
+    <string name="defender_notify_resume_charge">このまま充電する</string>
+    <string name="defender_post_notify_title">バッテリーを保護するため、充電は制限されています</string>
+    <string name="defender_post_notify_des">バッテリーの劣化を防ぐために、%1$s から %2$s まで充電が制限されました</string>
+    <string name="dock_defender_first_run_title">充電を一時停止してバッテリーを保護</string>
+    <string name="dock_defender_first_run_des">バッテリーの劣化を防ぐために、タブレットをホルダーにセットしている間は充電を 90% で一時停止します。これはいつでも [設定] でオーバーライドできます。</string>
+    <string name="dock_defender_first_run_settings">設定</string>
 </resources>

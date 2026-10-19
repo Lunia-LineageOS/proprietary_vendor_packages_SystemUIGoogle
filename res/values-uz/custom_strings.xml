@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel endi batareyaning uzoq muddatli salomatligi va unumdorligini boshqarishga yordam bermoqda. Buni Sozlamalarda faolsizlantirishingiz mumkin.</string>
     <string name="pulsar_reminder_notification_title">Batareya salomatligiga yordam funksiyasi oʻchiq</string>
     <string name="pulsar_reminder_notification_text">Batareyaning uzoq muddatli salomatligi va unumdorligini boshqarishga yordam berish uchun batareya salomatligiga yordam funksiyasini yoqing</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Batareyani himoyalash uchun quvvatlash cheklandi</string>
+    <string name="temp_defender_notify_des">Batareya uzoq muddat qizib ketgan. Batareya soviganidan keyin odatiy tarzda quvvatlanishda davom etadi</string>
+    <string name="dwell_defender_notify_title">Batareyani himoyalash uchun quvvatlash toʻxtatildi</string>
+    <string name="dwell_defender_notify_des">Bu telefoningiz juda uzoq vaqt quvvatlanganda batareyaning ishlash muddatini uzaytirishga yordam beradi</string>
+    <string name="defender_notify_title">Batareyangizni himoyalash</string>
+    <string name="defender_notify_resume_charge">Baribir quvvatlash</string>
+    <string name="defender_post_notify_title">Batareyani himoyalash maqsadida quvvatlash cheklangan</string>
+    <string name="defender_post_notify_des">Batareyaning ishlash muddatini kengaytirishga yordam berish maqsadida quvvatlash %1$s — %2$s foizlarida cheklangan.</string>
+    <string name="dock_defender_first_run_title">Batareyani himoyalash uchun quvvatlash toʻxtatildi</string>
+    <string name="dock_defender_first_run_des">Batareyaning ishlash muddatini kengaytirishga yordam berish maqsadida planshet dokka ulanganda quvvatlash 90% da tutib turiladi. Almashtirish uchun istalgan vaqt Sozlamalarga kiring.</string>
+    <string name="dock_defender_first_run_settings">Sozlamalar</string>
 </resources>

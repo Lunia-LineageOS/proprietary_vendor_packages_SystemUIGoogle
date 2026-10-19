@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Tumutulong na ngayon ang Pixel sa pamamahala ng pangmatagalang tagal at performance ng iyong baterya. Puwede mo itong i-off sa Mga Setting.</string>
     <string name="pulsar_reminder_notification_title">Naka-off ang tulong sa tagal ng baterya</string>
     <string name="pulsar_reminder_notification_text">I-on ang tulong sa tagal ng baterya para makatulong na pamahalaan ang pangmatagalang kalusugan at performance ng iyong baterya</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Limitado ang pag-charge para protektahan ang baterya</string>
+    <string name="temp_defender_notify_des">Mainit ang iyong baterya sa loob ng mahabang panahon. Magpapatuloy ang normal na pag-charge kapag lumamig na ang iyong baterya</string>
+    <string name="dwell_defender_notify_title">Naka-hold ang pag-charge para protektahan ang baterya</string>
+    <string name="dwell_defender_notify_des">Tumutulong itong patagalin ang tagal ng baterya kapag naiwanang naka-charge nang masyadong matagal ang telepono mo</string>
+    <string name="defender_notify_title">Pinoprotektahan ang iyong baterya</string>
+    <string name="defender_notify_resume_charge">I-charge pa rin</string>
+    <string name="defender_post_notify_title">Nalimitahan ang pag-charge para protektahan ang baterya</string>
+    <string name="defender_post_notify_des">Para tulungang pahabain ang tagal ng baterya, nalimitahan ang pag-charge mula %1$s hanggang %2$s</string>
+    <string name="dock_defender_first_run_title">Naka-hold ang pag-charge para protektahan ang baterya</string>
+    <string name="dock_defender_first_run_des">Para makatulong na pahabain ang tagal ng baterya, iho-hold ang pag-charge kapag nasa 90% na habang naka-dock ang iyong tablet. Pumunta sa Mga Setting anumang oras para i-override.</string>
+    <string name="dock_defender_first_run_settings">Mga Setting</string>
 </resources>

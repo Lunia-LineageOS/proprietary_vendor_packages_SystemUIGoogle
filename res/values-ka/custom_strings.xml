@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ახლა უკვე თქვენი ბატარეის მდგომარეობისა და ეფექტურობის გრძელვადიან პერსპექტივაში მართვაში გეხმარებათ. ამის გამორთვა პარამეტრებიდან შეგიძლიათ.</string>
     <string name="pulsar_reminder_notification_title">ბატარეის მდგომარეობის შენარჩუნებაში დამხმარე გამორთულია</string>
     <string name="pulsar_reminder_notification_text">ჩართეთ ბატარეის მდგომარეობის შენარჩუნებაში დამხმარე, რათა თქვენი ბატარეის მდგომარეობა და ეფექტურობა გრძელვადიანად მართოთ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">დატენა შეზღუდულია ბატარეის დასაცავად</string>
+    <string name="temp_defender_notify_des">თქვენი ბატარეა თბილი იყო დიდი ხნის განმავლობაში. ნორმალური დატენა განახლდება მას შემდეგ, რაც თქვენი ბატარეა კიდევ უფრო გაგრილდება</string>
+    <string name="dwell_defender_notify_title">დატენვა შეჩერებულია ბატარეის დასაცავად</string>
+    <string name="dwell_defender_notify_des">ეს ხელს უწყობს ბატარეის ხანგრძლივობას მაშინ, როდესაც ტელეფონს დიდი ხნით ტოვებთ დასატენად</string>
+    <string name="defender_notify_title">თქვენი ბატარეის დაცვა</string>
+    <string name="defender_notify_resume_charge">მაინც დატენა</string>
+    <string name="defender_post_notify_title">ბატარეის დასაცავად დატენა შეზღუდული იყო</string>
+    <string name="defender_post_notify_des">ბატარეის ხანგრძლივობის გაზრდის ხელშეწყობისთვის დატენა შეზღუდული იყო %1$s-დან %2$s-მდე</string>
+    <string name="dock_defender_first_run_title">დატენვა შეჩერებულია ბატარეის დასაცავად</string>
+    <string name="dock_defender_first_run_des">ბატარეის ხანგრძლივობის შესანარჩუნებლად, ტაბლეტის ჩამაგრებისას დატენვა შეჩერებულია 90%-ზე. ნებისმიერ დროს გადადით პარამეტრებში უგულებელსაყოფად.</string>
+    <string name="dock_defender_first_run_settings">პარამეტრები</string>
 </resources>

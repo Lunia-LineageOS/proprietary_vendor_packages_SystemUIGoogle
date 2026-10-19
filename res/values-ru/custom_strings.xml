@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Теперь Pixel помогает поддерживать батарею устройства в рабочем состоянии. Эту функцию можно отключить в настройках.</string>
     <string name="pulsar_reminder_notification_title">Контроль состояния батареи отключен</string>
     <string name="pulsar_reminder_notification_text">Включите эту функцию, чтобы дольше поддерживать батарею устройства в рабочем состоянии.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Зарядка ограничена для защиты батареи</string>
+    <string name="temp_defender_notify_des">Батарея долгое время была теплой. Зарядка в обычном режиме возобновится, когда батарея остынет.</string>
+    <string name="dwell_defender_notify_title">Зарядка приостановлена для защиты батареи</string>
+    <string name="dwell_defender_notify_des">Это помогает продлить срок службы батареи при слишком долгой зарядке телефона.</string>
+    <string name="defender_notify_title">Защита батареи</string>
+    <string name="defender_notify_resume_charge">Всё равно зарядить</string>
+    <string name="defender_post_notify_title">Зарядка была ограничена для защиты батареи</string>
+    <string name="defender_post_notify_des">Чтобы продлить срок службы батареи, зарядка была ограничена с %1$s до %2$s.</string>
+    <string name="dock_defender_first_run_title">Зарядка приостановлена для защиты батареи</string>
+    <string name="dock_defender_first_run_des">Чтобы продлить срок службы батареи, зарядка приостанавливается на уровне 90 %, пока планшет находится на док-станции. Вы можете в любое время отключить эту функцию в настройках.</string>
+    <string name="dock_defender_first_run_settings">Настройки</string>
 </resources>

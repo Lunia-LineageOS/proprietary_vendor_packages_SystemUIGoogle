@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel vous aide désormais à gérer l\'état et les performances de votre batterie à long terme. Vous pouvez désactiver cette option dans les Paramètres.</string>
     <string name="pulsar_reminder_notification_title">L\'assistant d\'état de la batterie est désactivé</string>
     <string name="pulsar_reminder_notification_text">Activez l\'assistant d\'état de la batterie afin de gérer l\'état et les performances de la batterie sur le long terme</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">La recharge est limitée pour protéger la batterie</string>
+    <string name="temp_defender_notify_des">Votre batterie est restée chaude pendant une période prolongée. La recharge normale reprendra une fois que votre batterie aura refroidi davantage</string>
+    <string name="dwell_defender_notify_title">Recharge en pause pour protéger la batterie</string>
+    <string name="dwell_defender_notify_des">Si votre appareil reste en charge trop longtemps, la durée de vie de la batterie est protégée par cette fonction</string>
+    <string name="defender_notify_title">Protéger votre batterie</string>
+    <string name="defender_notify_resume_charge">Charger quand même</string>
+    <string name="defender_post_notify_title">La recharge a été limitée pour protéger la batterie</string>
+    <string name="defender_post_notify_des">Pour contribuer à prolonger la durée de vie de votre batterie, la recharge a été limitée de %1$s à %2$s</string>
+    <string name="dock_defender_first_run_title">Recharge en pause pour protéger la batterie</string>
+    <string name="dock_defender_first_run_des">"Pour prolonger la durée de vie de la batterie, le rechargement se met en pause à 90 % lorsque votre tablette se trouve sur la station d'accueil. Vous pouvez ignorer cette fonction à tout moment en vous rendant dans les paramètres."</string>
+    <string name="dock_defender_first_run_settings">Paramètres</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Отсега Pixel помага при управувањето со долгорочната состојба и изведба на вашата батерија. Ова може да се исклучи во „Поставки“.</string>
     <string name="pulsar_reminder_notification_title">„Помош за состојбата на батеријата“ е исклучена</string>
     <string name="pulsar_reminder_notification_text">Вклучете „Помош за состојбата на батеријата“ за да ви помогне при управувањето со долгорочната состојба и изведба</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Полнењето е ограничено за да се заштити батеријата</string>
+    <string name="temp_defender_notify_des">Вашата батерија беше топла подолг период. Нормалното полнење ќе продолжи откако батеријата ќе се излади дополнително</string>
+    <string name="dwell_defender_notify_title">Полнењето е паузирано за да се заштити батеријата</string>
+    <string name="dwell_defender_notify_des">Ова помага да се продолжи работниот век на батеријата кога телефонот е оставен да се полни премногу долго</string>
+    <string name="defender_notify_title">Заштита на батеријата</string>
+    <string name="defender_notify_resume_charge">Сепак полни</string>
+    <string name="defender_post_notify_title">Полнењето е ограничено за да се заштити батеријата</string>
+    <string name="defender_post_notify_des">За да помогне да се продолжи работниот век на батеријата, полнењето е ограничено од %1$s до %2$s</string>
+    <string name="dock_defender_first_run_title">Полнењето е паузирано за да се заштити батеријата</string>
+    <string name="dock_defender_first_run_des">За да помогне да се продолжи работниот век на батеријата, полнењето е паузирано на 90 % додека таблетот е приклучен на док. Одете во „Поставки“ кога сакате за да отфрлите.</string>
+    <string name="dock_defender_first_run_settings">Поставки</string>
 </resources>

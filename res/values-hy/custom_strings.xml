@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel-ն այժմ օգնում է երկարաժամկետ կտրվածքով կառավարել մարտկոցի վիճակը և արդյունավետությունը։ Դուք կարող եք անջատել այս գործառույթը Կարգավորումներում։</string>
     <string name="pulsar_reminder_notification_title">Մարտկոցի վիճակի վերահսկումն անջատված է</string>
     <string name="pulsar_reminder_notification_text">Միացրեք մարտկոցի վիճակի վերահսկումը, որպեսզի օգնեք երկարաժամկետ կտրվածքով կառավարել մարտկոցի վիճակը և արդյունավետությունը</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Լիցքավորումը սահմանափակվել է՝ մարտկոցը պաշտպանելու համար</string>
+    <string name="temp_defender_notify_des">Մարտկոցը երկար ժամանակ տաքացած էր։ Սովորական ռեժիմում լիցքավորումը կվերսկսվի, երբ մարտկոցը հովանա։</string>
+    <string name="dwell_defender_notify_title">Լիցքավորումը դադարեցվել է՝ մարտկոցը պաշտպանելու համար</string>
+    <string name="dwell_defender_notify_des">Սա օգնում է երկարացնել մարտկոցի աշխատաժամանակը հեռախոսը չափազանց երկար լիցքավորելու դեպքում</string>
+    <string name="defender_notify_title">Մարտկոցի պաշտպանություն</string>
+    <string name="defender_notify_resume_charge">Լիցքավորել</string>
+    <string name="defender_post_notify_title">Լիցքավորումը սահմանափակել է՝ մարտկոցը պաշտպանելու համար</string>
+    <string name="defender_post_notify_des">Մարտկոցի աշխատաժամանակը երկարացնելու համար լիցքավորումը սահմանափակվել է՝ %1$s – %2$s</string>
+    <string name="dock_defender_first_run_title">Լիցքավորումը դադարեցվել է՝ մարտկոցը պաշտպանելու համար</string>
+    <string name="dock_defender_first_run_des">Մարտկոցի աշխատաժամանակը երկարացնելու համար լիցքավորումը դադարեցվում է 90% մակարդակում, քանի դեռ պլանշետը դոկ-կայանում է: Այս պարամետրը ցանկացած ժամանակ կարող եք փոխել Կարգավորումներում։</string>
+    <string name="dock_defender_first_run_settings">Կարգավորումներ</string>
 </resources>

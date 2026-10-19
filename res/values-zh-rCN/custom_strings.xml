@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel 正在帮助管理电池的长期健康状况和性能。您可以在“设置”中关闭此功能。</string>
     <string name="pulsar_reminder_notification_title">电池健康度辅助功能已关闭</string>
     <string name="pulsar_reminder_notification_text">开启电池健康度辅助功能，以便更好地管理电池的长期健康度和性能</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">为保护电池，系统已限制充电</string>
+    <string name="temp_defender_notify_des">电池长时间处于高温状态。待电池温度进一步降低后，就会恢复正常充电</string>
+    <string name="dwell_defender_notify_title">为保护电池，充电已暂停</string>
+    <string name="dwell_defender_notify_des">手机插电时间过长时，这么做有助于延长电池寿命</string>
+    <string name="defender_notify_title">保护电池</string>
+    <string name="defender_notify_resume_charge">仍然充电</string>
+    <string name="defender_post_notify_title">为保护电池，系统已限制充电</string>
+    <string name="defender_post_notify_des">为了延长电池寿命，在%1$s 到%2$s 之间限制充电</string>
+    <string name="dock_defender_first_run_title">充电会暂停以保护电池</string>
+    <string name="dock_defender_first_run_des">为了延长电池寿命，当已插入基座时，您的平板电脑会在充电至 90% 时暂停充电。您可随时前往“设置”中更改相关设置。</string>
+    <string name="dock_defender_first_run_settings">设置</string>
 </resources>

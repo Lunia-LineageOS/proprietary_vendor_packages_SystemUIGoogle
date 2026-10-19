@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Тепер Pixel допомагає керувати продуктивністю й довговічністю акумулятора. Цю функцію можна вимкнути в налаштуваннях.</string>
     <string name="pulsar_reminder_notification_title">Керування станом акумулятора вимкнено</string>
     <string name="pulsar_reminder_notification_text">Увімкніть керування станом акумулятора, щоб підтримувати його продуктивність й довговічність</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Щоб захистити акумулятор, заряджання обмежено</string>
+    <string name="temp_defender_notify_des">Акумулятор був теплий протягом тривалого часу. Звичайне заряджання відновиться, коли він охолоне.</string>
+    <string name="dwell_defender_notify_title">Заряджання призупинено, щоб захистити акумулятор</string>
+    <string name="dwell_defender_notify_des">Це допомагає продовжити строк служби акумулятора, коли ви залишаєте телефон заряджатися на дуже довгий час</string>
+    <string name="defender_notify_title">Захист акумулятора</string>
+    <string name="defender_notify_resume_charge">Усе одно зарядити</string>
+    <string name="defender_post_notify_title">Щоб захистити акумулятор, заряджання було обмежено</string>
+    <string name="defender_post_notify_des">Щоб продовжити строк служби акумулятора, з %1$s до %2$s заряджання було обмежено</string>
+    <string name="dock_defender_first_run_title">Заряджання призупинено, щоб захистити акумулятор</string>
+    <string name="dock_defender_first_run_des">Щоб продовжити строк служби акумулятора, заряджання призупиняється на рівні 90%, коли планшет підключено до док-станції. Це можна будь-коли змінити в налаштуваннях.</string>
+    <string name="dock_defender_first_run_settings">Налаштування</string>
 </resources>

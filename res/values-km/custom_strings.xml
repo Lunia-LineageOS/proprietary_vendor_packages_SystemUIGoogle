@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">ឥឡូវនេះ Pixel កំពុងជួយគ្រប់គ្រងប្រតិបត្តិការ និងគុណភាព​ថ្មរយៈពេលវែងរបស់អ្នក។ អ្នកអាចបិទវា​បាននៅក្នុងការកំណត់។</string>
     <string name="pulsar_reminder_notification_title">ជំនួយ​ការគុណភាព​ថ្មត្រូវបានបិទ</string>
     <string name="pulsar_reminder_notification_text">បើកជំនួយ​ការគុណភាព​ថ្ម ដើម្បីជួយគ្រប់គ្រងប្រតិបត្តិការ និងគុណភាព​ថ្មរយៈពេលវែងរបស់អ្នក</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ការសាកត្រូវបានដាក់កំហិត ដើម្បីការពារថ្ម</string>
+    <string name="temp_defender_notify_des">ថ្មរបស់អ្នកឡើងក្ដៅរយៈពេលយូរ។ ការសាកថ្មធម្មតានឹងបន្តឡើងវិញ ពេលថ្មរបស់អ្នកចុះត្រជាក់ថែមទៀត</string>
+    <string name="dwell_defender_notify_title">កំពុងផ្អាកការសាកថ្ម ដើម្បីការពារថ្ម</string>
+    <string name="dwell_defender_notify_des">ពេលទុកឱ្យទូរសព្ទរបស់អ្នកសាកថ្មយូរពេក ការធ្វើបែបនេះជួយបង្កើនអាយុកាលថ្ម</string>
+    <string name="defender_notify_title">ការការពារ​ថ្មរបស់អ្នក</string>
+    <string name="defender_notify_resume_charge">មិនអីទេ សាកថ្មចុះ</string>
+    <string name="defender_post_notify_title">ការសាកត្រូវបានដាក់កំហិត ដើម្បីការពារថ្ម</string>
+    <string name="defender_post_notify_des">ដើម្បីជួយបង្កើនអាយុកាលថ្ម ការសាកថ្មត្រូវបានដាក់កំហិតពីម៉ោង %1$s ដល់ម៉ោង %2$s</string>
+    <string name="dock_defender_first_run_title">កំពុងផ្អាកការសាកថ្ម ដើម្បីការពារថ្ម</string>
+    <string name="dock_defender_first_run_des">ដើម្បីជួយបង្កើនអាយុកាលថ្ម ការសាកថ្មត្រូវបានផ្អាកនៅ 90% នៅពេលថេប្លេតរបស់អ្នកត្រូវបានភ្ជាប់។ ចូលទៅកាន់ \"ការកំណត់\" នៅពេលណាក៏បានដើម្បីលុបពីលើ។</string>
+    <string name="dock_defender_first_run_settings">ការកំណត់</string>
 </resources>

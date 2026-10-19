@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Sasa Pixel inasaidia kudhibiti utendaji na muda wa kudumu wa betri yako. Unaweza kuzima hali hii katika Mipangilio.</string>
     <string name="pulsar_reminder_notification_title">Kipengele cha kisaidizi cha kudumu kwa betri kimezima</string>
     <string name="pulsar_reminder_notification_text">Washa kisaidizi cha kudumu kwa betri ili kikusaidia kudhibiti utendaji na muda wa kudumu kwa betri yako</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Tumeweka kikomo cha kuchaji ili kulinda betri yako</string>
+    <string name="temp_defender_notify_des">Betri yako ilikuwa na joto kwa muda mrefu. Itaendelea kuchaji kama kawaida betri ikishapunguza joto zaidi</string>
+    <string name="dwell_defender_notify_title">Imesitisha kuchaji ili kulinda betri yako</string>
+    <string name="dwell_defender_notify_des">Hatua hii husaidia kuongeza muda wa matumizi ya betri simu yako inapoachwa ikichaji kwa muda mrefu mno</string>
+    <string name="defender_notify_title">Kulinda betri yako</string>
+    <string name="defender_notify_resume_charge">Chaji licha ya hayo</string>
+    <string name="defender_post_notify_title">Tuliweka kikomo cha kuchaji ili kulinda betri yako</string>
+    <string name="defender_post_notify_des">Ili kukusaidia kuongeza muda wa matumizi ya betri yako, tuliweka kikomo cha kuchaji kuanzia %1$s hadi %2$s</string>
+    <string name="dock_defender_first_run_title">Shughuli ya kuchaji imesitishwa ili kulinda betri</string>
+    <string name="dock_defender_first_run_des">Ili kusaidia kuongeza muda wa matumizi ya betri, shughuli ya kuchaji imesitishwa chaji ya betri ikiwa asilimia 90 kishikwambi chako kikiwa kimepachikwa. Nenda kwenye Mipangilio wakati wowote ili ubatilishe.</string>
+    <string name="dock_defender_first_run_settings">Mipangilio</string>
 </resources>

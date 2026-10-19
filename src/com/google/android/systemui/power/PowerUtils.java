@@ -7,6 +7,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
 import android.os.Bundle;
+import android.os.LocaleList;
 import android.os.UserHandle;
 import android.telephony.SubscriptionInfo;
 import android.telephony.SubscriptionManager;
@@ -29,6 +30,16 @@ public final class PowerUtils {
 
     private PowerUtils() {}
 
+    public static PendingIntent createBatterySettingsPendingIntentAsUser(Context context) {
+        return PendingIntent.getActivityAsUser(
+                context,
+                0,
+                new Intent(Intent.ACTION_POWER_USAGE_SUMMARY),
+                PendingIntent.FLAG_IMMUTABLE,
+                null,
+                UserHandle.CURRENT);
+    }
+
     public static PendingIntent createHelpArticlePendingIntentAsUser(int resId, Context context) {
         return PendingIntent.getActivityAsUser(
                 context,
@@ -37,6 +48,11 @@ public final class PowerUtils {
                 PendingIntent.FLAG_IMMUTABLE,
                 null,
                 UserHandle.CURRENT);
+    }
+
+    public static Locale getLocale(Context context) {
+        LocaleList locales = context.getResources().getConfiguration().getLocales();
+        return (locales == null || locales.isEmpty()) ? Locale.getDefault() : locales.get(0);
     }
 
     public static boolean isChargeLimitEnabledForUser(SecureSettings secureSettings, int userId) {

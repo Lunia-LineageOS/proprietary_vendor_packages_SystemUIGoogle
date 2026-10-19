@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel tani ndihmon në menaxhimin e gjendjes dhe performancës së baterisë sate në planin afatgjatë. Mund ta çaktivizosh këtë te \"Cilësimet\".</string>
     <string name="pulsar_reminder_notification_title">Ndihma për gjendjen e baterisë është joaktive</string>
     <string name="pulsar_reminder_notification_text">Aktivizo ndihmën për gjendjen e baterisë për të ndihmuar në menaxhimin e gjendjes dhe performancës së baterisë sate në planin afatgjatë</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Karikimi është kufizuar për të mbrojtur baterinë</string>
+    <string name="temp_defender_notify_des">Bateria ka qenë e nxehtë për një periudhë të zgjatur. Karikimi normal do të vazhdojë kur bateria të jetë ftohur më tej</string>
+    <string name="dwell_defender_notify_title">Karikimi është vendosur në pritje për të mbrojtur baterinë</string>
+    <string name="dwell_defender_notify_des">"Kjo ndihmon për të zgjatur jetëgjatësinë e baterisë kur telefoni lihet për t'u karikuar për një kohë të gjatë"</string>
+    <string name="defender_notify_title">Mbrojtja e baterisë sate</string>
+    <string name="defender_notify_resume_charge">Kariko gjithsesi</string>
+    <string name="defender_post_notify_title">Karikimi është kufizuar për të mbrojtur baterinë</string>
+    <string name="defender_post_notify_des">Për të ndihmuar në zgjatjen e jetëgjatësisë së baterisë sate, karikimi është kufizuar nga %1$s deri në %2$s</string>
+    <string name="dock_defender_first_run_title">Karikimi është vendosur në pritje për të mbrojtur baterinë</string>
+    <string name="dock_defender_first_run_des">Për të ndihmuar në zgjatjen e jetëgjatësisë së baterisë, karikimi është vendosur në pritje në 90% ndërsa tableti është i lidhur me stacionin. Shko te \"Cilësimet\" në çdo kohë për ta anuluar.</string>
+    <string name="dock_defender_first_run_settings">Cilësimet</string>
 </resources>

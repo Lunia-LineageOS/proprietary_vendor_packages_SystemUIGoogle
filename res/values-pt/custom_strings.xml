@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Agora o Pixel ajuda a gerenciar o desempenho e a integridade de longo prazo da bateria. É possível desativar essa opção nas configurações.</string>
     <string name="pulsar_reminder_notification_title">A assistência de integridade da bateria está desativada</string>
     <string name="pulsar_reminder_notification_text">Ative a assistência de integridade da bateria para gerenciar o desempenho e a integridade de longo prazo da bateria</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">O carregamento está limitado para proteger a bateria</string>
+    <string name="temp_defender_notify_des">Sua bateria ficou quente por muito tempo. O carregamento normal será retomado quando a bateria esfriar mais.</string>
+    <string name="dwell_defender_notify_title">Carregamento suspenso para proteger a bateria</string>
+    <string name="dwell_defender_notify_des">Isso ajuda a prolongar a vida útil da bateria quando o smartphone fica carregando por muito tempo</string>
+    <string name="defender_notify_title">Sua bateria está sendo protegida</string>
+    <string name="defender_notify_resume_charge">Carregar mesmo assim</string>
+    <string name="defender_post_notify_title">O carregamento foi limitado para proteger a bateria</string>
+    <string name="defender_post_notify_des">Para ajudar a prolongar a vida útil da bateria, o carregamento foi limitado de %1$s até %2$s.</string>
+    <string name="dock_defender_first_run_title">Carregamento suspenso para proteger a bateria</string>
+    <string name="dock_defender_first_run_des">Para ajudar a prolongar a vida útil da bateria, o carregamento fica suspenso em 90% enquanto o tablet está na base. Acesse as Configurações para mudar essa preferência a qualquer momento.</string>
+    <string name="dock_defender_first_run_settings">Configurações</string>
 </resources>

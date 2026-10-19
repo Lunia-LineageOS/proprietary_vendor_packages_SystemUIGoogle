@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Agora Pixel axuda a xestionar o estado e o rendemento da batería a longo prazo. Podes desactivar esta función en Configuración.</string>
     <string name="pulsar_reminder_notification_title">Está desactivada a asistencia respecto do estado da batería</string>
     <string name="pulsar_reminder_notification_text">Activa a asistencia respecto do estado da batería para que che axude a xestionar o estado e rendemento da batería a longo prazo.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Limitouse a carga para protexer a batería</string>
+    <string name="temp_defender_notify_des">A batería estivo quente durante bastante tempo. En canto arrefríe un pouco, retomarase a carga normal.</string>
+    <string name="dwell_defender_notify_title">A carga púxose en pausa para protexer a batería</string>
+    <string name="dwell_defender_notify_des">Isto axuda a prolongar a vida útil da batería cando se deixa o teléfono cargando demasiado tempo</string>
+    <string name="defender_notify_title">Protexendo a batería</string>
+    <string name="defender_notify_resume_charge">Cargar de todos os modos</string>
+    <string name="defender_post_notify_title">Limitouse a carga para protexer a batería</string>
+    <string name="defender_post_notify_des">Para axudar a aumentar a vida útil da batería, a carga limitouse de %1$s a %2$s</string>
+    <string name="dock_defender_first_run_title">A carga púxose en pausa para protexer a batería</string>
+    <string name="dock_defender_first_run_des">Para axudar a aumentar a vida útil da batería, a carga ponse en pausa no 90 % mentres a tableta estea na base. Podes ignorar esta opción cando queiras en Configuración.</string>
+    <string name="dock_defender_first_run_settings">Configuración</string>
 </resources>

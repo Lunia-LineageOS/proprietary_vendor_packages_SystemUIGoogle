@@ -3,6 +3,12 @@
     <!-- Whether to show extreme battery saver reminder -->
     <bool name="config_show_extreme_battery_saver_reminder">true</bool>
 
+    <!-- Whether to show the battery defender notifications -->
+    <bool name="config_battery_defender_warning_enabled">true</bool>
+
+    <!-- Whether the device is a tablet, which enables dock defend -->
+    <bool name="config_tablet_device">false</bool>
+
     <!-- Whether to show the Adaptive Charging notification -->
     <bool name="config_adaptive_charging_warning_enabled">true</bool>
 

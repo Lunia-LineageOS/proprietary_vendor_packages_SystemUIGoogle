@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">„Pixel“ dabar padeda valdyti ilgalaikes akumuliatoriaus savybes ir našumą. Šią parinktį bet kada galite išjungti skiltyje „Nustatymai“.</string>
     <string name="pulsar_reminder_notification_title">Pagalba dėl akumuliatoriaus būsenos išjungta</string>
     <string name="pulsar_reminder_notification_text">Įjunkite pagalbą dėl akumuliatoriaus būsenos, kad galėtumėte tvarkyti ilgalaikę akumuliatoriaus būseną ir našumą</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Įkrovimas apribotas siekiant apsaugoti akumuliatorių</string>
+    <string name="temp_defender_notify_des">Akumuliatorius ilgą laiką buvo šiltas. Įprastas įkrovimas bus atnaujintas, kai akumuliatorius dar labiau atvės</string>
+    <string name="dwell_defender_notify_title">Įkrovimas pristabdytas, siekiant apsaugoti akumuliatorių</string>
+    <string name="dwell_defender_notify_des">Tai padeda prailginti akumuliatoriaus veikimo laiką, kai telefonas paliekamas krautis per ilgai</string>
+    <string name="defender_notify_title">Akumuliatoriaus apsauga</string>
+    <string name="defender_notify_resume_charge">Vis tiek įkrauti</string>
+    <string name="defender_post_notify_title">Įkrovimas buvo apribotas siekiant apsaugoti akumuliatorių</string>
+    <string name="defender_post_notify_des">Kad akumuliatorius veiktų ilgiau, įkrovimas buvo apribotas nuo %1$s iki %2$s</string>
+    <string name="dock_defender_first_run_title">Įkraunama sulaikius, siekiant apsaugoti akumuliatorių</string>
+    <string name="dock_defender_first_run_des">Kad akumuliatorius veiktų ilgiau, įkrovimas sulaikomas pasiekus 90 proc., kai planšetinis kompiuteris prijungtas prie doko. Galite bet kada pakeisti skiltyje „Nustatymai“.</string>
+    <string name="dock_defender_first_run_settings">Nustatymai</string>
 </resources>

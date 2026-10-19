@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel auttaa nyt ylläpitämään akun pitkäaikaista kuntoa ja suorituskykyä. Voit estää tämän asetuksista.</string>
     <string name="pulsar_reminder_notification_title">Akun kunnon parannus on poissa päältä</string>
     <string name="pulsar_reminder_notification_text">Laita akun kunnon parannus päälle, niin voit ylläpitää akun kuntoa ja suorituskykyä pitkällä aikavälillä.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Latausta on rajoitettu akun suojaamiseksi</string>
+    <string name="temp_defender_notify_des">Akku oli lämmin pitkän aikaa. Normaali lataus jatkuu, kun akku on jäähtynyt tarpeeksi</string>
+    <string name="dwell_defender_notify_title">Lataus on keskeytetty akun suojaamiseksi</string>
+    <string name="dwell_defender_notify_des">Tämä auttaa pidentämään akunkäyttöikää, kun puhelin jää lataukseen pitkäksi aikaa</string>
+    <string name="defender_notify_title">Akun suojaaminen</string>
+    <string name="defender_notify_resume_charge">Lataa silti</string>
+    <string name="defender_post_notify_title">Latausta rajoitettiin akun suojaamiseksi</string>
+    <string name="defender_post_notify_des">Lataus oli rajoitettuna klo %1$s–%2$s, jotta akku kestäisi pidempään.</string>
+    <string name="dock_defender_first_run_title">Lataus on keskeytetty akun suojaamiseksi</string>
+    <string name="dock_defender_first_run_des">Lataus keskeytetään 90 %:iin akun käyttöiän pidentämiseksi, kun tabletti on lataustelineessä. Ohita tämä asetuksissa.</string>
+    <string name="dock_defender_first_run_settings">Asetukset</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel вече помага за управление на състоянието и ефективността на батерията ви в дългосрочен план. Можете да го изключите от настройките.</string>
     <string name="pulsar_reminder_notification_title">Функцията за съдействие за състоянието на батерията е изключена</string>
     <string name="pulsar_reminder_notification_text">Включете функцията за съдействие за състоянието на батерията, за да управлявате състоянието и ефективността ѝ в дългосрочен план</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Зареждането е ограничено с цел запазване на батерията</string>
+    <string name="temp_defender_notify_des">Батерията ви бе топла за продължителен период от време. Нормалното зареждане ще се възобнови, след като батерията ви се охлади още</string>
+    <string name="dwell_defender_notify_title">Зареждането е поставено на пауза с цел запазване на батерията</string>
+    <string name="dwell_defender_notify_des">Това удължава живота на батерията, когато телефонът ви се зарежда твърде дълго</string>
+    <string name="defender_notify_title">Запазване на батерията ви</string>
+    <string name="defender_notify_resume_charge">Зареждане въпреки това</string>
+    <string name="defender_post_notify_title">Зареждането бе ограничено с цел запазване на батерията</string>
+    <string name="defender_post_notify_des">С цел удължаване на живота на батерията зареждането бе ограничено от %1$s до %2$s</string>
+    <string name="dock_defender_first_run_title">Зареждането е поставено на пауза с цел запазване на батерията</string>
+    <string name="dock_defender_first_run_des">С цел удължаване на живота на батерията зареждането се поставя на пауза при достигане на 90%, докато таблетът ви е свързан с докинг станция. Можете да промените това по всяко време от настройките.</string>
+    <string name="dock_defender_first_run_settings">Настройки</string>
 </resources>

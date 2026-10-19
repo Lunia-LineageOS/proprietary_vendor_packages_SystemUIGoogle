@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel artık uzun vadeli pil sağlığını ve performansını yönetmenize yardımcı oluyor. Bu özelliği Ayarlar\'dan kapatabilirsiniz.</string>
     <string name="pulsar_reminder_notification_title">Pil sağlığı yardımı devre dışı</string>
     <string name="pulsar_reminder_notification_text">Uzun vadeli pil sağlığını ve performansını yönetmenize yardımcı olması için pil sağlığı yardımını etkinleştirin</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Şarj işlemi, pili korumak için sınırlandırıldı</string>
+    <string name="temp_defender_notify_des">Piliniz uzun süre boyunca sıcak kaldı. Piliniz biraz daha soğuduktan sonra normal şarj işlemi devam edecek</string>
+    <string name="dwell_defender_notify_title">Pili korumak için şarj beklemede</string>
+    <string name="dwell_defender_notify_des">Bu, telefonunuz çok uzun süre şarjda kaldığında pil kullanım ömrünün uzamasına yardımcı olur</string>
+    <string name="defender_notify_title">Pilinizin korunması</string>
+    <string name="defender_notify_resume_charge">Yine de şarj et</string>
+    <string name="defender_post_notify_title">Şarj işlemi, pili korumak için sınırlandırıldı</string>
+    <string name="defender_post_notify_des">Pil kullanım ömrünü uzatmaya yardımcı olmak için şarj işlemi %1$s-%2$s saatleri arasında sınırlandı</string>
+    <string name="dock_defender_first_run_title">Pili korumak için şarj beklemede</string>
+    <string name="dock_defender_first_run_des">"Tabletiniz yuvaya yerleştirilmiş durumdayken şarjı %90 dolduğunda pil kullanım ömrünü uzatmaya yardımcı olmak için şarj işlemi beklemeye alınır. Geçersiz kılmak için dilediğiniz zaman Ayarlar'a gidebilirsiniz."</string>
+    <string name="dock_defender_first_run_settings">Ayarlar</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">‏עכשיו Pixel עוזר לך לשמור על התקינות והביצועים של הסוללה לאורך זמן. אפשר להשבית את התכונה הזו בהגדרות.</string>
     <string name="pulsar_reminder_notification_title">התכונה \"עזרה בנושא תקינות הסוללה\" מושבתת</string>
     <string name="pulsar_reminder_notification_text">כדי לשמור על התקינות והביצועים של הסוללה לאורך זמן, צריך להפעיל את התכונה \"עזרה בנושא תקינות הסוללה\".</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">הטעינה מוגבלת כדי להגן על הסוללה</string>
+    <string name="temp_defender_notify_des">הסוללה הייתה חמה במשך זמן רב. הטעינה הרגילה תתחדש כשהסוללה תתקרר עוד יותר</string>
+    <string name="dwell_defender_notify_title">הטעינה הושהתה כדי להגן על הסוללה</string>
+    <string name="dwell_defender_notify_des">הפעולה הזו מאפשרת להאריך את משך חיי הסוללה כשהטלפון נשאר בטעינה יותר מדי זמן</string>
+    <string name="defender_notify_title">הגנה על הסוללה</string>
+    <string name="defender_notify_resume_charge">אני רוצה להטעין בכל זאת</string>
+    <string name="defender_post_notify_title">הטעינה הוגבלה כדי להגן על הסוללה</string>
+    <string name="defender_post_notify_des">כדי להאריך את משך חיי הסוללה, הטעינה הוגבלה מהשעה %1$s עד השעה %2$s</string>
+    <string name="dock_defender_first_run_title">הטעינה הושהתה כדי להגן על הסוללה</string>
+    <string name="dock_defender_first_run_des">"כדי לשפר את משך חיי הסוללה, הטעינה מושהית כשהסוללה מגיעה ל-90% בזמן שהטבאלט באביזר העגינה. אפשר לעבור ל'הגדרות' בכל שלב כדי לשנות מברירת המחדל."</string>
+    <string name="dock_defender_first_run_settings">הגדרות</string>
 </resources>

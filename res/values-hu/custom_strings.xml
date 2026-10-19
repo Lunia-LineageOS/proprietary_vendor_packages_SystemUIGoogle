@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">A Pixel mostantól segít az akkumulátor hosszú távú állapotának és teljesítményének kezelésében. Ezt a funkciót a beállítások között lehet kikapcsolni.</string>
     <string name="pulsar_reminder_notification_title">Az akkumulátor állapotával kapcsolatos segítség ki van kapcsolva</string>
     <string name="pulsar_reminder_notification_text">Kapcsolja be az akkumulátor állapotával kapcsolatos segítséget, amely segít az akkumulátor hosszú távú állapotának és teljesítményének kezelésében.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">A töltés korlátozva van az akkumulátor védelme érdekében</string>
+    <string name="temp_defender_notify_des">Az akkumulátor hosszú ideig meleg volt. A normál töltés akkor folytatódik, amikor az akkumulátor jobban lehűlt.</string>
+    <string name="dwell_defender_notify_title">Az akkumulátor védelme érdekében a töltés szünetel</string>
+    <string name="dwell_defender_notify_des">Ez a funkció segít meghosszabbítani az akkumulátor élettartamát, amikor túl sokáig hagyja töltőn a telefont.</string>
+    <string name="defender_notify_title">Az akkumulátor védelme</string>
+    <string name="defender_notify_resume_charge">Töltés mindenképp</string>
+    <string name="defender_post_notify_title">A rendszer korlátozta a töltést az akkumulátor védelme érdekében</string>
+    <string name="defender_post_notify_des">Az akkumulátor élettartamának növelése érdekében korlátozva volt a töltés %1$s és %2$s között.</string>
+    <string name="dock_defender_first_run_title">Az akkumulátor védelme érdekében a töltés szünetel</string>
+    <string name="dock_defender_first_run_des">Az akkumulátor élettartamának meghosszabbítása érdekében a töltés 90%-nál megáll, amíg a táblagép dokkolt állapotban van. Ezt a viselkedést bármikor felülbírálhatja a beállításokban.</string>
+    <string name="dock_defender_first_run_settings">Beállítások</string>
 </resources>

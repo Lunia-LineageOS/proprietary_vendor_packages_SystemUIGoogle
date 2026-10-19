@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">O Pixel está agora a ajudar a gerir o estado e o desempenho da bateria a longo prazo. Pode desativar esta opção nas Definições.</string>
     <string name="pulsar_reminder_notification_title">A assistência do estado da bateria está desativada</string>
     <string name="pulsar_reminder_notification_text">Ative a assistência do estado da bateria para ajudar a gerir o estado e o desempenho da bateria a longo prazo</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">O carregamento está limitado para proteger a bateria</string>
+    <string name="temp_defender_notify_des">A bateria esteve quente durante um período prolongado. O carregamento normal vai ser retomado quando a bateria arrefecer mais</string>
+    <string name="dwell_defender_notify_title">Carregamento em espera para proteger a bateria</string>
+    <string name="dwell_defender_notify_des">Isto ajuda a prolongar a vida útil da bateria quando o telemóvel é deixado a carregar durante demasiado tempo</string>
+    <string name="defender_notify_title">Proteger a sua bateria</string>
+    <string name="defender_notify_resume_charge">Carregar mesmo assim</string>
+    <string name="defender_post_notify_title">O carregamento foi limitado para proteger a bateria</string>
+    <string name="defender_post_notify_des">Para ajudar a aumentar a vida útil da bateria, o carregamento foi limitado da(s) %1$s à(s) %2$s</string>
+    <string name="dock_defender_first_run_title">Carregamento em espera para proteger a bateria</string>
+    <string name="dock_defender_first_run_des">Para ajudar a aumentar a vida útil da bateria, o carregamento é colocado em espera a 90% enquanto o seu tablet estiver na estação de carregamento Aceda às Definições em qualquer altura para substituir.</string>
+    <string name="dock_defender_first_run_settings">Definições</string>
 </resources>

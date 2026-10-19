@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ಈಗ ನಿಮ್ಮ ಬ್ಯಾಟರಿಯ ದೀರ್ಘಕಾಲೀನ ಹೆಲ್ತ್ ಮತ್ತು ಪರ್ಫಾರ್ಮೆನ್ಸ್ ಅನ್ನು ನಿರ್ವಹಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತಿದೆ. ನೀವು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಇದನ್ನು ಆಫ್ ಮಾಡಬಹುದು.</string>
     <string name="pulsar_reminder_notification_title">ಬ್ಯಾಟರಿ ಹೆಲ್ತ್ ಅಸಿಸ್ಟೆನ್ಸ್ ಆಫ್ ಆಗಿದೆ</string>
     <string name="pulsar_reminder_notification_text">ನಿಮ್ಮ ಬ್ಯಾಟರಿಯ ದೀರ್ಘಕಾಲೀನ ಹೆಲ್ತ್ ಮತ್ತು ಪರ್ಫಾರ್ಮೆನ್ಸ್ ಅನ್ನು ನಿರ್ವಹಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು ಬ್ಯಾಟರಿ ಹೆಲ್ತ್ ಅಸಿಸ್ಟೆನ್ಸ್ ಅನ್ನು ಆನ್ ಮಾಡಿ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ಬ್ಯಾಟರಿಯನ್ನು ರಕ್ಷಿಸಲು ಚಾರ್ಜಿಂಗ್ ಅನ್ನು ಸೀಮಿತಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="temp_defender_notify_des">ನಿಮ್ಮ ಬ್ಯಾಟರಿ ದೀರ್ಘಕಾಲದವರೆಗೆ ಬಿಸಿಯಾಗಿತ್ತು. ಬ್ಯಾಟರಿ ಸ್ವಲ್ಪ ತಣ್ಣಗಾದ ನಂತರ ಸಾಮಾನ್ಯ ಚಾರ್ಜಿಂಗ್ ಪುನರಾರಂಭವಾಗುತ್ತದೆ</string>
+    <string name="dwell_defender_notify_title">ಬ್ಯಾಟರಿಯನ್ನು ರಕ್ಷಿಸಲು ಚಾರ್ಜಿಂಗ್ ಅನ್ನು ಹೋಲ್ಡ್‌ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="dwell_defender_notify_des">ನಿಮ್ಮ ಫೋನ್ ಅನ್ನು ತುಂಬಾ ಸಮಯದವರೆಗೆ ಚಾರ್ಜ್ ಆಗಲು ಬಿಟ್ಟಾಗ ಇದು ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ವಿಸ್ತರಿಸಲು ಸಹಾಯ ಮಾಡುತ್ತದೆ</string>
+    <string name="defender_notify_title">ನಿಮ್ಮ ಬ್ಯಾಟರಿಯನ್ನು ರಕ್ಷಿಸುವುದು</string>
+    <string name="defender_notify_resume_charge">ಹೇಗಿದ್ದರೂ ಚಾರ್ಜ್ ಮಾಡಿ</string>
+    <string name="defender_post_notify_title">ಬ್ಯಾಟರಿಯನ್ನು ರಕ್ಷಿಸಲು ಚಾರ್ಜಿಂಗ್ ಸೀಮಿತವಾಗಿತ್ತು</string>
+    <string name="defender_post_notify_des">ಬ್ಯಾಟರಿಯ ಬಾಳಿಕೆಯನ್ನು ಹೆಚ್ಚಿಸುವುದಕ್ಕೆ ಸಹಾಯ ಮಾಡಲು, ಚಾರ್ಜಿಂಗ್ ಅನ್ನು %1$s ರಿಂದ %2$s ರವರೆಗೆ ಸೀಮಿತಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="dock_defender_first_run_title">ಬ್ಯಾಟರಿಯನ್ನು ರಕ್ಷಿಸಲು ಚಾರ್ಜಿಂಗ್ ಅನ್ನು ಹೋಲ್ಡ್‌ ಮಾಡಲಾಗಿದೆ</string>
+    <string name="dock_defender_first_run_des">ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ವಿಸ್ತರಿಸಲು ಸಹಾಯ ಮಾಡುವುದಕ್ಕಾಗಿ, ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಡಾಕ್ ಆಗಿರುವಾಗ 90% ರಷ್ಟು ಚಾರ್ಜಿಂಗ್ ಅನ್ನು ಹೋಲ್ಡ್ ಮಾಡಲಾಗಿರುತ್ತದೆ. ಓವರ್‌ರೈಡ್ ಮಾಡಲು ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ.</string>
+    <string name="dock_defender_first_run_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
 </resources>

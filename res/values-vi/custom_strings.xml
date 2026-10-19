@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Giờ đây, Pixel giúp quản lý tình trạng và hiệu suất pin trong thời gian dài. Bạn có thể tắt chế độ này trong phần Cài đặt.</string>
     <string name="pulsar_reminder_notification_title">Tính năng hỗ trợ tình trạng pin đang tắt</string>
     <string name="pulsar_reminder_notification_text">Bật tính năng hỗ trợ tình trạng pin để giúp quản lý tình trạng và hiệu suất của pin trong thời gian dài</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Quá trình sạc bị hạn chế để bảo vệ pin</string>
+    <string name="temp_defender_notify_des">Pin của bạn đã ấm trong một khoảng thời gian dài. Quá trình sạc bình thường sẽ tiếp tục khi pin nguội bớt</string>
+    <string name="dwell_defender_notify_title">Đang tạm ngưng sạc để bảo vệ pin</string>
+    <string name="dwell_defender_notify_des">Tính năng này giúp kéo dài thời lượng pin khi bạn sạc điện thoại quá lâu</string>
+    <string name="defender_notify_title">Bảo vệ pin</string>
+    <string name="defender_notify_resume_charge">Vẫn sạc</string>
+    <string name="defender_post_notify_title">Thời gian sạc bị hạn chế để bảo vệ pin</string>
+    <string name="defender_post_notify_des">Để giúp kéo dài thời lượng pin, thời gian sạc bị hạn chế trong khoảng từ %1$s đến %2$s</string>
+    <string name="dock_defender_first_run_title">Đang tạm ngưng sạc để bảo vệ pin</string>
+    <string name="dock_defender_first_run_des">Để giúp kéo dài thời lượng pin, khi được gắn vào đế sạc thì máy tính bảng sẽ sạc đến 90% rồi tạm ngưng. Chuyển đến phần Cài đặt bất cứ lúc nào để ghi đè.</string>
+    <string name="dock_defender_first_run_settings">Cài đặt</string>
 </resources>

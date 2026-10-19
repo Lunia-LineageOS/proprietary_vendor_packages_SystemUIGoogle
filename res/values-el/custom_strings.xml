@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Το Pixel συμβάλλει πλέον στη διαχείριση της υγείας και της απόδοσης της μπαταρίας μακροπρόθεσμα. Μπορείτε να απενεργοποιήσετε αυτή τη λειτουργία στις Ρυθμίσεις.</string>
     <string name="pulsar_reminder_notification_title">Η υποστήριξη για την υγεία μπαταρίας είναι απενεργοποιημένη</string>
     <string name="pulsar_reminder_notification_text">Ενεργοποιήστε την υποστήριξη για την υγεία μπαταρίας, για να διαχειριστείτε την υγεία και την απόδοση της μπαταρίας μακροπρόθεσμα</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Η φόρτιση περιορίζεται για προστασία της μπαταρίας</string>
+    <string name="temp_defender_notify_des">Η μπαταρία ήταν ζεστή για μεγάλο χρονικό διάστημα. Η κανονική φόρτιση θα συνεχιστεί μόλις η μπαταρία κρυώσει περισσότερο</string>
+    <string name="dwell_defender_notify_title">Η φόρτιση τέθηκε σε αναμονή για προστασία της μπαταρίας</string>
+    <string name="dwell_defender_notify_des">Αυτό συμβάλλει στην επέκταση της διάρκειας ζωής μπαταρίας, όταν αφήνετε το τηλέφωνο να φορτίζει για υπερβολικά πολύ χρόνο</string>
+    <string name="defender_notify_title">Προστασία της μπαταρίας</string>
+    <string name="defender_notify_resume_charge">Φόρτιση ούτως ή άλλως</string>
+    <string name="defender_post_notify_title">Η φόρτιση περιορίστηκε για προστασία της μπαταρίας</string>
+    <string name="defender_post_notify_des">Για την επέκταση της διάρκειας ζωής της μπαταρίας, η φόρτιση περιορίστηκε από τις %1$s έως τις %2$s</string>
+    <string name="dock_defender_first_run_title">Η φόρτιση τέθηκε σε αναμονή για προστασία της μπαταρίας</string>
+    <string name="dock_defender_first_run_des">Για την επέκταση της διάρκειας ζωής μπαταρίας, η φόρτιση τίθεται σε αναμονή στο 90% όταν το tablet σας είναι στη βάση σύνδεσης. Μεταβείτε στις Ρυθμίσεις ανά πάσα στιγμή για παράκαμψη.</string>
+    <string name="dock_defender_first_run_settings">Ρυθμίσεις</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ਹੁਣ ਤੁਹਾਡੀ ਬੈਟਰੀ ਦੀ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਸਮਰੱਥਾ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਮਦਦ ਕਰ ਰਿਹਾ ਹੈ। ਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ।</string>
     <string name="pulsar_reminder_notification_title">ਬੈਟਰੀ ਦੀ ਹਾਲਤ ਸੰਬੰਧੀ ਸਹਾਇਤਾ ਬੰਦ ਹੈ</string>
     <string name="pulsar_reminder_notification_text">ਆਪਣੀ ਬੈਟਰੀ ਦੀ ਲੰਬੇ ਸਮੇਂ ਲਈ ਹਾਲਤ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਵਿੱਚ ਮਦਦ ਲਈ ਬੈਟਰੀ ਦੀ ਹਾਲਤ ਸੰਬੰਧੀ ਸਹਾਇਤਾ ਚਾਲੂ ਕਰੋ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਸੀਮਤ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+    <string name="temp_defender_notify_des">"ਬੈਟਰੀ ਲੰਬੇ ਸਮੇਂ ਲਈ ਗਰਮ ਸੀ। ਬੈਟਰੀ ਦੇ ਹੋਰ ਠੰਡਾ ਹੋਣ 'ਤੇ, ਸਧਾਰਨ ਚਾਰਜਿੰਗ ਮੁੜ-ਚਾਲੂ ਹੋ ਜਾਵੇਗੀ।"</string>
+    <string name="dwell_defender_notify_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
+    <string name="dwell_defender_notify_des">ਇਸ ਨਾਲ ਤੁਹਾਨੂੰ ਉਦੋਂ ਆਪਣੇ ਫ਼ੋਨ ਦੀ ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਮਿਲੇਗੀ, ਜਦੋਂ ਉਹ ਲੰਬੇ ਸਮੇਂ ਤੋਂ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੋਵੇ</string>
+    <string name="defender_notify_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ</string>
+    <string name="defender_notify_resume_charge">ਫਿਰ ਵੀ ਚਾਰਜ ਕਰੋ</string>
+    <string name="defender_post_notify_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਸੀਮਤ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name="defender_post_notify_des">ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਨੂੰ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ, %1$s ਤੋਂ ਲੈ ਕੇ %2$s ਤੱਕ ਚਾਰਜਿੰਗ ਨੂੰ ਸੀਮਤ ਕੀਤਾ ਗਿਆ ਸੀ</string>
+    <string name="dock_defender_first_run_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
+    <string name="dock_defender_first_run_des">"ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ, ਤੁਹਾਡੇ ਟੈਬਲੈੱਟ ਦੇ ਡੌਕ ਕੀਤੇ ਹੋਣ ਦੌਰਾਨ ਚਾਰਜਿੰਗ 90% 'ਤੇ ਰੋਕ ਕੇ ਰੱਖੀ ਜਾਂਦੀ ਹੈ। ਓਵਰਰਾਈਡ ਕਰਨ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਓ।"</string>
+    <string name="dock_defender_first_run_settings">ਸੈਟਿੰਗਾਂ</string>
 </resources>

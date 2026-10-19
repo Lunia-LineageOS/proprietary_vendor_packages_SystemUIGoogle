@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel आता तुमच्या बॅटरीची दीर्घकालीन स्थिती आणि परफॉर्मन्स व्यवस्थापित करण्यास मदत करत आहे. तुम्ही हे सेटिंग्ज मध्ये बंद करू शकता.</string>
     <string name="pulsar_reminder_notification_title">बॅटरीच्या स्थितीशी संबंधित साहाय्य बंद आहे</string>
     <string name="pulsar_reminder_notification_text">तुमच्या बॅटरीची दीर्घकालीन स्थिती आणि परफॉर्मन्स व्यवस्थापित करण्यात मदत करण्यासाठी बॅटरीच्या स्थितीशी संबंधित साहाय्य सुरू करा</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">बॅटरीचे संरक्षण करण्यासाठी चार्जिंग मर्यादित केले आहे</string>
+    <string name="temp_defender_notify_des">तुमची बॅटरी बऱ्याच कालावधीसाठी गरम होती. तुमची बॅटरी आणखी थंड झाल्यावर सामान्य चार्जिंग पुन्हा सुरू होईल</string>
+    <string name="dwell_defender_notify_title">बॅटरीचे संरक्षण करण्यासाठी चार्जिंग थांबवले आहे</string>
+    <string name="dwell_defender_notify_des">तुमचा फोन खूप जास्त काळ चार्ज होण्यासाठी ठेवला जातो, तेव्हा यामुळे बॅटरीचा कालावधी वाढवण्यात मदत होते</string>
+    <string name="defender_notify_title">तुमच्या बॅटरीचे संरक्षण करणे</string>
+    <string name="defender_notify_resume_charge">तरीही चार्ज करा</string>
+    <string name="defender_post_notify_title">बॅटरीचे संरक्षण करण्यासाठी चार्जिंग मर्यादित केले होते</string>
+    <string name="defender_post_notify_des">बॅटरीचा कालावधी वाढवण्यात मदत व्हावी, यासाठी %1$s ते %2$s यादरम्यान चार्जिंग मर्यादित केले होते</string>
+    <string name="dock_defender_first_run_title">बॅटरीचे संरक्षण करण्यासाठी चार्जिंग होल्डवर आहे</string>
+    <string name="dock_defender_first_run_des">बॅटरीचा कालावधी वाढवण्यात मदत व्हावी यासाठी, तुमचा टॅबलेट डॉक केलेला असताना चार्जिंग ९०% वर होल्डवर असते. ओव्हरराइड करण्यासाठी सेटिंग्ज वर कधीही जा.</string>
+    <string name="dock_defender_first_run_settings">सेटिंग्ज</string>
 </resources>

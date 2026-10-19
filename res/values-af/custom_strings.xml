@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel help nou om jou battery se langtermyngesondheid en -werkverrigting te bestuur. Jy kan dit in Instellings afskakel.</string>
     <string name="pulsar_reminder_notification_title">Batterygesondheidbystand is af</string>
     <string name="pulsar_reminder_notification_text">Skakel batterygesondheidbystand aan om jou battery se langtermyngesondheid en werkverrigting te help bestuur</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Die laaiproses is beperk om die battery te beskerm</string>
+    <string name="temp_defender_notify_des">Jou battery was vir ’n lang tydperk warm. Die gewone laaiproses sal hervat sodra jou battery verder afgekoel het</string>
+    <string name="dwell_defender_notify_title">Laaiproses is onderbreek om battery te beskerm</string>
+    <string name="dwell_defender_notify_des">Dit help om die batteryleeftyd te verleng wanneer jou foon te lank gelaat word om te laai</string>
+    <string name="defender_notify_title">Beskerm jou battery</string>
+    <string name="defender_notify_resume_charge">Laai in elk geval</string>
+    <string name="defender_post_notify_title">Laaiproses is beperk om battery te beskerm</string>
+    <string name="defender_post_notify_des">Laaiproses is van %1$s tot %2$s beperk om batteryleeftyd te help verleng</string>
+    <string name="dock_defender_first_run_title">Laaiproses is onderbreek om battery te beskerm</string>
+    <string name="dock_defender_first_run_des">Om te help om die batteryleeftyd te verleng, word laai op 90% onderbreek terwyl jou tablet gedok is. Gaan enige tyd na Instellings om dit te ignoreer.</string>
+    <string name="dock_defender_first_run_settings">Instellings</string>
 </resources>

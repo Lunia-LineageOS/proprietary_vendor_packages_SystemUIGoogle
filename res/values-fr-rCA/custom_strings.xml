@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Le Pixel aide désormais à gérer la santé et les performances à long terme de votre pile. Vous pouvez désactiver cette option dans les paramètres.</string>
     <string name="pulsar_reminder_notification_title">L\'assistance à l\'état de santé de la pile est désactivée</string>
     <string name="pulsar_reminder_notification_text">Activez l\'assistance à l\'état de santé de la pile pour vous aider à gérer la santé et les performances à long terme de votre pile</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">La recharge est limitée pour protéger la pile</string>
+    <string name="temp_defender_notify_des">Votre pile est restée chaude pendant une période prolongée. La recharge normale reprendra une fois que votre pile aura refroidi davantage</string>
+    <string name="dwell_defender_notify_title">La recharge a été mise en pause pour protéger la pile</string>
+    <string name="dwell_defender_notify_des">Cela permet de prolonger la durée de vie de la pile lorsque votre téléphone est laissé en recharge trop longtemps</string>
+    <string name="defender_notify_title">Protection de la pile</string>
+    <string name="defender_notify_resume_charge">Recharger quand même</string>
+    <string name="defender_post_notify_title">La recharge a été limitée pour protéger la pile</string>
+    <string name="defender_post_notify_des">Afin de prolonger la durée de vie de la pile, la recharge a été limitée de %1$s à %2$s</string>
+    <string name="dock_defender_first_run_title">La recharge a été mise en pause pour protéger la pile</string>
+    <string name="dock_defender_first_run_des">Pour prolonger la durée de vie de la pile, la recharge est mise en pause à 90 % lorsque votre tablette est ancrée. Accédez à Paramètres à tout moment pour remplacer ce paramètre.</string>
+    <string name="dock_defender_first_run_settings">Paramètres</string>
 </resources>

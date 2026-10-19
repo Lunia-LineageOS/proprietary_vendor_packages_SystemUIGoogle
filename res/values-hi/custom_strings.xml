@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel से अब अपने डिवाइस की बैटरी की परफ़ॉर्मेंस और लाइफ़ को लंबे समय तक बेहतर रखा जा सकता है. इस सुविधा को सेटिंग में जाकर बंद किया जा सकता है.</string>
     <string name="pulsar_reminder_notification_title">बैटरी की परफ़ॉर्मेंस को बेहतर करने की सुविधा बंद है</string>
     <string name="pulsar_reminder_notification_text">बैटरी की परफ़ॉर्मेंस बेहतर करने की सुविधा चालू करें, ताकि बैटरी की परफ़ॉर्मेंस को लंबे समय तक बेहतर किया जा सके</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">बैटरी को सुरक्षित रखने के लिए, चार्जिंग बंद कर दी गई है</string>
+    <string name="temp_defender_notify_des">आपके डिवाइस की बैटरी लंबे समय तक गर्म थी. बैटरी का तापमान कम होने पर, चार्जिंग सामान्य तरीके से फिर चालू हो जाएगी</string>
+    <string name="dwell_defender_notify_title">बैटरी को सुरक्षित रखने के लिए, फ़ोन को चार्ज होने से रोक दिया गया है</string>
+    <string name="dwell_defender_notify_des">इससे आपको तब अपने फ़ोन की बैटरी लाइफ़ बढ़ाने में मदद मिलेगी, जब वह लंबे समय से चार्ज हो रहा हो</string>
+    <string name="defender_notify_title">बैटरी को नुकसान से बचाया जा रहा है</string>
+    <string name="defender_notify_resume_charge">चार्ज करना जारी रखें</string>
+    <string name="defender_post_notify_title">बैटरी को सुरक्षित रखने के लिए, चार्जिंग बंद कर दी गई थी</string>
+    <string name="defender_post_notify_des">बैटरी लाइफ़ बढ़ाने के लिए, %1$s से %2$s के बीच चार्जिंग बंद कर दी गई थी</string>
+    <string name="dock_defender_first_run_title">बैटरी को सुरक्षित रखने के लिए, फ़ोन को चार्ज होने से रोक दिया गया है</string>
+    <string name="dock_defender_first_run_des">बैटरी लाइफ़ बढ़ाने के लिए, डॉक से जुड़े होने के दौरान आपके टैबलेट की बैटरी 90% होने पर उसे चार्ज होने से रोक दिया जाता है. इसमें बदलाव करने के लिए, सेटिंग पर जाएं.</string>
+    <string name="dock_defender_first_run_settings">सेटिंग</string>
 </resources>

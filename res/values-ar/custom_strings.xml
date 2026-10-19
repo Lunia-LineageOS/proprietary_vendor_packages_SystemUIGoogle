@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">‏يساعدك هاتف Pixel الآن في إدارة حالة البطارية وأدائها على المدى الطويل. ويمكنك إيقاف هذه الميزة من خلال \"الإعدادات\".</string>
     <string name="pulsar_reminder_notification_title">ميزة \"مساعدة بشأن حالة البطارية\" غير مفعّلة</string>
     <string name="pulsar_reminder_notification_text">يمكنك تفعيل ميزة \"مساعدة بشأن حالة البطارية\" لتسهيل إدارة حالة البطارية وأدائها على المدى الطويل</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">تم إيقاف الشحن مؤقتًا لحماية البطارية</string>
+    <string name="temp_defender_notify_des">لقد ارتفعت درجة حرارة البطارية لفترة طويلة. وسيتم استئناف الشحن المعتاد عندما تنخفض درجة حرارتها</string>
+    <string name="dwell_defender_notify_title">الشحن معلَّق لحماية البطارية</string>
+    <string name="dwell_defender_notify_des">يساعد ذلك على إطالة عمر البطارية عندما يظل هاتفك متصلاً بالشاحن لفترة طويلة</string>
+    <string name="defender_notify_title">جارٍ حماية بطاريتك</string>
+    <string name="defender_notify_resume_charge">استكمال الشحن على أيّ حال</string>
+    <string name="defender_post_notify_title">تم إيقاف الشحن مؤقتًا لحماية البطارية</string>
+    <string name="defender_post_notify_des">للمساعدة في إطالة عمر البطارية، تم إيقاف الشحن مؤقتًا من %1$s إلى %2$s</string>
+    <string name="dock_defender_first_run_title">الشحن معلَّق لحماية البطارية</string>
+    <string name="dock_defender_first_run_des">للمساعدة في إطالة عمر البطارية، يتم تعليق الشحن عند وصوله إلى %90 عندما يكون جهازك اللوحي مثبَّتًا على قاعدة الإرساء. انتقِل إلى \"الإعدادات\" في أي وقت للإلغاء.</string>
+    <string name="dock_defender_first_run_settings">الإعدادات</string>
 </resources>

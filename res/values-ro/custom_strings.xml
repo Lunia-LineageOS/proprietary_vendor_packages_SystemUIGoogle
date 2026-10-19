@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel te ajută acum să gestionezi starea și performanța pe termen lung ale bateriei. Poți dezactiva această opțiune din Setări.</string>
     <string name="pulsar_reminder_notification_title">Asistența pentru starea bateriei este dezactivată</string>
     <string name="pulsar_reminder_notification_text">Activează asistența pentru starea bateriei pentru a gestiona starea și performanța pe termen lung ale bateriei.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Încărcarea este limitată pentru a proteja bateria</string>
+    <string name="temp_defender_notify_des">Bateria a fost caldă mult timp. Încărcarea normală va fi reluată după ce bateria se mai răcește.</string>
+    <string name="dwell_defender_notify_title">Încărcarea s-a întrerupt pentru a proteja bateria</string>
+    <string name="dwell_defender_notify_des">Astfel, se va prelungi durata de viață a bateriei când lași telefonul la încărcat prea mult</string>
+    <string name="defender_notify_title">Protecția bateriei</string>
+    <string name="defender_notify_resume_charge">Încarcă oricum</string>
+    <string name="defender_post_notify_title">Încărcarea a fost limitată pentru a proteja bateria</string>
+    <string name="defender_post_notify_des">Pentru a mări durata de viață a bateriei, încărcarea a fost limitată între %1$s și %2$s</string>
+    <string name="dock_defender_first_run_title">Încărcarea s-a întrerupt pentru a proteja bateria</string>
+    <string name="dock_defender_first_run_des">Pentru a extinde durata de viață a bateriei, încărcarea este întreruptă la 90 % cât timp tableta este andocată. Accesează oricând Setările pentru a modifica opțiunea.</string>
+    <string name="dock_defender_first_run_settings">Setări</string>
 </resources>

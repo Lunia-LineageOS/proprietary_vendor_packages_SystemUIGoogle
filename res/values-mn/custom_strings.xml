@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel одоо таны батарейн цэнэгийг удаан барих, гүйцэтгэлийг нь удирдахад тусалж байна. Та үүнийг Тохиргооноос унтрааж болно.</string>
     <string name="pulsar_reminder_notification_title">Цэнэг барилтын туслах унтраалттай байна</string>
     <string name="pulsar_reminder_notification_text">Цэнэг удаан барих, гүйцэтгэлийг удирдахад туслахын тулд цэнэг барилтын туслахыг асаана уу</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Батарейг хамгаалахын тулд цэнэглэхийг хязгаарласан</string>
+    <string name="temp_defender_notify_des">Таны батарей удаан хугацааны турш халуун байсан. Таны батарей сайн хөрсний дараа хэвийн байдлаар үргэлжлүүлэн цэнэглэнэ</string>
+    <string name="dwell_defender_notify_title">Батарейг хамгаалахын тулд цэнэглэхийг хүлээлгэсэн</string>
+    <string name="dwell_defender_notify_des">Та утсаа хэт удаан хугацааны турш цэнэглэхээр орхисон үед энэ нь батарейн эдэлгээг уртасгахад тусалдаг</string>
+    <string name="defender_notify_title">Таны батарейг хамгаалж байна</string>
+    <string name="defender_notify_resume_charge">Ямартай ч цэнэглэх</string>
+    <string name="defender_post_notify_title">Батарейг хамгаалахын тулд цэнэглэхийг хязгаарласан</string>
+    <string name="defender_post_notify_des">Батарейн эдэлгээг уртасгахад туслахын тулд цэнэглэхийг %1$s-с %2$s хүртэл хязгаарласан</string>
+    <string name="dock_defender_first_run_title">Батарейг хамгаалахын тулд цэнэглэлийг барих</string>
+    <string name="dock_defender_first_run_des">Батарейн эдэлгээг уртасгахад туслахын тулд таны таблетыг суурилуулсан байхад цэнэглэлийг 90% дээр барьдаг. Дарахын тулд Тохиргоо руу хүссэн үедээ очно уу.</string>
+    <string name="dock_defender_first_run_settings">Тохиргоо</string>
 </resources>

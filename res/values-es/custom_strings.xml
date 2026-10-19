@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ahora te ayuda a gestionar el estado y el rendimiento de la batería a largo plazo. Puedes desactivarlo en Ajustes.</string>
     <string name="pulsar_reminder_notification_title">La asistencia para la conservación de la batería está desactivada</string>
     <string name="pulsar_reminder_notification_text">Activa la asistencia para la conservación de la batería para gestionar el estado y el rendimiento de la batería a largo plazo</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">La carga está limitada para proteger la batería</string>
+    <string name="temp_defender_notify_des">La batería ha estado caliente durante un periodo prolongado. La carga normal se reanudará cuando la batería se haya enfriado lo suficiente.</string>
+    <string name="dwell_defender_notify_title">Carga pausada para proteger la batería</string>
+    <string name="dwell_defender_notify_des">Esto ayuda a prolongar la vida útil de la batería cuando el teléfono se deja cargando durante mucho tiempo</string>
+    <string name="defender_notify_title">Protegiendo la batería</string>
+    <string name="defender_notify_resume_charge">Cargar de todos modos</string>
+    <string name="defender_post_notify_title">La carga se ha limitado para proteger la batería</string>
+    <string name="defender_post_notify_des">Para prolongar la vida útil de la batería, la carga se ha limitado de %1$s a %2$s</string>
+    <string name="dock_defender_first_run_title">Carga pausada para proteger la batería</string>
+    <string name="dock_defender_first_run_des">Para prolongar la vida útil de la batería, la carga se pausa al 90 % mientras la tablet está conectada a la base. Ve a Ajustes en cualquier momento para inhabilitar esta función.</string>
+    <string name="dock_defender_first_run_settings">Ajustes</string>
 </resources>

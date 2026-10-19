@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel သည် သင့်ဘက်ထရီ၏ ရေရှည်ခံမှုနှင့် စွမ်းဆောင်ရည်တို့ကို ကူညီစီမံပေးနေသည်။ ၎င်းကို ဆက်တင်များတွင် ပိတ်နိုင်သည်။</string>
     <string name="pulsar_reminder_notification_title">ဘက်ထရီအခြေအနေ အထောက်အကူ ပိတ်ထားသည်</string>
     <string name="pulsar_reminder_notification_text">သင့်ဘက်ထရီ၏ ရေရှည်ခံမှုနှင့် စွမ်းဆောင်ရည်တို့ကို ကူညီစီမံရန်အတွက် ဘက်ထရီအခြေအနေ အထောက်အကူ ဖွင့်ပါ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ဘက်ထရီကို ကာကွယ်ရန် အားသွင်းခြင်းကို အကန့်အသတ် ထားရှိသည်</string>
+    <string name="temp_defender_notify_des">သင့်ဘက်ထရီသည် အချိန်ကြာမြင့်စွာ နွေးနေသည်။ ဘက်ထရီပြန်အေးသွားသည်နှင့် ပုံမှန်အားသွင်းခြင်း ဆက်လုပ်မည်</string>
+    <string name="dwell_defender_notify_title">ဘက်ထရီကာကွယ်ရန် အားသွင်းခြင်းကို ခဏရပ်ထားသည်</string>
+    <string name="dwell_defender_notify_des">သင့်ဖုန်းကို အချိန်အတန်ကြာ အားသွင်းထားသည့်အခါ ၎င်းက ဘက်ထရီသက်တမ်းကို ရှည်စေသည်</string>
+    <string name="defender_notify_title">ဘက်ထရီကာကွယ်ခြင်း</string>
+    <string name="defender_notify_resume_charge">မည်သို့ပင်ဖြစ်စေ အားသွင်းရန်</string>
+    <string name="defender_post_notify_title">ဘက်ထရီကို ကာကွယ်ရန် အားသွင်းခြင်းကို အကန့်အသတ် ထားရှိသည်</string>
+    <string name="defender_post_notify_des">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် အားသွင်းခြင်းကို %1$s မှ %2$s အထိ အကန့်အသတ် ထားရှိသည်</string>
+    <string name="dock_defender_first_run_title">ဘက်ထရီကာကွယ်ရန် အားသွင်းခြင်းကို ခဏရပ်ထားသည်</string>
+    <string name="dock_defender_first_run_des">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် သင့်တက်ဘလက်ကို တပ်ဆင်ထားစဉ် အားသွင်းခြင်းကို ၉၀% တွင် ခဏရပ်သည်။ အစားထိုးရန် ဆက်တင်များသို့ အချိန်မရွေးသွားပါ။</string>
+    <string name="dock_defender_first_run_settings">ဆက်တင်များ</string>
 </resources>

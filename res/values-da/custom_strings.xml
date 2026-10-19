@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel hjælper nu med at administrere dit batteris tilstand og ydeevne på lang sigt. Du kan deaktivere dette i Indstillinger.</string>
     <string name="pulsar_reminder_notification_title">Hjælp til batteritilstand er deaktiveret</string>
     <string name="pulsar_reminder_notification_text">Aktivér Hjælp til batteritilstand for at få hjælp til at administrere dit batteris tilstand og ydeevne på lang sigt</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Opladningen er begrænset for at beskytte batteriet</string>
+    <string name="temp_defender_notify_des">Dit batteri var varmt i længere tid. Normal opladning genoptages, når dit batteri er kølet yderligere ned</string>
+    <string name="dwell_defender_notify_title">Opladningen er sat på pause for at beskytte batteriet</string>
+    <string name="dwell_defender_notify_des">Dette hjælper med at forlænge batteritiden, når din telefon oplades for længe</string>
+    <string name="defender_notify_title">Beskytter dit batteri</string>
+    <string name="defender_notify_resume_charge">Oplad alligevel</string>
+    <string name="defender_post_notify_title">Opladningen blev begrænset for at beskytte batteriet</string>
+    <string name="defender_post_notify_des">For at hjælpe med at forlænge batteriets levetid blev opladningen optimeret fra %1$s til %2$s</string>
+    <string name="dock_defender_first_run_title">Opladningen er sat på pause for at beskytte batteriet</string>
+    <string name="dock_defender_first_run_des">For at hjælpe med at forlænge batteritiden sættes opladningen på pause ved 90 %, mens din tablet er docket. Gå til Indstillinger for tilsidesætte denne indstilling.</string>
+    <string name="dock_defender_first_run_settings">Indstillinger</string>
 </resources>

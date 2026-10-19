@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel zdaj pomaga upravljati dolgoročno stanje in učinkovitost delovanja baterije. To lahko izklopite v nastavitvah.</string>
     <string name="pulsar_reminder_notification_title">Pomoč pri stanju baterije je izklopljena</string>
     <string name="pulsar_reminder_notification_text">Vklopite pomoč pri stanju baterije, ki vam bo pomagala upravljati dolgoročno stanje in učinkovitost delovanja baterije.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Polnjenje je omejeno zaradi zaščite baterije</string>
+    <string name="temp_defender_notify_des">Baterija je bila dalj časa topla. Običajno polnjenje se bo nadaljevalo, ko se bo baterija še bolj ohladila.</string>
+    <string name="dwell_defender_notify_title">Zaradi zaščite baterije je polnjenje na čakanju</string>
+    <string name="dwell_defender_notify_des">To pomaga podaljšati življenjsko dobo baterije, kadar predolgo pustite, da se telefon polni</string>
+    <string name="defender_notify_title">Zaščita baterije</string>
+    <string name="defender_notify_resume_charge">Vseeno polni</string>
+    <string name="defender_post_notify_title">Polnjenje je bilo omejeno zaradi zaščite baterije</string>
+    <string name="defender_post_notify_des">Zaradi podaljšanja življenjske dobe baterije je bilo polnjenje omejeno od %1$s do %2$s.</string>
+    <string name="dock_defender_first_run_title">Zaradi zaščite baterije je polnjenje začasno zaustavljeno</string>
+    <string name="dock_defender_first_run_des">Zaradi podaljšanja življenjske dobe baterije je polnjenje začasno zaustavljeno pri 90 %, dokler je tablični računalnik priklopljen na nosilec. To lahko kadar koli preglasite v nastavitvah.</string>
+    <string name="dock_defender_first_run_settings">Nastavitve</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel aitab praegu teie aku pikka kasutusiga ja toimivust tagada. Saate selle seadetes välja lülitada.</string>
     <string name="pulsar_reminder_notification_title">Aku seisukorra abi on välja lülitatud</string>
     <string name="pulsar_reminder_notification_text">Lülitage sisse aku seisukorra abi, et aidata aku pikka kasutusiga ja toimivust tagada</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Aku kaitsmiseks on laadimine piiratud</string>
+    <string name="temp_defender_notify_des">Teie aku oli pikema aja vältel soe. Tavapärane laadimine jätkub, kui teie aku on maha jahtunud.</string>
+    <string name="dwell_defender_notify_title">Laadimine on aku kaitsmiseks ootele pandud</string>
+    <string name="dwell_defender_notify_des">See aitab pikendada aku eluiga, kui telefon jäetakse liiga kauaks laadima</string>
+    <string name="defender_notify_title">Aku kaitsmine</string>
+    <string name="defender_notify_resume_charge">Lae ikka</string>
+    <string name="defender_post_notify_title">Aku kaitsmiseks on laadimine piiratud</string>
+    <string name="defender_post_notify_des">Aku tööea pikendamiseks oli laadimine ajavahemikus %1$s kuni %2$s optimeeritud.</string>
+    <string name="dock_defender_first_run_title">Laadimine on aku kaitsmiseks ootele pandud</string>
+    <string name="dock_defender_first_run_des">Aku eluea pikendamiseks on laadimine 90% juures ootel, kui tahvelarvuti on dokitud. Alistamiseks avage mis tahes ajal seaded.</string>
+    <string name="dock_defender_first_run_settings">Seaded</string>
 </resources>

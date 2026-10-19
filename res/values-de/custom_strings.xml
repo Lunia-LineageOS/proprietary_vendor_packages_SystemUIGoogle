@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Dein Pixel hilft dir jetzt dabei, Zustand und Leistung des Akkus auf lange Sicht zu optimieren. Dies lässt sich in den Einstellungen deaktivieren.</string>
     <string name="pulsar_reminder_notification_title">Optimierung des Akkuzustands deaktiviert</string>
     <string name="pulsar_reminder_notification_text">Wenn du die Optimierung des Akkuzustands aktivierst, trägt das dazu bei, Zustand und Leistung des Akkus auf lange Sicht zu optimieren.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Der Ladevorgang ist eingeschränkt, um den Akku zu schonen</string>
+    <string name="temp_defender_notify_des">Dein Akku war über einen längeren Zeitraum warm. Der normale Ladevorgang wird fortgesetzt, sobald sich der Akku weiter abgekühlt hat.</string>
+    <string name="dwell_defender_notify_title">Ladevorgang zum Schutz des Akkus angehalten</string>
+    <string name="dwell_defender_notify_des">Dies hilft, die Lebensdauer des Akkus zu verlängern, wenn das Smartphone zu lange geladen wird</string>
+    <string name="defender_notify_title">Akku schonendes Laden</string>
+    <string name="defender_notify_resume_charge">Trotzdem laden</string>
+    <string name="defender_post_notify_title">Der Ladevorgang wurde eingeschränkt, um den Akku zu schonen</string>
+    <string name="defender_post_notify_des">Der Ladevorgang wurde von %1$s bis %2$s eingeschränkt, um die Lebensdauer des Akkus zu verlängern</string>
+    <string name="dock_defender_first_run_title">Ladevorgang wird zum Schonen des Akkus angehalten</string>
+    <string name="dock_defender_first_run_des">Um die Akkulaufzeit zu verlängern, wird der Ladevorgang bei 90 % angehalten, wenn das Tablet angedockt ist. Das lässt sich jederzeit in den Einstellungen außer Kraft setzen.</string>
+    <string name="dock_defender_first_run_settings">Einstellungen</string>
 </resources>

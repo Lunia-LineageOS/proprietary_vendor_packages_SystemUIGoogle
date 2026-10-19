@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel teď pomáhá dlouhodobě udržovat stav a výkon baterie. Tuhle funkci můžete vypnout v nastavení.</string>
     <string name="pulsar_reminder_notification_title">Je vypnutá pomoc s výdrží baterie</string>
     <string name="pulsar_reminder_notification_text">Zapněte asistenci s výdrží baterie, která vám pomůže zachovat dlouhodobě stav a výkon baterie.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Nabíjení je kvůli ochraně baterie omezeno</string>
+    <string name="temp_defender_notify_des">Baterie byla delší dobu teplá. Normální nabíjení bude pokračovat, až baterie ještě víc vychladne.</string>
+    <string name="dwell_defender_notify_title">Nabíjení je odloženo za účelem ochrany baterie</string>
+    <string name="dwell_defender_notify_des">Prodlužuje se tím životnost baterie, když se telefon nabíjí moc dlouho</string>
+    <string name="defender_notify_title">Ochrana baterie</string>
+    <string name="defender_notify_resume_charge">Přesto nabít</string>
+    <string name="defender_post_notify_title">Nabíjení bylo kvůli ochraně baterie omezeno</string>
+    <string name="defender_post_notify_des">Za účelem prodloužení životnosti baterie bylo nabíjení od %1$s do %2$s omezeno</string>
+    <string name="dock_defender_first_run_title">Nabíjení je za účelem ochrany baterie pozastaveno</string>
+    <string name="dock_defender_first_run_des">Když bude tablet v doku, nabíjení se za účelem prodloužení životnosti baterie zastaví na 90 %. Toto chování můžete kdykoliv přepsat v Nastavení.</string>
+    <string name="dock_defender_first_run_settings">Nastavení</string>
 </resources>

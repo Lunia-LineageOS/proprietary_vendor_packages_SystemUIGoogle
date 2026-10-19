@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Цяпер тэлефон Pixel дапамагае кіраваць станам і прадукцыйнасцю акумулятара ў доўгатэрміновай перспектыве. Гэту функцыю можна адключыць у наладах.</string>
     <string name="pulsar_reminder_notification_title">Дапамога па стане акумулятара выключана</string>
     <string name="pulsar_reminder_notification_text">Уключыце дапамогу па стане акумулятара, каб забяспечыць аптымальны стан і прадукцыйнасць акумулятара ў доўгатэрміновай перспектыве.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Зарадка абмежавана, каб абараніць акумулятар</string>
+    <string name="temp_defender_notify_des">Акумулятар заставаўся нагрэтым працяглы перыяд часу. Зарадка прадоўжыцца ў звычайным рэжыме, калі акумулятар астыне.</string>
+    <string name="dwell_defender_notify_title">Зарадка прыпынена, каб абараніць акумулятар</string>
+    <string name="dwell_defender_notify_des">Гэта дапамагае падоўжыць тэрмін службы акумулятара, калі тэлефон застаецца на зарадцы занадта доўга</string>
+    <string name="defender_notify_title">Зберажэнне акумулятара</string>
+    <string name="defender_notify_resume_charge">Усё роўна зарадзіць</string>
+    <string name="defender_post_notify_title">Зарадка была абмежавана, каб абараніць акумулятар</string>
+    <string name="defender_post_notify_des">У мэтах падаўжэння тэрміну службы акумулятара зарадка была абмежавана з %1$s да %2$s</string>
+    <string name="dock_defender_first_run_title">Зарадка прыпынена, каб абараніць акумулятар</string>
+    <string name="dock_defender_first_run_des">У мэтах падаўжэння тэрміну службы акумулятара зарадка прыпыняецца на ўзроўні 90%, пакуль планшэт падключаны да док-станцыі. Каб перавызначыць гэты параметр, перайдзіце ў налады.</string>
+    <string name="dock_defender_first_run_settings">Налады</string>
 </resources>

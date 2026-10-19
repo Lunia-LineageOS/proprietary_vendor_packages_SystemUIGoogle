@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Ara, Pixel t\'ajuda a gestionar l\'estat i el rendiment a llarg termini de la bateria. Pots desactivar aquesta opció a Configuració.</string>
     <string name="pulsar_reminder_notification_title">L\'assistència sobre l\'estat de la bateria està desactivada</string>
     <string name="pulsar_reminder_notification_text">Activa l\'assistència sobre l\'estat de la bateria per gestionar-ne l\'estat i el rendiment a llarg termini</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">La càrrega està limitada per protegir la bateria</string>
+    <string name="temp_defender_notify_des">"La bateria ha estat calenta durant un període llarg de temps. La càrrega normal es reprendrà quan la bateria s'hagi refredat més."</string>
+    <string name="dwell_defender_notify_title">"La càrrega s'ha posat en espera per protegir la bateria"</string>
+    <string name="dwell_defender_notify_des">Això ajuda a allargar la vida útil de la bateria quan el telèfon es deixa carregant massa estona</string>
+    <string name="defender_notify_title">"S'està protegint la bateria"</string>
+    <string name="defender_notify_resume_charge">Carrega igualment</string>
+    <string name="defender_post_notify_title">"La càrrega s'ha limitat per protegir la bateria"</string>
+    <string name="defender_post_notify_des">"Per ajudar-te a allargar la vida útil de la bateria, la càrrega s'ha limitat des de les %1$s fins a les %2$s"</string>
+    <string name="dock_defender_first_run_title">"La càrrega s'ha posat en espera per protegir la bateria"</string>
+    <string name="dock_defender_first_run_des">"Per ajudar-te a allargar la vida útil de la bateria, la càrrega s'ha posat en espera al 90 % mentre la tauleta està acoblada. Ves a Configuració en qualsevol moment per anul·lar aquesta opció."</string>
+    <string name="dock_defender_first_run_settings">Configuració</string>
 </resources>

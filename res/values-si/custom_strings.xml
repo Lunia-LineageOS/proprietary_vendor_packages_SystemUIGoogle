@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel දැන් ඔබේ බැටරියේ දිගුකාලීන සෞඛ්‍යය සහ ක්‍රියාකාරිත්වය කළමනාකරණය කිරීමට උපකාරී වේ. ඔබට මෙය සැකසීම් තුළ ක්‍රියාවිරහිත කළ හැක.</string>
     <string name="pulsar_reminder_notification_title">බැටරි සෞඛ්‍යය සහය ක්‍රියාවිරහිතයි</string>
     <string name="pulsar_reminder_notification_text">ඔබේ බැටරියේ දිගුකාලීන සෞඛ්‍යය සහ ක්‍රියාකාරිත්වය කළමනාකරණය කිරීමට උදවු කිරීම සඳහා බැටරි සෞඛ්‍යය සහය ක්‍රියාත්මක කරන්න</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">බැටරිය ආරක්ෂා කිරීම සඳහා ආරෝපණය සීමා කර ඇත</string>
+    <string name="temp_defender_notify_des">ඔබේ බැටරිය දිගු කාලයක් උණුසුම්ව පැවතුනි. ඔබේ බැටරිය තවදුරටත් සිසිල් වූ පසු සාමාන්‍ය ආරෝපණය නැවත ආරම්භ වනු ඇත</string>
+    <string name="dwell_defender_notify_title">බැටරිය ආරක්ෂා කිරීම සඳහා ආරෝපණය රඳවා තබා ඇත</string>
+    <string name="dwell_defender_notify_des">මෙය ඔබේ දුරකථනය දිගු කාලයක් ආරෝපණය කිරීමට ඉතිරිව ඇති විට බැටරි ආයු කාලය දීර්ඝ කිරීමට උදවු වේ</string>
+    <string name="defender_notify_title">ඔබේ බැටරිය ආරක්ෂා කිරීම</string>
+    <string name="defender_notify_resume_charge">කෙසේ හෝ ආරෝපණය කරන්න</string>
+    <string name="defender_post_notify_title">බැටරිය ආරක්ෂා කිරීම සඳහා ආරෝපණය සීමා කර ඇත</string>
+    <string name="defender_post_notify_des">බැටරි ආයු කාලය දීර්ඝ කිරීමට උදවු කිරීම සඳහා, ආරෝපණය %1$s සිට %2$s දක්වා සීමා කර ඇත</string>
+    <string name="dock_defender_first_run_title">බැටරිය ආරක්ෂා කිරීම සඳහා ආරෝපණය රඳවා ගෙන ඇත</string>
+    <string name="dock_defender_first_run_des">බැටරි ආයු කාලය දීර්ඝ කිරීමට උදවු කිරීමට, ඔබේ ටැබ්ලටය ඩොක් කර ඇති අතරේ ආරෝපණය 90% හි රඳවා ඇත. ප්‍රතික්ෂේප කිරීමට ඕනෑම වේලාවක සැකසීම් වෙත යන්න.</string>
+    <string name="dock_defender_first_run_settings">සැකසීම්</string>
 </resources>

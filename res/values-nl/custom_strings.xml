@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">De Pixel helpt nu om de conditie en prestaties van je batterij op de lange termijn te beheren. Je kunt dit uitzetten via Instellingen.</string>
     <string name="pulsar_reminder_notification_title">Hulp bij batterijconditie staat uit</string>
     <string name="pulsar_reminder_notification_text">Zet de functie Hulp bij batterijconditie aan om de conditie en prestaties van je batterij op de lange termijn te beheren</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Opladen is beperkt om de batterij te beschermen</string>
+    <string name="temp_defender_notify_des">Je batterij is langere tijd warm geweest. Normaal opladen wordt hervat als je batterij verder is afgekoeld</string>
+    <string name="dwell_defender_notify_title">Opladen is in de wacht gezet om de batterij te beschermen</string>
+    <string name="dwell_defender_notify_des">Dit helpt de levensduur van de batterij te verlengen als je telefoon te lang wordt opgeladen</string>
+    <string name="defender_notify_title">De batterij beschermen</string>
+    <string name="defender_notify_resume_charge">Toch opladen</string>
+    <string name="defender_post_notify_title">Opladen was beperkt om de batterij te beschermen</string>
+    <string name="defender_post_notify_des">Opladen was beperkt van %1$s tot %2$s om de levensduur van de batterij te verlengen</string>
+    <string name="dock_defender_first_run_title">Opladen is in de wacht gezet om de batterij te beschermen</string>
+    <string name="dock_defender_first_run_des">Het opladen wordt bij 90% in de wacht gezet terwijl je tablet in het dock is geplaatst, om de levensduur van de batterij te verlengen. Dit kun je op elk gewenst moment in de instellingen overschrijven.</string>
+    <string name="dock_defender_first_run_settings">Instellingen</string>
 </resources>

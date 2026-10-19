@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel এখন আপনার ব্যাটারির আয়ু দীর্ঘস্থায়ী করা ও পারফর্ম্যান্স বাড়ানো ম্যানেজ করার ব্যাপারে সাহায্য করছে। আপনি সেটিংস থেকে এটি বন্ধ করতে পারবেন।</string>
     <string name="pulsar_reminder_notification_title">ব্যাটারির আয়ু সংক্রান্ত সহায়তা বন্ধ আছে</string>
     <string name="pulsar_reminder_notification_text">আপনার ব্যাটারি যাতে দীর্ঘ সময় ধরে ভালো থাকে তার জন্য ব্যাটারির আয়ু ম্যানেজ করতে ব্যাটারির আয়ু সংক্রান্ত সহায়তা চালু করুন</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ব্যাটারি সুরক্ষিত রাখতে চার্জিং সীমিত করা হয়েছে</string>
+    <string name="temp_defender_notify_des">আপনার ব্যাটারি দীর্ঘ সময় ধরে গরম হয়ে আছে। এটি আরও ঠান্ডা হলে, স্বাভাবিক চার্জিং আবার চালু হবে</string>
+    <string name="dwell_defender_notify_title">ব্যাটারিকে সুরক্ষিত রাখতে চার্জিং হোল্ড করা হয়েছে</string>
+    <string name="dwell_defender_notify_des">আপনার ফোন অনেকক্ষণ ধরে চার্জে দেওয়া থাকলে, এটি ব্যাটারির আয়ু বাড়াতে সাহায্য করে</string>
+    <string name="defender_notify_title">আপনার ব্যাটারিকে রক্ষা করছে</string>
+    <string name="defender_notify_resume_charge">তা সত্ত্বেও চার্জ করুন</string>
+    <string name="defender_post_notify_title">ব্যাটারি সুরক্ষিত রাখতে চার্জিং সীমিত করা হয়েছে</string>
+    <string name="defender_post_notify_des">আপনার ব্যাটারির আয়ু বাড়াতে, চার্জিং %1$s থেকে %2$s পর্যন্ত সীমিত করা হয়েছে</string>
+    <string name="dock_defender_first_run_title">ব্যাটারি সুরক্ষিত রাখতে চার্জিং হোল্ডে রয়েছে</string>
+    <string name="dock_defender_first_run_des">ব্যাটারির আয়ু বাড়াতে ট্যাবলেট ডক করার সময় চার্জ ৯০%-এ হোল্ড করা রয়েছে। ওভাররাইড করতে যেকোনও সময় সেটিংসে যান।</string>
+    <string name="dock_defender_first_run_settings">সেটিংস</string>
 </resources>

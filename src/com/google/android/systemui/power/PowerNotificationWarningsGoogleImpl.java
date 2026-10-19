@@ -38,6 +38,7 @@ import com.android.systemui.statusbar.policy.BatteryController;
 import com.android.systemui.statusbar.policy.DeviceProvisionedController;
 import com.android.systemui.util.settings.GlobalSettings;
 import com.android.systemui.util.settings.SecureSettings;
+import com.android.systemui.util.time.SystemClock;
 
 import com.google.android.systemui.googlebattery.AdaptiveChargingManager;
 import com.google.android.systemui.power.batteryevent.aidl.BatteryEventType;
@@ -76,6 +77,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private final BatteryEventClient mBatteryEventClient;
     private final Executor mExecutor;
     private final Handler mHandler;
+    private final SystemClock mSystemClock;
     private final Provider<BatterySaverConfirmationDialog> mBatterySaverConfirmationDialogProvider;
     private final Provider<SevereLowBatteryNotification> mSevereLowBatteryNotificationProvider;
     private final PulsarController mPulsarController;
@@ -88,6 +90,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private SevereLowBatteryNotification mSevereLowBatteryNotification;
     private LowPowerWarningsController mLowPowerWarningsController;
     private ChargeLimitController mChargeLimitController;
+    private BatteryDefenderNotificationHandler mBatteryDefenderNotificationHandler;
     private AdaptiveChargingNotification mAdaptiveChargingNotification;
     private ChargeLimitDiscoveryNotification mChargeLimitDiscoveryNotification;
     private BatterySaverConfirmationDialog mBatterySaverConfirmationDialog;
@@ -126,6 +129,9 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                     mLowPowerWarningsController.dispatchIntent(intent);
                     mChargeLimitController.dispatchIntent(intent);
                     mPulsarController.dispatchIntent(intent);
+                    if (mBatteryDefenderNotificationHandler != null) {
+                        mBatteryDefenderNotificationHandler.dispatchIntent(intent);
+                    }
                     if (mAdaptiveChargingNotification != null) {
                         switch (action) {
                             case Intent.ACTION_BATTERY_CHANGED:
@@ -177,6 +183,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
             SystemUIDialog.Factory systemUIDialogFactory,
             @Background Executor backgroundExecutor,
             @Main Handler mainHandler,
+            SystemClock systemClock,
             Provider<BatterySaverConfirmationDialog> batterySaverConfirmationDialogProvider,
             Provider<SevereLowBatteryNotification> severeLowBatteryNotificationProvider,
             SecureSettings secureSettings,
@@ -206,6 +213,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         mBatteryEventClient = batteryEventClient;
         mExecutor = backgroundExecutor;
         mHandler = mainHandler;
+        mSystemClock = systemClock;
         mBatterySaverConfirmationDialogProvider = batterySaverConfirmationDialogProvider;
         mSevereLowBatteryNotificationProvider = severeLowBatteryNotificationProvider;
         mPulsarController = pulsarController;
@@ -247,6 +255,10 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                     if (mLowPowerWarningsController != null) {
                         mLowPowerWarningsController.onBatteryEventUpdate(batteryLevel, events);
                     }
+                    if (mBatteryDefenderNotificationHandler != null) {
+                        mBatteryDefenderNotificationHandler.onBatteryEventUpdate(
+                                events, batteryLevel, pluggedType);
+                    }
                     return Unit.INSTANCE;
                 });
 
@@ -274,6 +286,19 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         filter.addAction(PulsarController.ACTION_CLICK_PULSAR_REMINDER_NOTIFICATION);
         filter.addAction(PulsarController.ACTION_DISMISS_PULSAR_REMINDER_NOTIFICATION);
         Resources resources = context.getResources();
+        if (resources.getBoolean(R.bool.config_battery_defender_warning_enabled)) {
+            mBatteryDefenderNotificationHandler =
+                    new BatteryDefenderNotificationHandler(
+                            context,
+                            uiEventLogger,
+                            mSystemClock,
+                            Dispatchers.getMain(),
+                            context.getSystemService(NotificationManager.class),
+                            ExecutorsKt.from(mExecutor));
+            filter.addAction(DwellTempDefenderNotification.ACTION_RESUME_CHARGING);
+            filter.addAction(BatteryDefenderNotificationHandler.ACTION_RESUME_CHARGING_SETTINGS);
+            filter.addAction(DwellTempDefenderNotification.ACTION_DISMISS_DEFENDER_WARNING);
+        }
         if (resources.getBoolean(R.bool.config_adaptive_charging_warning_enabled)) {
             mAdaptiveChargingNotification =
                     new AdaptiveChargingNotification(
@@ -428,6 +453,9 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
             pw.println(
                     "\t\tsevereLowBatteryNotificationCancelled: "
                             + mLowPowerWarningsController.severeLowBatteryNotificationCancelled);
+        }
+        if (mBatteryDefenderNotificationHandler != null) {
+            mBatteryDefenderNotificationHandler.dump(pw);
         }
         mExecutor.execute(this::prepareTurboProviderDump);
     }

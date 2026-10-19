@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixelএ এতিয়া আপোনাৰ বেটাৰীৰ দীঘলীয়া সময়ৰ স্বাস্থ্য আৰু কাৰ্যদক্ষতা পৰিচালনা কৰাত সহায় কৰি আছে। আপুনি ছেটিঙত এই সুবিধাটো অফ কৰিব পাৰে।</string>
     <string name="pulsar_reminder_notification_title">বেটাৰীৰ স্বাস্থ্য সম্পৰ্কীয় সহায় অফ আছে</string>
     <string name="pulsar_reminder_notification_text">আপোনাৰ বেটাৰীৰ দীঘলীয়া সময়ৰ বেটাৰীৰ স্বাস্থ্য আৰু কাৰ্যদক্ষতা পৰিচালনা কৰাত সহায় কৰিবলৈ বেটাৰীৰ স্বাস্থ্য সম্পৰ্কীয় সহায় অন কৰক।</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">বেটাৰী সুৰক্ষিত কৰিবলৈ চাৰ্জিং সীমিত কৰা হৈছে</string>
+    <string name="temp_defender_notify_des">এক দীঘলীয়া সময়ৰ বাবে আপোনাৰ বেটাৰী গৰম হৈ আছিল। আপোনাৰ বেটাৰী আৰু ঠাণ্ডা হ’লে স্বাভাৱিক চাৰ্জিং পুনৰ আৰম্ভ হ’ব</string>
+    <string name="dwell_defender_notify_title">বেটাৰী সুৰক্ষিত কৰিবলৈ চাৰ্জিং স্থগিত ৰখা হৈছে</string>
+    <string name="dwell_defender_notify_des">আপোনাৰ ফ’নটো দীঘলীয়া সময়ৰ বাবে চাৰ্জত লগাই থ’লে ই বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰে</string>
+    <string name="defender_notify_title">আপোনাৰ বেটাৰী সুৰক্ষিত কৰি থকা হৈছে</string>
+    <string name="defender_notify_resume_charge">যি হ’লেও চাৰ্জ কৰক</string>
+    <string name="defender_post_notify_title">বেটাৰী সুৰক্ষিত কৰিবলৈ চাৰ্জিং সীমিত কৰা হৈছিল</string>
+    <string name="defender_post_notify_des">আপোনাৰ বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰিবলৈ, চাৰ্জিং %1$sৰ পৰা %2$sলৈ সীমিত কৰা হৈছে</string>
+    <string name="dock_defender_first_run_title">বেটাৰী সুৰক্ষিত কৰিবলৈ চাৰ্জিং স্থগিত ৰখা হৈছে</string>
+    <string name="dock_defender_first_run_des">আপোনাৰ বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰিবলৈ, আপোনাৰ টেবলেটটো ড’ক কৰাৰ সময়ত ৯০%ত চাৰ্জিং স্থগিত ৰখা হৈছে। অ’ভাৰৰাইড কৰিবলৈ যিকোনো সময়তে ছেটিঙলৈ যাওক।</string>
+    <string name="dock_defender_first_run_settings">ছেটিং</string>
 </resources>

@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel hjälper nu till att hantera batteriets hälsa och prestanda på lång sikt. Du kan inaktivera detta i inställningarna.</string>
     <string name="pulsar_reminder_notification_title">Hjälp med batterihälsa är inaktiverat</string>
     <string name="pulsar_reminder_notification_text">Aktivera hjälp med batterihälsa för att hantera batteriets hälsa och prestanda på lång sikt</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Laddningen begränsas för att skydda batteriet</string>
+    <string name="temp_defender_notify_des">Batteriet var varmt under en längre tid. Normal laddning återupptas när batteriet har svalnat ytterligare.</string>
+    <string name="dwell_defender_notify_title">Laddningen har pausats för att skydda batteriet</string>
+    <string name="dwell_defender_notify_des">Detta hjälper till att förlänga batteriets livslängd när telefonen laddas för länge</string>
+    <string name="defender_notify_title">Skydda ditt batteri</string>
+    <string name="defender_notify_resume_charge">Ladda ändå</string>
+    <string name="defender_post_notify_title">Laddningen begränsades för att skydda batteriet</string>
+    <string name="defender_post_notify_des">För att förlänga batteriets livslängd begränsades laddningen från %1$s till %2$s</string>
+    <string name="dock_defender_first_run_title">Laddningen har pausats för att skydda batteriet</string>
+    <string name="dock_defender_first_run_des">För att förlänga batteriets livslängd har laddningen pausats vid 90 % medan surfplattan är dockad. Öppna inställningarna när som helst för att åsidosätta detta.</string>
+    <string name="dock_defender_first_run_settings">Inställningar</string>
 </resources>

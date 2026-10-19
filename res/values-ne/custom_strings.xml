@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ले अहिले तपाईंको ब्याट्रीको दीर्घकालीन अवस्था र पर्फर्मेन्स व्यवस्थापन गर्न मद्दत गरिरहेको छ। तपाईं सेटिङमा गई यो सुविधा अफ गर्न सक्नुहुन्छ।</string>
     <string name="pulsar_reminder_notification_title">ब्याट्रीको अवस्था सुधार्ने सुविधा अफ छ</string>
     <string name="pulsar_reminder_notification_text">ब्याट्रीको दीर्घकालीन अवस्था र पर्फर्मेन्स व्यवस्थापन गर्न ब्याट्रीको अवस्था सुधार्ने सुविधा अन गर्नुहोस्</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ब्याट्रीको सुरक्षार्थ चार्ज गर्न रोक लगाइएको छ</string>
+    <string name="temp_defender_notify_des">तपाईंको ब्याट्री लामो समयसम्म तातेको थियो। तपाईंको ब्याट्रीको तापक्रम कम भएपछि फेरि सामान्य रूपमा चार्ज गर्न थालिने छ</string>
+    <string name="dwell_defender_notify_title">ब्याट्री जोगाउन चार्जिङ होल्ड गरिएको छ</string>
+    <string name="dwell_defender_notify_des">तपाईंको फोन निकै लामो समयसम्म चार्जमा छोड्दा यसले ब्याट्रीको आयु बढाउन मद्दत गर्छ</string>
+    <string name="defender_notify_title">तपाईंको ब्याट्रीको सुरक्षा गरिँदै छ</string>
+    <string name="defender_notify_resume_charge">जे भए पनि चार्ज गर्नुहोस्</string>
+    <string name="defender_post_notify_title">ब्याट्रीको सुरक्षार्थ चार्ज गर्न रोक लगाइएको थियो</string>
+    <string name="defender_post_notify_des">ब्याट्रीको आयु बढाउने प्रयोजनका लागि %1$s बजेदेखि %2$s बजेसम्म चार्ज गर्न रोक लगाइएको थियो</string>
+    <string name="dock_defender_first_run_title">ब्याट्री जोगाउन चार्जिङ रोकिएको छ</string>
+    <string name="dock_defender_first_run_des">ब्याट्रीको आयु बढाउन तपाईंको ट्याब्लेट डक गरिएका बेला सो ट्याब्लेटको ब्याट्री ९०% सम्म मात्र चार्ज गरिन्छ। तपाईं सेटिङमा गई जुनसुकै बेला यो सेटिङ ओभरराइड गर्न सक्नुहुन्छ।</string>
+    <string name="dock_defender_first_run_settings">सेटिङ</string>
 </resources>

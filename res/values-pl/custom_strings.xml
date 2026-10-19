@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel pomaga teraz zarządzać stanem i wydajnością baterii w ujęciu długoterminowym. Możesz to wyłączyć w Ustawieniach.</string>
     <string name="pulsar_reminder_notification_title">Wyłączono zarządzanie stanem baterii</string>
     <string name="pulsar_reminder_notification_text">Włącz zarządzanie stanem baterii, aby sterować nim i wydajnością w ujęciu długoterminowym.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Ładowanie jest ograniczone w celu ochrony baterii</string>
+    <string name="temp_defender_notify_des">Bateria była ciepła przez dłuższy czas. Normalne ładowanie zostanie wznowione, gdy schłodzi się ona jeszcze bardziej</string>
+    <string name="dwell_defender_notify_title">Wstrzymano ładowanie, aby chronić baterię</string>
+    <string name="dwell_defender_notify_des">Pomaga wydłużyć żywotność baterii, gdy telefon jest zbyt długo ładowany</string>
+    <string name="defender_notify_title">Ochrona baterii</string>
+    <string name="defender_notify_resume_charge">Ładuj mimo to</string>
+    <string name="defender_post_notify_title">Ładowanie zostało ograniczone w celu ochrony baterii</string>
+    <string name="defender_post_notify_des">W celu wydłużenia żywotności baterii ładowanie było ograniczone od %1$s do %2$s</string>
+    <string name="dock_defender_first_run_title">Wstrzymano ładowanie, aby chronić baterię</string>
+    <string name="dock_defender_first_run_des">Gdy tablet będzie zadokowany, ładowanie zostanie wstrzymane na poziomie 90%, aby zwiększyć żywotność baterii. W każdej chwili możesz to wyłączyć w Ustawieniach.</string>
+    <string name="dock_defender_first_run_settings">Ustawienia</string>
 </resources>

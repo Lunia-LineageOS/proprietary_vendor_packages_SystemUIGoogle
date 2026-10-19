@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">IPixel manje isiza ukulawula impilo yesikhathi eside yebhethri lakho nokusebenza. Ungavala lokhu Kumasethingi.</string>
     <string name="pulsar_reminder_notification_title">Usizo lwempilo yebhethri luvaliwe</string>
     <string name="pulsar_reminder_notification_text">Vula usizo lwempilo yebhethri ukuze usize ukuphatha impilo yebhethri yesikhathi eside nokusebenza kwayo.</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Ukushaja kubekelwe inkathi ethile kuphela ukuze kuvikelwe ibhethri</string>
+    <string name="temp_defender_notify_des">Ibhethri lakho belifudumele isikhathi esithe ukuba side. Ukushaja okujwayelekile kuzoqhubeka ngemva kokuba ibhethri lakho seliye laphola</string>
+    <string name="dwell_defender_notify_title">Ukushaja kumisiwe ukuze kuvikelwe ibhethri</string>
+    <string name="dwell_defender_notify_des">Lokhu kusiza ekwandiseni ukuphila kwebhethri uma ifoni yakho ishiywe ishajwa isikhathi eside</string>
+    <string name="defender_notify_title">Ukuvikela ibhethri lakho</string>
+    <string name="defender_notify_resume_charge">Shaja noma kunjalo</string>
+    <string name="defender_post_notify_title">Ukushaja kuye kwabekelwa inkathi ethile kuphela ukuze kuvikelwe ibhethri</string>
+    <string name="defender_post_notify_des">Ukuze wandise ukuphila kwebhethri, ukushaja kubekelwe ukusebenza kuphela kusukela ngo-%1$s ukuya ku-%2$s</string>
+    <string name="dock_defender_first_run_title">Ukushaja kumisiwe ukuze kuvikelwe ibhethri</string>
+    <string name="dock_defender_first_run_des">Ukuze sisize ekwandiseni ukuphila kwebhethri, ukushaja kuyamiswa ku-90% kuyilapho ithebulethi yakho idokhwa khona. Hamba Kumasethingi noma kunini ukukhipha.</string>
+    <string name="dock_defender_first_run_settings">Amasethingi</string>
 </resources>

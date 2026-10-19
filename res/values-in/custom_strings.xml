@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel kini membantu mengelola kesehatan dan performa jangka panjang baterai Anda. Anda dapat menonaktifkannya di Setelan.</string>
     <string name="pulsar_reminder_notification_title">Bantuan kesehatan baterai nonaktif</string>
     <string name="pulsar_reminder_notification_text">Aktifkan bantuan kesehatan baterai untuk membantu mengelola kesehatan dan performa jangka panjang baterai Anda</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">Pengisian daya dibatasi untuk melindungi baterai</string>
+    <string name="temp_defender_notify_des">Suhu baterai Anda tinggi dalam waktu yang lama. Pengisian daya normal akan dilanjutkan setelah suhu baterai turun</string>
+    <string name="dwell_defender_notify_title">Pengisian daya dihentikan sementara untuk melindungi baterai</string>
+    <string name="dwell_defender_notify_des">Pengoptimalan ini membantu memperpanjang masa pakai baterai saat ponsel diisi daya terlalu lama</string>
+    <string name="defender_notify_title">Melindungi baterai Anda</string>
+    <string name="defender_notify_resume_charge">Tetap isi daya</string>
+    <string name="defender_post_notify_title">Pengisian daya dibatasi untuk melindungi baterai</string>
+    <string name="defender_post_notify_des">Untuk membantu memperpanjang masa pakai baterai, pengisian daya dibatasi dari %1$s sampai %2$s</string>
+    <string name="dock_defender_first_run_title">Pengisian daya dihentikan sementara untuk melindungi baterai</string>
+    <string name="dock_defender_first_run_des">Untuk membantu memperpanjang masa pakai baterai, pengisian daya akan dihentikan sementara pada level 90% saat tablet Anda dipasang ke dok. Buka Setelan kapan saja untuk mengganti.</string>
+    <string name="dock_defender_first_run_settings">Setelan</string>
 </resources>

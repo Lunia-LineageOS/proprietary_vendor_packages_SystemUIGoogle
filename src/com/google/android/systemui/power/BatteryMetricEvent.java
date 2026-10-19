@@ -4,6 +4,18 @@ import com.android.internal.logging.UiEvent;
 import com.android.internal.logging.UiEventLogger;
 
 public enum BatteryMetricEvent implements UiEventLogger.UiEventEnum {
+    @UiEvent(doc = "Battery defender notification displayed")
+    BATTERY_DEFENDER_NOTIFICATION(876),
+
+    @UiEvent(doc = "Battery defender notification charge anyway clicked")
+    BATTERY_DEFENDER_BYPASS_LIMIT(877),
+
+    @UiEvent(doc = "Battery defender bypassed from battery tips")
+    BATTERY_DEFENDER_BYPASS_LIMIT_FOR_TIPS(878),
+
+    @UiEvent(doc = "Battery defender notification dismissed")
+    DELETE_BATTERY_DEFENDER_NOTIFICATION(1273),
+
     @UiEvent(doc = "Adaptive charging notification displayed")
     ADAPTIVE_CHARGING_NOTIFICATION(1274),
 

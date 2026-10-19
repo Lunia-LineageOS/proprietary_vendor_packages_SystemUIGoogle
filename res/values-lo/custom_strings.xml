@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">ຕອນນີ້ Pixel ກຳລັງຊ່ວຍຈັດການສຸຂະພາບ ແລະ ປະສິດທິພາບຂອງແບັດເຕີຣີຂອງທ່ານໃນໄລຍະຍາວ. ທ່ານສາມາດປິດສິ່ງນີ້ໄດ້ໃນການຕັ້ງຄ່າ.</string>
     <string name="pulsar_reminder_notification_title">ການຊ່ວຍເຫຼືອດ້ານສຸຂະພາບແບັດເຕີຣີປິດຢູ່</string>
     <string name="pulsar_reminder_notification_text">ເປີດໃຊ້ການຊ່ວຍເຫຼືອດ້ານສຸຂະພາບແບັດເຕີຣີເພື່ອຊ່ວຍຈັດການສຸຂະພາບ ແລະ ປະສິດທິພາບຂອງແບັດເຕີຣີຂອງທ່ານໃນໄລຍະຍາວ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ການສາກຖືກຈຳກັດເພື່ອປົກປ້ອງແບັດເຕີຣີ</string>
+    <string name="temp_defender_notify_des">ແບັດເຕີຣີຂອງທ່ານຮ້ອນເປັນເວລາດົນ. ການສາກຕາມປົກກະຕິຈະກັບມາເຮັດວຽກອີກຄັ້ງເມື່ອແບັດເຕີຣີຂອງທ່ານເຢັນລົງ</string>
+    <string name="dwell_defender_notify_title">ຢຸດການສາກຊົ່ວຄາວເພື່ອປົກປ້ອງແບັດເຕີຣີ</string>
+    <string name="dwell_defender_notify_des">ການດຳເນີນການນີ້ຊ່ວຍຍືດອາຍຸການນຳໃຊ້ແບັດເຕີຣີເມື່ອສາກໂທລະສັບຂອງທ່ານປະໄວ້ດົນເກີນໄປ</string>
+    <string name="defender_notify_title">ການປົກປ້ອງແບັດເຕີຣີຂອງທ່ານ</string>
+    <string name="defender_notify_resume_charge">ຮຽກເກັບເງິນເລີຍ</string>
+    <string name="defender_post_notify_title">ການສາກຖືກຈຳກັດເພື່ອປົກປ້ອງແບັດເຕີຣີ</string>
+    <string name="defender_post_notify_des">ເພື່ອຊ່ວຍຍືດອາຍຸການນຳໃຊ້ແບັດເຕີຣີ, ການສາກຖືກຈຳກັດຕັ້ງແຕ່ %1$s ຮອດ %2$s</string>
+    <string name="dock_defender_first_run_title">ຢຸດການສາກຊົ່ວຄາວເພື່ອປົກປ້ອງແບັດເຕີຣີ</string>
+    <string name="dock_defender_first_run_des">ເພື່ອຊ່ວຍຍືດອາຍຸການນຳໃຊ້ແບັດເຕີຣີ, ການສາກຢຸດຊົ່ວຄາວເມື່ອຮອດ 90% ໃນລະຫວ່າງທີ່ແທັບເລັດຂອງທ່ານຢູ່ເທິງແທ່ນສາກ. ໄປຫາການຕັ້ງຄ່າໄດ້ຕະຫຼອດເວລາເພື່ອຍົກເລີກ.</string>
+    <string name="dock_defender_first_run_settings">ການຕັ້ງຄ່າ</string>
 </resources>

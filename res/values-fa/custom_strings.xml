@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">‏‫Pixel اکنون در مدیریت عملکرد و سلامت بلندمدت باتری به شما کمک می‌کند. می‌توانید این ویژگی را در «تنظیمات» خاموش کنید.</string>
     <string name="pulsar_reminder_notification_title">«دستیار سلامت باتری» خاموش است</string>
     <string name="pulsar_reminder_notification_text">«دستیار سلامت باتری» را روشن کنید تا در مدیریت عملکرد و سلامت بلندمدت باتری به شما کمک کند</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">برای محافظت از باتری، شارژ محدود شده است</string>
+    <string name="temp_defender_notify_des">باتری برای مدت زیادی گرم بود. شارژ عادی پس‌از خنک شدن بیشتر باتری ازسر گرفته خواهد شد</string>
+    <string name="dwell_defender_notify_title">برای محافظت از باتری، شارژ موقتاً متوقف شده است</string>
+    <string name="dwell_defender_notify_des">این ویژگی وقتی تلفنتان برای مدت طولانی در شارژ باقی می‌ماند به افزایش طول عمر باتری کمک می‌کند</string>
+    <string name="defender_notify_title">درحال محافظت از باتری شما</string>
+    <string name="defender_notify_resume_charge">درهرصورت شارژ شود</string>
+    <string name="defender_post_notify_title">برای محافظت از باتری، شارژ محدود شد</string>
+    <string name="defender_post_notify_des">برای کمک به افزایش طول عمر باتری، شارژ از %1$s تا %2$s محدود شد</string>
+    <string name="dock_defender_first_run_title">برای محافظت از باتری، شارژ موقتاً متوقف شده است</string>
+    <string name="dock_defender_first_run_des">برای کمک به افزایش طول عمر باتری، وقتی رایانه لوحی به پایه متصل است، شارژ روی ۹۰٪ موقتاً متوقف می‌شود. هرزمان خواستید برای ملغی کردن به «تنظیمات» بروید.</string>
+    <string name="dock_defender_first_run_settings">تنظیمات</string>
 </resources>

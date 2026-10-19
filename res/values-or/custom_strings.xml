@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">Pixel ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ବେଟେରୀର ଦୀର୍ଘକାଳୀନ ହେଲ୍ଥ ଏବଂ ପରଫରମାନ୍ସ ପରିଚାଳନା କରିବାରେ ସାହାଯ୍ୟ କରୁଛି। ଆପଣ ସେଟିଂସରେ ଏହାକୁ ବନ୍ଦ କରିପାରିବେ।</string>
     <string name="pulsar_reminder_notification_title">ବେଟେରୀ ହେଲ୍ଥ ସହାୟତା ବନ୍ଦ ଅଛି</string>
     <string name="pulsar_reminder_notification_text">ଆପଣଙ୍କ ବେଟେରୀର ଦୀର୍ଘକାଳୀନ ହେଲ୍ଥ ଏବଂ ପରଫରମାନ୍ସ ପରିଚାଳନା କରିବାରେ ସାହାଯ୍ୟ କରିବା ପାଇଁ ବେଟେରୀ ହେଲ୍ଥ ସହାୟତା ଚାଲୁ କରନ୍ତୁ</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ବେଟେରୀକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ ଚାର୍ଜିଂ ସୀମିତ ଅଛି</string>
+    <string name="temp_defender_notify_des">ଆପଣଙ୍କ ବେଟେରୀ ଅଧିକ ସମୟ ପର୍ଯ୍ୟନ୍ତ ଗରମ ଥିଲା। ଆପଣଙ୍କ ବେଟେରୀ ଆହୁରି ଥଣ୍ଡା ହେବା ପରେ ସ୍ୱାଭାବିକ ଚାର୍ଜିଂ ରିଜ୍ୟୁମ ହେବ</string>
+    <string name="dwell_defender_notify_title">ବେଟେରୀକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ ଚାର୍ଜିଂ ହୋଲ୍ଡରେ ଅଛି</string>
+    <string name="dwell_defender_notify_des">ଆପଣଙ୍କ ଫୋନକୁ ଅଧିକ ସମୟ ପାଇଁ ଚାର୍ଜ ହେବାକୁ ଛାଡ଼ି ଦିଆଯାଇଥିବା ସମୟରେ ଏହା ବେଟେରୀର ଲାଇଫସ୍ପାନ ବଢ଼ାଇବାରେ ସାହାଯ୍ୟ କରେ</string>
+    <string name="defender_notify_title">ଆପଣଙ୍କ ବେଟେରୀକୁ ସୁରକ୍ଷିତ କରାଯାଉଛି</string>
+    <string name="defender_notify_resume_charge">ଯେ କୌଣସି ମତେ ଚାର୍ଜ କରନ୍ତୁ</string>
+    <string name="defender_post_notify_title">ବେଟେରୀକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ ଚାର୍ଜିଂକୁ ସୀମିତ କରାଯାଇଛି</string>
+    <string name="defender_post_notify_des">ବେଟେରୀର ଲାଇଫସ୍ପାନକୁ ବଢ଼ାଇବାରେ ସହାୟତା କରିବା ପାଇଁ ଚାର୍ଜିଂକୁ %1$sରୁ %2$s ପର୍ଯ୍ୟନ୍ତ ସୀମିତ କରାଯାଇଛି</string>
+    <string name="dock_defender_first_run_title">ବେଟେରୀକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ ଚାର୍ଜିଂ ହୋଲ୍ଡରେ ଅଛି</string>
+    <string name="dock_defender_first_run_des">ବେଟେରୀ ଲାଇଫସ୍ପାନକୁ ବଢ଼ାଇବାରେ ସାହାଯ୍ୟ କରିବାକୁ ଆପଣଙ୍କ ଟାବଲେଟ ଡକ ହୋଇଥିବା ସମୟରେ ଚାର୍ଜିଂ 90%ରେ ହୋଲ୍ଡ ହୋଇଯାଏ। ଓଭରରାଇଡ କରିବାକୁ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସକୁ ଯାଆନ୍ତୁ।</string>
+    <string name="dock_defender_first_run_settings">ସେଟିଂସ</string>
 </resources>

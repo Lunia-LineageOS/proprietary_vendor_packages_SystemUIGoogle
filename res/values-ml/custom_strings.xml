@@ -64,4 +64,17 @@
     <string name="pulsar_enabled_notification_text">ഇപ്പോൾ, നിങ്ങളുടെ ബാറ്ററിയുടെ ദീർഘകാല ക്ഷമതയും പ്രകടനവും മാനേജ് ചെയ്യാൻ Pixel സഹായിക്കുന്നു. നിങ്ങൾക്ക് ഇത് ക്രമീകരണത്തിൽ ഓഫാക്കാം.</string>
     <string name="pulsar_reminder_notification_title">ബാറ്ററി ക്ഷമതാ സഹായം ഓഫാണ്</string>
     <string name="pulsar_reminder_notification_text">നിങ്ങളുടെ ബാറ്ററിയുടെ ദീർഘകാല ക്ഷമതയും പ്രകടനവും മാനേജ് ചെയ്യാൻ സഹായിക്കാൻ, ബാറ്ററി ക്ഷമതാ സഹായം ഓണാക്കുക</string>
+
+    <!-- Battery Defender -->
+    <string name="temp_defender_notify_title">ബാറ്ററി പരിരക്ഷിക്കാൻ ചാർജിംഗ് പരിമിതപ്പെടുത്തിയിരിക്കുന്നു</string>
+    <string name="temp_defender_notify_des">ദീർഘനേരത്തേക്ക് നിങ്ങളുടെ ബാറ്ററി ചൂടായിരുന്നു. ബാറ്ററി കുറച്ചുകൂടി തണുത്ത ശേഷം സാധാരണ ചാർജിംഗ് പുനരാരംഭിക്കും</string>
+    <string name="dwell_defender_notify_title">ബാറ്ററി പരിരക്ഷിക്കാൻ ചാർജിംഗ് ഹോൾഡിലാണ്</string>
+    <string name="dwell_defender_notify_des">നിങ്ങളുടെ ഫോൺ കൂടുതൽ സമയം ചാർജ് ചെയ്യുമ്പോൾ ബാറ്ററി ലൈഫ് വർദ്ധിപ്പിക്കാൻ ഇത് സഹായിക്കുന്നു</string>
+    <string name="defender_notify_title">നിങ്ങളുടെ ബാറ്ററി പരിരക്ഷിക്കുന്നു</string>
+    <string name="defender_notify_resume_charge">എന്തായാലും ചാർജ് ചെയ്യൂ</string>
+    <string name="defender_post_notify_title">ബാറ്ററി പരിരക്ഷിക്കാൻ ചാർജിംഗ് പരിമിതപ്പെടുത്തി</string>
+    <string name="defender_post_notify_des">ബാറ്ററി ലൈഫ്‌സ്‌പാൻ വർദ്ധിപ്പിക്കാൻ സഹായിക്കുന്നതിന്, ചാർജിംഗ് %1$s മുതൽ %2$s വരെ എന്നായി പരിമിതപ്പെടുത്തിയിരിക്കുന്നു</string>
+    <string name="dock_defender_first_run_title">ബാറ്ററി പരിരക്ഷിക്കാൻ ചാർജിംഗ് ഹോൾഡ് ചെയ്‌തു</string>
+    <string name="dock_defender_first_run_des">ബാറ്ററിയുടെ ആയുസ് വർദ്ധിപ്പിക്കാൻ സഹായിക്കുന്നതിന്, നിങ്ങളുടെ ടാബ്‌ലെറ്റ് ഡോക്ക് ചെയ്‌തിരിക്കുമ്പോൾ 90% ചാർജ് ആയപ്പോൾ ചാർജിംഗ് ഹോൾഡ് ചെയ്‌തു. അസാധുവാക്കാൻ ഏതുസമയത്തും ക്രമീകരണത്തിലേക്ക് പോകുക.</string>
+    <string name="dock_defender_first_run_settings">ക്രമീകരണം</string>
 </resources>
