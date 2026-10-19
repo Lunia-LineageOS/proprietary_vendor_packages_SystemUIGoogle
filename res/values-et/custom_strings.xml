@@ -103,4 +103,10 @@ Telefon võib soojeneda järgmistel põhjustel.
 \t• Suurte failide alla- või üleslaadimise tõttu
 \t• Otsese päikesevalguse käes olemise tõttu"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Lisateave</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Soovitatav on akuvahetus</string>
+    <string name="battery_replacement_notify_des">Aku võimaliku ülekuumenemise tõttu väheneb selle mahtuvus ja laadimisvõimsus ning on soovitatav aku välja vahetada. Saadaval on toevalikud, lisateavet leiate saidilt &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Teie aku on läbinud 375 laadimistsüklit. Aku võimaliku ülekuumenemise tõttu väheneb pärast 400 laadimistsüklit aku mahtuvus ja laadimisvõimsus ning on soovitatav aku välja vahetada. Saadaval on toevalikud, lisateavet leiate saidilt &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Vaadake tsüklite arvu</string>
 </resources>

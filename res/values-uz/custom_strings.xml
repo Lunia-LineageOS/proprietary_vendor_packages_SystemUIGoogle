@@ -103,4 +103,10 @@ Telefoningiz quyidagi hollarda qizib ketishi mumkin:
 \t• Katta hajmdagi fayllarni yuklab olish yoki yuklash
 \t• Tik quyosh ostida"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Batafsil</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Batareyani almashtirish tavsiya etiladi</string>
+    <string name="battery_replacement_notify_des">Batareya qizib ketishi bilan aloqador muammo tufayli batareya sigʻimi va quvvatlash unumdorligi kamayadi hamda batareyani almashtirish tavsiya etiladi. Yordam variantlari mavjud, batafsil axborot uchun &lt;u>g.co/pixel/6abattery&lt;/u> manziliga kiring.</string>
+    <string name="battery_replacement_early_notify_des">Batareyangiz quvvatlash sikli: 375. Batareya qizib ketishi bilan aloqador muammo tufayli batareyangiz quvvatlash sikli 400 ga yetganda batareya sigʻimi va quvvatlash unumdorligi kamayadi hamda batareyani almashtirish tavsiya etiladi. Yordam variantlari mavjud, batafsil axborot uchun &lt;u>g.co/pixel/6abattery&lt;/u> manziliga kiring.</string>
+    <string name="battery_management_action">Sikllar sonini koʻrish</string>
 </resources>

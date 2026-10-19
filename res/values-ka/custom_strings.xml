@@ -103,4 +103,10 @@
 \t• დიდი ფაილების ჩამოტვირთვისას და ატვირთვისას
 \t• მზის პირდაპირი სხივების ქვეშ ყოფნისას"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">შეიტყვეთ მეტი</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">რეკომენდებულია ბატარეის გამოცვლა</string>
+    <string name="battery_replacement_notify_des">ბატარეის გადახურების პოტენციური პრობლემის გამო მცირდება ბატარეის ტევადობა და დატენის ეფექტურობა, შესაბამისად, რეკომენდებულია ბატარეის გამოცვლა. მხარდაჭერის ვარიანტებზე დამატებითი ინფორმაცია ხელმისაწვდომია აქ: &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">თქვენი ბატარეა დამუხტვის 375-ე ციკლზეა. ბატარეის გადახურების პოტენციური პრობლემის გამო, როდესაც თქვენი ბატარეა დამუხტვის მე-400 ციკლს მიაღწევს, შემცირდება ბატარეის ტევადობა და დატენის ეფექტურობა, შესაბამისად, რეკომენდებულია ბატარეის გამოცვლა. მხარდაჭერის ვარიანტებზე დამატებითი ინფორმაცია ხელმისაწვდომია აქ: &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">ციკლების რაოდენობის ნახვა</string>
 </resources>

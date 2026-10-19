@@ -103,4 +103,10 @@ Telefon se lahko pregreje, če:
 \t• prenašate ali nalagate velike datoteke;
 \t• je izpostavljen neposredni sončni svetlobi."</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Več o tem</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Priporočena je zamenjava baterije</string>
+    <string name="battery_replacement_notify_des">Zaradi preprečevanja morebitne težave s pregrevanjem baterije sta zmogljivost baterije in učinkovitost polnjenja zmanjšani, zato je priporočena zamenjava baterije. Na voljo so možnosti podpore. Za več informacij obiščite &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Baterija je dosegla 375 polnilnih ciklov. Ko bo baterija dosegla 400 polnilnih ciklov, se bosta zaradi preprečevanja morebitne težave s pregrevanjem baterije zmogljivost baterije in učinkovitost polnjenja zmanjšali, zato je priporočena zamenjava baterije. Na voljo so možnosti podpore. Za več informacij obiščite &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Ogled števila ciklov</string>
 </resources>

@@ -103,4 +103,10 @@ Posibleng uminit nang masyado ang iyong telepono kapag:
 \t• Nagda-download o nag-a-upload ng malalaking file
 \t• Nasa direktang sikat ng araw"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Matuto pa</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Inirerekomendang palitan ang baterya</string>
+    <string name="battery_replacement_notify_des">Dahil sa potensyal na isyu sa pag-overheat ng baterya, nabawasan ang kapasidad ng baterya at performance ng pag-charge, at inirerekomenda ang pagpapalit ng baterya. Available ang mga opsyon sa suporta, bumisita sa &lt;u>g.co/pixel/6abattery&lt;/u> para sa higit pang impormasyon.</string>
+    <string name="battery_replacement_early_notify_des">Nasa 375 cycle ng pag-charge ang iyong baterya. Dahil sa potensyal na isyu sa pag-overheat ng baterya, kapag umabot na sa 400 cycle ng pag-charge ang baterya mo, mababawasan ang kapasidad ng baterya at performance ng pag-charge at inirerekomenda ang pagpapalit ng baterya. Available ang mga opsyon sa suporta, bumisita sa &lt;u>g.co/pixel/6abattery&lt;/u> para sa higit pang impormasyon.</string>
+    <string name="battery_management_action">Tingnan ang bilang ng cycle</string>
 </resources>

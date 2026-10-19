@@ -103,4 +103,10 @@ Dein Smartphone kann zu heiß werden, wenn du:
 \t• große Dateien herunterlädst oder hochlädst
 \t• es direkter Sonneneinstrahlung aussetzt"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Weitere Informationen</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Akkutausch empfohlen</string>
+    <string name="battery_replacement_notify_des">Da sich der Akku potenziell überhitzen kann, wurden die Akkukapazität und die Ladeleistung reduziert und es wird ein Akkutausch empfohlen. Informationen zu den verfügbaren Supportoptionen findest du unter &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Dein Akku hat 375 Ladezyklen erreicht. Da sich der Akku potenziell überhitzen kann, werden nach 400 Ladezyklen die Akkukapazität und die Ladeleistung reduziert und es wird ein Akkutausch empfohlen. Informationen zu den verfügbaren Supportoptionen findest du unter &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Anzahl der Ladezyklen anzeigen</string>
 </resources>

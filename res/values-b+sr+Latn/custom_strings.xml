@@ -103,4 +103,10 @@ Telefon može da se pregreje:
 \t• kada preuzimate ili otpremate velike fajlove
 \t• kada je izložen direktnoj sunčevoj svetlosti"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Saznajte više</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Preporučujemo zamenu baterije</string>
+    <string name="battery_replacement_notify_des">Zbog potencijalnog problema sa pregrevanjem, kapacitet baterije i učinak punjenja su se smanjili, pa preporučujemo da je zamenite. Dostupne su opcije podrške. Više informacija potražite na &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Baterija je na 375 ciklusa punjenja. Zbog potencijalnog problema sa pregrevanjem, kada baterija dostigne 400 ciklusa punjenja, njen kapacitet i učinak punjenja se smanjuju, pa preporučujemo da je zamenite. Dostupne su opcije podrške. Više informacija potražite na &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Prikaži broj ciklusa</string>
 </resources>

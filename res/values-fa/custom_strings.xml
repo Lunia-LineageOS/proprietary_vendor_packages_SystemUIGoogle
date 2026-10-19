@@ -103,4 +103,10 @@
 \t• هنگام بارگیری یا بارگذاری فایل‌های بزرگ
 \t• درمعرض نور مستقیم خورشید"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">بیشتر بدانید</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">تعویض باتری توصیه می‌شود</string>
+    <string name="battery_replacement_notify_des">‏باتوجه‌به مشکل احتمالی گرم شدن بیش‌ازحد باتری، ظرفیت باتری و عملکرد شارژ کاهش یافته است و توصیه می‌شود آن را تعویض کنید. گزینه‌های پشتیبانی دردسترس‌اند. برای اطلاعات بیشتر به &lt;u>g.co/pixel/6abattery&lt;/u> مراجعه کنید.</string>
+    <string name="battery_replacement_early_notify_des">‏باتری شما به چرخه ۳۷۵ شارژ رسیده است. باتوجه‌به مشکل احتمالی گرم شدن بیش‌ازحد باتری، وقتی باتری شما به چرخه ۴۰۰ شارژ برسد، ظرفیت باتری و عملکرد شارژ کاهش می‌یابد و توصیه می‌شود آن را تعویض کنید. گزینه‌های پشتیبانی دردسترس‌اند. برای اطلاعات بیشتر به &lt;u>g.co/pixel/6abattery&lt;/u> مراجعه کنید.</string>
+    <string name="battery_management_action">دیدن تعداد چرخه</string>
 </resources>

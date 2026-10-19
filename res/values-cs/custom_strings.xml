@@ -103,4 +103,10 @@ Telefon se může přehřát v následujících situacích:
 \t• Při stahování nebo odesílání velkých souborů
 \t• Na přímém slunci"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Další informace</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Doporučujeme výměnu baterie</string>
+    <string name="battery_replacement_notify_des">Kvůli možnému problému s přehříváním baterie se sníží její kapacita a nabíjecí výkon a doporučuje se ji vyměnit. K dispozici jsou možnosti podpory, další informace najdete na stránce &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Vaše baterie dosáhla 375 nabíjecích cyklů. Vzhledem k možnému problému s přehříváním se po dosažení 400 nabíjecích cyklů sníží její kapacita a nabíjecí výkon a doporučuje se ji vyměnit. K dispozici jsou možnosti podpory, další informace najdete na stránce &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Zobrazit počet cyklů</string>
 </resources>

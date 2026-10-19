@@ -103,4 +103,10 @@ El teléfono puede calentarse por los siguientes factores:
 \t• Carga o descarga de archivos grandes
 \t• Exposición a la luz solar directa"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Más información</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Se recomienda reemplazar la batería</string>
+    <string name="battery_replacement_notify_des">Debido a un posible problema de sobrecalentamiento, se redujeron la capacidad de la batería y el rendimiento de carga. Además, recomendamos su reemplazo. Visita &lt;u>g.co/pixel/6abattery&lt;/u> para obtener más información y conocer las opciones de asistencia disponibles.</string>
+    <string name="battery_replacement_early_notify_des">La batería tiene 375 ciclos de carga. Debido a un posible problema de sobrecalentamiento, cuando alcance los 400 ciclos de carga, la capacidad de la batería y el rendimiento de carga se reducirán. Además, recomendamos su reemplazo. Visita &lt;u>g.co/pixel/6abattery&lt;/u> para obtener más información y conocer las opciones de asistencia disponibles.</string>
+    <string name="battery_management_action">Ver recuento de ciclos</string>
 </resources>

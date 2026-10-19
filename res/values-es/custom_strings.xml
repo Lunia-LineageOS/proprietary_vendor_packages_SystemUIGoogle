@@ -103,4 +103,10 @@ Tu teléfono puede calentarse demasiado cuando:
 \t• Descargas o subes archivos de gran tamaño
 \t• Le da el sol directamente"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Más información</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Sustitución de la batería recomendada</string>
+    <string name="battery_replacement_notify_des">Para evitar un posible sobrecalentamiento de la batería, la capacidad de la batería y el rendimiento de la carga se han reducido, por lo que se recomienda sustituir la batería. Hay opciones de asistencia disponibles. Consulta &lt;u>g.co/pixel/6abattery&lt;/u> para obtener más información.</string>
+    <string name="battery_replacement_early_notify_des">Tu batería ha completado 375 ciclos de carga. Para evitar un posible sobrecalentamiento de la batería, cuando la batería alcance los 400 ciclos de carga, la capacidad de la batería y el rendimiento de la carga se reducirán, por lo que se recomienda sustituir la batería. Hay opciones de asistencia disponibles. Consulta &lt;u>g.co/pixel/6abattery&lt;/u> para obtener más información.</string>
+    <string name="battery_management_action">Ver número de ciclos</string>
 </resources>

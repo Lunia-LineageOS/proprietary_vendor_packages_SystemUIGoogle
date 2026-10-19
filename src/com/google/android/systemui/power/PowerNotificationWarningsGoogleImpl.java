@@ -13,6 +13,7 @@ import android.content.Intent;
 import android.content.IntentFilter;
 import android.content.res.Resources;
 import android.hardware.devicestate.DeviceStateManager;
+import android.os.Build;
 import android.os.Handler;
 import android.os.PowerManager;
 import android.os.SystemProperties;
@@ -54,6 +55,7 @@ import kotlinx.coroutines.ExecutorsKt;
 
 import java.io.PrintWriter;
 import java.lang.ref.WeakReference;
+import java.time.Clock;
 import java.util.Arrays;
 import java.util.concurrent.Executor;
 
@@ -92,6 +94,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private ShutdownModeController mShutdownModeController;
     private LowPowerWarningsController mLowPowerWarningsController;
     private ChargeLimitController mChargeLimitController;
+    private BatteryReplacementNotification mBatteryReplacementNotification;
     private BatteryDefenderNotificationHandler mBatteryDefenderNotificationHandler;
     private AdaptiveChargingNotification mAdaptiveChargingNotification;
     private IncompatibleChargerNotification mIncompatibleChargerNotification;
@@ -181,6 +184,10 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                     if (mIncompatibleChargerNotification != null) {
                         mIncompatibleChargerNotification.dispatchIntent(intent);
                     }
+                    if (mBatteryReplacementNotification != null
+                            && mSecureSettings.getInt("barrel_forcibly_disabled", 0) == 0) {
+                        mBatteryReplacementNotification.dispatchIntent(intent);
+                    }
                 }
             };
 
@@ -259,6 +266,10 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         mChargeLimitController =
                 new ChargeLimitController(
                         mSecureSettings, mUserTracker, ExecutorsKt.from(mExecutor));
+        if ("bluejay".equals(Build.DEVICE)) {
+            mBatteryReplacementNotification =
+                    new BatteryReplacementNotification(context, Clock.systemUTC());
+        }
         mBatteryEventClient.registerBatteryEventCallback(
                 SurfaceType.NOTIFICATION,
                 TAG,

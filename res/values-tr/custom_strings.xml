@@ -103,4 +103,10 @@ Telefonunuz şu durumlarda aşırı ısınabilir:
 \t• Büyük dosyalar indirirken veya yüklerken
 \t• Doğrudan güneş ışığı altındayken"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Daha fazla bilgi</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Pilin değiştirilmesi önerilir</string>
+    <string name="battery_replacement_notify_des">Aşırı ısınma sorunu nedeniyle pil kapasitesi ve şarj performansı azaldı. Pilin değiştirilmesi önerilir. Destek seçeneklerinden yararlanabilirsiniz. Daha fazla bilgi için &lt;u>g.co/pixel/6abattery&lt;/u> adresini ziyaret edin.</string>
+    <string name="battery_replacement_early_notify_des">Piliniz 375. şarj döngüsünde. Aşırı ısınma sorunu yaşama olasılığı nedeniyle piliniz 400. şarj döngüsüne ulaştığında kapasitesi ve şarj performansı azalır. Bu durumda pilin değiştirilmesi önerilir. Destek seçeneklerinden yararlanabilirsiniz. Daha fazla bilgi için &lt;u>g.co/pixel/6abattery&lt;/u> adresini ziyaret edin.</string>
+    <string name="battery_management_action">Şarj döngü sayısını göster</string>
 </resources>

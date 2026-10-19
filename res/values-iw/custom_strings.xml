@@ -103,4 +103,10 @@
 \t• מורידים או מעלים קבצים גדולים
 \t• הוא חשוף לאור שמש ישיר"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">מידע נוסף</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">מומלץ להחליף את הסוללה</string>
+    <string name="battery_replacement_notify_des">‏עלולה להיווצר בעיה של התחממות יתר של הסוללה. לכן, קיבולת הסוללה מצומצמת וקצב הטעינה איטי יותר. מומלץ להחליף את הסוללה. יש אפשרויות תמיכה. מידע נוסף זמין בכתובת &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">‏הסוללה שלך עברה 375 מחזורי טעינה. עלולה להיווצר בעיה של התחממות יתר של הסוללה. לכן, אחרי 400 מחזורי טעינה, קיבולת הסוללה מצטמצמת וקצב הטעינה איטי יותר. בשלב הזה מומלץ להחליף את הסוללה. יש אפשרויות תמיכה. מידע נוסף זמין בכתובת &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">למספר מחזורי הטעינה</string>
 </resources>

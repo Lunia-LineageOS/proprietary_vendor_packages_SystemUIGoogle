@@ -103,4 +103,10 @@
 \t• ખૂબ મોટી ફાઇલો ડાઉનલોડ કે અપલોડ કરો છો
 \t• સીધા સૂર્યપ્રકાશના સંપર્કમાં રહે છે"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">વધુ જાણો</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">બૅટરી બદલવાનો સુઝાવ આપવામાં આવે છે</string>
+    <string name="battery_replacement_notify_des">બૅટરી ઓવરહીટિંગની સંભવિત સમસ્યાને કારણે, બૅટરીની ક્ષમતા અને ચાર્જિંગના પર્ફોર્મન્સમાં ઘટાડો થાય છે અને બૅટરી બદલવાનો સુઝાવ આપવામાં આવે છે. સપોર્ટના વિકલ્પો ઉપલબ્ધ છે, વધુ માહિતી માટે &lt;u>g.co/pixel/6abattery&lt;/u>ની મુલાકાત લો.</string>
+    <string name="battery_replacement_early_notify_des">તમારી બૅટરી 375 ચાર્જ સાઇકલ પર છે. બૅટરી ઓવરહીટિંગની સંભવિત સમસ્યાને કારણે, જ્યારે તમારી બૅટરી 400 ચાર્જ સાઇકલ પર પહોંચે, ત્યારે બૅટરીની ક્ષમતા અને ચાર્જિંગનું પર્ફોર્મન્સ ઘટશે અને બૅટરી બદલવાનો સુઝાવ આપવામાં આવે છે. સપોર્ટના વિકલ્પો ઉપલબ્ધ છે, વધુ માહિતી માટે &lt;u>g.co/pixel/6abattery&lt;/u>ની મુલાકાત લો.</string>
+    <string name="battery_management_action">સાઇકલની સંખ્યા જુઓ</string>
 </resources>

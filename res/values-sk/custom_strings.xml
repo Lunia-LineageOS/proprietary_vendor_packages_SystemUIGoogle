@@ -103,4 +103,10 @@ Telefón sa môže prehrievať v týchto prípadoch:
 \t• keď sťahujete alebo nahrávate veľké súbory;
 \t• keď je telefón na priamom slnečnom svetle."</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Ďalšie informácie</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Odporúča sa výmena batérie</string>
+    <string name="battery_replacement_notify_des">V dôsledku možného prehrievania batérie sa jej kapacita a rýchlosť nabíjania znížia. V tom prípade sa odporúča jej výmena. K dispozícii sú možnosti podpory. Viac sa dozviete na &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Vaša batéria dosiahla 375 nabíjacích cyklov. Po dosiahnutí 400 nabíjacích cyklov sa jej kapacita a rýchlosť nabíjania v dôsledku možného prehrievania znížia. V tom prípade sa odporúča jej výmena. K dispozícii sú možnosti podpory. Viac sa dozviete na &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Zobraziť počet cyklov</string>
 </resources>

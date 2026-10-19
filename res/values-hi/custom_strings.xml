@@ -103,4 +103,10 @@
 \t• बड़ी फ़ाइलें डाउनलोड या अपलोड करना
 \t• उसे सीधी धूप में रखना"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">ज़्यादा जानें</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">बैटरी बदलने की ज़रूरत है</string>
+    <string name="battery_replacement_notify_des">बैटरी ज़्यादा गर्म होने की संभावित समस्या की वजह से, बैटरी की क्षमता और चार्जिंग परफ़ॉर्मेंस में गिरावट आ जाएगी. ऐसे में, हमारा सुझाव है कि आप बैटरी बदल लें. सहायता के विकल्प उपलब्ध हैं. ज़्यादा जानकारी के लिए, &lt;u>g.co/pixel/6abattery&lt;/u> पर जाएं.</string>
+    <string name="battery_replacement_early_notify_des">आपके डिवाइस की बैटरी के चार्ज साइकल की संख्या 375 हो गई है. बैटरी ज़्यादा गर्म होने की संभावित समस्या की वजह से, बैटरी के 400 चार्ज साइकल पूरे होने पर उसकी क्षमता और चार्जिंग परफ़ॉर्मेंस में गिरावट आ जाएगी. ऐसे में, हमारा सुझाव है कि आप बैटरी बदल लें. सहायता के विकल्प उपलब्ध हैं. ज़्यादा जानकारी के लिए, &lt;u>g.co/pixel/6abattery&lt;/u> पर जाएं.</string>
+    <string name="battery_management_action">बैटरी के चार्ज साइकल की संख्या देखें</string>
 </resources>

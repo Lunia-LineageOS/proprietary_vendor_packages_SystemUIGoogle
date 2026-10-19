@@ -103,4 +103,10 @@ Votre téléphone peut surchauffer si :
 \t• vous téléchargez ou importez de gros fichiers ;
 \t• il est directement exposé au soleil."</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">En savoir plus</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Remplacement de la batterie recommandé</string>
+    <string name="battery_replacement_notify_des">"En raison d'un problème potentiel de surchauffe de la batterie, sa capacité et ses performances de recharge sont réduites. Nous vous recommandons de la remplacer. Des options d'assistance sont disponibles. Pour en savoir plus, consultez &lt;u>g.co/pixel/6abattery&lt;/u>."</string>
+    <string name="battery_replacement_early_notify_des">"Votre batterie a effectué 375 cycles de charge. En raison d'un risque de surchauffe de la batterie, lorsque votre batterie aura atteint 400 cycles de charge, sa capacité et ses performances de charge seront réduites, et nous vous recommandons de la remplacer. Des options d'assistance sont disponibles. Pour en savoir plus, consultez &lt;u>g.co/pixel/6abattery&lt;/u>."</string>
+    <string name="battery_management_action">Voir le nombre de cycles</string>
 </resources>

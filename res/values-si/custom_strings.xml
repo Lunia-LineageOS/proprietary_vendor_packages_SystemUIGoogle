@@ -103,4 +103,10 @@
 \t• විශාල ගොනු බාගත කිරීම හෝ උඩුගත කිරීමේදී
 \t• සෘජු හිරු එළියෙන්"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">තව දැන ගන්න</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">බැටරි ප්‍රතිස්ථාපනය නිර්දේශිතයි</string>
+    <string name="battery_replacement_notify_des">බැටරිය අධික ලෙස රත් වීමේ ගැටලුවක් හේතුවෙන්, බැටරි ධාරිතාව සහ ආරෝපණ ක්‍රියාකාරිත්වය අඩු වන අතර, බැටරි ප්‍රතිස්ථාපනය කිරීම නිර්දේශ කරනු ලැබේ. සහාය විකල්ප තිබේ, වැඩිදුර තොරතුරු සඳහා &lt;u>g.co/pixel/6abattery&lt;/u> වෙත පිවිසෙන්න.</string>
+    <string name="battery_replacement_early_notify_des">ඔබේ බැටරිය ආරෝපණ චක්‍ර 375ක තිබේ. බැටරිය අධික ලෙස රත් වීමේ ගැටලුවක් හේතුවෙන්, ඔබේ බැටරිය ආරෝපණ චක්‍ර 400කට ළඟා වූ විට බැටරි ධාරිතාව සහ ආරෝපණ ක්‍රියාකාරිත්වය අඩු වන අතර බැටරි ප්‍රතිස්ථාපනය කිරීම නිර්දේශ කරනු ලැබේ. සහාය විකල්ප තිබේ, වැඩිදුර තොරතුරු සඳහා &lt;u>g.co/pixel/6abattery&lt;/u> වෙත පිවිසෙන්න.</string>
+    <string name="battery_management_action">චක්‍ර ගණන බලන්න</string>
 </resources>

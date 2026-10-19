@@ -103,4 +103,10 @@ Telefon anda boleh menjadi terlalu panas apabila:
 \t• Memuat turun atau memuat naik fail yang besar
 \t• Diletakkan di bawah pancaran cahaya matahari"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Ketahui lebih lanjut</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Penggantian bateri disyorkan</string>
+    <string name="battery_replacement_notify_des">Oleh sebab kemungkinan masalah bateri menjadi terlalu panas, kapasiti bateri dan prestasi pengecasan dikurangkan, dan penggantian bateri akan disyorkan. Pilihan sokongan tersedia, lawati &lt;u>g.co/pixel/6abattery&lt;/u> untuk mendapatkan maklumat lanjut.</string>
+    <string name="battery_replacement_early_notify_des">Bateri anda telah melalui 375 kitaran pengecasan. Oleh sebab kemungkinan masalah bateri menjadi terlalu panas, apabila bateri anda mencapai 400 kitaran pengecasan, kapasiti bateri dan prestasi pengecasan akan dikurangkan, dan penggantian bateri akan disyorkan. Pilihan sokongan tersedia, lawati &lt;u>g.co/pixel/6abattery&lt;/u> untuk mendapatkan maklumat lanjut.</string>
+    <string name="battery_management_action">Lihat kiraan kitaran</string>
 </resources>

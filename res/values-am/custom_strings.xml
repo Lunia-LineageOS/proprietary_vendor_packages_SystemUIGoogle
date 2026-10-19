@@ -103,4 +103,10 @@
 \t• ትልቅ ፋይሎችን ሲያወርዱ ወይም ሲሰቅሉ
 \t• በቀጥታ ፀሐይ ላይ ሲሆን"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">የበለጠ ለመረዳት</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">ባትሪውን መተካት ይመከራል</string>
+    <string name="battery_replacement_notify_des">የባትሪ ግለት ችግር ሊሆን በሚችል ምክንያት የባትሪ አቅም እና የኃይል መሙላት አፈጻጸም ይቀንሳል እና የባትሪ መተካት ይመከራል። የድጋፍ አማራጮች ይገኛሉ፣ ተጨማሪ መረጃ ለማግኘት &lt;u>g.co/pixel/6abattery&lt;/u> ይጎብኙ።</string>
+    <string name="battery_replacement_early_notify_des">ባትሪዎ 375 የኃይል መሙያ ዑደቶች ላይ ነው። የባትሪ ግለት ችግር ሊሆን በሚችል ምክንያት ባትሪዎ 400 የኃይል መሙያ ዑደቶች ላይ ሲደርስ የባትሪ አቅም እና የኃይል መሙላት አፈጻጸም ይቀንሳል እና የባትሪ መተካት ይመከራል። የድጋፍ አማራጮች ይገኛሉ፣ ተጨማሪ መረጃ ለማግኘት &lt;u>g.co/pixel/6abattery&lt;/u> ይጎብኙ።</string>
+    <string name="battery_management_action">የዑደት ቁጥርን ይመልከቱ</string>
 </resources>

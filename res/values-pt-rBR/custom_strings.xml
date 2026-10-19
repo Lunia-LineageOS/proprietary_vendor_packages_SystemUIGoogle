@@ -103,4 +103,10 @@ Veja algumas possíveis razões para superaquecimento:
 \t• Baixar ou enviar arquivos grandes
 \t• Expor o aparelho à luz solar direta"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Saiba mais</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">É recomendável trocar a bateria</string>
+    <string name="battery_replacement_notify_des">Devido a um possível problema de superaquecimento, a capacidade e o desempenho de carregamento serão reduzidos. Recomendamos trocar a bateria. Há opções de suporte disponíveis. Acesse &lt;u>g.co/pixel/6abattery&lt;/u> para mais informações.</string>
+    <string name="battery_replacement_early_notify_des">Sua bateria atingiu 375 ciclos de carga. Devido ao risco de superaquecimento da bateria, quando ela atingir 400 ciclos de carga, a capacidade e o desempenho de carregamento serão reduzidos. Recomendamos trocar a bateria. Há opções de suporte disponíveis. Acesse &lt;u>g.co/pixel/6abattery&lt;/u> para mais informações.</string>
+    <string name="battery_management_action">Ver contagem de ciclos</string>
 </resources>

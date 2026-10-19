@@ -103,4 +103,10 @@
 \t• 下載或上傳大型檔案
 \t• 受陽光直射"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">瞭解詳情</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">建議更換電池</string>
+    <string name="battery_replacement_notify_des">電池可能有過熱問題，容量和充電效能已降低，建議更換電池。歡迎前往 &lt;u>g.co/pixel/6abattery&lt;/u> 進一步瞭解可用的支援選項。</string>
+    <string name="battery_replacement_early_notify_des">電池充電週期已達 375 次。電池可能有過熱的問題，因此充電週期達 400 次時，容量和充電效能會降低，建議更換電池。歡迎前往 &lt;u>g.co/pixel/6abattery&lt;/u> 進一步瞭解可用的支援選項。</string>
+    <string name="battery_management_action">查看週期數</string>
 </resources>

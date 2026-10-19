@@ -103,4 +103,10 @@ Telefonunuz aşağıdakı hallarda çox isinə bilər:
 \t• Böyük fayllar endirildikdə və ya yükləndikdə
 \t• Birbaşa gün işığı altında"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Ətraflı məlumat</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Batareyanın dəyişdirilməsi tövsiyə olunur</string>
+    <string name="battery_replacement_notify_des">Batareyanın potensial olaraq həddindən artıq qızması probleminə görə batareya tutumu və şarj performansı azalır və batareyanın dəyişdirilməsi tövsiyə olunur. Dəstək seçimləri əlçatandır: Daha ətraflı məlumat üçün &lt;u>g.co/pixel/6abattery&lt;/u> bölməsinə baş çəkin.</string>
+    <string name="battery_replacement_early_notify_des">Batareya enerjiniz 375 şarj dövründədir. Batareyanın potensial qaydada həddindən artıq qızması probleminə görə batareyanız 400 şarj dövrünə çatdıqda batareya tutumu və şarj performansı azalacaq və batareyanın dəyişdirilməsi tövsiyə olunur. Dəstək seçimləri əlçatandır: Daha ətraflı məlumat üçün &lt;u>g.co/pixel/6abattery&lt;/u> bölməsinə baş çəkin.</string>
+    <string name="battery_management_action">Şarj dövrünə baxın</string>
 </resources>

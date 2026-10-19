@@ -103,4 +103,10 @@
 \t• サイズの大きいファイルをダウンロードまたはアップロードする
 \t• 直射日光の当たる場所で使用する"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">詳細</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">バッテリーの交換をおすすめします</string>
+    <string name="battery_replacement_notify_des">バッテリーが過熱する恐れがあるため、バッテリー容量と充電性能が低下しています。バッテリーの交換をおすすめします。サポート オプションをご利用いただけます。詳しくは &lt;u>g.co/pixel/6abattery&lt;/u> をご覧ください。</string>
+    <string name="battery_replacement_early_notify_des">バッテリーの充電サイクルは 375 回です。バッテリーが過熱する恐れがあるため、充電サイクルが 400 回に達すると、バッテリー容量と充電性能が低下します。バッテリーの交換をおすすめします。サポート オプションをご利用いただけます。詳しくは &lt;u>g.co/pixel/6abattery&lt;/u> をご覧ください。</string>
+    <string name="battery_management_action">サイクル回数を表示</string>
 </resources>

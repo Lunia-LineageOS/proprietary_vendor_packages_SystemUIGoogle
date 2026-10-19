@@ -103,4 +103,10 @@ Telefonen kan bli for varm når du
 \t• laster ned eller opp store filer
 \t• er i direkte sollys"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Finn ut mer</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Du bør bytte batteriet</string>
+    <string name="battery_replacement_notify_des">På grunn av et potensielt problem med overoppheting av batteriet er batterikapasiteten og ladeytelsen redusert, og du bør bytte batteriet. Det finnes tilgjengelige støttealternativer. Gå til &lt;u>g.co/pixel/6abattery&lt;/u> for å finne ut mer.</string>
+    <string name="battery_replacement_early_notify_des">Batteriet har vært gjennom 375 ladesykluser. På grunn av et potensielt problem med overoppheting av batteriet reduseres batterikapasiteten og ladeeffekten når batteriet har 400 ladesykluser, og du bør bytte batteriet. Det finnes tilgjengelige støttealternativer. Gå til &lt;u>g.co/pixel/6abattery&lt;/u> for å finne ut mer.</string>
+    <string name="battery_management_action">Se antall sykluser</string>
 </resources>

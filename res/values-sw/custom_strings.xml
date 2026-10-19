@@ -103,4 +103,10 @@ Simu yako inaweza kuwa na joto jingi ikiwa:
 \t• Kupakia au kupakua faili kubwa
 \t• Inapigwa na jua moja kwa moja"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Pata maelezo zaidi</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Tunapendekeza ubadilishe betri</string>
+    <string name="battery_replacement_notify_des">Kutokana na tatizo linaloweza kutokea la betri kupata joto kupita kiasi, uwezo wa betri na utendaji wa kuchaji hupungua na tunapendekeza ubadilishe betri. Chaguo za usaidizi zinapatikana, tembelea &lt;u>g.co/pixel/6abattery&lt;/u> ili upate maelezo zaidi.</string>
+    <string name="battery_replacement_early_notify_des">Umechaji betri yako ikafikia mizunguko 375. Kutokana na tatizo linaloweza kutokea la betri kupata joto kupita kiasi, wakati betri yako imefikia mizunguko 400 ya kuchaji, uwezo wa betri na utendaji wa kuchaji utapungua na tunapendekeza ubadilishe betri. Chaguo za usaidizi zinapatikana, tembelea &lt;u>g.co/pixel/6abattery&lt;/u> ili upate maelezo zaidi.</string>
+    <string name="battery_management_action">Angalia idadi ya mizunguko ya kuchaji betri</string>
 </resources>

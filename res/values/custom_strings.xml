@@ -110,4 +110,11 @@ Your phone can get too warm when:
 \t• Downloading or uploading large files
 \t• In direct sunlight"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Learn more</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Battery replacement recommended</string>
+    <string name="battery_replacement_notify_des">Due to a potential battery overheating issue, battery capacity and charging performance are reduced, and battery replacement is recommended. Support options are available, visit &lt;u>g.co/pixel/6abattery&lt;/u> for more information.</string>
+    <string name="battery_replacement_early_notify_des">Your battery is at 375 charge cycles. Due to a potential battery overheating issue, when your battery reaches 400 charge cycles the battery capacity and charging performance will be reduced and battery replacement is recommended. Support options are available, visit &lt;u>g.co/pixel/6abattery&lt;/u> for more information.</string>
+    <string name="battery_management_action">See cycle count</string>
+    <string name="battery_replacement_notify_help_url" translatable="false">https://g.co/pixel/6abattery</string>
 </resources>

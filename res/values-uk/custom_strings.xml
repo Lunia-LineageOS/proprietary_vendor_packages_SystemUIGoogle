@@ -103,4 +103,10 @@
 \t• завантажуєте великі файли;
 \t• тримаєте телефон під прямим сонячним промінням."</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Докладніше</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Радимо замінити акумулятор</string>
+    <string name="battery_replacement_notify_des">Через потенційну проблему з перегріванням акумулятора його ємність і ефективність заряджання зменшилися. Радимо його замінити. Щоб дізнатися про доступні варіанти підтримки, відвідайте сторінку &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Ваш акумулятор пройшов 375 циклів заряджання. Через потенційну проблему з перегріванням акумулятора після 400 циклів заряджання його ємність і ефективність заряджання зменшаться. Після цього радимо його замінити. Щоб дізнатися про доступні варіанти підтримки, відвідайте сторінку &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Переглянути кількість циклів</string>
 </resources>

@@ -103,4 +103,10 @@ Ponsel dapat menjadi terlalu panas saat:
 \t• Mendownload atau mengupload file besar
 \t• Terpapar sinar matahari langsung"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Pelajari lebih lanjut</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Disarankan mengganti baterai</string>
+    <string name="battery_replacement_notify_des">Karena potensi masalah panas berlebih pada baterai, kapasitas baterai dan performa pengisian daya berkurang, dan Anda sebaiknya mengganti baterai. Opsi dukungan tersedia, buka &lt;u>g.co/pixel/6abattery&lt;/u> untuk mengetahui informasi selengkapnya.</string>
+    <string name="battery_replacement_early_notify_des">Baterai Anda telah melalui 375 siklus pengisian daya. Karena potensi masalah panas berlebih pada baterai, saat baterai mencapai 400 siklus pengisian daya, kapasitas baterai dan performa pengisian daya akan berkurang dan Anda sebaiknya mengganti baterai. Opsi dukungan tersedia, buka &lt;u>g.co/pixel/6abattery&lt;/u> untuk mengetahui informasi selengkapnya.</string>
+    <string name="battery_management_action">Lihat jumlah siklus</string>
 </resources>

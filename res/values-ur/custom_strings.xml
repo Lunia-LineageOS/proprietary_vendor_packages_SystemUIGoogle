@@ -103,4 +103,10 @@
 \t• بڑی فائلز کو ڈاؤن لوڈ یا اپ لوڈ کرنا
 \t• فون کو براہ راست سورج کی روشنی میں رکھنا"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">مزید جانیں</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">بیٹری کی تبدیلی کی تجویز کی گئی ہے</string>
+    <string name="battery_replacement_notify_des">‏بیٹری کے اوورہیٹنگ کے ممکنہ مسئلے کی وجہ سے، بیٹری کی گنجائش اور چارجنگ پرفارمنس کم ہو جاتی ہے اور بیٹری کی تبدیلی کی تجویز کی جاتی ہے۔ سپورٹ کے اختیارات دستیاب ہیں، معلومات کے لیے &lt;u>g.co/pixel/6abattery&lt;/u> ملاحظہ کریں۔</string>
+    <string name="battery_replacement_early_notify_des">‏آپ کی بیٹری 375 چارج سائیکلز پر ہے۔ بیٹری کے اوورہیٹنگ کے ممکنہ مسئلے کی وجہ سے، جب آپ کی بیٹری 400 چارج سائیکلز تک پہنچ جائے گی تو بیٹری کی گنجائش اور چارجنگ پرفارمنس کم ہو جائے گی اور بیٹری کی تبدیلی کی تجویز کی جاتی ہے۔ سپورٹ کے اختیارات دستیاب ہیں، معلومات کے لیے &lt;u>g.co/pixel/6abattery&lt;/u> ملاحظہ کریں۔</string>
+    <string name="battery_management_action">چارج سائیکل کی تعداد دیکھیں</string>
 </resources>

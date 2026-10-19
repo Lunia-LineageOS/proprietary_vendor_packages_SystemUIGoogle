@@ -103,4 +103,10 @@ A telefon akkor melegedhet túl, ha:
 \t• Ön nagy fájlokat tölt le vagy fel;
 \t• közvetlen napfény éri a telefont."</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">További információ</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Javasoljuk az akkumulátor cseréjét</string>
+    <string name="battery_replacement_notify_des">Az akkumulátor túlmelegedésének lehetséges problémája miatt csökkent az akkumulátor kapacitása és töltési teljesítménye, ezért javasoljuk a cseréjét. Különböző támogatási lehetőségek állnak rendelkezésre. További információért látogasson el a &lt;u>g.co/pixel/6abattery&lt;/u> oldalra.</string>
+    <string name="battery_replacement_early_notify_des">Az akkumulátor töltési ciklusainak száma 375. Az akkumulátor túlmelegedésének lehetséges problémája miatt, amikor az akkumulátor eléri a 400 töltési ciklust, az akkumulátor kapacitása és töltési teljesítménye csökken, ezért javasoljuk az akkumulátor cseréjét. Különböző támogatási lehetőségek állnak rendelkezésre. További információért látogasson el a &lt;u>g.co/pixel/6abattery&lt;/u> oldalra.</string>
+    <string name="battery_management_action">A ciklusok számának megtekintése</string>
 </resources>

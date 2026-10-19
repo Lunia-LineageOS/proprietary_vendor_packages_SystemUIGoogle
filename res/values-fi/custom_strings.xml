@@ -103,4 +103,10 @@ Puhelin voi lämmetä liikaa, jos
 \t• lataat tai lähetät suuria tiedostoja
 \t• se on suorassa auringonvalossa."</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">Lue lisää</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">Akun vaihtamista suositellaan</string>
+    <string name="battery_replacement_notify_des">Akun mahdollisen ylikuumenemisen vuoksi akun kapasiteetti ja latausteho heikkenevät, ja akun vaihtamista suositellaan. Löydät tukivaihtoehdot ja lisätietoa osoitteesta &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_replacement_early_notify_des">Akulla on nyt 375 lataussykliä. Akun mahdollisen ylikuumenemisen vuoksi akun kapasiteetti ja latausteho heikkenevät, kun akku saavuttaa 400 lataussykliä, ja akun vaihtamista suositellaan. Löydät tukivaihtoehdot ja lisätietoa osoitteesta &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
+    <string name="battery_management_action">Katso syklien määrä</string>
 </resources>

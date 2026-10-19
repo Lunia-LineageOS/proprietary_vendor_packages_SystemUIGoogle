@@ -103,4 +103,10 @@
 \t• വലിയ ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നത് അല്ലെങ്കിൽ അപ്‌ലോഡ് ചെയ്യുന്നത്
 \t• നേരിട്ടുള്ള സൂര്യപ്രകാശമേൽക്കുമ്പോൾ"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">കൂടുതലറിയുക</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">ബാറ്ററി മാറ്റാൻ നിർദ്ദേശിക്കുന്നു</string>
+    <string name="battery_replacement_notify_des">ബാറ്ററി ഓവർ ഹീറ്റ് ആകാൻ സാധ്യതയുള്ളതിനാൽ, ബാറ്ററി കപ്പാസിറ്റിയും ചാർജിംഗ് പ്രകടനവും കുറയും, ബാറ്ററി മാറ്റുന്നതാണ് നല്ലത്. പിന്തുണാ ഓപ്‌ഷനുകൾ ലഭ്യമാണ്, കൂടുതൽ വിവരങ്ങൾക്ക് &lt;u>g.co/pixel/6abattery&lt;/u> സന്ദർശിക്കുക.</string>
+    <string name="battery_replacement_early_notify_des">നിങ്ങളുടെ ബാറ്ററി 375 ചാർജ് സൈക്കിൾ പൂർത്തിയാക്കി. ബാറ്ററി ഓവർ ഹീറ്റ് ആകാൻ സാധ്യതയുള്ളതിനാൽ, 400 ചാർജ് സൈക്കിൾ പൂർത്തിയാക്കുമ്പോൾ, ബാറ്ററി കപ്പാസിറ്റിയും ചാർജിംഗ് പ്രകടനവും കുറയും, ബാറ്ററി മാറ്റുന്നതാണ് നല്ലത്. പിന്തുണാ ഓപ്‌ഷനുകൾ ലഭ്യമാണ്, കൂടുതൽ വിവരങ്ങൾക്ക് &lt;u>g.co/pixel/6abattery&lt;/u> സന്ദർശിക്കുക.</string>
+    <string name="battery_management_action">സൈക്കിൾ കൗണ്ട് കാണുക</string>
 </resources>

@@ -103,4 +103,10 @@
 \t• বড় ফাইল আপলোড বা ডাউনলোড করা
 \t• সরাসরি সূর্যের আলোয় রাখা"</string>
     <string name="post_shutdown_mode_dialog_learn_more_button_text">আরও জানুন</string>
+
+    <!-- Battery Replacement -->
+    <string name="battery_replacement_notify_title">ব্যাটারি পাল্টানোর জন্য সাজেস্ট করা হয়েছে</string>
+    <string name="battery_replacement_notify_des">ব্যাটারির সম্ভাব্য ওভারহিটিং সমস্যার কারণে, ব্যাটারির ক্ষমতা এবং চার্জিং পারফর্ম্যান্স কমে গেছে এবং ব্যাটারি পাল্টানোর জন্য সাজেস্ট করা হচ্ছে। সহায়তার বিকল্প উপলভ্য রয়েছে। আরও জানতে, &lt;u>g.co/pixel/6abattery&lt;/u> লিঙ্কে যান।</string>
+    <string name="battery_replacement_early_notify_des">আপনার ব্যাটারি ৩৭৫টি চার্জ সাইকেল সম্পূর্ণ করেছে। ব্যাটারির সম্ভাব্য ওভারহিটিং সমস্যার কারণে, আপনার ব্যাটারি ৪০০টি চার্জ সাইকেল সম্পূর্ণ করলে ব্যাটারির ক্ষমতা এবং চার্জিং পারফর্ম্যান্স কমে যাবে এবং তখন ব্যাটারি পরিবর্তন করতে হবে। সহায়তার বিকল্প উপলভ্য রয়েছে। আরও জানতে, &lt;u>g.co/pixel/6abattery&lt;/u> লিঙ্কে যান।</string>
+    <string name="battery_management_action">সাইকেলের সংখ্যা দেখুন</string>
 </resources>
