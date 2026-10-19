@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">正在无线充电</string>
     <string name="wireless_charging_notification_text">无线充电可能比有线充电消耗更多的能量。为了节省电力和时间，请尝试改用有线充电器。</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">手机过热</string>
+    <string name="shutdown_mode_screen_description">为降低温度，手机已暂时进入低功耗模式。手机降温后即可正常使用。</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">关机</string>
+    <string name="shutdown_confirmation_dialog_title">要关机吗？</string>
+    <string name="shutdown_confirmation_dialog_description">待手机降温后，您可以重新开机。</string>
+    <string name="shutdown_confirmation_dialog_confirm">关机</string>
+    <string name="shutdown_confirmation_dialog_cancel">取消</string>
+    <string name="post_shutdown_mode_dialog_title">手机因过热而处于低功耗模式</string>
+    <string name="post_shutdown_mode_dialog_description">"手机已降温，并恢复正常运行。
+
+以下情况可能会导致手机过热：
+\t• 使用耗电量较高的应用，例如视频、游戏和导航应用
+\t• 下载或上传大型文件
+\t• 受阳光直射"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">了解详情</string>
 </resources>

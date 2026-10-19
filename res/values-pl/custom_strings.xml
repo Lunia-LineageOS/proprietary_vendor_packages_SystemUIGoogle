@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Ładowanie bezprzewodowe</string>
     <string name="wireless_charging_notification_text">Ładowanie bezprzewodowe może zużywać więcej energii niż przewodowe. Aby oszczędzać energię i czas, używaj ładowarki przewodowej.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefon jest zbyt ciepły</string>
+    <string name="shutdown_mode_screen_description">Telefon jest tymczasowo w trybie oszczędzania baterii, aby się schłodzić. Będzie można z niego znowu korzystać, gdy jego temperatura spadnie.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Wyłącz</string>
+    <string name="shutdown_confirmation_dialog_title">Wyłączyć telefon?</string>
+    <string name="shutdown_confirmation_dialog_description">Gdy się schłodzi, trzeba będzie go ponownie włączyć.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Wyłącz</string>
+    <string name="shutdown_confirmation_dialog_cancel">Anuluj</string>
+    <string name="post_shutdown_mode_dialog_title">Telefon działał w trybie oszczędzania baterii z powodu przegrzania</string>
+    <string name="post_shutdown_mode_dialog_description">"Temperatura telefonu spadła i znów działa on normalnie.
+
+Temperatura telefonu może wzrastać, gdy:
+\t• znacznie obciążasz baterię, na przykład oglądając filmy, grając czy korzystając z nawigacji;
+\t• pobierasz lub przesyłasz duże pliki;
+\t• urządzenie jest wystawione na słońce."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Więcej informacji</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Nabíja sa bezdrôtovo</string>
     <string name="wireless_charging_notification_text">Bezdrôtové nabíjanie môže spotrebovávať viac energie než káblové nabíjanie. Vyskúšajte káblovú nabíjačku, aby ste ušetrili elektrinu aj čas.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefón je príliš horúci</string>
+    <string name="shutdown_mode_screen_description">Telefón je dočasne v režime nízkej výkonnosti, aby sa mohol ochladiť. Keď bude chladnejší, bude opäť pripravený na použitie.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Vypnúť</string>
+    <string name="shutdown_confirmation_dialog_title">Chcete telefón vypnúť?</string>
+    <string name="shutdown_confirmation_dialog_description">Keď vychladne, budete ho musieť znova zapnúť.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Vypnúť</string>
+    <string name="shutdown_confirmation_dialog_cancel">Zrušiť</string>
+    <string name="post_shutdown_mode_dialog_title">Váš telefón bol prehriaty, preto bol v režime nízkej spotreby</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefón sa ochladil a znova funguje normálne.
+
+Telefón sa môže prehrievať v týchto prípadoch:
+\t• keď vykonávate aktivity, ktoré príliš spotrebúvajú batériu, ako sú prehrávanie videí, hranie hier a navigácia;
+\t• keď sťahujete alebo nahrávate veľké súbory;
+\t• keď je telefón na priamom slnečnom svetle."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Ďalšie informácie</string>
 </resources>

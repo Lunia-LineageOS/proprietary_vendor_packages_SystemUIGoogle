@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">వైర్‌లెస్‌గా ఛార్జ్ అవుతోంది</string>
     <string name="wireless_charging_notification_text">వైర్‌లెస్ ఛార్జింగ్ వైర్ ఉన్న ఛార్జింగ్ కంటే ఎక్కువ విద్యుత్తును వినియోగిస్తుంది. విద్యుత్తు, సమయాన్ని ఆదా చేయడానికి, వైర్ ఉన్న ఛార్జర్‌కు స్విచ్ అవ్వడానికి ట్రై చేయండి.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">మీ ఫోన్ చాలా వేడిగా ఉంది</string>
+    <string name="shutdown_mode_screen_description">చల్లబడడానికి మీ ఫోన్ తాత్కాలికంగా తక్కువ పవర్ మోడ్‌లో ఉంది. ఇది చల్లబడిన తర్వాత మళ్లీ ఉపయోగించడానికి సిద్ధంగా ఉంటుంది.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">పవర్ ఆఫ్ చేయండి</string>
+    <string name="shutdown_confirmation_dialog_title">ఫోన్‌ను పవర్ ఆఫ్ చేయాలా?</string>
+    <string name="shutdown_confirmation_dialog_description">అది చల్లబడిన తర్వాత, మీరు దాన్ని మళ్లీ ఆన్ చేయాలి.</string>
+    <string name="shutdown_confirmation_dialog_confirm">పవర్ ఆఫ్ చేయండి</string>
+    <string name="shutdown_confirmation_dialog_cancel">రద్దు చేయండి</string>
+    <string name="post_shutdown_mode_dialog_title">వేడి కారణంగా మీ ఫోన్ తక్కువ పవర్ మోడ్‌లో ఉంది</string>
+    <string name="post_shutdown_mode_dialog_description">"మీ ఫోన్ చల్లబడింది, మళ్ళీ ఎప్పటిలాగే పని చేస్తోంది.
+
+ఈ సందర్భాలలో మీ ఫోన్ చాలా వేడెక్కవచ్చు:
+\t• వీడియో, గేమింగ్, నావిగేషన్ వంటి బ్యాటరీ-ఇంటెన్సివ్ యాక్టివిటీలను ఉపయోగించడం
+\t• పెద్ద ఫైళ్ళను డౌన్‌లోడ్ చేయడం లేదా అప్‌లోడ్ చేయడం
+\t• నేరుగా ఎండలో పెట్టడం"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">మరింత తెలుసుకోండి</string>
 </resources>

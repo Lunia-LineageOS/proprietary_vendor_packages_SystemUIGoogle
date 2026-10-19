@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Inachaji bila kutumia waya</string>
     <string name="wireless_charging_notification_text">Kuchaji bila kutumia waya kunaweza kutumia nishati zaidi kuliko kuchaji kwa kutumia waya. Ili uokoe muda na umeme, jaribu kubadilisha uchaji ukitumia waya.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Simu yako ina joto zaidi</string>
+    <string name="shutdown_mode_screen_description">Simu yako iko katika hali ya kutumia kiasi kidogo cha chaji kwa muda ili ipoe. Itakuwa tayari kutumika tena mara tu itakapopoa kabisa.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Zima</string>
+    <string name="shutdown_confirmation_dialog_title">Ungependa kuzima simu?</string>
+    <string name="shutdown_confirmation_dialog_description">Mara tu ikipoa, utahitaji kuiwasha tena.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Zima</string>
+    <string name="shutdown_confirmation_dialog_cancel">Acha</string>
+    <string name="post_shutdown_mode_dialog_title">Simu yako ilikuwa katika hali ya kutumia kiasi kidogo cha chaji kutokana na joto</string>
+    <string name="post_shutdown_mode_dialog_description">"Simu yako imepoa na inafanya kazi kama kawaida tena.
+
+Simu yako inaweza kuwa na joto jingi ikiwa:
+\t• Unafanya shughuli zinazotumia chaji nyingi kama vile kucheza video, michezo na uelekezaji wa safari kwenye ramani
+\t• Kupakia au kupakua faili kubwa
+\t• Inapigwa na jua moja kwa moja"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Pata maelezo zaidi</string>
 </resources>

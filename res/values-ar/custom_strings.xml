@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">الشحن لاسلكيًا</string>
     <string name="wireless_charging_notification_text">قد يستخدِم الشحن اللاسلكي طاقة أكبر من الشحن السلكي. جرِّب التبديل إلى شاحن سلكي لتوفير الكهرباء والوقت.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">درجة حرارة هاتفك مرتفعة جدًا</string>
+    <string name="shutdown_mode_screen_description">يعمل هاتفك مؤقتًا في وضع الطاقة المنخفضة لتبريده. وسيكون جاهزًا للاستخدام مرة أخرى بعد أن يبرد.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">إطفاء</string>
+    <string name="shutdown_confirmation_dialog_title">هل المطلوب إطفاء الهاتف؟</string>
+    <string name="shutdown_confirmation_dialog_description">بعد أن يبرد الجهاز، يجب إعادة تشغيله.</string>
+    <string name="shutdown_confirmation_dialog_confirm">إطفاء</string>
+    <string name="shutdown_confirmation_dialog_cancel">إلغاء</string>
+    <string name="post_shutdown_mode_dialog_title">كان هاتفك في وضع الطاقة المنخفضة بسبب ارتفاع درجة حرارته</string>
+    <string name="post_shutdown_mode_dialog_description">"انخفضت درجة حرارة الهاتف وعاد إلى العمل بشكل طبيعي.
+
+يمكن أن ترتفع درجة حرارة هاتفك بشدة عند:
+\t• استخدام الأنشطة التي تستهلك طاقة البطارية بشكل كبير، مثل مشاهدة الفيديوهات، وتشغيل الألعاب، والتنقّل
+\t• تنزيل ملفات كبيرة أو تحميلها
+\t• التعرّض لأشعة الشمس المباشرة"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">مزيد من المعلومات</string>
 </resources>

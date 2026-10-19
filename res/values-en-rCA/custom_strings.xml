@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Wirelessly charging</string>
     <string name="wireless_charging_notification_text">Wireless charging may use more energy than wired charging. To save electricity and time, try switching to a wired charger.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Your phone is too warm</string>
+    <string name="shutdown_mode_screen_description">Your phone is temporarily in low power mode to cool down. It will be ready to use again once it is cooler.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Power off</string>
+    <string name="shutdown_confirmation_dialog_title">Power off phone?</string>
+    <string name="shutdown_confirmation_dialog_description">Once it cools down, you will need to turn it back on.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Power off</string>
+    <string name="shutdown_confirmation_dialog_cancel">Cancel</string>
+    <string name="post_shutdown_mode_dialog_title">Your phone was in a low power mode due to heat</string>
+    <string name="post_shutdown_mode_dialog_description">"Your phone has cooled down and is running normally again.
+
+Your phone can get too warm when:
+\t• Using battery-intensive activities like video, gaming, and navigation
+\t• Downloading or uploading large files
+\t• In direct sunlight"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Learn more</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Recharge sans fil en cours</string>
     <string name="wireless_charging_notification_text">"La recharge sans fil peut consommer plus d'énergie que la recharge filaire. Pour économiser de l'électricité et du temps, essayez de passer à un chargeur filaire."</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Votre téléphone est trop chaud</string>
+    <string name="shutdown_mode_screen_description">"Votre téléphone est temporairement en mode économie d'énergie pour refroidir. Vous pourrez l'utiliser à nouveau quand il aura refroidi."</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Éteindre</string>
+    <string name="shutdown_confirmation_dialog_title">Éteindre le téléphone ?</string>
+    <string name="shutdown_confirmation_dialog_description">"Une fois qu'il aura refroidi, vous devrez le rallumer."</string>
+    <string name="shutdown_confirmation_dialog_confirm">Éteindre</string>
+    <string name="shutdown_confirmation_dialog_cancel">Annuler</string>
+    <string name="post_shutdown_mode_dialog_title">"Votre téléphone était en mode économie d'énergie en raison de la chaleur"</string>
+    <string name="post_shutdown_mode_dialog_description">"Votre téléphone s'est refroidi et fonctionne à nouveau normalement.
+
+Votre téléphone peut surchauffer si :
+\t• vos activités consomment beaucoup de batterie (vidéos, jeux, navigation, etc.) ;
+\t• vous téléchargez ou importez de gros fichiers ;
+\t• il est directement exposé au soleil."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">En savoir plus</string>
 </resources>

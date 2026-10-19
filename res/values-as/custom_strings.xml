@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">তাঁৰৰ অবিহনে চাৰ্জ কৰি থকা হৈছে</string>
     <string name="wireless_charging_notification_text">বেতাঁৰ চাৰ্জিঙে তাঁৰযুক্ত চাৰ্জিঙতকৈ অধিক শক্তি ব্যৱহাৰ কৰিব পাৰে। বিদ্যুৎ আৰু সময় ৰাহি কৰিবলৈ, তাঁৰযুক্ত চাৰ্জাৰ ব্যৱহাৰ কৰি চাওক।</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">আপোনাৰ ফ’নটো বহুত গৰম হৈছে</string>
+    <string name="shutdown_mode_screen_description">আপোনাৰ ফ’নটো ঠাণ্ডা হ’বলৈ সাময়িকভাৱে কম শক্তি খৰচ হোৱা ম’ডত আছে। এইটো ঠাণ্ডা হোৱাৰ পাছত ব্যৱহাৰ কৰিবলৈ পুনৰ সাজু হ’ব।</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">পাৱাৰ অফ কৰক</string>
+    <string name="shutdown_confirmation_dialog_title">ফ’নৰ পাৱাৰ অফ কৰিবনে?</string>
+    <string name="shutdown_confirmation_dialog_description">এইটো ঠাণ্ডা হোৱাৰ পাছত, আপুনি এইটো পুনৰ অন কৰিব লাগিব।</string>
+    <string name="shutdown_confirmation_dialog_confirm">পাৱাৰ অফ কৰক</string>
+    <string name="shutdown_confirmation_dialog_cancel">বাতিল কৰক</string>
+    <string name="post_shutdown_mode_dialog_title">গৰমৰ বাবে আপোনাৰ ফ’নটো কম পাৱাৰৰ ম’ডত আছে</string>
+    <string name="post_shutdown_mode_dialog_description">"আপোনাৰ ফ’নটো ঠাণ্ডা হৈ পুনৰ স্বাভাৱিকভাৱে চলি আছে।
+
+আপোনাৰ ফ’নটো এই পৰিস্থিতিসমূহত অধিক বেছি গৰম হ’ব পাৰে:
+\t• ভিডিঅ’, গে’মিং আৰু নেভিগে’ট কৰাৰ দৰে অত্যধিক বেটাৰী ব্যৱহাৰ কৰা কাৰ্যকলাপ কৰা
+\t• ডাঙৰ ফাইলসমূহ ডাউনল’ড বা আপল’ড কৰা
+\t• সূৰ্যৰ পোহৰ পোনপটীয়াকৈ পৰা"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">অধিক জানক</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">درحال شارژ شدن به‌صورت بی‌سیم</string>
     <string name="wireless_charging_notification_text">شارژ بی‌سیم ممکن است نسبت به شارژ سیمی از برق بیشتری استفاده کند. برای صرفه‌جویی در زمان و مصرف برق، از شارژر سیمی استفاده کنید.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">تلفن شما بیش‌از حد گرم شده است</string>
+    <string name="shutdown_mode_screen_description">تلفنتان موقتاً در حالت کم‌مصرف است تا خنک شود. پس‌از خنک شدن، می‌توانید دوباره از آن استفاده کنید.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">خاموش کردن</string>
+    <string name="shutdown_confirmation_dialog_title">تلفن خاموش شود؟</string>
+    <string name="shutdown_confirmation_dialog_description">پس‌از آنکه تلفن خنک شد، باید آن را دوباره روشن کنید.</string>
+    <string name="shutdown_confirmation_dialog_confirm">خاموش کردن</string>
+    <string name="shutdown_confirmation_dialog_cancel">لغو</string>
+    <string name="post_shutdown_mode_dialog_title">تلفنتان به‌دلیل داغ شدن، در حالت کم‌مصرف بود</string>
+    <string name="post_shutdown_mode_dialog_description">"تلفنتان خنک شده است و دوباره به‌طور عادی کار می‌کند.
+
+تلفنتان در شرایط زیر می‌تواند بیش‌از حد گرم شود:
+\t• هنگام فعالیت‌هایی که زیاد از باتری استفاده می‌کنند، مانند تماشای ویدیو، بازی کردن، و ناوبری
+\t• هنگام بارگیری یا بارگذاری فایل‌های بزرگ
+\t• درمعرض نور مستقیم خورشید"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">بیشتر بدانید</string>
 </resources>

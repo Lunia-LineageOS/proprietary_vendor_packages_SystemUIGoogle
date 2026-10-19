@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Безжично зареждане</string>
     <string name="wireless_charging_notification_text">Безжичното зареждане може да използва повече електроенергия от това с кабел. За да спестите електричество и време, използвайте зарядно устройство с кабел.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Телефонът ви е твърде топъл</string>
+    <string name="shutdown_mode_screen_description">Телефонът ви временно е в режим на ниска мощност с цел охлаждане. Ще е готов за използване, когато се охлади.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Изключване</string>
+    <string name="shutdown_confirmation_dialog_title">Да се изключи ли телефонът?</string>
+    <string name="shutdown_confirmation_dialog_description">След като се охлади, ще трябва да го включите отново.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Изключване</string>
+    <string name="shutdown_confirmation_dialog_cancel">Отказ</string>
+    <string name="post_shutdown_mode_dialog_title">Телефонът ви бе в режим на ниска мощност поради загряване</string>
+    <string name="post_shutdown_mode_dialog_description">"Телефонът ви се е охладил и отново работи нормално.
+
+Той може да прегрее, когато:
+\t• извършвате дейности, които изразходват много от батерията, като например гледане на видеоклипове, играене на игри и използване на навигация;
+\t• изтегляте или качвате големи файлове;
+\t• е изложен на пряка слънчева светлина."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Научете повече</string>
 </resources>

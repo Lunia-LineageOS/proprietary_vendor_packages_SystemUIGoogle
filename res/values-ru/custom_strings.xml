@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Беспроводная зарядка</string>
     <string name="wireless_charging_notification_text">При беспроводной зарядке энергопотребление может быть выше. Чтобы ускорить процесс и сэкономить электроэнергию, подключите проводное зарядное устройство.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Телефон слишком нагрелся</string>
+    <string name="shutdown_mode_screen_description">Телефон временно переведен в режим энергосбережения. Когда устройство охладится, этот режим будет отключен.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Выключить</string>
+    <string name="shutdown_confirmation_dialog_title">Выключить телефон?</string>
+    <string name="shutdown_confirmation_dialog_description">Включите его снова, когда он охладится.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Выключить</string>
+    <string name="shutdown_confirmation_dialog_cancel">Отмена</string>
+    <string name="post_shutdown_mode_dialog_title">Устройство находилось в режиме энергосбережения из-за перегрева</string>
+    <string name="post_shutdown_mode_dialog_description">"Телефон охладился и работает нормально.
+
+Возможные причины перегрева:
+\t• Интенсивное использование батареи, например во время игр, навигации или просмотра видео.
+\t• Скачивание или загрузка больших файлов.
+\t• Нахождение устройства на солнце."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Подробнее</string>
 </resources>

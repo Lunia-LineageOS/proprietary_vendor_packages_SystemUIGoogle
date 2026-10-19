@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">無線充電中</string>
     <string name="wireless_charging_notification_text">無線充電可能比有線充電使用更多能源。嘗試轉用有線充電器，可節省電力和時間。</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">手機過熱</string>
+    <string name="shutdown_mode_screen_description">為了降溫，手機暫時處於低耗電量模式。待手機降溫後，便可再次使用。</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">關機</string>
+    <string name="shutdown_confirmation_dialog_title">要關閉手機嗎？</string>
+    <string name="shutdown_confirmation_dialog_description">待手機降溫後，你需要重新啟動手機。</string>
+    <string name="shutdown_confirmation_dialog_confirm">關機</string>
+    <string name="shutdown_confirmation_dialog_cancel">取消</string>
+    <string name="post_shutdown_mode_dialog_title">手機因過熱而進入了低耗電模式</string>
+    <string name="post_shutdown_mode_dialog_description">"手機已降溫，並回復正常運作。
+
+以下情況可導致手機過熱：
+\t• 使用需要大量耗電的功能，例如觀看影片、玩遊戲和導航
+\t• 下載或上載大型檔案
+\t• 受陽光直射"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">瞭解詳情</string>
 </resources>

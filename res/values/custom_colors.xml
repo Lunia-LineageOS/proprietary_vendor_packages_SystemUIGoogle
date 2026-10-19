@@ -5,4 +5,7 @@
     <color name="key_text_shadow_color">#89000000</color>
     <color name="smartspace_button_background">@android:color/system_accent2_200</color>
     <color name="smartspace_button_text">@android:color/system_accent2_700</color>
+
+    <!-- Shutdown Mode -->
+    <color name="shutdown_mode_thermometer_icon_color">#f55e57</color>
 </resources>

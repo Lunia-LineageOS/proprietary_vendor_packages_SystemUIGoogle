@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Þráðlaus hleðsla</string>
     <string name="wireless_charging_notification_text">Þráðlaus hleðsla kann að nota meiri orku en hleðsla með snúru. Til að spara rafmagn og tíma skaltu prófa að skipta yfir í hleðslu með snúru.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Síminn þinn er of heitur</string>
+    <string name="shutdown_mode_screen_description">Síminn þinn er á orkusparnaðarstillingu eins og er til að kólna. Hann verður aftur tilbúinn til notkunar þegar hann er orðinn kaldari.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Slökkva</string>
+    <string name="shutdown_confirmation_dialog_title">Slökkva á síma?</string>
+    <string name="shutdown_confirmation_dialog_description">Þegar hann kólnar þarftu að kveikja aftur á honum.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Slökkva</string>
+    <string name="shutdown_confirmation_dialog_cancel">Hætta við</string>
+    <string name="post_shutdown_mode_dialog_title">Kveikt var á orkusparnaðarstillingu í símanum sökum hita</string>
+    <string name="post_shutdown_mode_dialog_description">"Síminn þinn kólnaði og virkar nú sem skyldi.
+
+Síminn getur ofhitnað þegar þú:
+\t• Gerir hluti sem ganga mikið á rafhlöðuna, s.s. horfir á vídeó, spilar leiki og færð leiðsögn
+\t• Sækir eða hleður upp stórum skrám
+\t• Ert með hann í beinu sólarljósi"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Nánar</string>
 </resources>

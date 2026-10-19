@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">വയർലെസ്സായി ചാർജ് ചെയ്യുന്നു</string>
     <string name="wireless_charging_notification_text">വയർലെസ് ചാർജിംഗ്, വയേർഡ് ചാർജിംഗിനേക്കാൾ കൂടുതൽ ഊർജ്ജം ഉപയോഗിച്ചേക്കാം. വൈദ്യുതിയും സമയവും ലാഭിക്കാൻ, വയേർഡ് ചാർജറിലേക്ക് മാറിനോക്കുക.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">നിങ്ങളുടെ ഫോൺ വളരെയധികം ചൂടായിരിക്കുന്നു</string>
+    <string name="shutdown_mode_screen_description">നിങ്ങളുടെ ഫോൺ തണുക്കുന്നതിനായി തൽക്കാലത്തേക്ക് കുറഞ്ഞ പവർ മോഡിലാണ്. തണുത്തതിന് ശേഷം അത് വീണ്ടും ഉപയോഗിക്കുന്നതിന് തയ്യാറാകും.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ഓഫാക്കുക</string>
+    <string name="shutdown_confirmation_dialog_title">ഫോൺ ഓഫാക്കണോ?</string>
+    <string name="shutdown_confirmation_dialog_description">തണുത്തുകഴിഞ്ഞാൽ, നിങ്ങൾ ഇത് വീണ്ടും ഓണാക്കേണ്ടതുണ്ട്.</string>
+    <string name="shutdown_confirmation_dialog_confirm">ഓഫാക്കുക</string>
+    <string name="shutdown_confirmation_dialog_cancel">റദ്ദാക്കുക</string>
+    <string name="post_shutdown_mode_dialog_title">ചൂട് കാരണം നിങ്ങളുടെ ഫോൺ കുറഞ്ഞ പവർ മോഡിലായിരുന്നു</string>
+    <string name="post_shutdown_mode_dialog_description">"നിങ്ങളുടെ ഫോൺ തണുത്തു, ഇത് വീണ്ടും സാധാരണ പോലെ പ്രവർത്തിക്കുന്നു.
+
+ഇനിപ്പറയുന്ന സാഹചര്യങ്ങളിൽ നിങ്ങളുടെ ഫോൺ വളരെയധികം ചൂടാകാം:
+\t• വീഡിയോ, ഗെയിമിംഗ്, നാവിഗേഷൻ എന്നിവ പോലെ ബാറ്ററി കൂടുതൽ ഉപയോഗിക്കുന്ന പ്രവർത്തനങ്ങൾ
+\t• വലിയ ഫയലുകൾ ഡൗൺലോഡ് ചെയ്യുന്നത് അല്ലെങ്കിൽ അപ്‌ലോഡ് ചെയ്യുന്നത്
+\t• നേരിട്ടുള്ള സൂര്യപ്രകാശമേൽക്കുമ്പോൾ"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">കൂടുതലറിയുക</string>
 </resources>

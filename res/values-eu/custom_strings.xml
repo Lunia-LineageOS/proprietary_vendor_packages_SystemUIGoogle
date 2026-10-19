@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Hari gabe kargatzen</string>
     <string name="wireless_charging_notification_text">Baliteke hari gabe kargatzean energia gehiago kontsumitzea kable bidez kargatzean baino. Elektrizitatea eta denbora aurrezteko, aldatu kargagailu kabledun batera.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefonoa beroegi dago</string>
+    <string name="shutdown_mode_screen_description">Telefonoa kontsumo txikiko moduan dago aldi baterako, hotz dadin. Hotzago dagoenean erabili ahalko duzu berriro.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Itzali</string>
+    <string name="shutdown_confirmation_dialog_title">Telefonoa itzali nahi duzu?</string>
+    <string name="shutdown_confirmation_dialog_description">Hoztu ondoren, berriro piztu beharko duzu.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Itzali</string>
+    <string name="shutdown_confirmation_dialog_cancel">Utzi</string>
+    <string name="post_shutdown_mode_dialog_title">Telefonoa kontsumo txikiko moduan zegoen beroegi zegoelako</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonoa hoztu da eta modu normalean dabil orain.
+
+Baliteke telefonoa gehiegi berotzea kasu hauetan:
+\t• Bateria asko erabiltzen duten jarduerak egitean (adibidez, bideoak ikustean, jokoetan aritzean eta nabigazioa erabiltzean).
+\t• Fitxategi handiak deskargatzean edo kargatzean.
+\t• Eguzkitan zuzenean egotean."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Informazio gehiago</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Juhtmeta laadimine</string>
     <string name="wireless_charging_notification_text">Juhtmeta laadimine võib tarbida juhtmega laadimisest rohkem energiat. Elektri ja aja säästmiseks proovige kasutada juhtmega laadijat.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Teie telefon on liiga soe</string>
+    <string name="shutdown_mode_screen_description">Teie telefon on ajutiselt energiasäästurežiimis, et jahtuda. Kui see on jahtunud, saab seda jälle kasutada.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Lülita välja</string>
+    <string name="shutdown_confirmation_dialog_title">Kas lülitada telefon välja?</string>
+    <string name="shutdown_confirmation_dialog_description">Kui see jahtub, peate selle uuesti sisse lülitama.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Lülita välja</string>
+    <string name="shutdown_confirmation_dialog_cancel">Tühista</string>
+    <string name="post_shutdown_mode_dialog_title">Telefon oli kuumuse tõttu väikese energiakasutusega režiimis</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefon on maha jahtunud ja töötab taas tavapäraselt.
+
+Telefon võib soojeneda järgmistel põhjustel.
+\t• Suure akukasutusega tegevuse, nagu videote, mängude ja liikumisjuhiste tõttu
+\t• Suurte failide alla- või üleslaadimise tõttu
+\t• Otsese päikesevalguse käes olemise tõttu"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Lisateave</string>
 </resources>

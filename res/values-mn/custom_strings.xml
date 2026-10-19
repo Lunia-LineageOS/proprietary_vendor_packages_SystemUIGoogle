@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Утасгүй цэнэглэж байна</string>
     <string name="wireless_charging_notification_text">Утасгүй цэнэглэх нь утастай цэнэглэхээс илүү их эрчим хүч ашиглаж магадгүй. Цахилгаан болон цаг хэмнэхийн тулд утастай цэнэглэгч рүү сэлгэж үзнэ үү.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Таны утас хэт халуун байна</string>
+    <string name="shutdown_mode_screen_description">Таны утас хөрөхийн тулд түр зуур бага тэжээлийн горимд байна. Утас хөрсний дараа ашиглахад бэлэн болно.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Унтраах</string>
+    <string name="shutdown_confirmation_dialog_title">Утсыг унтраах уу?</string>
+    <string name="shutdown_confirmation_dialog_description">Үүнийг хөрсний дараа та буцааж асаах шаардлагатай болно.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Унтраах</string>
+    <string name="shutdown_confirmation_dialog_cancel">Цуцлах</string>
+    <string name="post_shutdown_mode_dialog_title">Таны утас халсны улмаас бага тэжээлийн горимд байсан</string>
+    <string name="post_shutdown_mode_dialog_description">"Таны утас хөрсөн бөгөөд эргээд хэвийн ажиллаж байна.
+
+Таны утас дараах тохиолдолд хэт халах боломжтой:
+\t• Видео, тоглоом, зам заагч зэрэг батарейн цэнэг ихээр зарцуулдаг үйл ажиллагааг ашиглах
+\t• Том файл татах, байршуулах
+\t• Шууд нарны тусгалд байх"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Нэмэлт мэдээлэл авах</string>
 </resources>

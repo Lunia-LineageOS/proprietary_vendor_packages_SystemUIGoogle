@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">वायरलेस तरीके से चार्ज हो रहा है</string>
     <string name="wireless_charging_notification_text">तार वाले चार्जर की तुलना में, तार के बिना चार्ज करने (वायरलेस चार्जिंग) से बिजली ज़्यादा खर्च हो सकती है. बिजली और अपना समय बचाने के लिए, तार वाला चार्जर इस्तेमाल करें.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">आपका फ़ोन बहुत ज़्यादा गर्म हो गया है</string>
+    <string name="shutdown_mode_screen_description">कुछ देर के लिए, फ़ोन को कम पावर वाले मोड में रखा गया है, ताकि यह ठंडा हो पाए. ठंडा होने पर, इसे फिर से इस्तेमाल किया जा सकेगा.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">बंद करें</string>
+    <string name="shutdown_confirmation_dialog_title">क्या आपको फ़ोन बंद करना है?</string>
+    <string name="shutdown_confirmation_dialog_description">ठंडा होने के बाद, फ़ोन को फिर से चालू करना होगा.</string>
+    <string name="shutdown_confirmation_dialog_confirm">बंद करें</string>
+    <string name="shutdown_confirmation_dialog_cancel">अभी नहीं</string>
+    <string name="post_shutdown_mode_dialog_title">गर्म होने की वजह से, आपका फ़ोन कम पावर वाले मोड में था</string>
+    <string name="post_shutdown_mode_dialog_description">"आपका फ़ोन ठंडा हो गया है और फिर से सामान्य तरीके से काम कर रहा है.
+
+आपका फ़ोन इन स्थितियों में बहुत गर्म हो सकता है:
+\t• बैटरी ज़्यादा खर्च करने वाली गतिविधियां करने पर, जैसे कि वीडियो देखना, गेम खेलना, और नेविगेशन करना
+\t• बड़ी फ़ाइलें डाउनलोड या अपलोड करना
+\t• उसे सीधी धूप में रखना"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ज़्यादा जानें</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Безжично полнење</string>
     <string name="wireless_charging_notification_text">Безжичното полнење може да потроши повеќе електрична енергија од полнењето преку кабел. За да заштедите струја и време, префрлете се на полнач со кабел.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Телефонот е премногу топол</string>
+    <string name="shutdown_mode_screen_description">Телефонот привремено е во режим „Штедач на батерија“ за да се излади. Ќе може да го користите повторно штом ќе се излади.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Исклучи</string>
+    <string name="shutdown_confirmation_dialog_title">Да се исклучи телефонот?</string>
+    <string name="shutdown_confirmation_dialog_description">Откако ќе се излади, ќе треба да го вклучите повторно.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Исклучи</string>
+    <string name="shutdown_confirmation_dialog_cancel">Откажи</string>
+    <string name="post_shutdown_mode_dialog_title">Телефонот е во режим „Штедач на батерија“ поради топлина</string>
+    <string name="post_shutdown_mode_dialog_description">"Телефонот се излади и повторно функционира нормално.
+
+Телефонот може да стане премногу топол во следниве случаи:
+\t• Користење активности што трошат многу батерија како видео, гејминг и навигација
+\t• Преземање или прикачување големи датотеки
+\t• Директна сончева светлина"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Дознајте повеќе</string>
 </resources>

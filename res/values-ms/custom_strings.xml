@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Mengecas secara wayarles</string>
     <string name="wireless_charging_notification_text">Pengecasan wayarles mungkin menggunakan lebih banyak tenaga berbanding dengan pengecasan berwayar. Untuk menjimatkan elektrik dan masa, cuba bertukar kepada pengecas berwayar.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefon anda terlalu panas</string>
+    <string name="shutdown_mode_screen_description">Telefon anda dalam mod kuasa rendah untuk sementara waktu untuk menyejuk. Telefon akan sedia digunakan semula sebaik sahaja telefon itu menyejuk.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Matikan kuasa</string>
+    <string name="shutdown_confirmation_dialog_title">Matikan kuasa telefon?</string>
+    <string name="shutdown_confirmation_dialog_description">Sebaik sahaja telefon menyejuk, anda perlu menghidupkan telefon semula.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Matikan kuasa</string>
+    <string name="shutdown_confirmation_dialog_cancel">Batal</string>
+    <string name="post_shutdown_mode_dialog_title">Telefon anda berada dalam mod kuasa rendah kerana panas</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefon anda telah sejuk dan berjalan seperti biasa.
+
+Telefon anda boleh menjadi terlalu panas apabila:
+\t• Menggunakan aktiviti yang menggunakan banyak kuasa bateri seperti video, permainan dan navigasi
+\t• Memuat turun atau memuat naik fail yang besar
+\t• Diletakkan di bawah pancaran cahaya matahari"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Ketahui lebih lanjut</string>
 </resources>

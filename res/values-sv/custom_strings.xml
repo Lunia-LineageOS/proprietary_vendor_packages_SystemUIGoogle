@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Laddas trådlöst</string>
     <string name="wireless_charging_notification_text">Trådlös laddning kan dra mer ström än laddning med kabel. Prova att byta till en laddningskabel för att spara el och tid.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefonen är för varm</string>
+    <string name="shutdown_mode_screen_description">Telefonen är tillfälligt i energisparläge för att svalna. Den kan användas igen när den har svalnat.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Stäng av</string>
+    <string name="shutdown_confirmation_dialog_title">Vill du stänga av telefonen?</string>
+    <string name="shutdown_confirmation_dialog_description">När den har svalnat måste du slå på den igen.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Stäng av</string>
+    <string name="shutdown_confirmation_dialog_cancel">Avbryt</string>
+    <string name="post_shutdown_mode_dialog_title">Telefonen var i energisparläge på grund av värme</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonen har svalnat och fungerar som vanligt igen.
+
+Telefonen kan bli för varm om du
+\t• utför batterikrävande aktiviteter som video, spel och navigering
+\t• laddar ned eller laddar upp stora filer
+\t• utsätter den för direkt solljus."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Läs mer</string>
 </resources>

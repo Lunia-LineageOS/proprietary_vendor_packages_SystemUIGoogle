@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Belaidis įkrovimas</string>
     <string name="wireless_charging_notification_text">Naudojant belaidį įkrovimą gali būti eikvojama daugiau energijos, nei įkraunant laidu. Norėdami sutaupyti elektros ir laiko, pabandykite įkrauti laidu.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefonas per daug įkaitęs</string>
+    <string name="shutdown_mode_screen_description">Telefonas laikinai veikia mažiau energijos eikvojančiu režimu, kad atvėstų. Jis bus paruoštas naudoti, kai šiek tiek atvės.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Išjungti maitinimą</string>
+    <string name="shutdown_confirmation_dialog_title">Išjungti telefono maitinimą?</string>
+    <string name="shutdown_confirmation_dialog_description">Kai atvės, turėsite vėl įjungti.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Išjungti maitinimą</string>
+    <string name="shutdown_confirmation_dialog_cancel">Atšaukti</string>
+    <string name="post_shutdown_mode_dialog_title">Telefonas dėl įkaitimo veikė mažiau energijos eikvojančiu režimu</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonas atvėso ir vėl veikia įprastai.
+
+Telefonas gali per daug įkaisti, kai:
+\t• atliekate daug akumuliatoriaus energijos naudojančios veiklos, pvz., žiūrite vaizdo įrašus, žaidžiate ir naudojate navigaciją;
+\t• atsisiunčiate arba įkeliate didelius failus;
+\t• esate tiesioginės saulės šviesoje."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Sužinokite daugiau</string>
 </resources>

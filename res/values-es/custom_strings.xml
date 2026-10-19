@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Carga inalámbrica</string>
     <string name="wireless_charging_notification_text">La carga inalámbrica puede consumir más energía que la carga con cable. Para ahorrar electricidad y tiempo, prueba con un cargador con cable.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">El teléfono está demasiado caliente</string>
+    <string name="shutdown_mode_screen_description">El teléfono está temporalmente en modo de bajo consumo para poder enfriarse. Podrás volver a usarlo cuando se enfríe.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Apagar</string>
+    <string name="shutdown_confirmation_dialog_title">¿Apagar teléfono?</string>
+    <string name="shutdown_confirmation_dialog_description">Cuando se enfríe, tendrás que volver a encenderlo.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Apagar</string>
+    <string name="shutdown_confirmation_dialog_cancel">Cancelar</string>
+    <string name="post_shutdown_mode_dialog_title">Tu teléfono estaba en modo de bajo consumo porque se sobrecalentó</string>
+    <string name="post_shutdown_mode_dialog_description">"Ya se ha enfriado y vuelve a funcionar con normalidad.
+
+Tu teléfono puede calentarse demasiado cuando:
+\t• Haces cosas que consumen mucha batería, como ver vídeos, jugar y navegar
+\t• Descargas o subes archivos de gran tamaño
+\t• Le da el sol directamente"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Más información</string>
 </resources>

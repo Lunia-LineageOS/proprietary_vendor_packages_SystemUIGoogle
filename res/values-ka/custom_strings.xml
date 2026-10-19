@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">იტენება უსადენოდ</string>
     <string name="wireless_charging_notification_text">უსადენო დატენამ შეიძლება უფრო მეტი ენერგია მოიხმაროს, ვიდრე სადენიანმა. ელექტროენერგიისა და დროის დაზოგვის მიზნით, ცადეთ სადენიანი დამტენი.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">თქვენი ტელეფონი ზედმეტად ცხელია</string>
+    <string name="shutdown_mode_screen_description">თქვენი ტელეფონი დროებით დაბალი სიმძლავრის რეჟიმშია, რათა გაგრილდეს. ის კვლავ მზად იქნება გამოსაყენებლად, როცა შედარებით გაგრილდება.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">გამორთვა</string>
+    <string name="shutdown_confirmation_dialog_title">გსურთ ტელეფონის გამორთვა?</string>
+    <string name="shutdown_confirmation_dialog_description">როცა გაგრილდება, ისევ უნდა ჩართოთ.</string>
+    <string name="shutdown_confirmation_dialog_confirm">გამორთვა</string>
+    <string name="shutdown_confirmation_dialog_cancel">გაუქმება</string>
+    <string name="post_shutdown_mode_dialog_title">გაცხელების გამო თქვენი ტელეფონი დაბალი ენერგიის რეჟიმში იყო</string>
+    <string name="post_shutdown_mode_dialog_description">"თქვენი ტელეფონი გაგრილდა და ისევ ნორმალურად მუშაობს.
+
+ტელეფონი შეიძლება გაცხელდეს:
+\t• აქტივობებისას, რომლებიც აქტიურად მოიხმარს ბატარეას (მაგ. ვიდეო, თამაში და ნავიგაცია)
+\t• დიდი ფაილების ჩამოტვირთვისას და ატვირთვისას
+\t• მზის პირდაპირი სხივების ქვეშ ყოფნისას"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">შეიტყვეთ მეტი</string>
 </resources>

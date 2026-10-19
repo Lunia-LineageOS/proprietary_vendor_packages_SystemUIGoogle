@@ -31,6 +31,9 @@
     <!-- Battery Defender -->
     <protected-broadcast android:name="PNW.defenderResumeCharging.settings"/>
 
+    <!-- Shutdown Mode -->
+    <protected-broadcast android:name="com.google.android.apps.turbo.CHECK_SHUTDOWN_MODE_STATE"/>
+
     <application
         android:appComponentFactory="com.google.android.systemui.SystemUIGoogleAppComponentFactory"
         tools:replace="android:appComponentFactory">

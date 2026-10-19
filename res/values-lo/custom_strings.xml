@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ການສາກໄຟໄຮ້ສາຍ</string>
     <string name="wireless_charging_notification_text">ການສາກໄຟໄຮ້ສາຍອາດໃຊ້ພະລັງງານຫຼາຍກວ່າການສາກແບບມີສາຍ. ເພື່ອປະຢັດໄຟຟ້າ ແລະ ເວລາ, ກະລຸນາປ່ຽນໄປໃຊ້ການສາກແບບມີສາຍ.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ໂທລະສັບຂອງທ່ານອຸ່ນໂພດ</string>
+    <string name="shutdown_mode_screen_description">ໂທລະສັບຂອງທ່ານຢູ່ໃນໂໝດພະລັງງານຕໍ່າຊົ່ວຄາວເພື່ອໃຫ້ເຢັນລົງ. ມັນຈະພ້ອມໃຫ້ນຳໃຊ້ອີກຄັ້ງເມື່ອມັນເຢັນລົງ.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ປິດເຄື່ອງ</string>
+    <string name="shutdown_confirmation_dialog_title">ປິດໂທລະສັບບໍ?</string>
+    <string name="shutdown_confirmation_dialog_description">ເມື່ອມັນເຢັນລົງ, ທ່ານຈະຕ້ອງເປີດມັນຄືນ.</string>
+    <string name="shutdown_confirmation_dialog_confirm">ປິດເຄື່ອງ</string>
+    <string name="shutdown_confirmation_dialog_cancel">ຍົກເລີກ</string>
+    <string name="post_shutdown_mode_dialog_title">ໂທລະສັບຂອງທ່ານຢູ່ໃນໂໝດພະລັງງານຕ່ຳເນື່ອງຈາກຄວາມຮ້ອນ</string>
+    <string name="post_shutdown_mode_dialog_description">"ໂທລະສັບຂອງທ່ານເຢັນລົງແລ້ວ ແລະ ກັບມາໃຊ້ໄດ້ປົກກະຕິອີກຄັ້ງ.
+
+ໂທລະສັບຂອງທ່ານອາດຈະອຸ່ນເກີນໄປເມື່ອ:
+\t• ກຳລັງມີກິດຈະກຳທີ່ໃຊ້ແບັດເຕີຣີຫຼາຍ ເຊັ່ນ: ວິດີໂອ, ການຫຼິ້ນເກມ ແລະ ການນຳທາງ
+\t• ການດາວໂຫຼດ ຫຼື ການອັບໂຫຼດໄຟລ໌ຂະໜາດໃຫຍ່
+\t• ຢູ່ພາຍໃຕ້ແສງແດດໂດຍກົງ"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ສຶກສາເພີ່ມເຕີມ</string>
 </resources>

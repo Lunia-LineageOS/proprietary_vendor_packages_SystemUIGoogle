@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Trådløs opladning</string>
     <string name="wireless_charging_notification_text">Trådløs opladning kan kræve mere energi end opladning med ledning. Skift til en oplader med ledning for at spare på elforbruget og oplade hurtigere.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Din telefon er for varm</string>
+    <string name="shutdown_mode_screen_description">Din telefon er midlertidigt i strømbesparende tilstand for at køle ned. Enheden er klar til brug igen, når den er kølet ned.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Sluk</string>
+    <string name="shutdown_confirmation_dialog_title">Vil du slukke telefonen?</string>
+    <string name="shutdown_confirmation_dialog_description">Når den er kølet ned, skal du tænde den igen.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Sluk</string>
+    <string name="shutdown_confirmation_dialog_cancel">Annuller</string>
+    <string name="post_shutdown_mode_dialog_title">Din telefon var i strømbesparende tilstand på grund af varme</string>
+    <string name="post_shutdown_mode_dialog_description">"Din telefon er kølet ned og fungerer igen normalt.
+
+Din telefon kan blive for varm, hvis:
+\t• Du bruger batterikrævende funktioner som f.eks. video, spil og navigation
+\t• Du downloader eller uploader store filer
+\t• Den er i direkte sollys"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Få flere oplysninger</string>
 </resources>

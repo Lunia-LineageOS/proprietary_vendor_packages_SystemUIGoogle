@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Carga sen fíos</string>
     <string name="wireless_charging_notification_text">A carga sen fíos pode consumir máis enerxía que a carga con fíos. Para aforrar electricidade e tempo, proba cun cargador con cable.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">O teléfono está demasiado quente</string>
+    <string name="shutdown_mode_screen_description">O teu teléfono está no modo de baixo consumo para arrefriar. Así que o faga, poderás usalo de novo.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Apagar</string>
+    <string name="shutdown_confirmation_dialog_title">Queres apagar o teléfono?</string>
+    <string name="shutdown_confirmation_dialog_description">Así que arrefríe, terás que acendelo de novo.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Apagar</string>
+    <string name="shutdown_confirmation_dialog_cancel">Cancelar</string>
+    <string name="post_shutdown_mode_dialog_title">O teu teléfono estaba en modo de baixo consumo debido á calor</string>
+    <string name="post_shutdown_mode_dialog_description">"O teu teléfono arrefriou, polo que xa funciona con normalidade.
+
+O teléfono pode quentarse en exceso nas seguintes situacións:
+\t• Se levas a cabo actividades que consuman moita batería (ver vídeos, xogar, navegar…)
+\t• Se descargas ou cargas ficheiros grandes
+\t• Se lle dá o sol directamente"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Máis información</string>
 </resources>

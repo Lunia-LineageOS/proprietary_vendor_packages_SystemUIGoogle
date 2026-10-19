@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Ασύρματη φόρτιση</string>
     <string name="wireless_charging_notification_text">Η ασύρματη φόρτιση ενδέχεται να καταναλώνει περισσότερη ενέργεια από την ενσύρματη φόρτιση. Για να εξοικονομήσετε ηλεκτρική ενέργεια και χρόνο, δοκιμάστε να χρησιμοποιήσετε ενσύρματο φορτιστή.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Η θερμοκρασία του τηλεφώνου είναι πολύ υψηλή</string>
+    <string name="shutdown_mode_screen_description">Το τηλέφωνό σας βρίσκεται προσωρινά σε κατάσταση χαμηλής ισχύος, για να κρυώσει. Θα είναι έτοιμο ξανά για χρήση, όταν η θερμοκρασία μειωθεί.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Απενεργοποίηση</string>
+    <string name="shutdown_confirmation_dialog_title">Απενεργοποίηση τηλεφώνου;</string>
+    <string name="shutdown_confirmation_dialog_description">Αφού κρυώσει, θα πρέπει να το ενεργοποιήσετε ξανά.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Απενεργοποίηση</string>
+    <string name="shutdown_confirmation_dialog_cancel">Ακύρωση</string>
+    <string name="post_shutdown_mode_dialog_title">Το τηλέφωνό σας ήταν σε κατάσταση χαμηλής κατανάλωσης ενέργειας λόγω ζέστης</string>
+    <string name="post_shutdown_mode_dialog_description">"Η θερμοκρασία του τηλεφώνου έχει μειωθεί και το τηλέφωνο λειτουργεί ξανά κανονικά.
+
+Η θερμοκρασία του τηλεφώνου μπορεί να ανέβει πολύ όταν:
+\t• Κάνετε δραστηριότητες που καταναλώνουν πολλή μπαταρία, όπως βίντεο, παιχνίδια και πλοήγηση
+\t• Κατεβάζετε ή ανεβάζετε μεγάλα αρχεία
+\t• Το τηλέφωνο εκτίθεται σε άμεση ηλιακή ακτινοβολία"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Μάθετε περισσότερα</string>
 </resources>

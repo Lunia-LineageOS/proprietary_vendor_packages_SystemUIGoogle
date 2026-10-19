@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Simsiz quvvat olmoqda</string>
     <string name="wireless_charging_notification_text">Simsiz quvvatlash simli quvvatlashdan koʻra koʻproq quvvat sarflashi mumkin. Elektr quvvati va vaqtni tejash uchun simli quvvatlagichni ulang.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefoningiz juda issiq</string>
+    <string name="shutdown_mode_screen_description">Telefoningiz sovishi uchun vaqtincha quvvat tejash rejimida olindi. Sovishi bilan ishlatish mumkin.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Oʻchirish</string>
+    <string name="shutdown_confirmation_dialog_title">Telefon oʻchirilsinmi?</string>
+    <string name="shutdown_confirmation_dialog_description">Sovigandan keyin uni qayta yoqishingiz kerak boʻladi.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Oʻchirish</string>
+    <string name="shutdown_confirmation_dialog_cancel">Bekor qilish</string>
+    <string name="post_shutdown_mode_dialog_title">Telefoningiz isib ketishi tufayli past quvvat rejimida edi</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefoningiz sovidi va normal ishlamoqda.
+
+Telefoningiz quyidagi hollarda qizib ketishi mumkin:
+\t• Video, oʻyin va navigatsiya kabi batareya sarfi yuqori faoliyat turlaridan foydalanish
+\t• Katta hajmdagi fayllarni yuklab olish yoki yuklash
+\t• Tik quyosh ostida"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Batafsil</string>
 </resources>

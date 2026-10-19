@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Po karikohet në mënyrë wireless</string>
     <string name="wireless_charging_notification_text">Karikimi wireless mund të përdorë më shumë energji se karikimi me tel. Për të kursyer energji elektrike dhe kohë, provo të kalosh në karikues me tel.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefoni yt është shumë i nxehtë</string>
+    <string name="shutdown_mode_screen_description">"Telefoni yt është përkohësisht në modalitetin e nivelit të ulët të energjisë për t'u ftohur. Ai do të jetë gati për t'u përdorur përsëri pasi të jetë ftohur."</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Fik</string>
+    <string name="shutdown_confirmation_dialog_title">Të fiket telefoni?</string>
+    <string name="shutdown_confirmation_dialog_description">Pasi të ftohet, do të të duhet ta ndezësh përsëri.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Fik</string>
+    <string name="shutdown_confirmation_dialog_cancel">Anulo</string>
+    <string name="post_shutdown_mode_dialog_title">Telefoni yt ishte në modalitetin e nivelit të ulët të energjisë për shkak të nxehtësisë</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefoni yt është ftohur dhe po funksionon përsëri normalisht.
+
+Telefoni yt mund të nxehet shumë kur:
+\t• Kryen aktivitete që përdorin baterinë në mënyrë intensive, si p.sh. video, lojëra dhe navigim
+\t• Shkarkon ose ngarkon skedarë të mëdhenj
+\t• Është në dritën e drejtpërdrejtë të diellit"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Mëso më shumë</string>
 </resources>

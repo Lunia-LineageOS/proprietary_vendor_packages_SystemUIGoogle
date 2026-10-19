@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Ідзе бесправадная зарадка</string>
     <string name="wireless_charging_notification_text">Пры бесправадной зарадцы можа расходавацца больш электраэнергіі, чым пры правадной. Каб сэканоміць электрычнасць і час, паспрабуйце выкарыстаць правадную зарадную прыладу.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Тэлефон моцна нагрэўся</string>
+    <string name="shutdown_mode_screen_description">Каб тэлефон мог астыць, ён часова пераведзены ў рэжым эканоміі зараду. Тэлефон будзе гатовы для выкарыстання, калі крыху астыне.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Выключыць</string>
+    <string name="shutdown_confirmation_dialog_title">Выключыць тэлефон?</string>
+    <string name="shutdown_confirmation_dialog_description">Калі тэлефон астыне, яго трэба будзе ўключыць зноў.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Выключыць</string>
+    <string name="shutdown_confirmation_dialog_cancel">Скасаваць</string>
+    <string name="post_shutdown_mode_dialog_title">Тэлефон перагрэўся і знаходзіўся ў рэжыме эканоміі зараду</string>
+    <string name="post_shutdown_mode_dialog_description">"Тэлефон астыў і цяпер працуе ў звычайным рэжыме.
+
+Тэлефон можа перагравацца ў наступных выпадках:
+\t• падчас выканання дзеянняў, якія хутка расходуюць зарад акумулятара, такіх як прагляд відэа, гульні і выкарыстанне праграм навігацыі;
+\t• пры спампоўванні або запампоўванні файлаў вялікага памеру;
+\t• калі на тэлефон уздзейнічаюць прамыя сонечныя прамяні."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Даведацца больш</string>
 </resources>

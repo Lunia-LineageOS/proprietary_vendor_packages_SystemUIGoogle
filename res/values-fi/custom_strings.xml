@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Ladataan langattomasti</string>
     <string name="wireless_charging_notification_text">Langaton lataus voi kuluttaa enemmän energiaa kuin lataus johdon kautta. Säästä sähköä ja aikaa vaihtamalla johdolliseen laturiin.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Puhelin on liian lämmin</string>
+    <string name="shutdown_mode_screen_description">Puhelin on väliaikaisesti virransäästötilassa jäähtyäkseen. Kun se on jäähtynyt, se on taas valmis käyttöön.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Sammuta</string>
+    <string name="shutdown_confirmation_dialog_title">Sammutetaanko puhelin?</string>
+    <string name="shutdown_confirmation_dialog_description">Kun laite on jäähtynyt, sinun on laitettava se taas päälle.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Sammuta</string>
+    <string name="shutdown_confirmation_dialog_cancel">Peru</string>
+    <string name="post_shutdown_mode_dialog_title">Puhelin oli virransäästötilassa lämpenemisen vuoksi</string>
+    <string name="post_shutdown_mode_dialog_description">"Puhelin on jäähtynyt ja toimii taas normaalisti.
+
+Puhelin voi lämmetä liikaa, jos
+\t• käytät paljon akkua kuluttavia ominaisuuksia, kuten videoita, pelejä ja navigointia
+\t• lataat tai lähetät suuria tiedostoja
+\t• se on suorassa auringonvalossa."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Lue lisää</string>
 </resources>

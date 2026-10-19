@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Sạc không dây</string>
     <string name="wireless_charging_notification_text">Việc dùng sạc không dây có thể tốn nhiều năng lượng hơn sạc có dây. Để tiết kiệm điện và thời gian, hãy thử chuyển sang dùng bộ sạc có dây.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Điện thoại của bạn quá nóng</string>
+    <string name="shutdown_mode_screen_description">Điện thoại của bạn tạm thời ở chế độ tiết kiệm pin để nguội bớt. Bạn sẽ có thể dùng lại điện thoại sau khi điện thoại đã nguội bớt.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Tắt nguồn</string>
+    <string name="shutdown_confirmation_dialog_title">Tắt nguồn điện thoại?</string>
+    <string name="shutdown_confirmation_dialog_description">Bạn cần bật lại điện thoại sau khi điện thoại đã nguội bớt.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Tắt nguồn</string>
+    <string name="shutdown_confirmation_dialog_cancel">Huỷ</string>
+    <string name="post_shutdown_mode_dialog_title">Điện thoại đã chuyển sang chế độ tiết kiệm pin do quá nóng</string>
+    <string name="post_shutdown_mode_dialog_description">"Điện thoại của bạn đã nguội và đang chạy bình thường trở lại.
+
+Điện thoại có thể bị quá nóng khi bạn:
+\t• Làm những việc tiêu hao nhiều pin như xem video, chơi trò chơi và tìm đường
+\t• Tải xuống hoặc tải lên các tệp có dung lượng lớn
+\t• Để điện thoại dưới ánh nắng trực tiếp"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Tìm hiểu thêm</string>
 </resources>

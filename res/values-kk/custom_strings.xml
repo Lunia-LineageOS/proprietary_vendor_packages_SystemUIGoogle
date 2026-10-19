@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Сымсыз зарядтау</string>
     <string name="wireless_charging_notification_text">Сымды зарядтауға қарағанда сымсыз зарядтауға көп қуат кетуі мүмкін. Электр энергиясы мен уақытты үнемдеу үшін сымды зарядтағышқа ауысып көріңіз.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Телефоныңыз тым ыстық</string>
+    <string name="shutdown_mode_screen_description">Телефон салқындау үшін уақытша аз қуат тұтыну режимінде тұр. Ол салқындағаннан кейін, пайдалануға дайын болады.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Өшіру</string>
+    <string name="shutdown_confirmation_dialog_title">Телефонды өшіру керек пе?</string>
+    <string name="shutdown_confirmation_dialog_description">Телефон суығаннан кейін, оны қайта қосуыңыз керек.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Өшіру</string>
+    <string name="shutdown_confirmation_dialog_cancel">Бас тарту</string>
+    <string name="post_shutdown_mode_dialog_title">Телефоныңыз қызып кеткендіктен аз қуат тұтыну режимінде болды</string>
+    <string name="post_shutdown_mode_dialog_description">"Телефоныңыз салқындады, қазір қайтадан бірқалыпты істеп тұр.
+
+Телефоныңызды қыздыруы мүмкін жағдайлар:
+\t• бейне көру, ойын ойнау және навигация кезінде батареяның қарқынды пайдаланылуы;
+\t• көлемі үлкен файлдарды жүктеп алу не жүктеп салу;
+\t• күн сәулесі түсетін жерге қою."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Толық ақпарат</string>
 </resources>

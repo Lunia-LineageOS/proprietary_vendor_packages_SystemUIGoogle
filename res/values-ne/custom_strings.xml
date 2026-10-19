@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">वायरलेस तरिकाले चार्ज गरिँदै छ</string>
     <string name="wireless_charging_notification_text">तारयुक्त चार्जिङले ताररहित चार्जिङको तुलनामा बढी ऊर्जा प्रयोग गर्न सक्छ। बिजुली र समय बचत गर्न तारयुक्त चार्जर प्रयोग गरी हेर्नुहोस्।</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">तपाईंको फोन धेरै तातो छ</string>
+    <string name="shutdown_mode_screen_description">तपाईंको फोन चिसो पार्न फोनमा केही समयका लागि न्यून पावर मोड अन गरिएको छ। तपाईंको फोनको तापक्रम घटिसकेपछि तपाईं आफ्नो फोन पुनः प्रयोग गर्न सक्नु हुने छ।</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">अफ गर्नुहोस्</string>
+    <string name="shutdown_confirmation_dialog_title">फोन अफ गर्ने हो?</string>
+    <string name="shutdown_confirmation_dialog_description">फोन चिसो भइसकेपछि तपाईंले यसलाई पुनः अन गर्नु पर्ने हुन्छ।</string>
+    <string name="shutdown_confirmation_dialog_confirm">अफ गर्नुहोस्</string>
+    <string name="shutdown_confirmation_dialog_cancel">रद्द गर्नुहोस्</string>
+    <string name="post_shutdown_mode_dialog_title">तपाईंको फोन तातेकाले लो पावर मोड अन गरिएको थियो</string>
+    <string name="post_shutdown_mode_dialog_description">"तपाईंको फोन सेलाएको छ र फेरि सामान्य रूपमा काम गर्न थालेको छ।
+
+निम्न अवस्थामा फोन एकदमै तात्न सक्छ:
+\t• भिडियो बनाउने, गेम खेल्ने र नेभिगेट गर्ने जस्ता ब्याट्री धेरै खपत हुने गतिविधिहरू गर्दा
+\t• ठुला फाइलहरू डाउनलोड वा अपलोड गर्दा
+\t• सूर्यको सीधा प्रकाश पर्ने ठाउँमा राख्दा"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">थप जान्नुहोस्</string>
 </resources>

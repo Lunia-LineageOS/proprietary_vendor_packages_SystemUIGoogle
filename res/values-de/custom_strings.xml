@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Kabelloses Laden</string>
     <string name="wireless_charging_notification_text">Das kabellose Laden kann mehr Energie verbrauchen als das Laden mit Kabel. Wenn du ein Ladegerät mit Kabel verwendest, kannst du Strom und Zeit sparen.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Dein Smartphone ist zu warm</string>
+    <string name="shutdown_mode_screen_description">Dein Smartphone ist vorübergehend im Energiesparmodus, damit es abkühlen kann. Du kannst es wieder verwenden, sobald es kühler ist.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Ausschalten</string>
+    <string name="shutdown_confirmation_dialog_title">Smartphone ausschalten?</string>
+    <string name="shutdown_confirmation_dialog_description">Nach dem Abkühlen musst du es wieder einschalten.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Ausschalten</string>
+    <string name="shutdown_confirmation_dialog_cancel">Abbrechen</string>
+    <string name="post_shutdown_mode_dialog_title">Dein Smartphone war aufgrund von Überhitzung im Energiesparmodus</string>
+    <string name="post_shutdown_mode_dialog_description">"Dein Smartphone ist abgekühlt und funktioniert wieder normal.
+
+Dein Smartphone kann zu heiß werden, wenn du:
+\t• Aktivitäten mit hohem Stromverbrauch wie Videos, Spiele und Navigation ausführst
+\t• große Dateien herunterlädst oder hochlädst
+\t• es direkter Sonneneinstrahlung aussetzt"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Weitere Informationen</string>
 </resources>

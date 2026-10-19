@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Vezeték nélküli töltés folyamatban</string>
     <string name="wireless_charging_notification_text">A vezeték nélküli töltéshez több energiára lehet szükség, mint a vezetékes töltéshez. Ha vezetékes töltőre vált, villamos áramot és időt spórolhat meg.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">A telefon túlmelegedett</string>
+    <string name="shutdown_mode_screen_description">A telefonja átmenetileg alacsony energiafogyasztású módban van, hogy lehűljön. Miután lehűlt, újra használható lesz.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Kikapcsolás</string>
+    <string name="shutdown_confirmation_dialog_title">Kikapcsolja a telefont?</string>
+    <string name="shutdown_confirmation_dialog_description">Miután lehűlt, újra be kell kapcsolnia.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Kikapcsolás</string>
+    <string name="shutdown_confirmation_dialog_cancel">Mégse</string>
+    <string name="post_shutdown_mode_dialog_title">A telefon a magas hőmérséklet miatt alacsony energiafogyasztási módban volt</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonja lehűlt, és újra megfelelően működik.
+
+A telefon akkor melegedhet túl, ha:
+\t• Ön energiaigényes tevékenységeket végez, például videót néz, játszik vagy navigációt használ;
+\t• Ön nagy fájlokat tölt le vagy fel;
+\t• közvetlen napfény éri a telefont."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">További információ</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Mengisi daya secara nirkabel</string>
     <string name="wireless_charging_notification_text">Pengisian daya nirkabel mungkin menggunakan lebih banyak energi dibandingkan pengisian daya berkabel. Untuk menghemat listrik dan waktu, coba beralih ke pengisian daya melalui kabel.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Ponsel terlalu panas</string>
+    <string name="shutdown_mode_screen_description">Ponsel Anda sementara dalam mode daya rendah agar mendingin. Ponsel akan siap digunakan lagi setelah mendingin.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Matikan</string>
+    <string name="shutdown_confirmation_dialog_title">Matikan ponsel?</string>
+    <string name="shutdown_confirmation_dialog_description">Setelah ponsel dingin, Anda harus mengaktifkannya kembali.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Matikan</string>
+    <string name="shutdown_confirmation_dialog_cancel">Batal</string>
+    <string name="post_shutdown_mode_dialog_title">Ponsel Anda dalam mode daya rendah karena panas</string>
+    <string name="post_shutdown_mode_dialog_description">"Ponsel telah mendingin dan berfungsi normal kembali.
+
+Ponsel dapat menjadi terlalu panas saat:
+\t• Menjalankan aktivitas yang menghabiskan daya baterai seperti video, game, dan navigasi
+\t• Mendownload atau mengupload file besar
+\t• Terpapar sinar matahari langsung"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Pelajari lebih lanjut</string>
 </resources>

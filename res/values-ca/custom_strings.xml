@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Càrrega sense fil</string>
     <string name="wireless_charging_notification_text">És possible que la càrrega sense fil utilitzi més energia que la càrrega amb cable. Per estalviar electricitat i temps, prova de canviar a un carregador amb cable.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">El telèfon està massa calent</string>
+    <string name="shutdown_mode_screen_description">"El telèfon està temporalment en mode de baix consum per refredar-se. Podràs tornar a utilitzar-lo quan s'hagi refredat."</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Apaga</string>
+    <string name="shutdown_confirmation_dialog_title">Vols apagar el telèfon?</string>
+    <string name="shutdown_confirmation_dialog_description">"Un cop s'hagi refredat, hauràs de tornar a engegar-lo."</string>
+    <string name="shutdown_confirmation_dialog_confirm">Apaga</string>
+    <string name="shutdown_confirmation_dialog_cancel">Cancel·la</string>
+    <string name="post_shutdown_mode_dialog_title">El telèfon estava en mode de baix consum per la calor</string>
+    <string name="post_shutdown_mode_dialog_description">"El telèfon s'ha refredat i torna a funcionar amb normalitat.
+
+El telèfon es pot sobreescalfar quan:
+\t• Es fan activitats que consumeixen molta bateria, com ara mirar vídeos, jugar o navegar.
+\t• Es baixen o es pengen fitxers grans.
+\t• Està exposat a la llum solar directa."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Més informació</string>
 </resources>

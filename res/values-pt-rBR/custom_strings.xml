@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Carregando sem fio</string>
     <string name="wireless_charging_notification_text">O carregamento sem fio pode usar mais energia do que o com fio. Para economizar eletricidade e tempo, tente usar um carregador com fio.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Seu smartphone está muito quente</string>
+    <string name="shutdown_mode_screen_description">O dispositivo está temporariamente no modo de economia de bateria para que esfrie. Ele poderá ser usado novamente quando estiver mais frio.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Desligar</string>
+    <string name="shutdown_confirmation_dialog_title">Desligar o smartphone?</string>
+    <string name="shutdown_confirmation_dialog_description">Depois que o dispositivo esfriar, você vai precisar ligá-lo novamente.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Desligar</string>
+    <string name="shutdown_confirmation_dialog_cancel">Cancelar</string>
+    <string name="post_shutdown_mode_dialog_title">O smartphone estava no modo de economia de bateria devido ao calor</string>
+    <string name="post_shutdown_mode_dialog_description">"Seu dispositivo esfriou e está funcionando normalmente de novo.
+
+Veja algumas possíveis razões para superaquecimento:
+\t• Realizar atividades que consomem muita bateria, como assistir vídeos, jogar e navegar na Internet
+\t• Baixar ou enviar arquivos grandes
+\t• Expor o aparelho à luz solar direta"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Saiba mais</string>
 </resources>

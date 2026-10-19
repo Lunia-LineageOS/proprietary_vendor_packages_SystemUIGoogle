@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Notiek bezvadu uzlāde</string>
     <string name="wireless_charging_notification_text">Bezvadu uzlāde var patērēt vairāk enerģijas nekā uzlāde ar vadu. Lai ietaupītu elektrību un laiku, varat pārslēgties uz vadu lādētāju.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Jūsu tālrunis ir pārāk silts</string>
+    <string name="shutdown_mode_screen_description">Lai atdzistu, tālrunis īslaicīgi darbojas enerģijas taupīšanas režīmā. Kad tas būs atdzisis, atkal varēsiet to izmantot.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Izslēgt</string>
+    <string name="shutdown_confirmation_dialog_title">Vai izslēgt tālruni?</string>
+    <string name="shutdown_confirmation_dialog_description">Kad tālrunis būs atdzisis, tas būs atkal jāieslēdz.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Izslēgt</string>
+    <string name="shutdown_confirmation_dialog_cancel">Atcelt</string>
+    <string name="post_shutdown_mode_dialog_title">Tālrunis karstuma dēļ darbojās enerģijas taupīšanas režīmā</string>
+    <string name="post_shutdown_mode_dialog_description">"Tālrunis ir atdzisis un atkal darbojas normāli.
+
+Tālrunis var pārkarst, ja:
+\t• tiek veiktas darbības, kas patērē daudz akumulatora enerģijas, piemēram, video skatīšanās, spēļu spēlēšana un navigācijas izmantošana;
+\t• tiek lejupielādēti vai augšupielādēti lieli faili;
+\t• tālrunis atrodas tiešos saules staros."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Uzzināt vairāk</string>
 </resources>

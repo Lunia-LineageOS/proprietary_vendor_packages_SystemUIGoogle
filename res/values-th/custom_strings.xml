@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">กำลังชาร์จแบบไร้สาย</string>
     <string name="wireless_charging_notification_text">การชาร์จแบบไร้สายอาจใช้พลังงานมากกว่าการชาร์จด้วยสาย ลองเปลี่ยนไปใช้ที่ชาร์จแบบมีสายเพื่อประหยัดไฟฟ้าและเวลา</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">โทรศัพท์ของคุณร้อนเกินไป</string>
+    <string name="shutdown_mode_screen_description">โทรศัพท์ของคุณอยู่ในโหมดใช้พลังงานต่ำชั่วคราวเพื่อลดอุณหภูมิ อุปกรณ์จะพร้อมใช้งานอีกครั้งเมื่อเย็นลง</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ปิดเครื่อง</string>
+    <string name="shutdown_confirmation_dialog_title">ปิดเครื่องไหม</string>
+    <string name="shutdown_confirmation_dialog_description">เมื่อโทรศัพท์เย็นลงแล้ว คุณจะต้องเปิดเครื่องอีกครั้ง</string>
+    <string name="shutdown_confirmation_dialog_confirm">ปิดเครื่อง</string>
+    <string name="shutdown_confirmation_dialog_cancel">ยกเลิก</string>
+    <string name="post_shutdown_mode_dialog_title">เมื่อสักครู่โทรศัพท์ของคุณอยู่ในโหมดใช้พลังงานต่ำเนื่องจากความร้อน</string>
+    <string name="post_shutdown_mode_dialog_description">"ตอนนี้โทรศัพท์ได้เย็นลงและทำงานตามปกติอีกครั้งแล้ว
+
+โทรศัพท์อาจร้อนเกินไปเมื่อทำสิ่งต่อไปนี้
+\t• ใช้งานกิจกรรมที่ใช้แบตเตอรี่สูง เช่น ดูวิดีโอ เล่นเกม และการนำทาง
+\t• ดาวน์โหลดหรืออัปโหลดไฟล์ขนาดใหญ่
+\t• โดนแสงแดดโดยตรง"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ดูข้อมูลเพิ่มเติม</string>
 </resources>

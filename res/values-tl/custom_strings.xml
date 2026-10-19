@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Wireless na pag-charge</string>
     <string name="wireless_charging_notification_text">Posibleng gumamit ng mas maraming energy ang wireless na pag-charge kaysa sa wired na pag-charge. Para makatipid ng kuryente at oras, subukang lumipat sa wired na charger.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Masyadong mainit ang iyong telepono</string>
+    <string name="shutdown_mode_screen_description">Pansamantalang nasa low power mode ang iyong telepono para lumamig. Magagamit mo ulit ito kapag mas lumamig na ito.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">I-off</string>
+    <string name="shutdown_confirmation_dialog_title">I-off ang telepono?</string>
+    <string name="shutdown_confirmation_dialog_description">Kapag lumamig na ito, kailangan mo itong i-on ulit.</string>
+    <string name="shutdown_confirmation_dialog_confirm">I-off</string>
+    <string name="shutdown_confirmation_dialog_cancel">Kanselahin</string>
+    <string name="post_shutdown_mode_dialog_title">Nasa low power mode ang iyong telepono dahil sa init</string>
+    <string name="post_shutdown_mode_dialog_description">"Lumamig at gumagana na ulit nang normal ang iyong telepono.
+
+Posibleng uminit nang masyado ang iyong telepono kapag:
+\t• Gumagamit ng mga aktibidad na malakas sa baterya tulad ng video, gaming, at navigation
+\t• Nagda-download o nag-a-upload ng malalaking file
+\t• Nasa direktang sikat ng araw"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Matuto pa</string>
 </resources>

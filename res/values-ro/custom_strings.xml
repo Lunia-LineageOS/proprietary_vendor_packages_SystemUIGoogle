@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Se încarcă wireless</string>
     <string name="wireless_charging_notification_text">Încărcarea wireless poate consuma mai multă energie decât cea cu fir. Ca să economisești electricitate și timp, treci la un încărcător cu fir.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefonul este prea cald</string>
+    <string name="shutdown_mode_screen_description">Telefonul este temporar în modul de consum redus de energie pentru a se răci. Va fi gata să fie folosit din nou când îi scade temperatura.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Oprește</string>
+    <string name="shutdown_confirmation_dialog_title">Oprești telefonul?</string>
+    <string name="shutdown_confirmation_dialog_description">După ce se răcește, va trebui să-l repornești.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Oprește</string>
+    <string name="shutdown_confirmation_dialog_cancel">Anulează</string>
+    <string name="post_shutdown_mode_dialog_title">Telefonul a fost în modul Consum scăzut din cauza căldurii</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonul s-a răcit și funcționează din nou normal.
+
+Telefonul se poate încălzi prea mult atunci când:
+\t• realizezi activități care consumă multă baterie, cum ar fi rularea videoclipurilor, a jocurilor și a navigării;
+\t• descarci sau încarci fișiere mari;
+\t• este expus la lumina solară directă."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Află mai multe</string>
 </resources>

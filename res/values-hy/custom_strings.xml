@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Անլար լիցքավորում</string>
     <string name="wireless_charging_notification_text">Անլար լիցքավորման ժամանակ կարող է ավելի շատ էներգիա ծախսվել, քան լարով լիցքավորման ժամանակ։ Էլեկտրաէներգիա և ժամանակ խնայելու համար օգտագործեք լարով լիցքավորիչ։</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Հեռախոսը շատ է տաքացել</string>
+    <string name="shutdown_mode_screen_description">Հեռախոսը ժամանակավորապես էներգախնայողության ռեժիմում է, որպեսզի հովանա, որից հետո կկարողանաք նորից օգտագործել այն։</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Անջատել</string>
+    <string name="shutdown_confirmation_dialog_title">Անջատե՞լ հեռախոսը</string>
+    <string name="shutdown_confirmation_dialog_description">Երբ հեռախոսի ջերմաստիճանը նվազի, այն պետք է նորից միացնեք։</string>
+    <string name="shutdown_confirmation_dialog_confirm">Անջատել</string>
+    <string name="shutdown_confirmation_dialog_cancel">Չեղարկել</string>
+    <string name="post_shutdown_mode_dialog_title">Գերտաքացման պատճառով հեռախոսը էներգախնայողության ռեժիմում էր</string>
+    <string name="post_shutdown_mode_dialog_description">"Հեռախոսը հովացել է և նորից նորմալ աշխատում է։
+
+Գերտաքացման պատճառ կարող են լինել՝
+\t• Էներգատար գործողությունները, օրինակ՝ տեսանյութեր դիտելը, խաղ խաղալը կամ նավիգացիայից օգտվելը
+\t• Մեծ ֆայլեր ներբեռնելը կամ վերբեռնելը
+\t• Արևի ուղիղ ճառագայթների տակ գտնվելը"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Իմանալ ավելին</string>
 </resources>

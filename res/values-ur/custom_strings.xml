@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">وائرلیس چارجنگ</string>
     <string name="wireless_charging_notification_text">وائرلیس چارجنگ تار والی چارجنگ سے زیادہ توانائی استعمال کر سکتی ہے۔ بجلی اور وقت بچانے کے لیے، تار والے چارجر پر سوئچ کرنے کی کوشش کریں۔</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">آپ کا فون بہت گرم ہے</string>
+    <string name="shutdown_mode_screen_description">آپ کا فون ٹھنڈا ہونے کے لیے عارضی طور پر کم پاور والی وضع میں ہے۔ ٹھنڈا ہونے کے بعد یہ دوبارہ استعمال کے لیے تیار ہو جائے گا۔</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">پاور آف کریں</string>
+    <string name="shutdown_confirmation_dialog_title">فون بند کریں؟</string>
+    <string name="shutdown_confirmation_dialog_description">جب یہ ٹھنڈا ہو جائے تو آپ کو اسے دوبارہ آن کرنے کی ضرورت ہوگی۔</string>
+    <string name="shutdown_confirmation_dialog_confirm">پاور آف کریں</string>
+    <string name="shutdown_confirmation_dialog_cancel">منسوخ کریں</string>
+    <string name="post_shutdown_mode_dialog_title">گرم ہونے کی وجہ سے آپ کا فون کم پاور موڈ میں تھا</string>
+    <string name="post_shutdown_mode_dialog_description">"آپ کا فون ٹھنڈا ہو گیا ہے اور دوبارہ حسب معمول چل رہا ہے۔
+
+آپ کا فون مندرجہ ذیل وجوہات کی بناء پر بہت زیادہ گرم ہو سکتا ہے:
+\t• ویڈیو، گیمنگ اور نیویگیشن جیسی زیادہ بیٹری استعمال کرنے والی سرگرمیوں کا استعمال کرنا
+\t• بڑی فائلز کو ڈاؤن لوڈ یا اپ لوڈ کرنا
+\t• فون کو براہ راست سورج کی روشنی میں رکھنا"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">مزید جانیں</string>
 </resources>

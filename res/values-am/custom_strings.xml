@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">በሽቦ አልባ ኃይል በመሙላት ላይ</string>
     <string name="wireless_charging_notification_text">የሽቦ አልባ ኃይል መሙያ ከባለገመድ ኃይል መሙያ የበለጠ ኃይል ሊጠቀም ይችላል። ኤሌክትሪክን እና ጊዜን ለመቆጠብ ወደ ባለገመድ ኃይል መሙያ ለመቀየር ይሞክሩ።</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ስልክዎ በጣም ሞቋል።</string>
+    <string name="shutdown_mode_screen_description">ስልክዎ ለመቀዝቀዝ በጊዜያዊነት በዝቅተኛ ኃይል ሁነታ ውስጥ ነው። አንዴ ከቀዘቀዘ በኋላ እንደገና ለመጠቀም ዝግጁ ይሆናል።</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ኃይል አጥፋ</string>
+    <string name="shutdown_confirmation_dialog_title">የስልክ ኃይል ይጥፋ?</string>
+    <string name="shutdown_confirmation_dialog_description">አንዴ ከቀዘቀዘ በኋላ እሱን መልሰው ማብራት ያስፈልግዎታል።</string>
+    <string name="shutdown_confirmation_dialog_confirm">ኃይል አጥፋ</string>
+    <string name="shutdown_confirmation_dialog_cancel">ይቅር</string>
+    <string name="post_shutdown_mode_dialog_title">ስልክዎ በሙቀት ምክንያት በዝቅተኛ ኃይል ሁነታ ውስጥ ነበር</string>
+    <string name="post_shutdown_mode_dialog_description">"ስልክዎ ቀዝቀዟል እና እንደገና በመደበኛ መልኩ እያሄደ ነው።
+
+ስልክዎ የሚከተሉትን ሲሆን በጣም ሙቀት ያለው ሊሆን ይችላል፦
+\t• እንደ ቪድዮ፣ ጨዋታ እና አሰሳ ያሉ ባትሪ በጣም የሚጠቀሙ መተግበሪያዎችን ሲጠቀም
+\t• ትልቅ ፋይሎችን ሲያወርዱ ወይም ሲሰቅሉ
+\t• በቀጥታ ፀሐይ ላይ ሲሆን"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">የበለጠ ለመረዳት</string>
 </resources>

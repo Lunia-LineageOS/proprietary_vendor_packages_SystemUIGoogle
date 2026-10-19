@@ -68,4 +68,9 @@
     <dimen name="columbus_target_request_dialog_title_text_size">24sp</dimen>
     <dimen name="columbus_target_request_dialog_title_to_content_space">16dp</dimen>
     <dimen name="columbus_target_request_dialog_top_padding">24dp</dimen>
+
+    <!-- Shutdown Mode -->
+    <dimen name="shutdown_mode_screen_description_text_size">16sp</dimen>
+    <dimen name="shutdown_mode_screen_shutdown_button_text_size">14sp</dimen>
+    <dimen name="shutdown_mode_screen_title_text_size">24sp</dimen>
 </resources>

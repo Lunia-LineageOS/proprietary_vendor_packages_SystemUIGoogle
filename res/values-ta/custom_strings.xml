@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">வயர்லெஸ் முறையில் சார்ஜ் செய்தல்</string>
     <string name="wireless_charging_notification_text">வயர்டு சார்ஜிங்கை விட வயர்லெஸ் சார்ஜிங் கூடுதல் மின்சாரத்தைப் பயன்படுத்தக்கூடும். மின்சாரத்தையும் நேரத்தையும் சேமிக்க, வயர்டு சார்ஜரைப் பயன்படுத்துங்கள்.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">உங்கள் மொபைல் மிகவும் சூடாக உள்ளது</string>
+    <string name="shutdown_mode_screen_description">உங்கள் மொபைலின் வெப்பநிலையைக் குறைக்க, தற்காலிகமாக அது குறைவான பவர் பயன்முறையில் உள்ளது. வெப்பநிலை குறைந்தவுடன், அது மீண்டும் பயன்படுத்தத் தயாராக இருக்கும்.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">பவர் ஆஃப்</string>
+    <string name="shutdown_confirmation_dialog_title">மொபைலைப் பவர் ஆஃப் செய்யவா?</string>
+    <string name="shutdown_confirmation_dialog_description">வெப்பநிலை குறைந்ததும், நீங்கள் சாதனத்தை மீண்டும் இயக்க வேண்டும்.</string>
+    <string name="shutdown_confirmation_dialog_confirm">பவர் ஆஃப்</string>
+    <string name="shutdown_confirmation_dialog_cancel">ரத்துசெய்</string>
+    <string name="post_shutdown_mode_dialog_title">மொபைல் சூடானதால் அது குறைவான பவர் பயன்முறையில் இருந்தது</string>
+    <string name="post_shutdown_mode_dialog_description">"மொபைலின் சூடு குறைந்து வழக்கம் போல் இயங்குகிறது.
+
+பின்வரும் சூழ்நிலைகளில் உங்கள் மொபைல் மிகவும் சூடாகலாம்:
+\t• வீடியோ, கேமிங், வழிசெலுத்தல் போன்ற பேட்டரியை அதிகமாக உபயோகிக்கும் செயல்களைச் செய்தல்
+\t• பெரிய ஃபைல்களைப் பதிவிறக்குதல் அல்லது பதிவேற்றுதல்
+\t• நேரடியாகச் சூரிய ஒளி படுதல்"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">மேலும் அறிக</string>
 </resources>

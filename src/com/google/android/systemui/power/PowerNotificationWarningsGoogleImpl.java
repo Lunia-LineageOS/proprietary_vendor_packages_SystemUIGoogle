@@ -80,6 +80,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private final SystemClock mSystemClock;
     private final Provider<BatterySaverConfirmationDialog> mBatterySaverConfirmationDialogProvider;
     private final Provider<SevereLowBatteryNotification> mSevereLowBatteryNotificationProvider;
+    private final Provider<ShutdownModeController> mShutdownModeControllerProvider;
     private final PulsarController mPulsarController;
     private final DeviceProvisionedController mDeviceProvisionedController;
     private final BatterySaverAutoDisableController mBatterySaverAutoDisableController;
@@ -88,6 +89,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
 
     private BatteryInfoBroadcast mBatteryInfoBroadcast;
     private SevereLowBatteryNotification mSevereLowBatteryNotification;
+    private ShutdownModeController mShutdownModeController;
     private LowPowerWarningsController mLowPowerWarningsController;
     private ChargeLimitController mChargeLimitController;
     private BatteryDefenderNotificationHandler mBatteryDefenderNotificationHandler;
@@ -126,6 +128,16 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                                     intent.getStringExtra("extra_severe_low_battery_notification"));
                             dismissLowBatteryWarning();
                             return;
+                        case ShutdownModeController.ACTION_SHUTDOWN_MODE_UPDATE:
+                            if (mShutdownModeController != null) {
+                                mShutdownModeController.onShutdownModeUpdate(intent);
+                            }
+                            return;
+                        case Intent.ACTION_BOOT_COMPLETED:
+                            if (mShutdownModeController != null) {
+                                mShutdownModeController.recover();
+                            }
+                            break;
                     }
                     mBatteryInfoBroadcast.dispatchIntent(intent);
                     mLowPowerWarningsController.dispatchIntent(intent);
@@ -191,6 +203,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
             SystemClock systemClock,
             Provider<BatterySaverConfirmationDialog> batterySaverConfirmationDialogProvider,
             Provider<SevereLowBatteryNotification> severeLowBatteryNotificationProvider,
+            Provider<ShutdownModeController> shutdownModeControllerProvider,
             SecureSettings secureSettings,
             PulsarController pulsarController,
             DeviceProvisionedController deviceProvisionedController,
@@ -221,6 +234,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         mSystemClock = systemClock;
         mBatterySaverConfirmationDialogProvider = batterySaverConfirmationDialogProvider;
         mSevereLowBatteryNotificationProvider = severeLowBatteryNotificationProvider;
+        mShutdownModeControllerProvider = shutdownModeControllerProvider;
         mPulsarController = pulsarController;
         mDeviceProvisionedController = deviceProvisionedController;
         mBatterySaverAutoDisableController = batterySaverAutoDisableController;
@@ -234,6 +248,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                 new BatteryInfoBroadcast(
                         context, mBroadcastSender, mEnhancedEstimates, mExecutor, mUserTracker);
         mSevereLowBatteryNotification = mSevereLowBatteryNotificationProvider.get();
+        mShutdownModeController = mShutdownModeControllerProvider.get();
         mLowPowerWarningsController =
                 new LowPowerWarningsController(
                         context,
@@ -290,6 +305,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         filter.addAction(BluetoothHearingAid.ACTION_CONNECTION_STATE_CHANGED);
         filter.addAction("systemui.power.action.START_FLIPENDO");
         filter.addAction("PNW.dismissSevereLowBatteryWarning");
+        filter.addAction(ShutdownModeController.ACTION_SHUTDOWN_MODE_UPDATE);
         filter.addAction(PulsarController.ACTION_CLICK_PULSAR_ENABLED_NOTIFICATION);
         filter.addAction(PulsarController.ACTION_DISMISS_PULSAR_ENABLED_NOTIFICATION);
         filter.addAction(PulsarController.ACTION_CLICK_PULSAR_REMINDER_NOTIFICATION);
@@ -329,6 +345,9 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                 context.registerReceiver(null, new IntentFilter(Intent.ACTION_BATTERY_CHANGED));
         if (batteryChanged != null) {
             mBroadcastReceiver.onReceive(context, batteryChanged);
+        }
+        if (mShutdownModeController != null) {
+            mShutdownModeController.checkShutdownModeState();
         }
 
         mBatterySaverAutoDisableController.start();

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ကြိုးမဲ့ ဖုန်းအားသွင်းနေသည်</string>
     <string name="wireless_charging_notification_text">ကြိုးမဲ့အားသွင်းခြင်းသည် ကြိုးဖြင့်အားသွင်းခြင်းထက် စွမ်းအင်ပိုသုံးနိုင်သည်။ လျှပ်စစ်ဓာတ်အားနှင့် အချိန်ချွေတာရန် ကြိုးတပ်အားသွင်းကိရိယာသို့ ပြောင်းကြည့်ပါ။</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">သင့်ဖုန်းသည် ပူလွန်းသည်</string>
+    <string name="shutdown_mode_screen_description">သင့်ဖုန်းသည် အအေးခံရန် စွမ်းအားနိမ့်မုဒ်တွင် ယာယီရှိနေသည်။ ပိုအေးသွားသောအခါ ၎င်းကို ထပ်သုံးရန် အသင့်ဖြစ်ပါမည်။</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ပါဝါပိတ်ရန်</string>
+    <string name="shutdown_confirmation_dialog_title">ဖုန်းကို ပါဝါပိတ်မလား။</string>
+    <string name="shutdown_confirmation_dialog_description">အေးသွားသောအခါ ၎င်းကို ပြန်ဖွင့်ရမည်။</string>
+    <string name="shutdown_confirmation_dialog_confirm">ပါဝါပိတ်ရန်</string>
+    <string name="shutdown_confirmation_dialog_cancel">မလုပ်တော့</string>
+    <string name="post_shutdown_mode_dialog_title">အပူချိန်ကြောင့် သင့်ဖုန်းသည် စွမ်းအားနိမ့်မုဒ်တွင် ရှိခဲ့သည်</string>
+    <string name="post_shutdown_mode_dialog_description">"သင့်ဖုန်း အေးသွားပြီး ပုံမှန်အတိုင်း ပြန်လုပ်ဆောင်နေပါပြီ။
+
+အောက်ပါအချိန်များတွင် ဖုန်းအလွန်ပူလာနိုင်သည်-
+\t• ဗီဒီယိုကြည့်ခြင်း၊ ဂိမ်းကစားခြင်း၊ လမ်းညွှန်သုံးခြင်းကဲ့သို့သော ဘက်ထရီအလွန်သုံးသည့် လုပ်ဆောင်ချက်များသုံးခြင်း
+\t• ဖိုင်ကြီးများ ဒေါင်းလုဒ် (သို့) အပ်လုဒ်လုပ်ခြင်း
+\t• နေရောင်တိုက်ရိုက်ထိတွေ့ခြင်း"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ပိုလေ့လာရန်</string>
 </resources>

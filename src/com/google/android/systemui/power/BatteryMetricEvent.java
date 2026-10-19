@@ -113,7 +113,28 @@ public enum BatteryMetricEvent implements UiEventLogger.UiEventEnum {
     DISMISS_PULSAR_REMINDER_NOTIFICATION(2208),
 
     @UiEvent(doc = "Battery health assistance reminder notification clicked")
-    CLICK_PULSAR_REMINDER_NOTIFICATION(2209);
+    CLICK_PULSAR_REMINDER_NOTIFICATION(2209),
+
+    @UiEvent(doc = "Shutdown mode screen displayed")
+    SHOW_SHUTDOWN_MODE_SCREEN(2222),
+
+    @UiEvent(doc = "Shutdown mode screen dismissed")
+    DISMISS_SHUTDOWN_MODE_SCREEN(2223),
+
+    @UiEvent(doc = "Shutdown mode screen power off button clicked")
+    CLICK_SHUTDOWN_MODE_SCREEN_SHUTDOWN_BUTTON(2224),
+
+    @UiEvent(doc = "Shutdown mode confirmation dialog power off button clicked")
+    CLICK_SHUTDOWN_MODE_CONFIRM_DIALOG_SHUTDOWN_BUTTON(2225),
+
+    @UiEvent(doc = "Post shutdown mode dialog displayed")
+    SHOW_POST_SHUTDOWN_MODE_DIALOG(2226),
+
+    @UiEvent(doc = "Settings changed by shutdown mode restored")
+    RECOVER_SHUTDOWN_MODE(2227),
+
+    @UiEvent(doc = "Shutdown mode state check requested from Turbo")
+    CHECK_SHUTDOWN_MODE_STATE(2228);
 
     private final int mId;
 

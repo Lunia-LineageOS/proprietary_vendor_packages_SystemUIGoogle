@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ওয়্যারলেস চার্জিং</string>
     <string name="wireless_charging_notification_text">তারযুক্ত চার্জিংয়ের থেকে ওয়্যারলেস চার্জিংয়ের ক্ষেত্রে বেশি বিদ্যুৎ খরচ হতে পারে। বিদ্যুৎ খরচ ও সময় বাঁচাতে, তারযুক্ত চার্জার দিয়ে চার্জ দেওয়ার সুবিধায় পরিবর্তন করে নিন।</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">আপনার ফোন খুব গরম হয়ে গেছে</string>
+    <string name="shutdown_mode_screen_description">আপনার ফোন ঠাণ্ডা হওয়ার জন্য সাময়িকভাবে লো পাওয়ার মোডে রয়েছে। একটু ঠাণ্ডা হলেই এটি আবার ব্যবহার করার জন্য রেডি হয়ে যাবে।</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">পাওয়ার বন্ধ করুন</string>
+    <string name="shutdown_confirmation_dialog_title">ফোনের পাওয়ার বন্ধ করবেন?</string>
+    <string name="shutdown_confirmation_dialog_description">ফোন ঠাণ্ডা হলে, আপনাকে এটি আবার চালু করতে হবে।</string>
+    <string name="shutdown_confirmation_dialog_confirm">পাওয়ার বন্ধ করুন</string>
+    <string name="shutdown_confirmation_dialog_cancel">বাতিল করুন</string>
+    <string name="post_shutdown_mode_dialog_title">গরম হওয়ার কারণে আপনার ফোন লো পাওয়ার মোডে চলে গেছিল</string>
+    <string name="post_shutdown_mode_dialog_description">"আপনার ফোন ঠাণ্ডা হয়ে গেছে এবং এটি আবার স্বাভাবিকভাবে কাজ করছে।
+
+এইসব ক্ষেত্রে আপনার ফোন খুব গরম হয়ে যেতে পারে:
+\t• ব্যাটারির চার্জ দ্রুত শেষ হয়ে যায় এমন অ্যাক্টিভিটি, যেমন ফোনে ভিডিও দেখা, গেম খেলা ও নেভিগেট করা
+\t• বড় ফাইল আপলোড বা ডাউনলোড করা
+\t• সরাসরি সূর্যের আলোয় রাখা"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">আরও জানুন</string>
 </resources>

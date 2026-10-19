@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Бездротове заряджання</string>
     <string name="wireless_charging_notification_text">Бездротове заряджання може споживати більше електроенергії, ніж дротове. Щоб заощадити електроенергію і час, скористайтеся дротовим зарядним пристроєм.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Телефон перегрівся</string>
+    <string name="shutdown_mode_screen_description">Телефон тимчасово працює в режимі зниженого енергоспоживання, щоб охолонути. Коли він охолоне, ним можна буде знову користуватися.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Вимкнути</string>
+    <string name="shutdown_confirmation_dialog_title">Вимкнути телефон?</string>
+    <string name="shutdown_confirmation_dialog_description">Коли він охолоне, його потрібно буде знову ввімкнути.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Вимкнути</string>
+    <string name="shutdown_confirmation_dialog_cancel">Скасувати</string>
+    <string name="post_shutdown_mode_dialog_title">Телефон перегрівся й працював у режимі зниженого енергоспоживання</string>
+    <string name="post_shutdown_mode_dialog_description">"Телефон охолов і знову працює як зазвичай.
+
+Він може перегріватися, якщо ви:
+\t• використовуєте функції, які споживають багато заряду, наприклад дивитесь відео, граєте в ігри чи користуєтесь навігацією;
+\t• завантажуєте великі файли;
+\t• тримаєте телефон під прямим сонячним промінням."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Докладніше</string>
 </resources>

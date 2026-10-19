@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Ricarica wireless in corso…</string>
     <string name="wireless_charging_notification_text">La ricarica wireless potrebbe consumare più energia rispetto a quella con cavo. Per risparmiare elettricità e tempo, prova a passare a un caricabatterie con cavo.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Il tuo smartphone è troppo caldo</string>
+    <string name="shutdown_mode_screen_description">"Lo smartphone è temporaneamente in modalità a basso consumo per raffreddarsi. Sarà di nuovo pronto all'uso quando si sarà raffreddato."</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Spegni</string>
+    <string name="shutdown_confirmation_dialog_title">Spegnere lo smartphone?</string>
+    <string name="shutdown_confirmation_dialog_description">Una volta raffreddato, dovrai riaccenderlo.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Spegni</string>
+    <string name="shutdown_confirmation_dialog_cancel">Annulla</string>
+    <string name="post_shutdown_mode_dialog_title">Lo smartphone era in modalità a basso consumo a causa del calore</string>
+    <string name="post_shutdown_mode_dialog_description">"Lo smartphone si è raffreddato e ora funziona di nuovo normalmente.
+
+Lo smartphone può surriscaldarsi se:
+\t• Esegui attività che consumano molta batteria, come guardare video, giocare e usare il navigatore
+\t• Scarichi o carichi file di grandi dimensioni
+\t• È esposto alla luce diretta del sole"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Scopri di più</string>
 </resources>

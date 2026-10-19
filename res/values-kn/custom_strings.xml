@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್</string>
     <string name="wireless_charging_notification_text">ವೈಯರ್ಡ್ ಚಾರ್ಜಿಂಗ್‌ಗಿಂತ ಹೆಚ್ಚಿನ ವಿದ್ಯುತ್ ಅನ್ನು ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್ ಬಳಸಿಕೊಳ್ಳಬಹುದು. ವಿದ್ಯುತ್ ಮತ್ತು ಸಮಯವನ್ನು ಉಳಿಸಲು, ವೈಯರ್ಡ್ ಚಾರ್ಜರ್‌ಗೆ ಬದಲಿಸಿ ನೋಡಿ.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ನಿಮ್ಮ ಫೋನ್ ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ</string>
+    <string name="shutdown_mode_screen_description">ತಣ್ಣಗಾಗಲು ನಿಮ್ಮ ಫೋನ್ ತಾತ್ಕಾಲಿಕವಾಗಿ ಕಡಿಮೆ ಪವರ್ ಮೋಡ್‌ನಲ್ಲಿದೆ. ಅದು ತಣ್ಣಗಾದ ನಂತರ ಮತ್ತೆ ಬಳಸಲು ಸಿದ್ಧವಾಗುತ್ತದೆ.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ಪವರ್ ಆಫ್ ಮಾಡಿ</string>
+    <string name="shutdown_confirmation_dialog_title">ಫೋನ್ ಪವರ್ ಆಫ್ ಮಾಡಬೇಕೆ?</string>
+    <string name="shutdown_confirmation_dialog_description">ಅದು ತಣ್ಣಗಾದ ನಂತರ, ನೀವು ಅದನ್ನು ಮತ್ತೆ ಆನ್ ಮಾಡಬೇಕಾಗುತ್ತದೆ.</string>
+    <string name="shutdown_confirmation_dialog_confirm">ಪವರ್ ಆಫ್ ಮಾಡಿ</string>
+    <string name="shutdown_confirmation_dialog_cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="post_shutdown_mode_dialog_title">ನಿಮ್ಮ ಫೋನ್ ಬಿಸಿಯಾದ ಕಾರಣ ಕಡಿಮೆ ಪವರ್ ಮೋಡ್‌ನಲ್ಲಿತ್ತು</string>
+    <string name="post_shutdown_mode_dialog_description">"ನಿಮ್ಮ ಫೋನ್ ತಣ್ಣಗಾಗಿದೆ ಹಾಗೂ ಅದು ಪುನಃ ಸಾಮಾನ್ಯ ರೀತಿಯಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತಿದೆ.
+
+ನಿಮ್ಮ ಫೋನ್ ಈ ಕೆಳಗಿನ ಸಂದರ್ಭಗಳಲ್ಲಿ ತುಂಬಾ ಬಿಸಿಯಾಗಬಹುದು:
+\t• ವೀಡಿಯೊ, ಗೇಮಿಂಗ್ ಮತ್ತು ನ್ಯಾವಿಗೇಷನ್‌ನಂತಹ ಅಧಿಕ ಬ್ಯಾಟರಿ ಬಳಕೆಯ ಚಟುವಟಿಕೆಗಳನ್ನು ಬಳಸುವುದು
+\t• ದೊಡ್ಡ ಫೈಲ್‌ಗಳನ್ನು ಡೌನ್‌ಲೋಡ್ ಅಥವಾ ಅಪ್‌ಲೋಡ್ ಮಾಡುವುದು
+\t• ನೇರವಾದ ಬಿಸಿಲಿನಲ್ಲಿ ಪೋನ್ ಬಳಸುವುದು"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</string>
 </resources>

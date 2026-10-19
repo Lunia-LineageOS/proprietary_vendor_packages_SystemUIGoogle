@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Carregamento sem fios</string>
     <string name="wireless_charging_notification_text">O carregamento sem fios pode usar mais energia do que o carregamento com fios. Para poupar eletricidade e tempo, experimente mudar para um carregador com fios.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">O telemóvel está demasiado quente</string>
+    <string name="shutdown_mode_screen_description">O telemóvel está temporariamente no modo de baixo consumo para arrefecer. Vai estar pronto a usar novamente quando estiver mais frio.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Desligar</string>
+    <string name="shutdown_confirmation_dialog_title">Desligar o telemóvel?</string>
+    <string name="shutdown_confirmation_dialog_description">Depois de o telemóvel arrefecer, tem de o voltar a ligar.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Desligar</string>
+    <string name="shutdown_confirmation_dialog_cancel">Cancelar</string>
+    <string name="post_shutdown_mode_dialog_title">O telemóvel estava no modo de baixo consumo devido ao calor</string>
+    <string name="post_shutdown_mode_dialog_description">"O telemóvel arrefeceu e está a funcionar normalmente outra vez.
+
+O telemóvel pode aquecer demasiado quando:
+\t• Usa atividades que consomem muita bateria, como vídeo, jogos e navegação
+\t• Transfere ou carrega ficheiros grandes
+\t• Está sob luz solar direta"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Saber mais</string>
 </resources>

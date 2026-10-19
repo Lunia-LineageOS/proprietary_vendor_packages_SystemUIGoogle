@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">טעינה אלחוטית</string>
     <string name="wireless_charging_notification_text">טעינה אלחוטית עשויה לצרוך יותר חשמל מאשר טעינה חוטית. כדי לחסוך בחשמל ובזמן, כדאי להחליף למטען חוטי.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">הטלפון חם מדי</string>
+    <string name="shutdown_mode_screen_description">הטלפון עבר זמנית למצב חיסכון בסוללה כדי להתקרר. הוא יהיה מוכן לשימוש כשהוא יתקרר.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">כיבוי</string>
+    <string name="shutdown_confirmation_dialog_title">לכבות את הטלפון?</string>
+    <string name="shutdown_confirmation_dialog_description">אחרי שהמכשיר יתקרר, יהיה צריך להפעיל אותו מחדש.</string>
+    <string name="shutdown_confirmation_dialog_confirm">כיבוי</string>
+    <string name="shutdown_confirmation_dialog_cancel">ביטול</string>
+    <string name="post_shutdown_mode_dialog_title">הטלפון התחמם ולכן עבר למצב חיסכון בסוללה</string>
+    <string name="post_shutdown_mode_dialog_description">"הוא כבר התקרר ועכשיו הכול פועל כרגיל.
+
+סיבות להתחממות יתר:
+\t• משתמשים בו לפעילויות שמכבידות על הסוללה, כמו צפייה בסרטונים, גיימינג וניווט
+\t• מורידים או מעלים קבצים גדולים
+\t• הוא חשוף לאור שמש ישיר"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">מידע נוסף</string>
 </resources>

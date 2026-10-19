@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">वायरलेस पद्धतीने चार्ज करत आहे</string>
     <string name="wireless_charging_notification_text">वायरलेस चार्जिंग हे वायर्ड चार्जिंगपेक्षा जास्त ऊर्जा वापरू शकते. वीज आणि वेळेची बचत करण्यासाठी, वायर्ड चार्जरवर स्विच करून पहा.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">तुमचा फोन खूप गरम आहे</string>
+    <string name="shutdown_mode_screen_description">तुमचा फोन थंड होण्यासाठी तात्पुरता कमी पॉवर मोडमध्ये आहे. थंड झाल्यावर तो पुन्हा वापरण्यासाठी तयार होईल.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">बंद करा</string>
+    <string name="shutdown_confirmation_dialog_title">फोन बंद करायचा आहे का?</string>
+    <string name="shutdown_confirmation_dialog_description">एकदा तो थंड झाला, की तुम्हाला तो परत सुरू करावा लागेल.</string>
+    <string name="shutdown_confirmation_dialog_confirm">बंद करा</string>
+    <string name="shutdown_confirmation_dialog_cancel">रद्द करा</string>
+    <string name="post_shutdown_mode_dialog_title">गरम झाल्यामुळे तुमचा फोन कमी पॉवर मोडमध्ये होता</string>
+    <string name="post_shutdown_mode_dialog_description">"तुमचा फोन थंड झाला आहे आणि तो पुन्हा सामान्यपणे रन होत आहे.
+
+पुढील गोष्टी होतील, तेव्हा तुमचा फोन खूपच गरम होऊ शकतो:
+\t• व्हिडिओ, गेम आणि नेव्हिगेशन यांसारखी जास्त प्रमाणात बॅटरी वापरणाऱ्या ॲक्टिव्हिटी वापरणे
+\t• मोठ्या फाइल डाउनलोड किंवा अपलोड करणे
+\t• थेट सूर्यप्रकाशामध्ये असणे"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">अधिक जाणून घ्या</string>
 </resources>

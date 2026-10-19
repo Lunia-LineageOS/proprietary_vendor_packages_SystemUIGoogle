@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ਵਾਇਰਲੈੱਸ ਚਾਰਜਿੰਗ</string>
     <string name="wireless_charging_notification_text">ਵਾਇਰਲੈੱਸ ਚਾਰਜਿੰਗ ਵਿੱਚ ਤਾਰ ਵਾਲੀ ਚਾਰਜਿੰਗ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਊਰਜਾ ਦੀ ਵਰਤੋਂ ਹੋ ਸਕਦੀ ਹੈ। ਬਿਜਲੀ ਅਤੇ ਸਮਾਂ ਬਚਾਉਣ ਲਈ, ਤਾਰ ਵਾਲੇ ਚਾਰਜਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ਤੁਹਾਡਾ ਫ਼ੋਨ ਬਹੁਤ ਗਰਮ ਹੈ</string>
+    <string name="shutdown_mode_screen_description">"ਤੁਹਾਡੇ ਫ਼ੋਨ ਨੂੰ ਕੁਝ ਸਮੇਂ ਲਈ ਘੱਟ ਪਾਵਰ ਮੋਡ ਵਿੱਚ ਰੱਖਿਆ ਗਿਆ ਹੈ, ਤਾਂ ਜੋ ਇਹ ਠੰਡਾ ਹੋ ਸਕੇ। ਠੰਡਾ ਹੋਣ 'ਤੇ ਇਹ ਦੁਬਾਰਾ ਵਰਤੋਂ ਲਈ ਤਿਆਰ ਹੋ ਜਾਵੇਗਾ।"</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ਪਾਵਰ ਬੰਦ ਕਰੋ</string>
+    <string name="shutdown_confirmation_dialog_title">ਕੀ ਫ਼ੋਨ ਦੀ ਪਾਵਰ ਬੰਦ ਕਰਨੀ ਹੈ?</string>
+    <string name="shutdown_confirmation_dialog_description">ਫ਼ੋਨ ਦੇ ਠੰਡਾ ਹੋ ਜਾਣ ਤੋਂ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਇਸਨੂੰ ਦੁਬਾਰਾ ਚਾਲੂ ਕਰਨ ਦੀ ਲੋੜ ਪਵੇਗੀ।</string>
+    <string name="shutdown_confirmation_dialog_confirm">ਪਾਵਰ ਬੰਦ ਕਰੋ</string>
+    <string name="shutdown_confirmation_dialog_cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="post_shutdown_mode_dialog_title">ਗਰਮ ਹੋਣ ਕਾਰਨ ਤੁਹਾਡਾ ਫ਼ੋਨ ਘੱਟ ਪਾਵਰ ਮੋਡ ਵਿੱਚ ਸੀ</string>
+    <string name="post_shutdown_mode_dialog_description">"ਤੁਹਾਡਾ ਫ਼ੋਨ ਠੰਡਾ ਹੋ ਗਿਆ ਹੈ ਅਤੇ ਇਹ ਦੁਬਾਰਾ ਆਮ ਵਾਂਗ ਚੱਲ ਰਿਹਾ ਹੈ।
+
+ਤੁਹਾਡਾ ਫ਼ੋਨ ਉਦੋਂ ਬਹੁਤ ਜ਼ਿਆਦਾ ਗਰਮ ਹੋ ਸਕਦਾ ਹੈ, ਜਦੋਂ:
+\t• ਵੀਡੀਓ, ਗੇਮਿੰਗ ਅਤੇ ਨੈਵੀਗੇਸ਼ਨ ਵਰਗੀਆਂ ਬੈਟਰੀ ਦੀ ਵੱਧ ਵਰਤੋਂ ਕਰਨ ਵਾਲੀਆਂ ਸਰਗਰਮੀਆਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾ ਰਹੀ ਹੋਵੇ
+\t• ਵੱਡੀਆਂ ਫ਼ਾਈਲਾਂ ਨੂੰ ਡਾਊਨਲੋਡ ਜਾਂ ਅੱਪਲੋਡ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੋਵੇ
+\t• ਇਹ ਸਿੱਧੀ ਧੁੱਪ ਵਿੱਚ ਹੋਵੇ"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ਹੋਰ ਜਾਣੋ</string>
 </resources>

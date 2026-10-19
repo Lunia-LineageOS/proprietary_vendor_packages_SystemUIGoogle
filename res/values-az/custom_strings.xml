@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Simsiz şarj</string>
     <string name="wireless_charging_notification_text">Simsiz enerji simli enerjidən daha çox enerji sərf edə bilər. Enerji və vaxta qənaət etmək üçün simli adapterə dəyişin.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefon çox istidir</string>
+    <string name="shutdown_mode_screen_description">Telefon soyumaq üçün müvəqqəti olaraq aşağı enerji rejimindədir. Soyuduqdan sonra yenidən istifadəyə hazır olacaq.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Söndürün</string>
+    <string name="shutdown_confirmation_dialog_title">Telefon söndürülsün?</string>
+    <string name="shutdown_confirmation_dialog_description">Soyuduqdan sonra onu yenidən yandırmalı olacaqsınız.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Söndürün</string>
+    <string name="shutdown_confirmation_dialog_cancel">Ləğv edin</string>
+    <string name="post_shutdown_mode_dialog_title">Telefon istilik ilə əlaqədar aşağı enerji rejimində olub</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonunuz soyuyub və yenidən normal qaydada işləyir.
+
+Telefonunuz aşağıdakı hallarda çox isinə bilər:
+\t• Video, oyun və naviqasiya kimi batareyanı çox tükədən fəaliyyətlərdən istifadə edildikdə
+\t• Böyük fayllar endirildikdə və ya yükləndikdə
+\t• Birbaşa gün işığı altında"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Ətraflı məlumat</string>
 </resources>

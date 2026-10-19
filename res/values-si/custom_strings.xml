@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">රැහැන් රහිත ආරෝපණය</string>
     <string name="wireless_charging_notification_text">රැහැන් රහිත ආරෝපණය රැහැන්ගත ආරෝපණයට වඩා වැඩි ශක්තියක් භාවිතා කළ හැක. විදුලිය සහ කාලය ඉතිරි කර ගැනීම සඳහා, රැහැන්ගත චාජරයකට මාරු වීමට උත්සාහ කරන්න.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ඔබේ දුරකථනය ඉතා උණුසුම් වේ</string>
+    <string name="shutdown_mode_screen_description">සිසිල් කිරීම සඳහා ඔබේ දුරකථනය තාවකාලිකව අඩු බල ප්‍රකාරයට දමා ඇත. එය සිසිල් වූ පසු නැවත භාවිතයට සූදානම් වනු ඇත.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">බලය ක්‍රියාවිරහිත කරන්න</string>
+    <string name="shutdown_confirmation_dialog_title">දුරකථනයේ බලය ක්‍රියාවිරහිත කරන්න ද?</string>
+    <string name="shutdown_confirmation_dialog_description">එය සිසිල් වූ පසු, ඔබ එය නැවත ක්‍රියාත්මක කළ යුතු ය.</string>
+    <string name="shutdown_confirmation_dialog_confirm">බලය ක්‍රියාවිරහිත කරන්න</string>
+    <string name="shutdown_confirmation_dialog_cancel">අවලංගු කරන්න</string>
+    <string name="post_shutdown_mode_dialog_title">තාපය හේතුවෙන් ඔබේ දුරකථනය අඩු බල ප්‍රකාරයක තිබුණි</string>
+    <string name="post_shutdown_mode_dialog_description">"ඔබේ දුරකථනය සිසිල් වී ඇති අතර නැවත සාමාන්‍ය පරිදි ක්‍රියාත්මක වේ.
+
+ඔබේ දුරකථනය අධික ලෙස රත් විය හැක්කේ:
+\t• වීඩියෝ, ක්‍රීඩා සහ සංචාලනය වැනි බැටරි-අධික ක්‍රියාකාරකම් භාවිත කිරීමේදී
+\t• විශාල ගොනු බාගත කිරීම හෝ උඩුගත කිරීමේදී
+\t• සෘජු හිරු එළියෙන්"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">තව දැන ගන්න</string>
 </resources>

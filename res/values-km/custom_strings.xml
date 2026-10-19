@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">កំពុង​សាកថ្ម​ដោយឥតខ្សែ</string>
     <string name="wireless_charging_notification_text">ការសាកថ្មឥតខ្សែអាចប្រើថាមពលច្រើនជាងការសាកថ្មមានខ្សែ។ ដើម្បី​សន្សំសំចៃ​អគ្គិសនី និង​ចំណេញពេល សូមសាកល្បង​ប្ដូរទៅ​ឆ្នាំងសាក​ប្រើខ្សែ។</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ទូរសព្ទរបស់អ្នកក្ដៅពេក</string>
+    <string name="shutdown_mode_screen_description">ទូរសព្ទរបស់អ្នកស្ថិតក្នុងមុខងារថាមពលទាបជាបណ្ដោះអាសន្ន ដើម្បីធ្វើឱ្យចុះត្រជាក់។ ទូរសព្ទនឹងអាចប្រើម្ដងទៀត នៅពេលចុះត្រជាក់ជាងនេះ។</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">បិទថាមពល</string>
+    <string name="shutdown_confirmation_dialog_title">បិទថាមពលទូរសព្ទឬ?</string>
+    <string name="shutdown_confirmation_dialog_description">ក្រោយពេលចុះត្រជាក់ អ្នកនឹងត្រូវបើកវាឡើងវិញ។</string>
+    <string name="shutdown_confirmation_dialog_confirm">បិទថាមពល</string>
+    <string name="shutdown_confirmation_dialog_cancel">បោះបង់</string>
+    <string name="post_shutdown_mode_dialog_title">ទូរសព្ទរបស់អ្នកស្ថិតក្នុងមុខងារថាមពលទាប ដោយសារកម្ដៅ</string>
+    <string name="post_shutdown_mode_dialog_description">"ទូរសព្ទរបស់អ្នកចុះត្រជាក់ហើយ និងកំពុងដំណើរការធម្មតាឡើងវិញ។
+
+ទូរសព្ទរបស់អ្នកអាចឡើងកម្ដៅខ្លាំងពេកនៅពេល៖
+ • ប្រើប្រាស់សកម្មភាពដែលប្រើថ្មខ្លាំងដូចជាមើលវីដេអូ លេងហ្គេម និងការរុករកផ្លូវ
+ • ទាញយក ឬបង្ហោះឯកសារធំៗ
+ • នៅក្រោមពន្លឺថ្ងៃដោយផ្ទាល់"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ស្វែងយល់បន្ថែម</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Kablosuz şarj oluyor</string>
     <string name="wireless_charging_notification_text">Kablosuz şarj işlevi kablolu şarja göre daha fazla enerji harcayabilir. Elektrik ve zaman tasarrufu için kablolu şarj cihazına geçmeyi deneyin.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefonunuz çok sıcak</string>
+    <string name="shutdown_mode_screen_description">Telefonunuz soğuması için geçici olarak düşük güç moduna alındı. Soğuduktan sonra tekrar kullanılabilir.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Kapat</string>
+    <string name="shutdown_confirmation_dialog_title">Telefon kapatılsın mı?</string>
+    <string name="shutdown_confirmation_dialog_description">Soğuduktan sonra telefonu tekrar açmanız gerekir.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Kapat</string>
+    <string name="shutdown_confirmation_dialog_cancel">İptal</string>
+    <string name="post_shutdown_mode_dialog_title">Telefonunuz ısındığı için düşük güç modundaydı</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefonunuz soğudu ve artık normal şekilde çalışıyor.
+
+Telefonunuz şu durumlarda aşırı ısınabilir:
+\t• Video, oyun ve navigasyon gibi pili fazla harcayan etkinlikleri kullanırken
+\t• Büyük dosyalar indirirken veya yüklerken
+\t• Doğrudan güneş ışığı altındayken"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Daha fazla bilgi</string>
 </resources>

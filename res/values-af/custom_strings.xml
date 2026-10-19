@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Draadlose batterylaai</string>
     <string name="wireless_charging_notification_text">Draadlose batterylaai kan meer energie as bedrade batterylaai gebruik. Probeer eerder ’n bedrade batterylaaier om elektrisiteit en tyd te bespaar.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Jou foon is te warm</string>
+    <string name="shutdown_mode_screen_description">Jou foon is tydelik in laekragmodus om af te koel. Sodra dit koeler is, sal dit reg wees om weer te gebruik.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Skakel af</string>
+    <string name="shutdown_confirmation_dialog_title">Skakel foon af?</string>
+    <string name="shutdown_confirmation_dialog_description">Sodra dit afkoel moet jy dit weer aanskakel.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Skakel af</string>
+    <string name="shutdown_confirmation_dialog_cancel">Kanselleer</string>
+    <string name="post_shutdown_mode_dialog_title">Jou foon was in ’n lae kragmodus weens hitte</string>
+    <string name="post_shutdown_mode_dialog_description">"Jou foon het afgekoel en loop nou weer normaal.
+
+Jou foon kan te warm raak wanneer:
+\t• Jy battery-intensiewe aktiwiteite soos video, speletjies en navigasie gebruik
+\t• Jy groot lêers op- en aflaai
+\t• In direkte sonlig"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Kry meer inligting</string>
 </resources>

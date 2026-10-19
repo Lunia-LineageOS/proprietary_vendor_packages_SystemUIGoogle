@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ୱେୟାରଲେସ ଭାବେ ଚାର୍ଜ କରାଯାଉଛି</string>
     <string name="wireless_charging_notification_text">ୱାୟାର୍ଡ ଚାର୍ଜିଂ ତୁଳନାରେ ୱାୟାରଲେସ ଚାର୍ଜିଂ ଅଧିକ ଏନର୍ଜି ବ୍ୟବହାର କରିପାରେ। ଇଲେକ୍ଟ୍ରିସିଟି ଏବଂ ସମୟ ବଞ୍ଚାଇବା ପାଇଁ ଏକ ତାରଯୁକ୍ତ ଚାର୍ଜରକୁ ସୁଇଚ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">ଆପଣଙ୍କ ଫୋନ ବହୁତ ଗରମ ଅଛି</string>
+    <string name="shutdown_mode_screen_description">ଆପଣଙ୍କ ଫୋନ ଥଣ୍ଡା ହେବା ପାଇଁ ଅସ୍ଥାୟୀ ଭାବରେ କମ ପାୱାର ମୋଡରେ ଅଛି। ଏହା ଥଣ୍ଡା ହେବା ପରେ ପୁଣି ବ୍ୟବହାର କରିବା ପାଇଁ ପ୍ରସ୍ତୁତ ହୋଇଯିବ।</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">ପାୱାର ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="shutdown_confirmation_dialog_title">ଫୋନର ପାୱାର ବନ୍ଦ କରିବେ?</string>
+    <string name="shutdown_confirmation_dialog_description">ଏହା ଥଣ୍ଡା ହେବା ପରେ, ଆପଣଙ୍କୁ ଏହାକୁ ପୁଣି ଚାଲୁ କରିବାକୁ ହେବ।</string>
+    <string name="shutdown_confirmation_dialog_confirm">ପାୱାର ବନ୍ଦ କରନ୍ତୁ</string>
+    <string name="shutdown_confirmation_dialog_cancel">ବାତିଲ କରନ୍ତୁ</string>
+    <string name="post_shutdown_mode_dialog_title">ଗରମ ହେବା ଯୋଗୁଁ ଆପଣଙ୍କ ଫୋନଟି କମ ପାୱାର ମୋଡରେ ଅଛି</string>
+    <string name="post_shutdown_mode_dialog_description">"ଆପଣଙ୍କ ଫୋନ ଥଣ୍ଡା ହୋଇଯାଇଛି ଏବଂ ପୁଣି ସାଧାରଣ ଭାବେ ଚାଲୁଛି।
+
+ଏହି ସମୟରେ ଆପଣଙ୍କ ଫୋନ ଅତ୍ୟଧିକ ଗରମ ହୋଇପାରେ:
+\t• ଭିଡିଓ, ଗେମିଂ ଏବଂ ନାଭିଗେସନ ପରି ବେଟେରୀ-ଇଣ୍ଟେନସିଭ କାର୍ଯ୍ୟକଳାପ ବ୍ୟବହାର କରିଲେ
+\t• ବଡ଼ ଫାଇଲ ଡାଉନଲୋଡ କିମ୍ବା ଅପଲୋଡ କଲେ
+\t• ସିଧାସଳଖ ସୂର୍ଯ୍ୟ କିରଣରେ ରଖିଲେ"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">ଅଧିକ ଜାଣନ୍ତୁ</string>
 </resources>

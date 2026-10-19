@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Bežično punjenje</string>
     <string name="wireless_charging_notification_text">Bežično punjenje može da troši više energije od žičanog punjenja. Da biste uštedeli vreme i struju, pređite na žičani punjač.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Telefon je pregrejan</string>
+    <string name="shutdown_mode_screen_description">Telefon je privremeno u režimu smanjene potrošnje da bi se ohladio. Kada se ohladi, biće ponovo spreman za korišćenje.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Ugasi</string>
+    <string name="shutdown_confirmation_dialog_title">Želite da ugasite telefon?</string>
+    <string name="shutdown_confirmation_dialog_description">Kada se ohladi, moraćete ponovo da ga uključite.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Ugasi</string>
+    <string name="shutdown_confirmation_dialog_cancel">Otkaži</string>
+    <string name="post_shutdown_mode_dialog_title">Telefon je bio u režimu smanjene potrošnje energije zbog pregrevanja</string>
+    <string name="post_shutdown_mode_dialog_description">"Telefon se ohladio i ponovo radi normalno.
+
+Telefon može da se pregreje:
+\t• kada obavljate radnje koje troše puno baterije, kao što su radnje u vezi sa videom, igrama i navigacijom
+\t• kada preuzimate ili otpremate velike fajlove
+\t• kada je izložen direktnoj sunčevoj svetlosti"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Saznajte više</string>
 </resources>

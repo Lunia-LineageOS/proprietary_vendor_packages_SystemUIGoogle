@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Ukushaja okungenantambo</string>
     <string name="wireless_charging_notification_text">Ukushaja okungenantambo kungase kusebenzise amandla amaningi kunokushaja okunentambo. Ukuze wonge ugesi nesikhathi, zama ukushintshela eshajeni enentambo.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Ifoni yakho ifudumele kakhulu</string>
+    <string name="shutdown_mode_screen_description">Ifoni yakho ikumodi yamandla aphansi okwesikhashana ukuze iphole. Izokulungela ukuphinde isetshenziswe lapho isipholile.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Amandla avaliwe</string>
+    <string name="shutdown_confirmation_dialog_title">Amandla efoni avaliwe?</string>
+    <string name="shutdown_confirmation_dialog_description">Lapho isipholile, kuzodingeka uphinde uyivule.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Amandla avaliwe</string>
+    <string name="shutdown_confirmation_dialog_cancel">Khansela</string>
+    <string name="post_shutdown_mode_dialog_title">Ifoni yakho ibikumodi yamandla aphansi ngenxa yokushisa</string>
+    <string name="post_shutdown_mode_dialog_description">"Ifoni yakho seyipholile futhi isebenza ngokwejwayelekile futhi.
+
+Ifoni yakho ingafudumala kakhulu uma:
+\t• Usebenzisa izinto ezidinga ibhethri njengevidiyo, imidlalo, nokufuna
+\t• Ukudawuniloda noma ukulayisha amafayela amakhulu
+\t• Elangeni ngokuqondile"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Funda kabanzi</string>
 </resources>

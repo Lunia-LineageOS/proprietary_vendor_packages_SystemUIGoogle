@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">વાયરલેસ રીતે ચાર્જ થઈ રહ્યું છે</string>
     <string name="wireless_charging_notification_text">વાયર્ડ ચાર્જિંગ કરતાં વાયરલેસ ચાર્જિંગથી ઊર્જાનો વધુ વપરાશ થઈ શકે છે. વીજળી અને સમયની બચત કરવા માટે, વાયર્ડ ચાર્જર પર સ્વિચ કરવાનું અજમાવી જુઓ.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">તમારો ફોન ખૂબ જ ગરમ છે</string>
+    <string name="shutdown_mode_screen_description">તમારા ફોનને ઠંડો કરવા માટે, હંગામી રીતે ઓછા પાવરના મોડમાં રાખવામાં આવ્યો છે. એકવાર તે ઠંડો થઈ જાય, તે પછી તે ફરીથી ઉપયોગ માટે તૈયાર થઈ જશે.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">પાવર બંધ કરો</string>
+    <string name="shutdown_confirmation_dialog_title">ફોનનો પાવર બંધ કરીએ?</string>
+    <string name="shutdown_confirmation_dialog_description">એકવાર તે ઠંડો થઈ જાય, તે પછી તમારે તેને પાછો ચાલુ કરવો જરૂરી રહેશે.</string>
+    <string name="shutdown_confirmation_dialog_confirm">પાવર બંધ કરો</string>
+    <string name="shutdown_confirmation_dialog_cancel">રદ કરો</string>
+    <string name="post_shutdown_mode_dialog_title">ગરમીને કારણે તમારો ફોન ઓછા પાવરના મોડમાં હતો</string>
+    <string name="post_shutdown_mode_dialog_description">"તમારો ફોન ઠંડો થઈ ગયો છે અને ફરીથી સામાન્ય રીતે ચાલી રહ્યો છે.
+
+તમારો ફોન ખૂબ ગરમ થઈ શકે છે જ્યારે:
+\t• તમે બૅટરીનો વધારે વપરાશ થતો હોય એવી ઍક્ટિવિટી જેમ કે વીડિયો, ગેમિંગ અને નૅવિગેશનનો ઉપયોગ કરો છો
+\t• ખૂબ મોટી ફાઇલો ડાઉનલોડ કે અપલોડ કરો છો
+\t• સીધા સૂર્યપ્રકાશના સંપર્કમાં રહે છે"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">વધુ જાણો</string>
 </resources>

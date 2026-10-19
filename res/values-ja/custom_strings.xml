@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">ワイヤレス充電中</string>
     <string name="wireless_charging_notification_text">ワイヤレス充電は有線での充電よりも電力使用量が増えることがあります。電力と時間を節約するには、有線充電器に切り替えてみてください。</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">スマートフォンが熱くなっています</string>
+    <string name="shutdown_mode_screen_description">スマートフォンの温度を下げるため、一時的に低電力モードになります。温度が下がったら、再び使用できるようになります。</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">電源を切る</string>
+    <string name="shutdown_confirmation_dialog_title">スマートフォンの電源を切りますか？</string>
+    <string name="shutdown_confirmation_dialog_description">温度が下がったら、再度 ON にする必要があります。</string>
+    <string name="shutdown_confirmation_dialog_confirm">電源を切る</string>
+    <string name="shutdown_confirmation_dialog_cancel">キャンセル</string>
+    <string name="post_shutdown_mode_dialog_title">温度上昇により一時的に低電力モードになりました</string>
+    <string name="post_shutdown_mode_dialog_description">"スマートフォンの温度が下がり、通常どおりに動作しています。
+
+次のような操作を行うと、スマートフォンが熱くなることがあります。
+\t• バッテリーを大量に消費する操作（動画、ゲーム、ナビなど）を行う
+\t• サイズの大きいファイルをダウンロードまたはアップロードする
+\t• 直射日光の当たる場所で使用する"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">詳細</string>
 </resources>

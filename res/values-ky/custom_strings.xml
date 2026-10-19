@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Зымсыз кубаттоо</string>
     <string name="wireless_charging_notification_text">Зымсыз жол менен түзмөк жайыраак кубатталышы мүмкүн. Электр кубатын үнөмдөп, тезирээк кубаттоо үчүн кубаттагычты сайыңыз.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Телефонуңуз өтө ысып кетти</string>
+    <string name="shutdown_mode_screen_description">Телефон кубатты үнөмдөө режимине убактылуу өттү. Ал муздагандан кийин режим өчүп калат.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Өчүрүү</string>
+    <string name="shutdown_confirmation_dialog_title">Телефонду өчүрөсүзбү?</string>
+    <string name="shutdown_confirmation_dialog_description">Муздагандан кийин аны кайра күйгүзүшүңүз керек болот.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Ооба</string>
+    <string name="shutdown_confirmation_dialog_cancel">Жок</string>
+    <string name="post_shutdown_mode_dialog_title">Телефонуңуз өтө ысып кеткендиктен, кубатты үнөмдөө режимине өткөн болчу</string>
+    <string name="post_shutdown_mode_dialog_description">"Эми ал муздап, кайра кадимкидей иштеп калды.
+
+Телефон кандай учурларда ысып кетет:
+\t• Видео көрүү, оюн ойноо жана интернетти кыдыруу сыяктуу батареянын кубатын көп керектеген иштерди кылганда;
+\t• Көлөмдүү файлдарды жүктөп алганда/жүктөп бергенде;
+\t• Күндүн астында калганда."</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Кеңири маалымат</string>
 </resources>

@@ -86,4 +86,21 @@
     <!-- Wireless Charging -->
     <string name="wireless_charging_notification_title">Draadloos opladen</string>
     <string name="wireless_charging_notification_text">Draadloos opladen kan meer stroom verbruiken dan bedraad opladen. Stap over op opladen met een snoer om elektriciteit en tijd te besparen.</string>
+
+    <!-- Shutdown Mode -->
+    <string name="shutdown_mode_screen_title">Je telefoon is te warm</string>
+    <string name="shutdown_mode_screen_description">Je telefoon staat tijdelijk in de energiebesparingsmodus om af te koelen. Het apparaat is weer klaar voor gebruik als het voldoende is afgekoeld.</string>
+    <string name="shutdown_mode_screen_shutdown_button_text">Uitzetten</string>
+    <string name="shutdown_confirmation_dialog_title">Telefoon uitzetten?</string>
+    <string name="shutdown_confirmation_dialog_description">Als je telefoon is afgekoeld, moet je deze weer aanzetten.</string>
+    <string name="shutdown_confirmation_dialog_confirm">Uitzetten</string>
+    <string name="shutdown_confirmation_dialog_cancel">Annuleren</string>
+    <string name="post_shutdown_mode_dialog_title">Je telefoon stond in een energiebesparingsmodus vanwege de warmte</string>
+    <string name="post_shutdown_mode_dialog_description">"Je telefoon is afgekoeld en werkt weer normaal.
+
+Je telefoon kan in de volgende gevallen te warm worden:
+\t• Je voert activiteiten uit die veel batterijlading verbruiken, zoals video's bekijken, games spelen en navigeren
+\t• Je downloadt of uploadt grote bestanden
+\t• In direct zonlicht"</string>
+    <string name="post_shutdown_mode_dialog_learn_more_button_text">Meer informatie</string>
 </resources>
