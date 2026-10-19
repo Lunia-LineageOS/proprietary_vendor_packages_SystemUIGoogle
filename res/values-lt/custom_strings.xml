@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Įkrovimo priedo patikra</string>
     <string name="incompatible_charging_notify_des">Telefonas gali būti įkraunamas lėtai arba neįkraunamas. Kad greičiau įkrautumėte, naudokite rekomenduojamą laidą ir adapterį.</string>
     <string name="incompatible_charging_learn_more">Sužinokite daugiau</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Belaidis įkrovimas</string>
+    <string name="wireless_charging_notification_text">Naudojant belaidį įkrovimą gali būti eikvojama daugiau energijos, nei įkraunant laidu. Norėdami sutaupyti elektros ir laiko, pabandykite įkrauti laidu.</string>
 </resources>

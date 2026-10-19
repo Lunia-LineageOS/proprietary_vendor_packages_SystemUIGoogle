@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">检查充电配件</string>
     <string name="incompatible_charging_notify_des">您的手机可能充电缓慢或未在充电。为了更快充电，请使用推荐的数据线和适配器。</string>
     <string name="incompatible_charging_learn_more">了解详情</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">正在无线充电</string>
+    <string name="wireless_charging_notification_text">无线充电可能比有线充电消耗更多的能量。为了节省电力和时间，请尝试改用有线充电器。</string>
 </resources>

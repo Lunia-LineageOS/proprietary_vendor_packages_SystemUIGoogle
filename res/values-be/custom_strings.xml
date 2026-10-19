@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Праверце зарадную прыладу</string>
     <string name="incompatible_charging_notify_des">Магчыма, ваш тэлефон не зараджаецца або зараджаецца павольна. Каб паскорыць зарадку, выкарыстоўвайце рэкамендаваныя кабель і адаптар.</string>
     <string name="incompatible_charging_learn_more">Даведацца больш</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Ідзе бесправадная зарадка</string>
+    <string name="wireless_charging_notification_text">Пры бесправадной зарадцы можа расходавацца больш электраэнергіі, чым пры правадной. Каб сэканоміць электрычнасць і час, паспрабуйце выкарыстаць правадную зарадную прыладу.</string>
 </resources>

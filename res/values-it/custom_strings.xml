@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">"Controlla l'accessorio di ricarica"</string>
     <string name="incompatible_charging_notify_des">Lo smartphone potrebbe ricaricarsi lentamente o non ricaricarsi affatto. Per velocizzare la ricarica, usa un cavo e un alimentatore consigliati.</string>
     <string name="incompatible_charging_learn_more">Scopri di più</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Ricarica wireless in corso…</string>
+    <string name="wireless_charging_notification_text">La ricarica wireless potrebbe consumare più energia rispetto a quella con cavo. Per risparmiare elettricità e tempo, prova a passare a un caricabatterie con cavo.</string>
 </resources>

@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Kontrollera laddningstillbehöret</string>
     <string name="incompatible_charging_notify_des">Telefonen kanske laddas långsamt eller inte laddas alls. Använd en rekommenderad kabel och nätadapter för snabbare laddning.</string>
     <string name="incompatible_charging_learn_more">Läs mer</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Laddas trådlöst</string>
+    <string name="wireless_charging_notification_text">Trådlös laddning kan dra mer ström än laddning med kabel. Prova att byta till en laddningskabel för att spara el och tid.</string>
 </resources>

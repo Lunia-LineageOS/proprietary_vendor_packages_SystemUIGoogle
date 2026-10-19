@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">চার্জ করার অ্যাক্সেসরি চেক করুন</string>
     <string name="incompatible_charging_notify_des">আপনার ফোন হয়ত ধীরে ধীরে চার্জ হচ্ছে বা চার্জ হচ্ছে না। আরও দ্রুত চার্জের জন্য, সাজেস্ট করা কেবেল ও অ্যাডাপ্টার ব্যবহার করুন।</string>
     <string name="incompatible_charging_learn_more">আরও জানুন</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ওয়্যারলেস চার্জিং</string>
+    <string name="wireless_charging_notification_text">তারযুক্ত চার্জিংয়ের থেকে ওয়্যারলেস চার্জিংয়ের ক্ষেত্রে বেশি বিদ্যুৎ খরচ হতে পারে। বিদ্যুৎ খরচ ও সময় বাঁচাতে, তারযুক্ত চার্জার দিয়ে চার্জ দেওয়ার সুবিধায় পরিবর্তন করে নিন।</string>
 </resources>

@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Проверите додатну опрему за пуњење</string>
     <string name="incompatible_charging_notify_des">Телефон се можда споро пуни или се уопште не пуни. Ако желите брже пуњење, користите препоручени кабл и адаптер.</string>
     <string name="incompatible_charging_learn_more">Сазнајте више</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Бежично пуњење</string>
+    <string name="wireless_charging_notification_text">Бежично пуњење може да троши више енергије од жичаног пуњења. Да бисте уштедели време и струју, пређите на жичани пуњач.</string>
 </resources>

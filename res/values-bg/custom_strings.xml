@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Проверете аксесоара за зареждане</string>
     <string name="incompatible_charging_notify_des">Възможно е телефонът ви да се зарежда бавно или да не се зарежда. За по-бързо зареждане използвайте препоръчителните кабел и адаптер.</string>
     <string name="incompatible_charging_learn_more">Научете повече</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Безжично зареждане</string>
+    <string name="wireless_charging_notification_text">Безжичното зареждане може да използва повече електроенергия от това с кабел. За да спестите електричество и време, използвайте зарядно устройство с кабел.</string>
 </resources>

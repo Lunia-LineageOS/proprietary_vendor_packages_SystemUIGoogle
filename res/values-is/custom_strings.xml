@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Athugaðu hleðslubúnaðinn</string>
     <string name="incompatible_charging_notify_des">Síminn þinn hleðst hugsanlega hægt eða hleðst ekki. Notaðu straumbreyti og snúru sem mælt er með til að hlaða hraðar.</string>
     <string name="incompatible_charging_learn_more">Nánar</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Þráðlaus hleðsla</string>
+    <string name="wireless_charging_notification_text">Þráðlaus hleðsla kann að nota meiri orku en hleðsla með snúru. Til að spara rafmagn og tíma skaltu prófa að skipta yfir í hleðslu með snúru.</string>
 </resources>

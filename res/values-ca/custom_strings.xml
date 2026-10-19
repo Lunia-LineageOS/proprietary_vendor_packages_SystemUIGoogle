@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">"Revisa l'accessori de càrrega"</string>
     <string name="incompatible_charging_notify_des">"És possible que el telèfon s'estigui carregant lentament o que no s'estigui carregant. Per carregar-lo ràpidament, utilitza un cable i un adaptador recomanats."</string>
     <string name="incompatible_charging_learn_more">Més informació</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Càrrega sense fil</string>
+    <string name="wireless_charging_notification_text">És possible que la càrrega sense fil utilitzi més energia que la càrrega amb cable. Per estalviar electricitat i temps, prova de canviar a un carregador amb cable.</string>
 </resources>

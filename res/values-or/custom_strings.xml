@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ଚାର୍ଜିଂ ଆକସେସୋରୀକୁ ଯାଞ୍ଚ କରନ୍ତୁ</string>
     <string name="incompatible_charging_notify_des">ଆପଣଙ୍କ ଫୋନ ଧୀରେ ଚାର୍ଜ ହେଉଥାଇପାରେ କିମ୍ବା ଚାର୍ଜ ହେଉନଥାଇପାରେ। ଆହୁରି ଶୀଘ୍ର ଚାର୍ଜ କରିବା ପାଇଁ ସୁପାରିଶ କରାଯାଇଥିବା ଏକ କେବୁଲ ଓ ଆଡାପ୍ଟର ବ୍ୟବହାର କରନ୍ତୁ।</string>
     <string name="incompatible_charging_learn_more">ଅଧିକ ଜାଣନ୍ତୁ</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ୱେୟାରଲେସ ଭାବେ ଚାର୍ଜ କରାଯାଉଛି</string>
+    <string name="wireless_charging_notification_text">ୱାୟାର୍ଡ ଚାର୍ଜିଂ ତୁଳନାରେ ୱାୟାରଲେସ ଚାର୍ଜିଂ ଅଧିକ ଏନର୍ଜି ବ୍ୟବହାର କରିପାରେ। ଇଲେକ୍ଟ୍ରିସିଟି ଏବଂ ସମୟ ବଞ୍ଚାଇବା ପାଇଁ ଏକ ତାରଯୁକ୍ତ ଚାର୍ଜରକୁ ସୁଇଚ କରିବାକୁ ଚେଷ୍ଟା କରନ୍ତୁ।</string>
 </resources>

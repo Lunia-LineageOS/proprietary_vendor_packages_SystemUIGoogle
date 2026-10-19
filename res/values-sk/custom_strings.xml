@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Skontrolujte nabíjacie príslušenstvo</string>
     <string name="incompatible_charging_notify_des">Váš telefón sa zrejme nabíja pomaly alebo sa nenabíja vôbec. Ak chcete, aby sa nabíjalo rýchlejšie, použite odporúčaný kábel a nabíjačku.</string>
     <string name="incompatible_charging_learn_more">Ďalšie informácie</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Nabíja sa bezdrôtovo</string>
+    <string name="wireless_charging_notification_text">Bezdrôtové nabíjanie môže spotrebovávať viac energie než káblové nabíjanie. Vyskúšajte káblovú nabíjačku, aby ste ušetrili elektrinu aj čas.</string>
 </resources>

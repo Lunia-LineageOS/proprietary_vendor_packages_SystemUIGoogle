@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ពិនិត្យមើលគ្រឿងសាកថ្ម</string>
     <string name="incompatible_charging_notify_des">ទូរសព្ទរបស់អ្នកអាចនឹងសាកថ្មយឺត ឬមិនសាក។ សម្រាប់ការសាកថ្មរហ័ស សូមប្រើខ្សែ និងអាដាប់ទ័រតាមការណែនាំ។</string>
     <string name="incompatible_charging_learn_more">ស្វែងយល់បន្ថែម</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">កំពុង​សាកថ្ម​ដោយឥតខ្សែ</string>
+    <string name="wireless_charging_notification_text">ការសាកថ្មឥតខ្សែអាចប្រើថាមពលច្រើនជាងការសាកថ្មមានខ្សែ។ ដើម្បី​សន្សំសំចៃ​អគ្គិសនី និង​ចំណេញពេល សូមសាកល្បង​ប្ដូរទៅ​ឆ្នាំងសាក​ប្រើខ្សែ។</string>
 </resources>

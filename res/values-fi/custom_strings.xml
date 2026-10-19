@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Tarkista latauslisävaruste</string>
     <string name="incompatible_charging_notify_des">Puhelin saattaa latautua hitaasti tai ei lainkaan. Käytä suositeltua johtoa ja laturia, jotta akku latautuu nopeammin.</string>
     <string name="incompatible_charging_learn_more">Lue lisää</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Ladataan langattomasti</string>
+    <string name="wireless_charging_notification_text">Langaton lataus voi kuluttaa enemmän energiaa kuin lataus johdon kautta. Säästä sähköä ja aikaa vaihtamalla johdolliseen laturiin.</string>
 </resources>

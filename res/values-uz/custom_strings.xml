@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Quvvatlash aksessuarini tekshiring</string>
     <string name="incompatible_charging_notify_des">Telefoningiz sekin quvvat olyapti yoki umuman olmayapti. Tezroq quvvatlash uchun tavsiya etiladigan quvvat kabel va adapterdan foydalaning.</string>
     <string name="incompatible_charging_learn_more">Batafsil</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Simsiz quvvat olmoqda</string>
+    <string name="wireless_charging_notification_text">Simsiz quvvatlash simli quvvatlashdan koʻra koʻproq quvvat sarflashi mumkin. Elektr quvvati va vaqtni tejash uchun simli quvvatlagichni ulang.</string>
 </resources>

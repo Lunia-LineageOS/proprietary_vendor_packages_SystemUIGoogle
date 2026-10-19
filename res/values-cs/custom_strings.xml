@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Zkontrolujte nabíjecí příslušenství</string>
     <string name="incompatible_charging_notify_des">Telefon se nabíjí pomalu nebo se nenabíjí vůbec. K rychlejšímu nabíjení použijte doporučený kabel a adaptér.</string>
     <string name="incompatible_charging_learn_more">Další informace</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Bezdrátové nabíjení</string>
+    <string name="wireless_charging_notification_text">Bezdrátové nabíjení může spotřebovávat víc energie než nabíjení přes kabel. Pokud chcete ušetřit elektřinu a čas, zkuste použít nabíječku s kabelem.</string>
 </resources>

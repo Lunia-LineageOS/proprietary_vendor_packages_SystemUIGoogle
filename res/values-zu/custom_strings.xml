@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Hlola insiza yokushaja</string>
     <string name="incompatible_charging_notify_des">Ifoni yakho kungenzeka ishaja kancane noma ayishaji. Ukuze ushaje ngokushesha, sebenzisa ikhebula ne-adaptha enconyiwe.</string>
     <string name="incompatible_charging_learn_more">Funda kabanzi</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Ukushaja okungenantambo</string>
+    <string name="wireless_charging_notification_text">Ukushaja okungenantambo kungase kusebenzise amandla amaningi kunokushaja okunentambo. Ukuze wonge ugesi nesikhathi, zama ukushintshela eshajeni enentambo.</string>
 </resources>

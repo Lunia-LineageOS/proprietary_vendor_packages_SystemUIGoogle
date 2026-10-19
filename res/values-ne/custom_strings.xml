@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">चार्जिङ एक्सेसरी जाँच्नुहोस्</string>
     <string name="incompatible_charging_notify_des">तपाईंको फोन बिस्तारै चार्ज भइरहेको वा चार्ज नै नभइरहेको हुन सक्छ। अझ छिटो चार्ज गर्न सिफारिस गरिएको केबल र एडाप्टर प्रयोग गर्नुहोस्।</string>
     <string name="incompatible_charging_learn_more">थप जान्नुहोस्</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">वायरलेस तरिकाले चार्ज गरिँदै छ</string>
+    <string name="wireless_charging_notification_text">तारयुक्त चार्जिङले ताररहित चार्जिङको तुलनामा बढी ऊर्जा प्रयोग गर्न सक्छ। बिजुली र समय बचत गर्न तारयुक्त चार्जर प्रयोग गरी हेर्नुहोस्।</string>
 </resources>

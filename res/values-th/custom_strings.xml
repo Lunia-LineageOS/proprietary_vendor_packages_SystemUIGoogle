@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ตรวจสอบอุปกรณ์เสริมสำหรับการชาร์จ</string>
     <string name="incompatible_charging_notify_des">โทรศัพท์อาจชาร์จอย่างช้าๆ หรือไม่ชาร์จ ให้ใช้สายและอะแดปเตอร์ที่แนะนำเพื่อให้ชาร์จได้เร็วขึ้น</string>
     <string name="incompatible_charging_learn_more">ดูข้อมูลเพิ่มเติม</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">กำลังชาร์จแบบไร้สาย</string>
+    <string name="wireless_charging_notification_text">การชาร์จแบบไร้สายอาจใช้พลังงานมากกว่าการชาร์จด้วยสาย ลองเปลี่ยนไปใช้ที่ชาร์จแบบมีสายเพื่อประหยัดไฟฟ้าและเวลา</string>
 </resources>

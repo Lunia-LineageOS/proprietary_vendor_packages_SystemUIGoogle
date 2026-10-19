@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">"Vérifier l'accessoire de recharge"</string>
     <string name="incompatible_charging_notify_des">Votre téléphone se recharge peut-être lentement ou pas du tout. Pour une recharge plus rapide, utilisez un câble et un adaptateur recommandés.</string>
     <string name="incompatible_charging_learn_more">En savoir plus</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Recharge sans fil en cours</string>
+    <string name="wireless_charging_notification_text">"La recharge sans fil peut consommer plus d'énergie que la recharge filaire. Pour économiser de l'électricité et du temps, essayez de passer à un chargeur filaire."</string>
 </resources>

@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Verifica el accesorio de carga</string>
     <string name="incompatible_charging_notify_des">Es posible que tu teléfono se esté cargando lentamente o no se esté cargando. Para una carga más rápida, usa un cable y un adaptador recomendados.</string>
     <string name="incompatible_charging_learn_more">Más información</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Carga inalámbrica</string>
+    <string name="wireless_charging_notification_text">Es posible que la carga inalámbrica consuma más energía que la carga con cable. Para ahorrar electricidad y tiempo, usa un cargador con cable.</string>
 </resources>

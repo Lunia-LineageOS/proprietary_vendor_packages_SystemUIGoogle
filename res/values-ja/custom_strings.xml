@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">充電用アクセサリーを確認してください</string>
     <string name="incompatible_charging_notify_des">スマートフォンのバッテリーが充電されていないか、充電に非常に時間がかかっています。充電をすばやく完了するには、推奨されるケーブルとアダプターを使用してください。</string>
     <string name="incompatible_charging_learn_more">詳細</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ワイヤレス充電中</string>
+    <string name="wireless_charging_notification_text">ワイヤレス充電は有線での充電よりも電力使用量が増えることがあります。電力と時間を節約するには、有線充電器に切り替えてみてください。</string>
 </resources>

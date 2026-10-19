@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Ստուգեք լիցքավորիչը</string>
     <string name="incompatible_charging_notify_des">Ձեր հեռախոսը կարող է դանդաղ լիցքավորվել կամ ընդհանրապես չլիցքավորվել։ Արագ լիցքավորման համար օգտագործեք խորհուրդ տրվող մալուխը և ադապտերը։</string>
     <string name="incompatible_charging_learn_more">Իմանալ ավելին</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Անլար լիցքավորում</string>
+    <string name="wireless_charging_notification_text">Անլար լիցքավորման ժամանակ կարող է ավելի շատ էներգիա ծախսվել, քան լարով լիցքավորման ժամանակ։ Էլեկտրաէներգիա և ժամանակ խնայելու համար օգտագործեք լարով լիցքավորիչ։</string>
 </resources>

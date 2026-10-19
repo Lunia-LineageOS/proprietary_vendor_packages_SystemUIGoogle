@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Eman begiratu bat kargatzeko osagarriari</string>
     <string name="incompatible_charging_notify_des">Agian telefonoa ez da kargatzen ari edo oso mantso kargatzen ari da. Bizkorrago karga dadin, erabili gomendatutako egokigailu bat eta kable bat.</string>
     <string name="incompatible_charging_learn_more">Lortu informazio gehiago</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Hari gabe kargatzen</string>
+    <string name="wireless_charging_notification_text">Baliteke hari gabe kargatzean energia gehiago kontsumitzea kable bidez kargatzean baino. Elektrizitatea eta denbora aurrezteko, aldatu kargagailu kabledun batera.</string>
 </resources>

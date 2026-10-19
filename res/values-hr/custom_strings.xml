@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Provjerite dodatak za punjenje</string>
     <string name="incompatible_charging_notify_des">Telefon se možda sporo puni ili se ne puni. Za brže punjenje upotrijebite preporučeni kabel i pretvarač napona.</string>
     <string name="incompatible_charging_learn_more">Saznajte više</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Bežično punjenje</string>
+    <string name="wireless_charging_notification_text">Bežično punjenje može upotrebljavati više energije od punjenja s kabelom za napajanje. Da biste uštedjeli na električnoj energiji i vremenu, prebacite se na punjač s kabelom za napajanje.</string>
 </resources>

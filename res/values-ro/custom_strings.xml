@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Verifică accesoriul de încărcare</string>
     <string name="incompatible_charging_notify_des">Este posibil ca telefonul tău să se încarce lent sau deloc. Pentru încărcare mai rapidă, folosește un cablu și un adaptor recomandat.</string>
     <string name="incompatible_charging_learn_more">Află mai multe</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Se încarcă wireless</string>
+    <string name="wireless_charging_notification_text">Încărcarea wireless poate consuma mai multă energie decât cea cu fir. Ca să economisești electricitate și timp, treci la un încărcător cu fir.</string>
 </resources>

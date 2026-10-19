@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Comprobar os accesorios de carga</string>
     <string name="incompatible_charging_notify_des">É posible que o teu teléfono estea cargando lentamente ou non cargue. Para acelerar a carga, usa un adaptador e un cable recomendados.</string>
     <string name="incompatible_charging_learn_more">Máis información</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Carga sen fíos</string>
+    <string name="wireless_charging_notification_text">A carga sen fíos pode consumir máis enerxía que a carga con fíos. Para aforrar electricidade e tempo, proba cun cargador con cable.</string>
 </resources>

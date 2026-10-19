@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Pārbaudiet uzlādes piederumu</string>
     <string name="incompatible_charging_notify_des">Iespējams, tālruņa uzlāde notiek lēni vai nenotiek nemaz. Lai paātrinātu uzlādi, izmantojiet kādu no ieteiktajiem vadiem un adapteriem.</string>
     <string name="incompatible_charging_learn_more">Uzzināt vairāk</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Notiek bezvadu uzlāde</string>
+    <string name="wireless_charging_notification_text">Bezvadu uzlāde var patērēt vairāk enerģijas nekā uzlāde ar vadu. Lai ietaupītu elektrību un laiku, varat pārslēgties uz vadu lādētāju.</string>
 </resources>

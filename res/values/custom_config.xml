@@ -15,6 +15,9 @@
     <!-- Whether to show the incompatible charger notification -->
     <bool name="config_incompatible_charging_warning_enabled">true</bool>
 
+    <!-- Whether to show the wireless charging notification on EU devices -->
+    <bool name="config_wireless_charging_warning_enabled">false</bool>
+
     <!-- Whether to show the charge limit discovery notification on EU devices -->
     <bool name="config_charge_limit_discovery_enabled">false</bool>
 

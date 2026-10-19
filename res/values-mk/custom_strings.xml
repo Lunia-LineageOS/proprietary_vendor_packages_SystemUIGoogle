@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Проверете го додатокот за полнење</string>
     <string name="incompatible_charging_notify_des">Можеби вашиот телефон се полни бавно или не се полни. За побрзо полнење, користете препорачани кабел и адаптер.</string>
     <string name="incompatible_charging_learn_more">Дознајте повеќе</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Безжично полнење</string>
+    <string name="wireless_charging_notification_text">Безжичното полнење може да потроши повеќе електрична енергија од полнењето преку кабел. За да заштедите струја и време, префрлете се на полнач со кабел.</string>
 </resources>

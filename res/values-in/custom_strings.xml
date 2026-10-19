@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Periksa aksesori pengisi daya</string>
     <string name="incompatible_charging_notify_des">Ponsel Anda mungkin mengisi daya lambat atau tidak mengisi daya. Untuk mengisi daya lebih cepat, gunakan kabel dan adaptor yang direkomendasikan.</string>
     <string name="incompatible_charging_learn_more">Pelajari lebih lanjut</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Mengisi daya secara nirkabel</string>
+    <string name="wireless_charging_notification_text">Pengisian daya nirkabel mungkin menggunakan lebih banyak energi dibandingkan pengisian daya berkabel. Untuk menghemat listrik dan waktu, coba beralih ke pengisian daya melalui kabel.</string>
 </resources>

@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Check charging accessory</string>
     <string name="incompatible_charging_notify_des">Your phone may be charging slowly or not charging. For faster charging, use a recommended cable and adapter.</string>
     <string name="incompatible_charging_learn_more">Learn more</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Wirelessly charging</string>
+    <string name="wireless_charging_notification_text">Wireless charging may use more energy than wired charging. To save electricity and time, try switching to a wired charger.</string>
 </resources>

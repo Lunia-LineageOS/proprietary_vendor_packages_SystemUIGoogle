@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ਚਾਰਜਿੰਗ ਐਕਸੈਸਰੀ ਦੀ ਜਾਂਚ ਕਰੋ</string>
     <string name="incompatible_charging_notify_des">ਸ਼ਾਇਦ ਤੁਹਾਡਾ ਫ਼ੋਨ ਹੌਲੀ-ਹੌਲੀ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ ਜਾਂ ਚਾਰਜ ਨਹੀਂ ਹੋ ਰਿਹਾ। ਤੇਜ਼ੀ ਨਾਲ ਚਾਰਜ ਕਰਨ ਲਈ, ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਕੇਬਲ ਅਤੇ ਅਡਾਪਟਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
     <string name="incompatible_charging_learn_more">ਹੋਰ ਜਾਣੋ</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ਵਾਇਰਲੈੱਸ ਚਾਰਜਿੰਗ</string>
+    <string name="wireless_charging_notification_text">ਵਾਇਰਲੈੱਸ ਚਾਰਜਿੰਗ ਵਿੱਚ ਤਾਰ ਵਾਲੀ ਚਾਰਜਿੰਗ ਨਾਲੋਂ ਜ਼ਿਆਦਾ ਊਰਜਾ ਦੀ ਵਰਤੋਂ ਹੋ ਸਕਦੀ ਹੈ। ਬਿਜਲੀ ਅਤੇ ਸਮਾਂ ਬਚਾਉਣ ਲਈ, ਤਾਰ ਵਾਲੇ ਚਾਰਜਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
 </resources>

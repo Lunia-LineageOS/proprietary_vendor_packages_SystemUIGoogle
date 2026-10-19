@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Kagua kifaa cha kuchaji</string>
     <string name="incompatible_charging_notify_des">Huenda simu yako inachaji polepole au haichaji. Ili uchaji kwa kasi, tumia kebo na adapta inayopendekezwa.</string>
     <string name="incompatible_charging_learn_more">Pata maelezo zaidi</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Inachaji bila kutumia waya</string>
+    <string name="wireless_charging_notification_text">Kuchaji bila kutumia waya kunaweza kutumia nishati zaidi kuliko kuchaji kwa kutumia waya. Ili uokoe muda na umeme, jaribu kubadilisha uchaji ukitumia waya.</string>
 </resources>

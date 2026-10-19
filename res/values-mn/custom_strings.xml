@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Цэнэглэх нэмэлт хэрэгслийг шалгах</string>
     <string name="incompatible_charging_notify_des">Таны утас удаан цэнэглэгдэж эсвэл цэнэглэгдээгүй байж магадгүй. Илүү хурдан цэнэглэхийн тулд санал болгосон кабель болон адаптерыг ашиглана уу.</string>
     <string name="incompatible_charging_learn_more">Нэмэлт мэдээлэл авах</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Утасгүй цэнэглэж байна</string>
+    <string name="wireless_charging_notification_text">Утасгүй цэнэглэх нь утастай цэнэглэхээс илүү их эрчим хүч ашиглаж магадгүй. Цахилгаан болон цаг хэмнэхийн тулд утастай цэнэглэгч рүү сэлгэж үзнэ үү.</string>
 </resources>

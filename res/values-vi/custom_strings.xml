@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Hãy kiểm tra phụ kiện dùng để sạc</string>
     <string name="incompatible_charging_notify_des">Điện thoại của bạn có thể sạc chậm hoặc không sạc được. Để sạc nhanh hơn, hãy dùng bộ sạc và cáp sạc được đề xuất.</string>
     <string name="incompatible_charging_learn_more">Tìm hiểu thêm</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Sạc không dây</string>
+    <string name="wireless_charging_notification_text">Việc dùng sạc không dây có thể tốn nhiều năng lượng hơn sạc có dây. Để tiết kiệm điện và thời gian, hãy thử chuyển sang dùng bộ sạc có dây.</string>
 </resources>

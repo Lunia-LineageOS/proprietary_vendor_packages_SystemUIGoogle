@@ -93,6 +93,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private BatteryDefenderNotificationHandler mBatteryDefenderNotificationHandler;
     private AdaptiveChargingNotification mAdaptiveChargingNotification;
     private IncompatibleChargerNotification mIncompatibleChargerNotification;
+    private WirelessChargingNotification mWirelessChargingNotification;
     private ChargeLimitDiscoveryNotification mChargeLimitDiscoveryNotification;
     private BatterySaverConfirmationDialog mBatterySaverConfirmationDialog;
     private BroadcastReceiver mLotXBroadcastReceiver;
@@ -342,8 +343,24 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     }
 
     private void registerLotXReceiver(Context context, UiEventLogger uiEventLogger) {
+        Resources resources = context.getResources();
         IntentFilter filter = new IntentFilter();
-        if (context.getResources().getBoolean(R.bool.config_charge_limit_discovery_enabled)) {
+        if (resources.getBoolean(R.bool.config_wireless_charging_warning_enabled)) {
+            mWirelessChargingNotification =
+                    new WirelessChargingNotification(
+                            context,
+                            mExecutor,
+                            mActivityStarter,
+                            uiEventLogger,
+                            mDeviceProvisionedController,
+                            mDeviceStateManager,
+                            mSubscriptionManager);
+            filter.addAction(
+                    WirelessChargingNotification.ACTION_DISMISS_WIRELESS_CHARGING_NOTIFICATION);
+            filter.addAction(
+                    WirelessChargingNotification.ACTION_CLICK_WIRELESS_CHARGING_NOTIFICATION);
+        }
+        if (resources.getBoolean(R.bool.config_charge_limit_discovery_enabled)) {
             mChargeLimitDiscoveryNotification =
                     new ChargeLimitDiscoveryNotification(
                             context,
@@ -375,6 +392,21 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                         Log.d(TAG, "LotXReceiver onReceive: " + intent.getAction());
                         switch (intent.getAction()) {
                             case Intent.ACTION_BATTERY_CHANGED:
+                                if (mWirelessChargingNotification != null) {
+                                    mWirelessChargingNotification.dispatchIntent(intent);
+                                }
+                                if (mChargeLimitDiscoveryNotification != null) {
+                                    mChargeLimitDiscoveryNotification.dispatchIntent(intent);
+                                }
+                                break;
+                            case WirelessChargingNotification
+                                    .ACTION_DISMISS_WIRELESS_CHARGING_NOTIFICATION:
+                            case WirelessChargingNotification
+                                    .ACTION_CLICK_WIRELESS_CHARGING_NOTIFICATION:
+                                if (mWirelessChargingNotification != null) {
+                                    mWirelessChargingNotification.dispatchIntent(intent);
+                                }
+                                break;
                             case "systemui.power.action.enableChargeLimitFeature":
                             case "systemui.power.action.dismissChargeLimitNotification":
                             case "systemui.power.action.clickChargeLimitNotification":

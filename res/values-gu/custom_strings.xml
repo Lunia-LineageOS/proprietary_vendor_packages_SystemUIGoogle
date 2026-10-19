@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ચાર્જિંગ ઍક્સેસરી ચેક કરો</string>
     <string name="incompatible_charging_notify_des">તમારો ફોન ધીમે ચાર્જ થઈ રહ્યો હોય અથવા ચાર્જ ન થઈ રહ્યો હોય એવું બની શકે છે. વધુ ઝડપી ચાર્જિંગ માટે, સુઝાવ આપેલા કેબલ અને અડૅપ્ટરનો ઉપયોગ કરો.</string>
     <string name="incompatible_charging_learn_more">વધુ જાણો</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">વાયરલેસ રીતે ચાર્જ થઈ રહ્યું છે</string>
+    <string name="wireless_charging_notification_text">વાયર્ડ ચાર્જિંગ કરતાં વાયરલેસ ચાર્જિંગથી ઊર્જાનો વધુ વપરાશ થઈ શકે છે. વીજળી અને સમયની બચત કરવા માટે, વાયર્ડ ચાર્જર પર સ્વિચ કરવાનું અજમાવી જુઓ.</string>
 </resources>

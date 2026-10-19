@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">يجب فحص ملحق الشحن</string>
     <string name="incompatible_charging_notify_des">قد يتم شحن هاتفك ببطء أو لا يتم شحنه. لشحن أسرع، استخدِم كابل ومحوِّل طاقة يُنصح باستخدامهما.</string>
     <string name="incompatible_charging_learn_more">مزيد من المعلومات</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">الشحن لاسلكيًا</string>
+    <string name="wireless_charging_notification_text">قد يستخدِم الشحن اللاسلكي طاقة أكبر من الشحن السلكي. جرِّب التبديل إلى شاحن سلكي لتوفير الكهرباء والوقت.</string>
 </resources>

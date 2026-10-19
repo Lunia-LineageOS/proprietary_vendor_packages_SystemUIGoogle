@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Şarj aksesuarını yoxlayın</string>
     <string name="incompatible_charging_notify_des">Telefon asta şarj edilə, yaxud şarj edilməyə bilər. Sürətli şarj üçün tövsiyə edilən kabel və adapter istifadə edin.</string>
     <string name="incompatible_charging_learn_more">Ətraflı məlumat</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Simsiz şarj</string>
+    <string name="wireless_charging_notification_text">Simsiz enerji simli enerjidən daha çox enerji sərf edə bilər. Enerji və vaxta qənaət etmək üçün simli adapterə dəyişin.</string>
 </resources>

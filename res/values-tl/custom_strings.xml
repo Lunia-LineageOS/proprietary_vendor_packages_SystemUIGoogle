@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Suriin ang accessory sa pag-charge</string>
     <string name="incompatible_charging_notify_des">Posibleng mabagal ang pag-charge o hindi nag-charge ang iyong telepono. Para sa mas mabilis na pag-charge, gumamit ng inirerekomendang cable at adapter.</string>
     <string name="incompatible_charging_learn_more">Matuto pa</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Wireless na pag-charge</string>
+    <string name="wireless_charging_notification_text">Posibleng gumamit ng mas maraming energy ang wireless na pag-charge kaysa sa wired na pag-charge. Para makatipid ng kuryente at oras, subukang lumipat sa wired na charger.</string>
 </resources>

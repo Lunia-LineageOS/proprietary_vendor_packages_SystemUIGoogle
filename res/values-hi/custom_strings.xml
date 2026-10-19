@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">चार्जिंग ऐक्सेसरी की जांच करें</string>
     <string name="incompatible_charging_notify_des">ऐसा हो सकता है कि आपका फ़ोन धीरे चार्ज हो रहा हो या चार्ज न हो रहा हो. इसे तेज़ी से चार्ज करने के लिए, सुझाए गए अडैप्टर और केबल का इस्तेमाल करें.</string>
     <string name="incompatible_charging_learn_more">ज़्यादा जानें</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">वायरलेस तरीके से चार्ज हो रहा है</string>
+    <string name="wireless_charging_notification_text">तार वाले चार्जर की तुलना में, तार के बिना चार्ज करने (वायरलेस चार्जिंग) से बिजली ज़्यादा खर्च हो सकती है. बिजली और अपना समय बचाने के लिए, तार वाला चार्जर इस्तेमाल करें.</string>
 </resources>

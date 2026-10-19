@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ກວດເບິ່ງອຸປະກອນການສາກ</string>
     <string name="incompatible_charging_notify_des">ໂທລະສັບຂອງທ່ານອາດສາກຢ່າງຊ້າໆ ຫຼື ບໍ່ສາກ. ເພື່ອການສາກທີ່ໄວຂຶ້ນ, ໃຫ້ໃຊ້ສາຍ ແລະ ຫົວສາກທີ່ແນະນຳໃຫ້.</string>
     <string name="incompatible_charging_learn_more">ສຶກສາເພີ່ມເຕີມ</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ການສາກໄຟໄຮ້ສາຍ</string>
+    <string name="wireless_charging_notification_text">ການສາກໄຟໄຮ້ສາຍອາດໃຊ້ພະລັງງານຫຼາຍກວ່າການສາກແບບມີສາຍ. ເພື່ອປະຢັດໄຟຟ້າ ແລະ ເວລາ, ກະລຸນາປ່ຽນໄປໃຊ້ການສາກແບບມີສາຍ.</string>
 </resources>

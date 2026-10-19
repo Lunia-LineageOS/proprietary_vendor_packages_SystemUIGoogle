@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">சார்ஜிங் துணைக்கருவியைச் சரிபார்த்தல்</string>
     <string name="incompatible_charging_notify_des">உங்கள் மொபைல் மெதுவாகச் சார்ஜ் ஆகலாம் அல்லது சார்ஜ் ஆகாமல் இருக்கலாம். விரைவாகச் சார்ஜ் ஆவதற்கு, பரிந்துரைக்கப்படும் கேபிளையும் அடாப்டரையும் பயன்படுத்துங்கள்.</string>
     <string name="incompatible_charging_learn_more">மேலும் அறிக</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">வயர்லெஸ் முறையில் சார்ஜ் செய்தல்</string>
+    <string name="wireless_charging_notification_text">வயர்டு சார்ஜிங்கை விட வயர்லெஸ் சார்ஜிங் கூடுதல் மின்சாரத்தைப் பயன்படுத்தக்கூடும். மின்சாரத்தையும் நேரத்தையும் சேமிக்க, வயர்டு சார்ஜரைப் பயன்படுத்துங்கள்.</string>
 </resources>

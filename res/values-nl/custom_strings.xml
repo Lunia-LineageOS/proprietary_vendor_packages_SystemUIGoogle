@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Oplaadaccessoire checken</string>
     <string name="incompatible_charging_notify_des">Je telefoon laadt misschien langzaam of helemaal niet op. Gebruik een aanbevolen kabel en adapter om sneller op te laden.</string>
     <string name="incompatible_charging_learn_more">Meer informatie</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Draadloos opladen</string>
+    <string name="wireless_charging_notification_text">Draadloos opladen kan meer stroom verbruiken dan bedraad opladen. Stap over op opladen met een snoer om elektriciteit en tijd te besparen.</string>
 </resources>

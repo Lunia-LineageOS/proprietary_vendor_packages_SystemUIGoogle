@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Preverite pripomoček za polnjenje</string>
     <string name="incompatible_charging_notify_des">Baterija telefona se morda polni počasi ali se sploh ne polni. Za hitrejše polnjenje uporabite priporočena kabel in napajalnik.</string>
     <string name="incompatible_charging_learn_more">Več o tem</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Brezžično polnjenje</string>
+    <string name="wireless_charging_notification_text">Brezžično polnjenje morda porabi več energije kot žično polnjenje. Če imate možnost, uporabite žični polnilnik, da boste prihranili elektriko in čas.</string>
 </resources>

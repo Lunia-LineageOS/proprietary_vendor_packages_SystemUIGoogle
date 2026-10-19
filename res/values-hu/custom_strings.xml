@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">A töltőtartozék ellenőrzése</string>
     <string name="incompatible_charging_notify_des">Előfordulhat, hogy telefonja lassan vagy egyáltalán nem tölt. A gyorsabb töltéshez használjon ajánlott kábelt és adaptert.</string>
     <string name="incompatible_charging_learn_more">További információ</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Vezeték nélküli töltés folyamatban</string>
+    <string name="wireless_charging_notification_text">A vezeték nélküli töltéshez több energiára lehet szükség, mint a vezetékes töltéshez. Ha vezetékes töltőre vált, villamos áramot és időt spórolhat meg.</string>
 </resources>

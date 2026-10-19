@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Sprawdź akcesoria do ładowania</string>
     <string name="incompatible_charging_notify_des">Telefon może ładować się powoli lub w ogóle się nie ładować. Aby ładować szybciej, użyj zalecanego kabla i ładowarki.</string>
     <string name="incompatible_charging_learn_more">Więcej informacji</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Ładowanie bezprzewodowe</string>
+    <string name="wireless_charging_notification_text">Ładowanie bezprzewodowe może zużywać więcej energii niż przewodowe. Aby oszczędzać energię i czas, używaj ładowarki przewodowej.</string>
 </resources>

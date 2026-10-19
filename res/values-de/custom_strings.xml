@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Ladezubehör prüfen</string>
     <string name="incompatible_charging_notify_des">Dein Smartphone lädt möglicherweise langsamer oder gar nicht. Damit es schneller lädt, solltest du ein empfohlenes Kabel und Netzteil verwenden.</string>
     <string name="incompatible_charging_learn_more">Weitere Informationen</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Kabelloses Laden</string>
+    <string name="wireless_charging_notification_text">Das kabellose Laden kann mehr Energie verbrauchen als das Laden mit Kabel. Wenn du ein Ladegerät mit Kabel verwendest, kannst du Strom und Zeit sparen.</string>
 </resources>

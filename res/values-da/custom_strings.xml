@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Tjek opladningstilbehøret</string>
     <string name="incompatible_charging_notify_des">Din telefon oplader muligvis langsomt eller slet ikke. Opnå hurtigere opladning ved at bruge et kabel og en adapter, som er anbefalet.</string>
     <string name="incompatible_charging_learn_more">Få flere oplysninger</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Trådløs opladning</string>
+    <string name="wireless_charging_notification_text">Trådløs opladning kan kræve mere energi end opladning med ledning. Skift til en oplader med ledning for at spare på elforbruget og oplade hurtigere.</string>
 </resources>

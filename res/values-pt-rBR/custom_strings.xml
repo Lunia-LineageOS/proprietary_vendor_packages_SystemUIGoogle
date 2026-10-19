@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Verificar acessório de carregamento</string>
     <string name="incompatible_charging_notify_des">O smartphone pode estar com o carregamento lento ou não estar carregando. Para um carregamento mais rápido, use um cabo e um adaptador recomendados.</string>
     <string name="incompatible_charging_learn_more">Saiba mais</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Carregando sem fio</string>
+    <string name="wireless_charging_notification_text">O carregamento sem fio pode usar mais energia do que o com fio. Para economizar eletricidade e tempo, tente usar um carregador com fio.</string>
 </resources>

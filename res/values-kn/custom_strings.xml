@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ಚಾರ್ಜಿಂಗ್ ಪರಿಕರವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
     <string name="incompatible_charging_notify_des">ನಿಮ್ಮ ಫೋನ್ ನಿಧಾನವಾಗಿ ಚಾರ್ಜ್ ಆಗುತ್ತಿರಬಹುದು ಅಥವಾ ಚಾರ್ಜ್ ಆಗದೇ ಇರಬಹುದು. ವೇಗವಾಗಿ ಚಾರ್ಜ್ ಮಾಡಲು, ಶಿಫಾರಸು ಮಾಡಲಾದ ಕೇಬಲ್ ಮತ್ತು ಅಡಾಪ್ಟರ್ ಅನ್ನು ಬಳಸಿ.</string>
     <string name="incompatible_charging_learn_more">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್</string>
+    <string name="wireless_charging_notification_text">ವೈಯರ್ಡ್ ಚಾರ್ಜಿಂಗ್‌ಗಿಂತ ಹೆಚ್ಚಿನ ವಿದ್ಯುತ್ ಅನ್ನು ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್ ಬಳಸಿಕೊಳ್ಳಬಹುದು. ವಿದ್ಯುತ್ ಮತ್ತು ಸಮಯವನ್ನು ಉಳಿಸಲು, ವೈಯರ್ಡ್ ಚಾರ್ಜರ್‌ಗೆ ಬದಲಿಸಿ ನೋಡಿ.</string>
 </resources>

@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ചാർജിംഗ് ആക്സസറി പരിശോധിക്കുക</string>
     <string name="incompatible_charging_notify_des">നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുന്നില്ല അല്ലെങ്കിൽ പതിയെ ചാർജ് ചെയ്യുന്നു. വേഗത്തിലുള്ള ചാർജിംഗിനായി, നിർദ്ദേശിച്ച കേബിളും അഡാപ്റ്ററും ഉപയോഗിക്കുക.</string>
     <string name="incompatible_charging_learn_more">കൂടുതലറിയുക</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">വയർലെസ്സായി ചാർജ് ചെയ്യുന്നു</string>
+    <string name="wireless_charging_notification_text">വയർലെസ് ചാർജിംഗ്, വയേർഡ് ചാർജിംഗിനേക്കാൾ കൂടുതൽ ഊർജ്ജം ഉപയോഗിച്ചേക്കാം. വൈദ്യുതിയും സമയവും ലാഭിക്കാൻ, വയേർഡ് ചാർജറിലേക്ക് മാറിനോക്കുക.</string>
 </resources>

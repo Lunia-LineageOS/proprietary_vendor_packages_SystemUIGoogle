@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">အားသွင်းပစ္စည်းကို စစ်ခြင်း</string>
     <string name="incompatible_charging_notify_des">သင့်ဖုန်းသည် နှေးကွေးစွာ အားသွင်းနေသည် (သို့) ၎င်းကို အားသွင်းမနေပါ။ အမြန်အားသွင်းခြင်းအတွက် အကြံပြုထားသော ကြိုးနှင့် အဒက်တာ သုံးပါ။</string>
     <string name="incompatible_charging_learn_more">ပိုလေ့လာရန်</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">ကြိုးမဲ့ ဖုန်းအားသွင်းနေသည်</string>
+    <string name="wireless_charging_notification_text">ကြိုးမဲ့အားသွင်းခြင်းသည် ကြိုးဖြင့်အားသွင်းခြင်းထက် စွမ်းအင်ပိုသုံးနိုင်သည်။ လျှပ်စစ်ဓာတ်အားနှင့် အချိန်ချွေတာရန် ကြိုးတပ်အားသွင်းကိရိယာသို့ ပြောင်းကြည့်ပါ။</string>
 </resources>

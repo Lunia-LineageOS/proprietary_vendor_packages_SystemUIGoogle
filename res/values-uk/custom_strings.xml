@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Перевірте зарядний пристрій</string>
     <string name="incompatible_charging_notify_des">Можливо, телефон заряджається повільно або взагалі не заряджається. Щоб він заряджався швидше, використовуйте рекомендований кабель і адаптер.</string>
     <string name="incompatible_charging_learn_more">Докладніше</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Бездротове заряджання</string>
+    <string name="wireless_charging_notification_text">Бездротове заряджання може споживати більше електроенергії, ніж дротове. Щоб заощадити електроенергію і час, скористайтеся дротовим зарядним пристроєм.</string>
 </resources>

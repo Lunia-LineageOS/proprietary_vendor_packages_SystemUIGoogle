@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Sjekk ladetilbehøret</string>
     <string name="incompatible_charging_notify_des">Det kan hende at telefonen din lader tregt eller ikke i det hele tatt. For å lade den raskere bør du bruke en anbefalt kabel og adapter.</string>
     <string name="incompatible_charging_learn_more">Finn ut mer</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Lader trådløst</string>
+    <string name="wireless_charging_notification_text">Trådløs lading kan bruke mer strøm enn lading med ledning. For å spare strøm og tid bør du prøve å bytte til en lader med ledning.</string>
 </resources>

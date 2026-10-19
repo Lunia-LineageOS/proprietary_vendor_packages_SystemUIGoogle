@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">የኃይል መሙላት መለዋወጫን ይፈትሹ</string>
     <string name="incompatible_charging_notify_des">ስልክዎ በዝግታ ኃይል እየሞላ ሊሆን ወይም ኃይል እየሞላ ላይሆን ይችላል። ይበልጥ ፈጣን ለሆነ ኃይል መሙላት የሚመከር ገመድ እና የኃይል አስማሚ ይጠቀሙ።</string>
     <string name="incompatible_charging_learn_more">የበለጠ ለመረዳት</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">በሽቦ አልባ ኃይል በመሙላት ላይ</string>
+    <string name="wireless_charging_notification_text">የሽቦ አልባ ኃይል መሙያ ከባለገመድ ኃይል መሙያ የበለጠ ኃይል ሊጠቀም ይችላል። ኤሌክትሪክን እና ጊዜን ለመቆጠብ ወደ ባለገመድ ኃይል መሙያ ለመቀየር ይሞክሩ።</string>
 </resources>

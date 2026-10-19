@@ -58,6 +58,12 @@ public enum BatteryMetricEvent implements UiEventLogger.UiEventEnum {
     @UiEvent(doc = "Battery saver disabled reason")
     BATTERY_SAVER_DISABLED_REASON(1373),
 
+    @UiEvent(doc = "Wireless charging notification displayed")
+    SEND_WIRELESS_CHARGING_NOTIFICATION(1614),
+
+    @UiEvent(doc = "Wireless charging notification dismissed")
+    DISMISS_WIRELESS_CHARGING_NOTIFICATION(1615),
+
     @UiEvent(doc = "Charge limit discovery notification displayed")
     SEND_CHARGE_LIMIT_DISCOVERY_NOTIFICATION(1707),
 
@@ -69,6 +75,9 @@ public enum BatteryMetricEvent implements UiEventLogger.UiEventEnum {
 
     @UiEvent(doc = "Charge limit discovery notification clicked")
     CLICK_CHARGE_LIMIT_DISCOVERY_NOTIFICATION(1712),
+
+    @UiEvent(doc = "Wireless charging notification clicked")
+    CLICK_WIRELESS_CHARGING_NOTIFICATION(1713),
 
     @UiEvent(doc = "Severe low battery notification turn on extreme battery saver displayed")
     SEVERE_LOW_BATTERY_NOTIFICATION_TURN_ON_EBS(1834),

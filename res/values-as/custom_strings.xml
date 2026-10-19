@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">চাৰ্জিঙৰ সৈতে জড়িত আনুষংগিক সামগ্ৰী পৰীক্ষা কৰক</string>
     <string name="incompatible_charging_notify_des">আপোনাৰ ফ’নটো হয়তো লাহে লাহে চাৰ্জ হৈ আছে অথবা চাৰ্জ হোৱা নাই। দ্ৰুত চাৰ্জিঙৰ বাবে, চুপাৰিছ কৰা কে’বল আৰু এডাপ্টাৰ ব্যৱহাৰ কৰক।</string>
     <string name="incompatible_charging_learn_more">অধিক জানক</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">তাঁৰৰ অবিহনে চাৰ্জ কৰি থকা হৈছে</string>
+    <string name="wireless_charging_notification_text">বেতাঁৰ চাৰ্জিঙে তাঁৰযুক্ত চাৰ্জিঙতকৈ অধিক শক্তি ব্যৱহাৰ কৰিব পাৰে। বিদ্যুৎ আৰু সময় ৰাহি কৰিবলৈ, তাঁৰযুক্ত চাৰ্জাৰ ব্যৱহাৰ কৰি চাওক।</string>
 </resources>

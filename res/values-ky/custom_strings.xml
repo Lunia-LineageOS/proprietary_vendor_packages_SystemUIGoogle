@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Кубаттоо шайманын текшериңиз</string>
     <string name="incompatible_charging_notify_des">Телефонуңуз жай кубатталып же такыр кубатталбай жаткан болушу мүмкүн. Тезирээк кубаттоо үчүн сунушталган кабелди жана адаптерди колдонуңуз.</string>
     <string name="incompatible_charging_learn_more">Кеңири маалымат</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Зымсыз кубаттоо</string>
+    <string name="wireless_charging_notification_text">Зымсыз жол менен түзмөк жайыраак кубатталышы мүмкүн. Электр кубатын үнөмдөп, тезирээк кубаттоо үчүн кубаттагычты сайыңыз.</string>
 </resources>

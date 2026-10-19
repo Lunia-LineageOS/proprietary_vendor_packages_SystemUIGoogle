@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Kontroleer die laaibykomstigheid</string>
     <string name="incompatible_charging_notify_des">Jou foon laai dalk stadig of laai glad nie. Gebruik ’n aanbeveelde kabel en aansluitprop om vinniger te laai.</string>
     <string name="incompatible_charging_learn_more">Kom meer te wete</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Draadlose batterylaai</string>
+    <string name="wireless_charging_notification_text">Draadlose batterylaai kan meer energie as bedrade batterylaai gebruik. Probeer eerder ’n bedrade batterylaaier om elektrisiteit en tyd te bespaar.</string>
 </resources>

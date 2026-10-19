@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Έλεγχος αξεσουάρ φόρτισης</string>
     <string name="incompatible_charging_notify_des">Το τηλέφωνό σας μπορεί να φορτίζει αργά ή να μην φορτίζει. Για πιο γρήγορη φόρτιση, χρησιμοποιήστε ένα προτεινόμενο καλώδιο και μετασχηματιστή.</string>
     <string name="incompatible_charging_learn_more">Μάθετε περισσότερα</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Ασύρματη φόρτιση</string>
+    <string name="wireless_charging_notification_text">Η ασύρματη φόρτιση ενδέχεται να καταναλώνει περισσότερη ενέργεια από την ενσύρματη φόρτιση. Για να εξοικονομήσετε ηλεκτρική ενέργεια και χρόνο, δοκιμάστε να χρησιμοποιήσετε ενσύρματο φορτιστή.</string>
 </resources>

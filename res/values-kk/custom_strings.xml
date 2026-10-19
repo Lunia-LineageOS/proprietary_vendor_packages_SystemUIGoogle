@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Зарядтау құрылғысын тексеріңіз</string>
     <string name="incompatible_charging_notify_des">Телефоныңыз баяу зарядталуы немесе мүлдем зарядталмауы мүмкін. Жылдамырақ зарядтау үшін, ұсынылған кабель мен адаптерді пайдаланыңыз.</string>
     <string name="incompatible_charging_learn_more">Толық ақпарат</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Сымсыз зарядтау</string>
+    <string name="wireless_charging_notification_text">Сымды зарядтауға қарағанда сымсыз зарядтауға көп қуат кетуі мүмкін. Электр энергиясы мен уақытты үнемдеу үшін сымды зарядтағышқа ауысып көріңіз.</string>
 </resources>

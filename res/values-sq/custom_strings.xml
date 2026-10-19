@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Kontrollo aksesorin e karikimit</string>
     <string name="incompatible_charging_notify_des">Telefoni yt mund të jetë duke u karikuar ngadalë ose nuk po karikohet. Për karikim më të shpejtë, përdor një kabllo dhe përshtatës të rekomanduar.</string>
     <string name="incompatible_charging_learn_more">Mëso më shumë</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Po karikohet në mënyrë wireless</string>
+    <string name="wireless_charging_notification_text">Karikimi wireless mund të përdorë më shumë energji se karikimi me tel. Për të kursyer energji elektrike dhe kohë, provo të kalosh në karikues me tel.</string>
 </resources>

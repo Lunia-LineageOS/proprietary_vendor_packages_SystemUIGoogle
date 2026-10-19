@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ආරෝපණ ආයිත්තම පරීක්ෂා කරන්න</string>
     <string name="incompatible_charging_notify_des">ඔබේ දුරකථනය සෙමින් ආරෝපණය වෙමින් හෝ ආරෝපණය නොවීමට ඉඩ ඇත. වේගවත් ආරෝපණය සඳහා, නිර්දේශිත කේබලයක් සහ ඇඩප්ටරයක් භාවිතා කරන්න.</string>
     <string name="incompatible_charging_learn_more">තව දැන ගන්න</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">රැහැන් රහිත ආරෝපණය</string>
+    <string name="wireless_charging_notification_text">රැහැන් රහිත ආරෝපණය රැහැන්ගත ආරෝපණයට වඩා වැඩි ශක්තියක් භාවිතා කළ හැක. විදුලිය සහ කාලය ඉතිරි කර ගැනීම සඳහා, රැහැන්ගත චාජරයකට මාරු වීමට උත්සාහ කරන්න.</string>
 </resources>

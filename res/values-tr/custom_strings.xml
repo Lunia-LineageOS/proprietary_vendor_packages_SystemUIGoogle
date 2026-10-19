@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Şarj aksesuarını kontrol edin</string>
     <string name="incompatible_charging_notify_des">Telefonunuz yavaş şarj oluyor veya hiç şarj olmuyor olabilir. Daha hızlı şarj için önerilen bir kablo ve adaptör kullanın.</string>
     <string name="incompatible_charging_learn_more">Daha fazla bilgi</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Kablosuz şarj oluyor</string>
+    <string name="wireless_charging_notification_text">Kablosuz şarj işlevi kablolu şarja göre daha fazla enerji harcayabilir. Elektrik ve zaman tasarrufu için kablolu şarj cihazına geçmeyi deneyin.</string>
 </resources>

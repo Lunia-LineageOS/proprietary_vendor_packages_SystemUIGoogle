@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">მიმდინარეობს დამტენი აქსესუარის შემოწმება</string>
     <string name="incompatible_charging_notify_des">თქვენი ტელეფონი შესაძლოა ნელა ან საერთოდ არ იმუხტებოდეს. უფრო სწრაფად დატენვისთვის გამოიყენეთ რეკომენდებული კაბელი და ადაპტერი.</string>
     <string name="incompatible_charging_learn_more">შეიტყვეთ მეტი</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">იტენება უსადენოდ</string>
+    <string name="wireless_charging_notification_text">უსადენო დატენამ შეიძლება უფრო მეტი ენერგია მოიხმაროს, ვიდრე სადენიანმა. ელექტროენერგიისა და დროის დაზოგვის მიზნით, ცადეთ სადენიანი დამტენი.</string>
 </resources>

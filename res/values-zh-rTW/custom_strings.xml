@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">請檢查充電配件</string>
     <string name="incompatible_charging_notify_des">你的手機可能正在緩慢充電或未在充電。如要快速充電，請使用建議的傳輸線和變壓器。</string>
     <string name="incompatible_charging_learn_more">瞭解詳情</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">無線充電</string>
+    <string name="wireless_charging_notification_text">無線充電可能比有線充電更耗電。如要節省電力和時間，建議改用有線充電器。</string>
 </resources>

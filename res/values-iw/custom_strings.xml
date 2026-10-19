@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">בדיקה של אביזר הטעינה</string>
     <string name="incompatible_charging_notify_des">יכול להיות שהטלפון נטען לאט או לא נטען. לטעינה מהירה יותר, כדאי להשתמש במתאם ובכבל מומלצים.</string>
     <string name="incompatible_charging_learn_more">מידע נוסף</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">טעינה אלחוטית</string>
+    <string name="wireless_charging_notification_text">טעינה אלחוטית עשויה לצרוך יותר חשמל מאשר טעינה חוטית. כדי לחסוך בחשמל ובזמן, כדאי להחליף למטען חוטי.</string>
 </resources>

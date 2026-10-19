@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">چارجنگ ایکسیسری کو چیک کریں</string>
     <string name="incompatible_charging_notify_des">ہو سکتا ہے کہ آپ کا فون آہستہ چارج ہو رہا ہو یا چارج نہ ہو رہا ہو۔ فاسٹ چارجنگ کے لیے، تجویز کردہ کیبل اور ایڈاپٹر استعمال کریں۔</string>
     <string name="incompatible_charging_learn_more">مزید جانیں</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">وائرلیس چارجنگ</string>
+    <string name="wireless_charging_notification_text">وائرلیس چارجنگ تار والی چارجنگ سے زیادہ توانائی استعمال کر سکتی ہے۔ بجلی اور وقت بچانے کے لیے، تار والے چارجر پر سوئچ کرنے کی کوشش کریں۔</string>
 </resources>

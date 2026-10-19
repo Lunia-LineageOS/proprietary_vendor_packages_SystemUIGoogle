@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">ఛార్జింగ్ యాక్సెసరీని చెక్ చేయండి</string>
     <string name="incompatible_charging_notify_des">మీ ఫోన్ నెమ్మదిగా ఛార్జింగ్ అవుతూ ఉండవచ్చు లేదా అస్సలు ఛార్జింగ్ అవుతూ ఉండకపోవచ్చు. ఛార్జింగ్ మరింత వేగవంతంగా అవ్వడం కోసం, సిఫార్సు చేయబడిన కేబుల్‌ను, అడాప్టర్‌ను ఉపయోగించండి.</string>
     <string name="incompatible_charging_learn_more">మరింత తెలుసుకోండి</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">వైర్‌లెస్‌గా ఛార్జ్ అవుతోంది</string>
+    <string name="wireless_charging_notification_text">వైర్‌లెస్ ఛార్జింగ్ వైర్ ఉన్న ఛార్జింగ్ కంటే ఎక్కువ విద్యుత్తును వినియోగిస్తుంది. విద్యుత్తు, సమయాన్ని ఆదా చేయడానికి, వైర్ ఉన్న ఛార్జర్‌కు స్విచ్ అవ్వడానికి ట్రై చేయండి.</string>
 </resources>

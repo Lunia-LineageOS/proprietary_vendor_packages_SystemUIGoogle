@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">Проверьте зарядное устройство</string>
     <string name="incompatible_charging_notify_des">Возможно, ваш телефон заряжается медленно или не заряжается. Чтобы ускорить процесс, используйте рекомендованные кабель и адаптер питания.</string>
     <string name="incompatible_charging_learn_more">Подробнее</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">Беспроводная зарядка</string>
+    <string name="wireless_charging_notification_text">При беспроводной зарядке энергопотребление может быть выше. Чтобы ускорить процесс и сэкономить электроэнергию, подключите проводное зарядное устройство.</string>
 </resources>

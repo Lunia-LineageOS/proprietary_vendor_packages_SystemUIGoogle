@@ -82,4 +82,8 @@
     <string name="incompatible_charging_notify_title">चार्जिंगशी संबंधित ॲक्सेसरी तपासा</string>
     <string name="incompatible_charging_notify_des">तुमचा फोन कदाचित हळू चार्ज होत आहे किंवा चार्ज होत नाही. आणखी जलद चार्जिंगसाठी, शिफारस केलेली केबल आणि अडॅप्टर वापरा.</string>
     <string name="incompatible_charging_learn_more">अधिक जाणून घ्या</string>
+
+    <!-- Wireless Charging -->
+    <string name="wireless_charging_notification_title">वायरलेस पद्धतीने चार्ज करत आहे</string>
+    <string name="wireless_charging_notification_text">वायरलेस चार्जिंग हे वायर्ड चार्जिंगपेक्षा जास्त ऊर्जा वापरू शकते. वीज आणि वेळेची बचत करण्यासाठी, वायर्ड चार्जरवर स्विच करून पहा.</string>
 </resources>
