@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">பேட்டரியைப் பாதுகாப்பதற்காகச் சார்ஜிங் நிறுத்தப்பட்டுள்ளது</string>
     <string name="dock_defender_first_run_des">பேட்டரி ஆயுட்காலத்தை நீட்டிக்க உதவ, டாக்கில் இணைக்கப்பட்டுள்ள உங்கள் டேப்லெட் 90% அடைந்தவுடன் சார்ஜிங் நிறுத்தப்பட்டுள்ளது. அமைப்புகளுக்குச் சென்று எப்போது வேண்டுமானாலும் அதை மாற்றிக்கொள்ளலாம்.</string>
     <string name="dock_defender_first_run_settings">அமைப்புகள்</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">சார்ஜிங் துணைக்கருவியைச் சரிபார்த்தல்</string>
+    <string name="incompatible_charging_notify_des">உங்கள் மொபைல் மெதுவாகச் சார்ஜ் ஆகலாம் அல்லது சார்ஜ் ஆகாமல் இருக்கலாம். விரைவாகச் சார்ஜ் ஆவதற்கு, பரிந்துரைக்கப்படும் கேபிளையும் அடாப்டரையும் பயன்படுத்துங்கள்.</string>
+    <string name="incompatible_charging_learn_more">மேலும் அறிக</string>
 </resources>

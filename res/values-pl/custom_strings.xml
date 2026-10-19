@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Wstrzymano ładowanie, aby chronić baterię</string>
     <string name="dock_defender_first_run_des">Gdy tablet będzie zadokowany, ładowanie zostanie wstrzymane na poziomie 90%, aby zwiększyć żywotność baterii. W każdej chwili możesz to wyłączyć w Ustawieniach.</string>
     <string name="dock_defender_first_run_settings">Ustawienia</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Sprawdź akcesoria do ładowania</string>
+    <string name="incompatible_charging_notify_des">Telefon może ładować się powoli lub w ogóle się nie ładować. Aby ładować szybciej, użyj zalecanego kabla i ładowarki.</string>
+    <string name="incompatible_charging_learn_more">Więcej informacji</string>
 </resources>

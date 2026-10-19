@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Punjenje je pauzirano radi zaštite baterije</string>
     <string name="dock_defender_first_run_des">Kako bi se produljio vijek trajanja baterije, punjenje je pauzirano na 90% dok je tablet na priključnoj stanici. To uvijek možete izmijeniti u postavkama.</string>
     <string name="dock_defender_first_run_settings">Postavke</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Provjerite dodatak za punjenje</string>
+    <string name="incompatible_charging_notify_des">Telefon se možda sporo puni ili se ne puni. Za brže punjenje upotrijebite preporučeni kabel i pretvarač napona.</string>
+    <string name="incompatible_charging_learn_more">Saznajte više</string>
 </resources>

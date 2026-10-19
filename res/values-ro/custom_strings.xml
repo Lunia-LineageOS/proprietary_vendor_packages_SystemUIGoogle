@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Încărcarea s-a întrerupt pentru a proteja bateria</string>
     <string name="dock_defender_first_run_des">Pentru a extinde durata de viață a bateriei, încărcarea este întreruptă la 90 % cât timp tableta este andocată. Accesează oricând Setările pentru a modifica opțiunea.</string>
     <string name="dock_defender_first_run_settings">Setări</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Verifică accesoriul de încărcare</string>
+    <string name="incompatible_charging_notify_des">Este posibil ca telefonul tău să se încarce lent sau deloc. Pentru încărcare mai rapidă, folosește un cablu și un adaptor recomandat.</string>
+    <string name="incompatible_charging_learn_more">Află mai multe</string>
 </resources>

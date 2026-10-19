@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Batareyani himoyalash uchun quvvatlash toʻxtatildi</string>
     <string name="dock_defender_first_run_des">Batareyaning ishlash muddatini kengaytirishga yordam berish maqsadida planshet dokka ulanganda quvvatlash 90% da tutib turiladi. Almashtirish uchun istalgan vaqt Sozlamalarga kiring.</string>
     <string name="dock_defender_first_run_settings">Sozlamalar</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Quvvatlash aksessuarini tekshiring</string>
+    <string name="incompatible_charging_notify_des">Telefoningiz sekin quvvat olyapti yoki umuman olmayapti. Tezroq quvvatlash uchun tavsiya etiladigan quvvat kabel va adapterdan foydalaning.</string>
+    <string name="incompatible_charging_learn_more">Batafsil</string>
 </resources>

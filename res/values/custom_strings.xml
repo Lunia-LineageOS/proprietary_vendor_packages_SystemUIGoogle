@@ -82,4 +82,10 @@
     <string name="dock_defender_first_run_des">To help extend battery lifespan, charging is on hold at 90% while your tablet is docked. Go to Settings anytime to override.</string>
     <string name="dock_defender_first_run_settings">Settings</string>
     <string name="dock_defender_notify_helper_url" translatable="false">https://support.google.com/googlepixeltablet/?p=extend_battery_life</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Check charging accessory</string>
+    <string name="incompatible_charging_notify_des">Your phone may be charging slowly or not charging. For faster charging, use a recommended cable and adapter.</string>
+    <string name="incompatible_charging_learn_more">Learn more</string>
+    <string name="incompatible_charging_help_url" translatable="false">https://support.google.com/pixelphone?p=pixel_power_issues</string>
 </resources>

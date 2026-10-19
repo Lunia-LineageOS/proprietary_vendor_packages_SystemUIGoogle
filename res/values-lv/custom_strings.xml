@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Uzlāde apturēta, lai aizsargātu akumulatoru</string>
     <string name="dock_defender_first_run_des">Lai paildzinātu akumulatora darbmūžu, kad planšetdators ir dokots, uzlāde tiek apturēta pie 90%. Jebkurā laikā varat to ignorēt, pārejot uz sadaļu Iestatījumi.</string>
     <string name="dock_defender_first_run_settings">Iestatījumi</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Pārbaudiet uzlādes piederumu</string>
+    <string name="incompatible_charging_notify_des">Iespējams, tālruņa uzlāde notiek lēni vai nenotiek nemaz. Lai paātrinātu uzlādi, izmantojiet kādu no ieteiktajiem vadiem un adapteriem.</string>
+    <string name="incompatible_charging_learn_more">Uzzināt vairāk</string>
 </resources>

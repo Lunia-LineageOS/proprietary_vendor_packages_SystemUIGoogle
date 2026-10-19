@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">বেটাৰী সুৰক্ষিত কৰিবলৈ চাৰ্জিং স্থগিত ৰখা হৈছে</string>
     <string name="dock_defender_first_run_des">আপোনাৰ বেটাৰীৰ জীৱনকাল বৃদ্ধি কৰাত সহায় কৰিবলৈ, আপোনাৰ টেবলেটটো ড’ক কৰাৰ সময়ত ৯০%ত চাৰ্জিং স্থগিত ৰখা হৈছে। অ’ভাৰৰাইড কৰিবলৈ যিকোনো সময়তে ছেটিঙলৈ যাওক।</string>
     <string name="dock_defender_first_run_settings">ছেটিং</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">চাৰ্জিঙৰ সৈতে জড়িত আনুষংগিক সামগ্ৰী পৰীক্ষা কৰক</string>
+    <string name="incompatible_charging_notify_des">আপোনাৰ ফ’নটো হয়তো লাহে লাহে চাৰ্জ হৈ আছে অথবা চাৰ্জ হোৱা নাই। দ্ৰুত চাৰ্জিঙৰ বাবে, চুপাৰিছ কৰা কে’বল আৰু এডাপ্টাৰ ব্যৱহাৰ কৰক।</string>
+    <string name="incompatible_charging_learn_more">অধিক জানক</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Đang tạm ngưng sạc để bảo vệ pin</string>
     <string name="dock_defender_first_run_des">Để giúp kéo dài thời lượng pin, khi được gắn vào đế sạc thì máy tính bảng sẽ sạc đến 90% rồi tạm ngưng. Chuyển đến phần Cài đặt bất cứ lúc nào để ghi đè.</string>
     <string name="dock_defender_first_run_settings">Cài đặt</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Hãy kiểm tra phụ kiện dùng để sạc</string>
+    <string name="incompatible_charging_notify_des">Điện thoại của bạn có thể sạc chậm hoặc không sạc được. Để sạc nhanh hơn, hãy dùng bộ sạc và cáp sạc được đề xuất.</string>
+    <string name="incompatible_charging_learn_more">Tìm hiểu thêm</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ਬੈਟਰੀ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਚਾਰਜਿੰਗ ਨੂੰ ਰੋਕਿਆ ਗਿਆ ਹੈ</string>
     <string name="dock_defender_first_run_des">"ਬੈਟਰੀ ਦੀ ਮਿਆਦ ਵਧਾਉਣ ਵਿੱਚ ਮਦਦ ਲਈ, ਤੁਹਾਡੇ ਟੈਬਲੈੱਟ ਦੇ ਡੌਕ ਕੀਤੇ ਹੋਣ ਦੌਰਾਨ ਚਾਰਜਿੰਗ 90% 'ਤੇ ਰੋਕ ਕੇ ਰੱਖੀ ਜਾਂਦੀ ਹੈ। ਓਵਰਰਾਈਡ ਕਰਨ ਲਈ ਕਿਸੇ ਵੀ ਵੇਲੇ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਓ।"</string>
     <string name="dock_defender_first_run_settings">ਸੈਟਿੰਗਾਂ</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ਚਾਰਜਿੰਗ ਐਕਸੈਸਰੀ ਦੀ ਜਾਂਚ ਕਰੋ</string>
+    <string name="incompatible_charging_notify_des">ਸ਼ਾਇਦ ਤੁਹਾਡਾ ਫ਼ੋਨ ਹੌਲੀ-ਹੌਲੀ ਚਾਰਜ ਹੋ ਰਿਹਾ ਹੈ ਜਾਂ ਚਾਰਜ ਨਹੀਂ ਹੋ ਰਿਹਾ। ਤੇਜ਼ੀ ਨਾਲ ਚਾਰਜ ਕਰਨ ਲਈ, ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਕੇਬਲ ਅਤੇ ਅਡਾਪਟਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।</string>
+    <string name="incompatible_charging_learn_more">ਹੋਰ ਜਾਣੋ</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ബാറ്ററി പരിരക്ഷിക്കാൻ ചാർജിംഗ് ഹോൾഡ് ചെയ്‌തു</string>
     <string name="dock_defender_first_run_des">ബാറ്ററിയുടെ ആയുസ് വർദ്ധിപ്പിക്കാൻ സഹായിക്കുന്നതിന്, നിങ്ങളുടെ ടാബ്‌ലെറ്റ് ഡോക്ക് ചെയ്‌തിരിക്കുമ്പോൾ 90% ചാർജ് ആയപ്പോൾ ചാർജിംഗ് ഹോൾഡ് ചെയ്‌തു. അസാധുവാക്കാൻ ഏതുസമയത്തും ക്രമീകരണത്തിലേക്ക് പോകുക.</string>
     <string name="dock_defender_first_run_settings">ക്രമീകരണം</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ചാർജിംഗ് ആക്സസറി പരിശോധിക്കുക</string>
+    <string name="incompatible_charging_notify_des">നിങ്ങളുടെ ഫോൺ ചാർജ് ചെയ്യുന്നില്ല അല്ലെങ്കിൽ പതിയെ ചാർജ് ചെയ്യുന്നു. വേഗത്തിലുള്ള ചാർജിംഗിനായി, നിർദ്ദേശിച്ച കേബിളും അഡാപ്റ്ററും ഉപയോഗിക്കുക.</string>
+    <string name="incompatible_charging_learn_more">കൂടുതലറിയുക</string>
 </resources>

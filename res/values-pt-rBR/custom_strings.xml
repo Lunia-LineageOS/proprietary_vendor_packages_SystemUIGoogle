@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Carregamento suspenso para proteger a bateria</string>
     <string name="dock_defender_first_run_des">Para ajudar a prolongar a vida útil da bateria, o carregamento fica suspenso em 90% enquanto o tablet está na base. Acesse as Configurações para mudar essa preferência a qualquer momento.</string>
     <string name="dock_defender_first_run_settings">Configurações</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Verificar acessório de carregamento</string>
+    <string name="incompatible_charging_notify_des">O smartphone pode estar com o carregamento lento ou não estar carregando. Para um carregamento mais rápido, use um cabo e um adaptador recomendados.</string>
+    <string name="incompatible_charging_learn_more">Saiba mais</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Laaiproses is onderbreek om battery te beskerm</string>
     <string name="dock_defender_first_run_des">Om te help om die batteryleeftyd te verleng, word laai op 90% onderbreek terwyl jou tablet gedok is. Gaan enige tyd na Instellings om dit te ignoreer.</string>
     <string name="dock_defender_first_run_settings">Instellings</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Kontroleer die laaibykomstigheid</string>
+    <string name="incompatible_charging_notify_des">Jou foon laai dalk stadig of laai glad nie. Gebruik ’n aanbeveelde kabel en aansluitprop om vinniger te laai.</string>
+    <string name="incompatible_charging_learn_more">Kom meer te wete</string>
 </resources>

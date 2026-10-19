@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Зарядка приостановлена для защиты батареи</string>
     <string name="dock_defender_first_run_des">Чтобы продлить срок службы батареи, зарядка приостанавливается на уровне 90 %, пока планшет находится на док-станции. Вы можете в любое время отключить эту функцию в настройках.</string>
     <string name="dock_defender_first_run_settings">Настройки</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Проверьте зарядное устройство</string>
+    <string name="incompatible_charging_notify_des">Возможно, ваш телефон заряжается медленно или не заряжается. Чтобы ускорить процесс, используйте рекомендованные кабель и адаптер питания.</string>
+    <string name="incompatible_charging_learn_more">Подробнее</string>
 </resources>

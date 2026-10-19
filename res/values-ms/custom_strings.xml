@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Pengecasan ditunda untuk melindungi bateri</string>
     <string name="dock_defender_first_run_des">Untuk melanjutkan jangka hayat bateri, pengecasan ditunda pada 90% semasa tablet anda didok. Akses Tetapan pada bila-bila masa untuk membuat pembatalan.</string>
     <string name="dock_defender_first_run_settings">Tetapan</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Periksa aksesori pengecasan</string>
+    <string name="incompatible_charging_notify_des">Telefon anda mungkin mengecas dengan perlahan atau tidak mengecas. Untuk pengecasan yang lebih pantas, gunakan kabel dan penyesuai yang disyorkan.</string>
+    <string name="incompatible_charging_learn_more">Ketahui lebih lanjut</string>
 </resources>

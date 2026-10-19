@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Opladen is in de wacht gezet om de batterij te beschermen</string>
     <string name="dock_defender_first_run_des">Het opladen wordt bij 90% in de wacht gezet terwijl je tablet in het dock is geplaatst, om de levensduur van de batterij te verlengen. Dit kun je op elk gewenst moment in de instellingen overschrijven.</string>
     <string name="dock_defender_first_run_settings">Instellingen</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Oplaadaccessoire checken</string>
+    <string name="incompatible_charging_notify_des">Je telefoon laadt misschien langzaam of helemaal niet op. Gebruik een aanbevolen kabel en adapter om sneller op te laden.</string>
+    <string name="incompatible_charging_learn_more">Meer informatie</string>
 </resources>

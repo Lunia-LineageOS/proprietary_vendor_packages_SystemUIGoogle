@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Punjenje je na čekanju da bi se zaštitila baterija</string>
     <string name="dock_defender_first_run_des">Da bi se produžio vek trajanja baterije, punjenje je na čekanju na 90% dok je tablet na baznoj stanici. Uvek možete da promenite ovo u Podešavanjima.</string>
     <string name="dock_defender_first_run_settings">Podešavanja</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Proverite dodatnu opremu za punjenje</string>
+    <string name="incompatible_charging_notify_des">Telefon se možda sporo puni ili se uopšte ne puni. Ako želite brže punjenje, koristite preporučeni kabl i adapter.</string>
+    <string name="incompatible_charging_learn_more">Saznajte više</string>
 </resources>

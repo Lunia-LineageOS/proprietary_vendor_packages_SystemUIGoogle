@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Az akkumulátor védelme érdekében a töltés szünetel</string>
     <string name="dock_defender_first_run_des">Az akkumulátor élettartamának meghosszabbítása érdekében a töltés 90%-nál megáll, amíg a táblagép dokkolt állapotban van. Ezt a viselkedést bármikor felülbírálhatja a beállításokban.</string>
     <string name="dock_defender_first_run_settings">Beállítások</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">A töltőtartozék ellenőrzése</string>
+    <string name="incompatible_charging_notify_des">Előfordulhat, hogy telefonja lassan vagy egyáltalán nem tölt. A gyorsabb töltéshez használjon ajánlott kábelt és adaptert.</string>
+    <string name="incompatible_charging_learn_more">További információ</string>
 </resources>

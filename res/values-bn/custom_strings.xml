@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ব্যাটারি সুরক্ষিত রাখতে চার্জিং হোল্ডে রয়েছে</string>
     <string name="dock_defender_first_run_des">ব্যাটারির আয়ু বাড়াতে ট্যাবলেট ডক করার সময় চার্জ ৯০%-এ হোল্ড করা রয়েছে। ওভাররাইড করতে যেকোনও সময় সেটিংসে যান।</string>
     <string name="dock_defender_first_run_settings">সেটিংস</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">চার্জ করার অ্যাক্সেসরি চেক করুন</string>
+    <string name="incompatible_charging_notify_des">আপনার ফোন হয়ত ধীরে ধীরে চার্জ হচ্ছে বা চার্জ হচ্ছে না। আরও দ্রুত চার্জের জন্য, সাজেস্ট করা কেবেল ও অ্যাডাপ্টার ব্যবহার করুন।</string>
+    <string name="incompatible_charging_learn_more">আরও জানুন</string>
 </resources>

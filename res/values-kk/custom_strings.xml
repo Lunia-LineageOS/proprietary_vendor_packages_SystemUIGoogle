@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Батареяны қорғау үшін зарядтау кідіртілді</string>
     <string name="dock_defender_first_run_des">Батареяның қызмет мерзімін созу үшін планшет қондыру станциясында тұрғанда, зарядтау 90% деңгейінде кідіртіледі. Қайта анықтау үшін кез келген уақытта параметрлерге өтіңіз.</string>
     <string name="dock_defender_first_run_settings">Параметрлер</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Зарядтау құрылғысын тексеріңіз</string>
+    <string name="incompatible_charging_notify_des">Телефоныңыз баяу зарядталуы немесе мүлдем зарядталмауы мүмкін. Жылдамырақ зарядтау үшін, ұсынылған кабель мен адаптерді пайдаланыңыз.</string>
+    <string name="incompatible_charging_learn_more">Толық ақпарат</string>
 </resources>

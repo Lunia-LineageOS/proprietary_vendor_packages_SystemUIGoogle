@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Зарадка прыпынена, каб абараніць акумулятар</string>
     <string name="dock_defender_first_run_des">У мэтах падаўжэння тэрміну службы акумулятара зарадка прыпыняецца на ўзроўні 90%, пакуль планшэт падключаны да док-станцыі. Каб перавызначыць гэты параметр, перайдзіце ў налады.</string>
     <string name="dock_defender_first_run_settings">Налады</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Праверце зарадную прыладу</string>
+    <string name="incompatible_charging_notify_des">Магчыма, ваш тэлефон не зараджаецца або зараджаецца павольна. Каб паскорыць зарадку, выкарыстоўвайце рэкамендаваныя кабель і адаптар.</string>
+    <string name="incompatible_charging_learn_more">Даведацца больш</string>
 </resources>

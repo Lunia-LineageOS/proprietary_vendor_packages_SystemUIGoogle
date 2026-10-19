@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Hleðsla í bið til að vernda rafhlöðuna</string>
     <string name="dock_defender_first_run_des">Þegar spjaldtölvan er tengd við dokku og hefur náð 90% hleðslu verður gert hlé á hleðslunni til að lengja endingartíma rafhlöðunnar. Þú getur hnekkt þessu hvenær sem er í stillingunum.</string>
     <string name="dock_defender_first_run_settings">Stillingar</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Athugaðu hleðslubúnaðinn</string>
+    <string name="incompatible_charging_notify_des">Síminn þinn hleðst hugsanlega hægt eða hleðst ekki. Notaðu straumbreyti og snúru sem mælt er með til að hlaða hraðar.</string>
+    <string name="incompatible_charging_learn_more">Nánar</string>
 </resources>

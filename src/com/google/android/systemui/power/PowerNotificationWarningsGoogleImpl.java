@@ -92,6 +92,7 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
     private ChargeLimitController mChargeLimitController;
     private BatteryDefenderNotificationHandler mBatteryDefenderNotificationHandler;
     private AdaptiveChargingNotification mAdaptiveChargingNotification;
+    private IncompatibleChargerNotification mIncompatibleChargerNotification;
     private ChargeLimitDiscoveryNotification mChargeLimitDiscoveryNotification;
     private BatterySaverConfirmationDialog mBatterySaverConfirmationDialog;
     private BroadcastReceiver mLotXBroadcastReceiver;
@@ -163,6 +164,9 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                                 }
                                 break;
                         }
+                    }
+                    if (mIncompatibleChargerNotification != null) {
+                        mIncompatibleChargerNotification.dispatchIntent(intent);
                     }
                 }
             };
@@ -252,6 +256,10 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                         BatteryEventType.DOCK_DEFEND_BATTERY),
                 (events, batteryLevel, pluggedType) -> {
                     Log.d(TAG, "[onBatteryEventUpdate] " + events);
+                    if (mIncompatibleChargerNotification != null) {
+                        mIncompatibleChargerNotification.refreshUsbState(
+                                events.contains(BatteryEventType.WIRED_INCOMPATIBLE_CHARGING));
+                    }
                     if (mLowPowerWarningsController != null) {
                         mLowPowerWarningsController.onBatteryEventUpdate(batteryLevel, events);
                     }
@@ -307,6 +315,12 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
                     "com.google.android.systemui.adaptivecharging.ADAPTIVE_CHARGING_DEADLINE_SET");
             filter.addAction("PNW.acChargeNormally");
             filter.addAction("systemui.power.action.dismissAdaptiveChargingWarning");
+        }
+        if (resources.getBoolean(R.bool.config_incompatible_charging_warning_enabled)) {
+            mIncompatibleChargerNotification =
+                    new IncompatibleChargerNotification(context, uiEventLogger);
+            filter.addAction(
+                    IncompatibleChargerNotification.ACTION_DISMISS_INCOMPATIBLE_CHARGER_WARNING);
         }
         mBroadcastDispatcher.registerReceiverWithHandler(
                 mBroadcastReceiver, filter, mHandler, UserHandle.ALL);
@@ -434,6 +448,9 @@ public class PowerNotificationWarningsGoogleImpl extends PowerNotificationWarnin
         super.dump(pw);
         if (mBatteryInfoBroadcast != null) {
             mBatteryInfoBroadcast.dump(pw);
+        }
+        if (mIncompatibleChargerNotification != null) {
+            mIncompatibleChargerNotification.dump(pw);
         }
         if (mLowPowerWarningsController != null) {
             pw.println("\tdump LowPowerWarningsController states");

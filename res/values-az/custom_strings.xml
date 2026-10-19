@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Batareyanı qorumaq üçün şarj gözlədilir</string>
     <string name="dock_defender_first_run_des">Batareya ömrünü uzatmaq üçün planşet dokda olarkən şarj 90%-də gözlədilir. Ayarlarda əvəzləyə bilərsiniz.</string>
     <string name="dock_defender_first_run_settings">Ayarlar</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Şarj aksesuarını yoxlayın</string>
+    <string name="incompatible_charging_notify_des">Telefon asta şarj edilə, yaxud şarj edilməyə bilər. Sürətli şarj üçün tövsiyə edilən kabel və adapter istifadə edin.</string>
+    <string name="incompatible_charging_learn_more">Ətraflı məlumat</string>
 </resources>

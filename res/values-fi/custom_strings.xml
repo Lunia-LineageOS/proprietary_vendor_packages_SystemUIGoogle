@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Lataus on keskeytetty akun suojaamiseksi</string>
     <string name="dock_defender_first_run_des">Lataus keskeytetään 90 %:iin akun käyttöiän pidentämiseksi, kun tabletti on lataustelineessä. Ohita tämä asetuksissa.</string>
     <string name="dock_defender_first_run_settings">Asetukset</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Tarkista latauslisävaruste</string>
+    <string name="incompatible_charging_notify_des">Puhelin saattaa latautua hitaasti tai ei lainkaan. Käytä suositeltua johtoa ja laturia, jotta akku latautuu nopeammin.</string>
+    <string name="incompatible_charging_learn_more">Lue lisää</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">დატენვა შეჩერებულია ბატარეის დასაცავად</string>
     <string name="dock_defender_first_run_des">ბატარეის ხანგრძლივობის შესანარჩუნებლად, ტაბლეტის ჩამაგრებისას დატენვა შეჩერებულია 90%-ზე. ნებისმიერ დროს გადადით პარამეტრებში უგულებელსაყოფად.</string>
     <string name="dock_defender_first_run_settings">პარამეტრები</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">მიმდინარეობს დამტენი აქსესუარის შემოწმება</string>
+    <string name="incompatible_charging_notify_des">თქვენი ტელეფონი შესაძლოა ნელა ან საერთოდ არ იმუხტებოდეს. უფრო სწრაფად დატენვისთვის გამოიყენეთ რეკომენდებული კაბელი და ადაპტერი.</string>
+    <string name="incompatible_charging_learn_more">შეიტყვეთ მეტი</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Ukushaja kumisiwe ukuze kuvikelwe ibhethri</string>
     <string name="dock_defender_first_run_des">Ukuze sisize ekwandiseni ukuphila kwebhethri, ukushaja kuyamiswa ku-90% kuyilapho ithebulethi yakho idokhwa khona. Hamba Kumasethingi noma kunini ukukhipha.</string>
     <string name="dock_defender_first_run_settings">Amasethingi</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Hlola insiza yokushaja</string>
+    <string name="incompatible_charging_notify_des">Ifoni yakho kungenzeka ishaja kancane noma ayishaji. Ukuze ushaje ngokushesha, sebenzisa ikhebula ne-adaptha enconyiwe.</string>
+    <string name="incompatible_charging_learn_more">Funda kabanzi</string>
 </resources>

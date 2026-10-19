@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Nabíjanie je pozastavené, aby sa chránila batéria</string>
     <string name="dock_defender_first_run_des">Keď máte tablet v doku, nabíjanie sa pozastaví na úrovni 90 %, aby sa predĺžila životnosť batérie. Môžete to kedykoľvek prepísať v Nastaveniach.</string>
     <string name="dock_defender_first_run_settings">Nastavenia</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Skontrolujte nabíjacie príslušenstvo</string>
+    <string name="incompatible_charging_notify_des">Váš telefón sa zrejme nabíja pomaly alebo sa nenabíja vôbec. Ak chcete, aby sa nabíjalo rýchlejšie, použite odporúčaný kábel a nabíjačku.</string>
+    <string name="incompatible_charging_learn_more">Ďalšie informácie</string>
 </resources>

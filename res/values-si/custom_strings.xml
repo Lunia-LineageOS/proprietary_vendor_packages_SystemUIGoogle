@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">බැටරිය ආරක්ෂා කිරීම සඳහා ආරෝපණය රඳවා ගෙන ඇත</string>
     <string name="dock_defender_first_run_des">බැටරි ආයු කාලය දීර්ඝ කිරීමට උදවු කිරීමට, ඔබේ ටැබ්ලටය ඩොක් කර ඇති අතරේ ආරෝපණය 90% හි රඳවා ඇත. ප්‍රතික්ෂේප කිරීමට ඕනෑම වේලාවක සැකසීම් වෙත යන්න.</string>
     <string name="dock_defender_first_run_settings">සැකසීම්</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ආරෝපණ ආයිත්තම පරීක්ෂා කරන්න</string>
+    <string name="incompatible_charging_notify_des">ඔබේ දුරකථනය සෙමින් ආරෝපණය වෙමින් හෝ ආරෝපණය නොවීමට ඉඩ ඇත. වේගවත් ආරෝපණය සඳහා, නිර්දේශිත කේබලයක් සහ ඇඩප්ටරයක් භාවිතා කරන්න.</string>
+    <string name="incompatible_charging_learn_more">තව දැන ගන්න</string>
 </resources>

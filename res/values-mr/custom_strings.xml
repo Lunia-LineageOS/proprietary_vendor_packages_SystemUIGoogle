@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">बॅटरीचे संरक्षण करण्यासाठी चार्जिंग होल्डवर आहे</string>
     <string name="dock_defender_first_run_des">बॅटरीचा कालावधी वाढवण्यात मदत व्हावी यासाठी, तुमचा टॅबलेट डॉक केलेला असताना चार्जिंग ९०% वर होल्डवर असते. ओव्हरराइड करण्यासाठी सेटिंग्ज वर कधीही जा.</string>
     <string name="dock_defender_first_run_settings">सेटिंग्ज</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">चार्जिंगशी संबंधित ॲक्सेसरी तपासा</string>
+    <string name="incompatible_charging_notify_des">तुमचा फोन कदाचित हळू चार्ज होत आहे किंवा चार्ज होत नाही. आणखी जलद चार्जिंगसाठी, शिफारस केलेली केबल आणि अडॅप्टर वापरा.</string>
+    <string name="incompatible_charging_learn_more">अधिक जाणून घ्या</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Laadimine on aku kaitsmiseks ootele pandud</string>
     <string name="dock_defender_first_run_des">Aku eluea pikendamiseks on laadimine 90% juures ootel, kui tahvelarvuti on dokitud. Alistamiseks avage mis tahes ajal seaded.</string>
     <string name="dock_defender_first_run_settings">Seaded</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Kontrollige laadimistarvikut</string>
+    <string name="incompatible_charging_notify_des">Teie telefoni võidakse laadida aeglaselt või üldse mitte. Kiiremaks laadimiseks kasutage soovitatavat kaablit ja adapterit.</string>
+    <string name="incompatible_charging_learn_more">Lisateave</string>
 </resources>

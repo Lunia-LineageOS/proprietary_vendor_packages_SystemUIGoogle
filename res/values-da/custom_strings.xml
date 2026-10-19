@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Opladningen er sat på pause for at beskytte batteriet</string>
     <string name="dock_defender_first_run_des">For at hjælpe med at forlænge batteritiden sættes opladningen på pause ved 90 %, mens din tablet er docket. Gå til Indstillinger for tilsidesætte denne indstilling.</string>
     <string name="dock_defender_first_run_settings">Indstillinger</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Tjek opladningstilbehøret</string>
+    <string name="incompatible_charging_notify_des">Din telefon oplader muligvis langsomt eller slet ikke. Opnå hurtigere opladning ved at bruge et kabel og en adapter, som er anbefalet.</string>
+    <string name="incompatible_charging_learn_more">Få flere oplysninger</string>
 </resources>

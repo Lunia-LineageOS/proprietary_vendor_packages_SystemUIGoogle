@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">หยุดการชาร์จชั่วคราวเพื่อถนอมแบตเตอรี่</string>
     <string name="dock_defender_first_run_des">การชาร์จหยุดชั่วคราวที่ 90% ขณะวางแท็บเล็ตบนแท่นชาร์จเพื่อช่วยยืดอายุการใช้งานแบตเตอรี่ ไปที่การตั้งค่าได้ทุกเมื่อเพื่อลบล้างลักษณะการทำงานนี้</string>
     <string name="dock_defender_first_run_settings">การตั้งค่า</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ตรวจสอบอุปกรณ์เสริมสำหรับการชาร์จ</string>
+    <string name="incompatible_charging_notify_des">โทรศัพท์อาจชาร์จอย่างช้าๆ หรือไม่ชาร์จ ให้ใช้สายและอะแดปเตอร์ที่แนะนำเพื่อให้ชาร์จได้เร็วขึ้น</string>
+    <string name="incompatible_charging_learn_more">ดูข้อมูลเพิ่มเติม</string>
 </resources>

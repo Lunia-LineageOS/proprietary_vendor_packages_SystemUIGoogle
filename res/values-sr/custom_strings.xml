@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Пуњење је на чекању да би се заштитила батерија</string>
     <string name="dock_defender_first_run_des">Да би се продужио век трајања батерије, пуњење је на чекању на 90% док је таблет на базној станици. Увек можете да промените ово у Подешавањима.</string>
     <string name="dock_defender_first_run_settings">Подешавања</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Проверите додатну опрему за пуњење</string>
+    <string name="incompatible_charging_notify_des">Телефон се можда споро пуни или се уопште не пуни. Ако желите брже пуњење, користите препоручени кабл и адаптер.</string>
+    <string name="incompatible_charging_learn_more">Сазнајте више</string>
 </resources>

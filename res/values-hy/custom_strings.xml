@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Լիցքավորումը դադարեցվել է՝ մարտկոցը պաշտպանելու համար</string>
     <string name="dock_defender_first_run_des">Մարտկոցի աշխատաժամանակը երկարացնելու համար լիցքավորումը դադարեցվում է 90% մակարդակում, քանի դեռ պլանշետը դոկ-կայանում է: Այս պարամետրը ցանկացած ժամանակ կարող եք փոխել Կարգավորումներում։</string>
     <string name="dock_defender_first_run_settings">Կարգավորումներ</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Ստուգեք լիցքավորիչը</string>
+    <string name="incompatible_charging_notify_des">Ձեր հեռախոսը կարող է դանդաղ լիցքավորվել կամ ընդհանրապես չլիցքավորվել։ Արագ լիցքավորման համար օգտագործեք խորհուրդ տրվող մալուխը և ադապտերը։</string>
+    <string name="incompatible_charging_learn_more">Իմանալ ավելին</string>
 </resources>

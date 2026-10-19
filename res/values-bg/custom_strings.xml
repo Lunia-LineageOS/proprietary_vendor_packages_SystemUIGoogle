@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Зареждането е поставено на пауза с цел запазване на батерията</string>
     <string name="dock_defender_first_run_des">С цел удължаване на живота на батерията зареждането се поставя на пауза при достигане на 90%, докато таблетът ви е свързан с докинг станция. Можете да промените това по всяко време от настройките.</string>
     <string name="dock_defender_first_run_settings">Настройки</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Проверете аксесоара за зареждане</string>
+    <string name="incompatible_charging_notify_des">Възможно е телефонът ви да се зарежда бавно или да не се зарежда. За по-бързо зареждане използвайте препоръчителните кабел и адаптер.</string>
+    <string name="incompatible_charging_learn_more">Научете повече</string>
 </resources>

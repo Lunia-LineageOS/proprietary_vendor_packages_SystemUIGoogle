@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">A carga púxose en pausa para protexer a batería</string>
     <string name="dock_defender_first_run_des">Para axudar a aumentar a vida útil da batería, a carga ponse en pausa no 90 % mentres a tableta estea na base. Podes ignorar esta opción cando queiras en Configuración.</string>
     <string name="dock_defender_first_run_settings">Configuración</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Comprobar os accesorios de carga</string>
+    <string name="incompatible_charging_notify_des">É posible que o teu teléfono estea cargando lentamente ou non cargue. Para acelerar a carga, usa un adaptador e un cable recomendados.</string>
+    <string name="incompatible_charging_learn_more">Máis información</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Полнењето е паузирано за да се заштити батеријата</string>
     <string name="dock_defender_first_run_des">За да помогне да се продолжи работниот век на батеријата, полнењето е паузирано на 90 % додека таблетот е приклучен на док. Одете во „Поставки“ кога сакате за да отфрлите.</string>
     <string name="dock_defender_first_run_settings">Поставки</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Проверете го додатокот за полнење</string>
+    <string name="incompatible_charging_notify_des">Можеби вашиот телефон се полни бавно или не се полни. За побрзо полнење, користете препорачани кабел и адаптер.</string>
+    <string name="incompatible_charging_learn_more">Дознајте повеќе</string>
 </resources>

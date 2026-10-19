@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Η φόρτιση τέθηκε σε αναμονή για προστασία της μπαταρίας</string>
     <string name="dock_defender_first_run_des">Για την επέκταση της διάρκειας ζωής μπαταρίας, η φόρτιση τίθεται σε αναμονή στο 90% όταν το tablet σας είναι στη βάση σύνδεσης. Μεταβείτε στις Ρυθμίσεις ανά πάσα στιγμή για παράκαμψη.</string>
     <string name="dock_defender_first_run_settings">Ρυθμίσεις</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Έλεγχος αξεσουάρ φόρτισης</string>
+    <string name="incompatible_charging_notify_des">Το τηλέφωνό σας μπορεί να φορτίζει αργά ή να μην φορτίζει. Για πιο γρήγορη φόρτιση, χρησιμοποιήστε ένα προτεινόμενο καλώδιο και μετασχηματιστή.</string>
+    <string name="incompatible_charging_learn_more">Μάθετε περισσότερα</string>
 </resources>

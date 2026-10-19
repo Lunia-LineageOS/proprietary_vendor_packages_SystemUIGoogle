@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Zaradi zaščite baterije je polnjenje začasno zaustavljeno</string>
     <string name="dock_defender_first_run_des">Zaradi podaljšanja življenjske dobe baterije je polnjenje začasno zaustavljeno pri 90 %, dokler je tablični računalnik priklopljen na nosilec. To lahko kadar koli preglasite v nastavitvah.</string>
     <string name="dock_defender_first_run_settings">Nastavitve</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Preverite pripomoček za polnjenje</string>
+    <string name="incompatible_charging_notify_des">Baterija telefona se morda polni počasi ali se sploh ne polni. Za hitrejše polnjenje uporabite priporočena kabel in napajalnik.</string>
+    <string name="incompatible_charging_learn_more">Več o tem</string>
 </resources>

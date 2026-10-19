@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Se detuvo la carga para proteger la batería</string>
     <string name="dock_defender_first_run_des">Para extender la vida útil de la batería, la carga se detiene en 90% cuando la tablet está en la estación de carga. Para anular esta función, ve a Configuración.</string>
     <string name="dock_defender_first_run_settings">Configuración</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Verifica el accesorio de carga</string>
+    <string name="incompatible_charging_notify_des">Es posible que tu teléfono se esté cargando lentamente o no se esté cargando. Para una carga más rápida, usa un cable y un adaptador recomendados.</string>
+    <string name="incompatible_charging_learn_more">Más información</string>
 </resources>

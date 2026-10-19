@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">為保護電池，目前暫停充電</string>
     <string name="dock_defender_first_run_des">為延長電池壽命，平板電腦放在插座上充電至 90％ 後便會暫停充電。你可隨時前往「設定」取代此操作。</string>
     <string name="dock_defender_first_run_settings">設定</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">檢查充電配件</string>
+    <string name="incompatible_charging_notify_des">手機可能充電速度緩慢或未充電。如要快速充電，請使用建議的連接線和電源適配器。</string>
+    <string name="incompatible_charging_learn_more">瞭解詳情</string>
 </resources>

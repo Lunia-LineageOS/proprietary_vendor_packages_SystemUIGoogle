@@ -13,6 +13,7 @@ import android.util.Log
 import com.android.settingslib.Utils
 import com.android.systemui.dagger.qualifiers.Main
 import com.android.systemui.util.settings.SecureSettings
+import com.google.android.systemui.power.IncompatibleChargerNotification
 import com.google.android.systemui.power.PulsarController
 import com.google.android.systemui.res.R
 import javax.inject.Inject
@@ -84,14 +85,13 @@ constructor(
             override fun getIncompatibleChargerData(): IncompatibleChargerData {
                 val callerPackage = ensureSupportedCallers()
                 Log.i(TAG, "getIncompatibleChargingState: ${callerPackage.contentToString()}")
-                val prefs =
-                    context.applicationContext.getSharedPreferences(
-                        "incompatible_charger_shared_prefs",
-                        Context.MODE_PRIVATE,
-                    )
+                val prefs = IncompatibleChargerNotification.getSharedPreferences(context)
                 return IncompatibleChargerData(
-                    prefs.getLong("last_compatible_charger_time", 0L),
-                    prefs.getLong("last_incompatible_charger_time", 0L),
+                    prefs.getLong(IncompatibleChargerNotification.KEY_COMPATIBLE_CHARGER_TIME, 0L),
+                    prefs.getLong(
+                        IncompatibleChargerNotification.KEY_INCOMPATIBLE_CHARGER_TIME,
+                        0L,
+                    ),
                     Utils.containsIncompatibleChargers(context, TAG),
                 )
             }

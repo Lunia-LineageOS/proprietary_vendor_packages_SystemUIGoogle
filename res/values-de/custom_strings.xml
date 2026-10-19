@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Ladevorgang wird zum Schonen des Akkus angehalten</string>
     <string name="dock_defender_first_run_des">Um die Akkulaufzeit zu verlängern, wird der Ladevorgang bei 90 % angehalten, wenn das Tablet angedockt ist. Das lässt sich jederzeit in den Einstellungen außer Kraft setzen.</string>
     <string name="dock_defender_first_run_settings">Einstellungen</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Ladezubehör prüfen</string>
+    <string name="incompatible_charging_notify_des">Dein Smartphone lädt möglicherweise langsamer oder gar nicht. Damit es schneller lädt, solltest du ein empfohlenes Kabel und Netzteil verwenden.</string>
+    <string name="incompatible_charging_learn_more">Weitere Informationen</string>
 </resources>

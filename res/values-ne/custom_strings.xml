@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ब्याट्री जोगाउन चार्जिङ रोकिएको छ</string>
     <string name="dock_defender_first_run_des">ब्याट्रीको आयु बढाउन तपाईंको ट्याब्लेट डक गरिएका बेला सो ट्याब्लेटको ब्याट्री ९०% सम्म मात्र चार्ज गरिन्छ। तपाईं सेटिङमा गई जुनसुकै बेला यो सेटिङ ओभरराइड गर्न सक्नुहुन्छ।</string>
     <string name="dock_defender_first_run_settings">सेटिङ</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">चार्जिङ एक्सेसरी जाँच्नुहोस्</string>
+    <string name="incompatible_charging_notify_des">तपाईंको फोन बिस्तारै चार्ज भइरहेको वा चार्ज नै नभइरहेको हुन सक्छ। अझ छिटो चार्ज गर्न सिफारिस गरिएको केबल र एडाप्टर प्रयोग गर्नुहोस्।</string>
+    <string name="incompatible_charging_learn_more">थप जान्नुहोस्</string>
 </resources>

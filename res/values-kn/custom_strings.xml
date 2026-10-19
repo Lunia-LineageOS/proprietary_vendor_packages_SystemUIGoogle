@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ಬ್ಯಾಟರಿಯನ್ನು ರಕ್ಷಿಸಲು ಚಾರ್ಜಿಂಗ್ ಅನ್ನು ಹೋಲ್ಡ್‌ ಮಾಡಲಾಗಿದೆ</string>
     <string name="dock_defender_first_run_des">ಬ್ಯಾಟರಿ ಬಾಳಿಕೆಯನ್ನು ವಿಸ್ತರಿಸಲು ಸಹಾಯ ಮಾಡುವುದಕ್ಕಾಗಿ, ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಡಾಕ್ ಆಗಿರುವಾಗ 90% ರಷ್ಟು ಚಾರ್ಜಿಂಗ್ ಅನ್ನು ಹೋಲ್ಡ್ ಮಾಡಲಾಗಿರುತ್ತದೆ. ಓವರ್‌ರೈಡ್ ಮಾಡಲು ಯಾವಾಗ ಬೇಕಾದರೂ ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ.</string>
     <string name="dock_defender_first_run_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ಚಾರ್ಜಿಂಗ್ ಪರಿಕರವನ್ನು ಪರಿಶೀಲಿಸಿ</string>
+    <string name="incompatible_charging_notify_des">ನಿಮ್ಮ ಫೋನ್ ನಿಧಾನವಾಗಿ ಚಾರ್ಜ್ ಆಗುತ್ತಿರಬಹುದು ಅಥವಾ ಚಾರ್ಜ್ ಆಗದೇ ಇರಬಹುದು. ವೇಗವಾಗಿ ಚಾರ್ಜ್ ಮಾಡಲು, ಶಿಫಾರಸು ಮಾಡಲಾದ ಕೇಬಲ್ ಮತ್ತು ಅಡಾಪ್ಟರ್ ಅನ್ನು ಬಳಸಿ.</string>
+    <string name="incompatible_charging_learn_more">ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">برای محافظت از باتری، شارژ موقتاً متوقف شده است</string>
     <string name="dock_defender_first_run_des">برای کمک به افزایش طول عمر باتری، وقتی رایانه لوحی به پایه متصل است، شارژ روی ۹۰٪ موقتاً متوقف می‌شود. هرزمان خواستید برای ملغی کردن به «تنظیمات» بروید.</string>
     <string name="dock_defender_first_run_settings">تنظیمات</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">لوازم شارژ را بررسی کنید</string>
+    <string name="incompatible_charging_notify_des">ممکن است تلفن شارژ نشود یا سرعت شارژ کم باشد. برای شارژ سریع‌تر، از کابل و آداپتور توصیه‌شده استفاده کنید.</string>
+    <string name="incompatible_charging_learn_more">بیشتر بدانید</string>
 </resources>

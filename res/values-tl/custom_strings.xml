@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Naka-hold ang pag-charge para protektahan ang baterya</string>
     <string name="dock_defender_first_run_des">Para makatulong na pahabain ang tagal ng baterya, iho-hold ang pag-charge kapag nasa 90% na habang naka-dock ang iyong tablet. Pumunta sa Mga Setting anumang oras para i-override.</string>
     <string name="dock_defender_first_run_settings">Mga Setting</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Suriin ang accessory sa pag-charge</string>
+    <string name="incompatible_charging_notify_des">Posibleng mabagal ang pag-charge o hindi nag-charge ang iyong telepono. Para sa mas mabilis na pag-charge, gumamit ng inirerekomendang cable at adapter.</string>
+    <string name="incompatible_charging_learn_more">Matuto pa</string>
 </resources>

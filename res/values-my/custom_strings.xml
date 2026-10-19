@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ဘက်ထရီကာကွယ်ရန် အားသွင်းခြင်းကို ခဏရပ်ထားသည်</string>
     <string name="dock_defender_first_run_des">ဘက်ထရီသက်တမ်း ပိုရှည်စေရန် သင့်တက်ဘလက်ကို တပ်ဆင်ထားစဉ် အားသွင်းခြင်းကို ၉၀% တွင် ခဏရပ်သည်။ အစားထိုးရန် ဆက်တင်များသို့ အချိန်မရွေးသွားပါ။</string>
     <string name="dock_defender_first_run_settings">ဆက်တင်များ</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">အားသွင်းပစ္စည်းကို စစ်ခြင်း</string>
+    <string name="incompatible_charging_notify_des">သင့်ဖုန်းသည် နှေးကွေးစွာ အားသွင်းနေသည် (သို့) ၎င်းကို အားသွင်းမနေပါ။ အမြန်အားသွင်းခြင်းအတွက် အကြံပြုထားသော ကြိုးနှင့် အဒက်တာ သုံးပါ။</string>
+    <string name="incompatible_charging_learn_more">ပိုလေ့လာရန်</string>
 </resources>

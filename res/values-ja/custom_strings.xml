@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">充電を一時停止してバッテリーを保護</string>
     <string name="dock_defender_first_run_des">バッテリーの劣化を防ぐために、タブレットをホルダーにセットしている間は充電を 90% で一時停止します。これはいつでも [設定] でオーバーライドできます。</string>
     <string name="dock_defender_first_run_settings">設定</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">充電用アクセサリーを確認してください</string>
+    <string name="incompatible_charging_notify_des">スマートフォンのバッテリーが充電されていないか、充電に非常に時間がかかっています。充電をすばやく完了するには、推奨されるケーブルとアダプターを使用してください。</string>
+    <string name="incompatible_charging_learn_more">詳細</string>
 </resources>

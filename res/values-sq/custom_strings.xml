@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Karikimi është vendosur në pritje për të mbrojtur baterinë</string>
     <string name="dock_defender_first_run_des">Për të ndihmuar në zgjatjen e jetëgjatësisë së baterisë, karikimi është vendosur në pritje në 90% ndërsa tableti është i lidhur me stacionin. Shko te \"Cilësimet\" në çdo kohë për ta anuluar.</string>
     <string name="dock_defender_first_run_settings">Cilësimet</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Kontrollo aksesorin e karikimit</string>
+    <string name="incompatible_charging_notify_des">Telefoni yt mund të jetë duke u karikuar ngadalë ose nuk po karikohet. Për karikim më të shpejtë, përdor një kabllo dhe përshtatës të rekomanduar.</string>
+    <string name="incompatible_charging_learn_more">Mëso më shumë</string>
 </resources>

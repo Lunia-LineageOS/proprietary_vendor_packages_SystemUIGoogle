@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">बैटरी को सुरक्षित रखने के लिए, फ़ोन को चार्ज होने से रोक दिया गया है</string>
     <string name="dock_defender_first_run_des">बैटरी लाइफ़ बढ़ाने के लिए, डॉक से जुड़े होने के दौरान आपके टैबलेट की बैटरी 90% होने पर उसे चार्ज होने से रोक दिया जाता है. इसमें बदलाव करने के लिए, सेटिंग पर जाएं.</string>
     <string name="dock_defender_first_run_settings">सेटिंग</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">चार्जिंग ऐक्सेसरी की जांच करें</string>
+    <string name="incompatible_charging_notify_des">ऐसा हो सकता है कि आपका फ़ोन धीरे चार्ज हो रहा हो या चार्ज न हो रहा हो. इसे तेज़ी से चार्ज करने के लिए, सुझाए गए अडैप्टर और केबल का इस्तेमाल करें.</string>
+    <string name="incompatible_charging_learn_more">ज़्यादा जानें</string>
 </resources>

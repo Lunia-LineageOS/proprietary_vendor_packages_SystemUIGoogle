@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Батарейг хамгаалахын тулд цэнэглэлийг барих</string>
     <string name="dock_defender_first_run_des">Батарейн эдэлгээг уртасгахад туслахын тулд таны таблетыг суурилуулсан байхад цэнэглэлийг 90% дээр барьдаг. Дарахын тулд Тохиргоо руу хүссэн үедээ очно уу.</string>
     <string name="dock_defender_first_run_settings">Тохиргоо</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Цэнэглэх нэмэлт хэрэгслийг шалгах</string>
+    <string name="incompatible_charging_notify_des">Таны утас удаан цэнэглэгдэж эсвэл цэнэглэгдээгүй байж магадгүй. Илүү хурдан цэнэглэхийн тулд санал болгосон кабель болон адаптерыг ашиглана уу.</string>
+    <string name="incompatible_charging_learn_more">Нэмэлт мэдээлэл авах</string>
 </resources>

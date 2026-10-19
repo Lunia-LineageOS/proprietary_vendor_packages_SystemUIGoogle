@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Ladingen er satt på vent for å beskytte batteriet</string>
     <string name="dock_defender_first_run_des">For å bidra til å forlenge brukstiden for batteriet er ladingen på vent på 90 % mens nettbrettet er dokket Du kan overstyre dette når som helst ved å gå til innstillingene.</string>
     <string name="dock_defender_first_run_settings">Innstillinger</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Sjekk ladetilbehøret</string>
+    <string name="incompatible_charging_notify_des">Det kan hende at telefonen din lader tregt eller ikke i det hele tatt. For å lade den raskere bør du bruke en anbefalt kabel og adapter.</string>
+    <string name="incompatible_charging_learn_more">Finn ut mer</string>
 </resources>

@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">ବେଟେରୀକୁ ସୁରକ୍ଷିତ ରଖିବା ପାଇଁ ଚାର୍ଜିଂ ହୋଲ୍ଡରେ ଅଛି</string>
     <string name="dock_defender_first_run_des">ବେଟେରୀ ଲାଇଫସ୍ପାନକୁ ବଢ଼ାଇବାରେ ସାହାଯ୍ୟ କରିବାକୁ ଆପଣଙ୍କ ଟାବଲେଟ ଡକ ହୋଇଥିବା ସମୟରେ ଚାର୍ଜିଂ 90%ରେ ହୋଲ୍ଡ ହୋଇଯାଏ। ଓଭରରାଇଡ କରିବାକୁ ଯେ କୌଣସି ସମୟରେ ସେଟିଂସକୁ ଯାଆନ୍ତୁ।</string>
     <string name="dock_defender_first_run_settings">ସେଟିଂସ</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ଚାର୍ଜିଂ ଆକସେସୋରୀକୁ ଯାଞ୍ଚ କରନ୍ତୁ</string>
+    <string name="incompatible_charging_notify_des">ଆପଣଙ୍କ ଫୋନ ଧୀରେ ଚାର୍ଜ ହେଉଥାଇପାରେ କିମ୍ବା ଚାର୍ଜ ହେଉନଥାଇପାରେ। ଆହୁରି ଶୀଘ୍ର ଚାର୍ଜ କରିବା ପାଇଁ ସୁପାରିଶ କରାଯାଇଥିବା ଏକ କେବୁଲ ଓ ଆଡାପ୍ଟର ବ୍ୟବହାର କରନ୍ତୁ।</string>
+    <string name="incompatible_charging_learn_more">ଅଧିକ ଜାଣନ୍ତୁ</string>
 </resources>

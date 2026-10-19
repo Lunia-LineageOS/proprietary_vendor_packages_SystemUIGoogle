@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Ricarica in sospeso per proteggere la batteria</string>
     <string name="dock_defender_first_run_des">"Per prolungare la durata della batteria, la ricarica si interrompe al 90% mentre il tablet è agganciato alla base. Vai a Impostazioni in qualsiasi momento per eseguire l'override."</string>
     <string name="dock_defender_first_run_settings">Impostazioni</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">"Controlla l'accessorio di ricarica"</string>
+    <string name="incompatible_charging_notify_des">Lo smartphone potrebbe ricaricarsi lentamente o non ricaricarsi affatto. Per velocizzare la ricarica, usa un cavo e un alimentatore consigliati.</string>
+    <string name="incompatible_charging_learn_more">Scopri di più</string>
 </resources>

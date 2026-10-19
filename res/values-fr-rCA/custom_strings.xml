@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">La recharge a été mise en pause pour protéger la pile</string>
     <string name="dock_defender_first_run_des">Pour prolonger la durée de vie de la pile, la recharge est mise en pause à 90 % lorsque votre tablette est ancrée. Accédez à Paramètres à tout moment pour remplacer ce paramètre.</string>
     <string name="dock_defender_first_run_settings">Paramètres</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">"Vérifier l'accessoire de recharge"</string>
+    <string name="incompatible_charging_notify_des">Votre téléphone pourrait se recharger lentement ou ne pas se recharger. Pour une recharge plus rapide, utilisez un adaptateur et un câble recommandés.</string>
+    <string name="incompatible_charging_learn_more">En savoir plus</string>
 </resources>

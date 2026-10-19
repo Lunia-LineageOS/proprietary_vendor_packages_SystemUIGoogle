@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">הטעינה הושהתה כדי להגן על הסוללה</string>
     <string name="dock_defender_first_run_des">"כדי לשפר את משך חיי הסוללה, הטעינה מושהית כשהסוללה מגיעה ל-90% בזמן שהטבאלט באביזר העגינה. אפשר לעבור ל'הגדרות' בכל שלב כדי לשנות מברירת המחדל."</string>
     <string name="dock_defender_first_run_settings">הגדרות</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">בדיקה של אביזר הטעינה</string>
+    <string name="incompatible_charging_notify_des">יכול להיות שהטלפון נטען לאט או לא נטען. לטעינה מהירה יותר, כדאי להשתמש במתאם ובכבל מומלצים.</string>
+    <string name="incompatible_charging_learn_more">מידע נוסף</string>
 </resources>

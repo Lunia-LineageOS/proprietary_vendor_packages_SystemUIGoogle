@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Заряджання призупинено, щоб захистити акумулятор</string>
     <string name="dock_defender_first_run_des">Щоб продовжити строк служби акумулятора, заряджання призупиняється на рівні 90%, коли планшет підключено до док-станції. Це можна будь-коли змінити в налаштуваннях.</string>
     <string name="dock_defender_first_run_settings">Налаштування</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Перевірте зарядний пристрій</string>
+    <string name="incompatible_charging_notify_des">Можливо, телефон заряджається повільно або взагалі не заряджається. Щоб він заряджався швидше, використовуйте рекомендований кабель і адаптер.</string>
+    <string name="incompatible_charging_learn_more">Докладніше</string>
 </resources>

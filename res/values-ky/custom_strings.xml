@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Батареяны коргоо үчүн кубаттоо тындырылды</string>
     <string name="dock_defender_first_run_des">Планшетиңиз док бекетке туташып турганда, батареяны пайдалануу мөөнөтүн узартуу үчүн ал 90% чейин гана кубатталат. Өзгөртүү үчүн Параметрлерге каалаган убакта өтүңүз.</string>
     <string name="dock_defender_first_run_settings">Параметрлер</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Кубаттоо шайманын текшериңиз</string>
+    <string name="incompatible_charging_notify_des">Телефонуңуз жай кубатталып же такыр кубатталбай жаткан болушу мүмкүн. Тезирээк кубаттоо үчүн сунушталган кабелди жана адаптерди колдонуңуз.</string>
+    <string name="incompatible_charging_learn_more">Кеңири маалымат</string>
 </resources>

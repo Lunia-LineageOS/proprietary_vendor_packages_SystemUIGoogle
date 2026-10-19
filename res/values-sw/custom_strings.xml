@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Shughuli ya kuchaji imesitishwa ili kulinda betri</string>
     <string name="dock_defender_first_run_des">Ili kusaidia kuongeza muda wa matumizi ya betri, shughuli ya kuchaji imesitishwa chaji ya betri ikiwa asilimia 90 kishikwambi chako kikiwa kimepachikwa. Nenda kwenye Mipangilio wakati wowote ili ubatilishe.</string>
     <string name="dock_defender_first_run_settings">Mipangilio</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Kagua kifaa cha kuchaji</string>
+    <string name="incompatible_charging_notify_des">Huenda simu yako inachaji polepole au haichaji. Ili uchaji kwa kasi, tumia kebo na adapta inayopendekezwa.</string>
+    <string name="incompatible_charging_learn_more">Pata maelezo zaidi</string>
 </resources>

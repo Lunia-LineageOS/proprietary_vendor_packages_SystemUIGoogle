@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Kargatze-prozesua zain dago bateria babesteko</string>
     <string name="dock_defender_first_run_des">Bateriaren balio-bizitza luzatzeko, kargatze-prozesua zain egongo da (% 90era iritsi baita) tableta oinarrian jarrita dagoen bitartean. Aukera hori aldatzeko, joan Ezarpenak atalera.</string>
     <string name="dock_defender_first_run_settings">Ezarpenak</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Eman begiratu bat kargatzeko osagarriari</string>
+    <string name="incompatible_charging_notify_des">Agian telefonoa ez da kargatzen ari edo oso mantso kargatzen ari da. Bizkorrago karga dadin, erabili gomendatutako egokigailu bat eta kable bat.</string>
+    <string name="incompatible_charging_learn_more">Lortu informazio gehiago</string>
 </resources>

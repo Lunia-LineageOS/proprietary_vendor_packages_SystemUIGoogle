@@ -13,6 +13,12 @@ public enum BatteryMetricEvent implements UiEventLogger.UiEventEnum {
     @UiEvent(doc = "Battery defender bypassed from battery tips")
     BATTERY_DEFENDER_BYPASS_LIMIT_FOR_TIPS(878),
 
+    @UiEvent(doc = "Incompatible charging notification displayed")
+    SEND_INCOMPATIBLE_CHARGING_NOTIFICATION(1271),
+
+    @UiEvent(doc = "Incompatible charging notification dismissed")
+    DELETE_INCOMPATIBLE_CHARGING_NOTIFICATION(1272),
+
     @UiEvent(doc = "Battery defender notification dismissed")
     DELETE_BATTERY_DEFENDER_NOTIFICATION(1273),
 

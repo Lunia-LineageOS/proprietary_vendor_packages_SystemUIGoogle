@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">بیٹری کی حفاظت کرنے کے لیے چارجنگ ہولڈ پر ہے</string>
     <string name="dock_defender_first_run_des">بیٹری کی عمر بڑھانے میں مدد کے لیے، آپ کے ٹیبلیٹ کے ڈاک ہونے کے دوران چارجنگ %90 پر ہولڈ پر ہے۔ اوور رائڈ کرنے کیلئے کسی بھی وقت ترتیبات پر جائیں۔</string>
     <string name="dock_defender_first_run_settings">ترتیبات</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">چارجنگ ایکسیسری کو چیک کریں</string>
+    <string name="incompatible_charging_notify_des">ہو سکتا ہے کہ آپ کا فون آہستہ چارج ہو رہا ہو یا چارج نہ ہو رہا ہو۔ فاسٹ چارجنگ کے لیے، تجویز کردہ کیبل اور ایڈاپٹر استعمال کریں۔</string>
+    <string name="incompatible_charging_learn_more">مزید جانیں</string>
 </resources>

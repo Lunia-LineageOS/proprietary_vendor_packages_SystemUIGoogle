@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Carga pausada para proteger la batería</string>
     <string name="dock_defender_first_run_des">Para prolongar la vida útil de la batería, la carga se pausa al 90 % mientras la tablet está conectada a la base. Ve a Ajustes en cualquier momento para inhabilitar esta función.</string>
     <string name="dock_defender_first_run_settings">Ajustes</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Comprueba el accesorio de carga</string>
+    <string name="incompatible_charging_notify_des">Es posible que el teléfono se esté cargando muy lentamente o no se esté cargando. Para que se cargue más rápido, usa un cable y un adaptador recomendados.</string>
+    <string name="incompatible_charging_learn_more">Más información</string>
 </resources>

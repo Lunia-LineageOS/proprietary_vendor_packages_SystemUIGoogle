@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">Charging on hold to protect battery</string>
     <string name="dock_defender_first_run_des">To help extend battery lifespan, charging is on hold at 90% while your tablet is docked. Go to Settings anytime to override.</string>
     <string name="dock_defender_first_run_settings">Settings</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">Check charging accessory</string>
+    <string name="incompatible_charging_notify_des">Your phone may be charging slowly or not charging. For faster charging, use a recommended cable and adapter.</string>
+    <string name="incompatible_charging_learn_more">Learn more</string>
 </resources>

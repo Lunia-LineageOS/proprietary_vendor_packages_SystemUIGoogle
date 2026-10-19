@@ -77,4 +77,9 @@
     <string name="dock_defender_first_run_title">బ్యాటరీని రక్షించడానికి ఛార్జింగ్ హోల్డ్‌లో ఉంచబడింది</string>
     <string name="dock_defender_first_run_des">బ్యాటరీ లైఫ్‌ను ఎక్స్‌టెండ్ చేయడంలో సహాయపడటానికి, మీ టాబ్లెట్ డాక్ అయినప్పుడు ఛార్జింగ్ 90% వద్ద హోల్డ్‌లో ఉంటుంది. ఓవర్‌రైడ్ చేయడానికి ఎప్పుడైనా సెట్టింగ్‌లకు వెళ్లండి.</string>
     <string name="dock_defender_first_run_settings">సెట్టింగ్‌లు</string>
+
+    <!-- Incompatible Charging -->
+    <string name="incompatible_charging_notify_title">ఛార్జింగ్ యాక్సెసరీని చెక్ చేయండి</string>
+    <string name="incompatible_charging_notify_des">మీ ఫోన్ నెమ్మదిగా ఛార్జింగ్ అవుతూ ఉండవచ్చు లేదా అస్సలు ఛార్జింగ్ అవుతూ ఉండకపోవచ్చు. ఛార్జింగ్ మరింత వేగవంతంగా అవ్వడం కోసం, సిఫార్సు చేయబడిన కేబుల్‌ను, అడాప్టర్‌ను ఉపయోగించండి.</string>
+    <string name="incompatible_charging_learn_more">మరింత తెలుసుకోండి</string>
 </resources>
