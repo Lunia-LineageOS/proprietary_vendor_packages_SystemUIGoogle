@@ -109,4 +109,10 @@ Telefonas gali per daug įkaisti, kai:
     <string name="battery_replacement_notify_des">Dėl galimo akumuliatoriaus perkaitimo sumažėjo akumuliatoriaus talpa ir įkrovimo našumas, todėl rekomenduojama pakeisti akumuliatorių. Yra palaikymo parinkčių. Jei reikia daugiau informacijos, apsilankykite adresu &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Akumuliatoriaus įkrovimo ciklų skaičius – 375. Dėl galimo akumuliatoriaus perkaitinimo, kai akumuliatorius pasiekia 400 įkrovimo ciklų, akumuliatoriaus talpa ir įkrovimo našumas sumažės, todėl rekomenduojama pakeisti akumuliatorių. Yra palaikymo parinkčių. Jei reikia daugiau informacijos, apsilankykite adresu &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Žr. ciklų skaičių</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Bendrinamas akumuliatorius</string>
+    <string name="reverse_charging_device_name_text">Kitas „Pixel“</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s įkrauna (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Akumuliatoriaus bendrinimo funkcija įjungta</string>
 </resources>

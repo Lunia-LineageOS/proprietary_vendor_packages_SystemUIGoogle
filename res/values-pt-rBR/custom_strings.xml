@@ -109,4 +109,10 @@ Veja algumas possíveis razões para superaquecimento:
     <string name="battery_replacement_notify_des">Devido a um possível problema de superaquecimento, a capacidade e o desempenho de carregamento serão reduzidos. Recomendamos trocar a bateria. Há opções de suporte disponíveis. Acesse &lt;u>g.co/pixel/6abattery&lt;/u> para mais informações.</string>
     <string name="battery_replacement_early_notify_des">Sua bateria atingiu 375 ciclos de carga. Devido ao risco de superaquecimento da bateria, quando ela atingir 400 ciclos de carga, a capacidade e o desempenho de carregamento serão reduzidos. Recomendamos trocar a bateria. Há opções de suporte disponíveis. Acesse &lt;u>g.co/pixel/6abattery&lt;/u> para mais informações.</string>
     <string name="battery_management_action">Ver contagem de ciclos</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Compartilhando a bateria</string>
+    <string name="reverse_charging_device_name_text">Outro Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s fornecendo carga (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">\"Compartilhamento de bateria\" ativado</string>
 </resources>

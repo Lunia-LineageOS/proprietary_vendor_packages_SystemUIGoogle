@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ব্যাটারির সম্ভাব্য ওভারহিটিং সমস্যার কারণে, ব্যাটারির ক্ষমতা এবং চার্জিং পারফর্ম্যান্স কমে গেছে এবং ব্যাটারি পাল্টানোর জন্য সাজেস্ট করা হচ্ছে। সহায়তার বিকল্প উপলভ্য রয়েছে। আরও জানতে, &lt;u>g.co/pixel/6abattery&lt;/u> লিঙ্কে যান।</string>
     <string name="battery_replacement_early_notify_des">আপনার ব্যাটারি ৩৭৫টি চার্জ সাইকেল সম্পূর্ণ করেছে। ব্যাটারির সম্ভাব্য ওভারহিটিং সমস্যার কারণে, আপনার ব্যাটারি ৪০০টি চার্জ সাইকেল সম্পূর্ণ করলে ব্যাটারির ক্ষমতা এবং চার্জিং পারফর্ম্যান্স কমে যাবে এবং তখন ব্যাটারি পরিবর্তন করতে হবে। সহায়তার বিকল্প উপলভ্য রয়েছে। আরও জানতে, &lt;u>g.co/pixel/6abattery&lt;/u> লিঙ্কে যান।</string>
     <string name="battery_management_action">সাইকেলের সংখ্যা দেখুন</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ব্যাটারি শেয়ার করা হচ্ছে</string>
+    <string name="reverse_charging_device_name_text">আরেকটি Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s থেকে চার্জ হচ্ছে (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ব্যাটারি শেয়ার করার ফিচার চালু আছে</string>
 </resources>

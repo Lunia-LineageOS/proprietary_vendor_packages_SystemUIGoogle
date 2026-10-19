@@ -109,4 +109,10 @@ Síminn getur ofhitnað þegar þú:
     <string name="battery_replacement_notify_des">Vegna hættu á að rafhlaðan ofhitni hefur verið dregið úr rýmd hennar og hleðsluafköstum og mælt er með því að skipta um rafhlöðu. Aðstoð stendur til boða, sjá &lt;u>g.co/pixel/6abattery&lt;/u> varðandi frekari upplýsingar.</string>
     <string name="battery_replacement_early_notify_des">Rafhlaðan þín hefur verið endurhlaðin 375 sinnum. Vegna hættu á að rafhlaðan ofhitni verður dregið úr rýmd hennar og hleðsluafköstum þegar hún hefur verið endurhlaðin 400 sinnum. Mælt er með því að skipta um rafhlöðu. Aðstoð stendur til boða, sjá &lt;u>g.co/pixel/6abattery&lt;/u> varðandi frekari upplýsingar.</string>
     <string name="battery_management_action">Sjá fjölda endurhleðslna</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Deiling rafhlöðu</string>
+    <string name="reverse_charging_device_name_text">Hitt Pixel tækið</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s veitir hleðslu (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Kveikt er á „Deiling rafhlöðu“</string>
 </resources>

@@ -109,4 +109,10 @@ Telefon se može pregrijati prilikom:
     <string name="battery_replacement_notify_des">Zbog potencijalnog problema s pregrijavanjem baterije, kapacitet baterije i performanse punjenja se smanjuju i preporučuje se zamjena baterije. Dostupne su opcije podrške. Posjetite &lt;u>g.co/pixel/6abattery&lt;/u> za više informacija.</string>
     <string name="battery_replacement_early_notify_des">Baterija ima 375 ciklusa punjenja. Zbog potencijalnog problema s pregrijavanjem baterije, kada baterija dosegne 400 ciklusa punjenja, kapacitet baterije i performanse se smanjuju i preporučuje se zamjena baterije. Dostupne su opcije podrške. Posjetite &lt;u>g.co/pixel/6abattery&lt;/u> za više informacija.</string>
     <string name="battery_management_action">Pogledajte broj ciklusa</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Dijeljenje baterije</string>
+    <string name="reverse_charging_device_name_text">Drugi Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s pruža punjenje (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Dijeljenje baterije je uključeno</string>
 </resources>

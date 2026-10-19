@@ -109,4 +109,10 @@ Telefonul se poate încălzi prea mult atunci când:
     <string name="battery_replacement_notify_des">Din cauza unei posibile probleme de supraîncălzire a bateriei, capacitatea bateriei și performanța de încărcare au scăzut și se recomandă înlocuirea bateriei. Sunt disponibile opțiuni de asistență. Accesează &lt;u>g.co/pixel/6abattery&lt;/u> pentru mai multe informații.</string>
     <string name="battery_replacement_early_notify_des">Bateria a ajuns la 375 de cicluri de încărcare. Din cauza unei posibile probleme de supraîncălzire a bateriei, când bateria ajunge la 400 de cicluri de încărcare, capacitatea bateriei și performanța de încărcare vor scădea și se recomandă înlocuirea bateriei. Sunt disponibile opțiuni de asistență. Accesează &lt;u>g.co/pixel/6abattery&lt;/u> pentru mai multe informații.</string>
     <string name="battery_management_action">Vezi numărul de cicluri</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Se folosește încărcarea în comun</string>
+    <string name="reverse_charging_device_name_text">Alt dispozitiv Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s încarcă (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Încărcarea în comun a fost activată</string>
 </resources>

@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ბატარეის გადახურების პოტენციური პრობლემის გამო მცირდება ბატარეის ტევადობა და დატენის ეფექტურობა, შესაბამისად, რეკომენდებულია ბატარეის გამოცვლა. მხარდაჭერის ვარიანტებზე დამატებითი ინფორმაცია ხელმისაწვდომია აქ: &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">თქვენი ბატარეა დამუხტვის 375-ე ციკლზეა. ბატარეის გადახურების პოტენციური პრობლემის გამო, როდესაც თქვენი ბატარეა დამუხტვის მე-400 ციკლს მიაღწევს, შემცირდება ბატარეის ტევადობა და დატენის ეფექტურობა, შესაბამისად, რეკომენდებულია ბატარეის გამოცვლა. მხარდაჭერის ვარიანტებზე დამატებითი ინფორმაცია ხელმისაწვდომია აქ: &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">ციკლების რაოდენობის ნახვა</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ბატარეა ზიარდება</string>
+    <string name="reverse_charging_device_name_text">სხვა Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s აწვდის მუხტს (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ბატარეის გაზიარება ჩართულია</string>
 </resources>

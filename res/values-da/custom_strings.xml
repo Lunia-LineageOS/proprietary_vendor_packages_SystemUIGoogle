@@ -109,4 +109,10 @@ Din telefon kan blive for varm, hvis:
     <string name="battery_replacement_notify_des">På grund af potentiel overophedning af batteriet reduceres batterikapaciteten og opladningseffektiviteten, og det anbefales derfor, at du udskifter batteriet. Der er flere tilgængelige supportmuligheder. Gå til &lt;u>g.co/pixel/6abattery&lt;/u> for at få flere oplysninger.</string>
     <string name="battery_replacement_early_notify_des">Dit batteri har gennemgået 375 opladningscyklusser. På grund af potentiel overophedning af batteriet reduceres batterikapaciteten og opladningseffektiviteten, når dit batteri har nået 400 opladningscyklusser, og det anbefales derfor, at du udskifter batteriet. Der er flere tilgængelige supportmuligheder. Gå til &lt;u>g.co/pixel/6abattery&lt;/u> for at få flere oplysninger.</string>
     <string name="battery_management_action">Se antallet af cyklusser</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Batterideling</string>
+    <string name="reverse_charging_device_name_text">Anden Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s bruges som oplader (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Batterideling er aktiveret</string>
 </resources>

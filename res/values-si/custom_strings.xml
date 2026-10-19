@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">බැටරිය අධික ලෙස රත් වීමේ ගැටලුවක් හේතුවෙන්, බැටරි ධාරිතාව සහ ආරෝපණ ක්‍රියාකාරිත්වය අඩු වන අතර, බැටරි ප්‍රතිස්ථාපනය කිරීම නිර්දේශ කරනු ලැබේ. සහාය විකල්ප තිබේ, වැඩිදුර තොරතුරු සඳහා &lt;u>g.co/pixel/6abattery&lt;/u> වෙත පිවිසෙන්න.</string>
     <string name="battery_replacement_early_notify_des">ඔබේ බැටරිය ආරෝපණ චක්‍ර 375ක තිබේ. බැටරිය අධික ලෙස රත් වීමේ ගැටලුවක් හේතුවෙන්, ඔබේ බැටරිය ආරෝපණ චක්‍ර 400කට ළඟා වූ විට බැටරි ධාරිතාව සහ ආරෝපණ ක්‍රියාකාරිත්වය අඩු වන අතර බැටරි ප්‍රතිස්ථාපනය කිරීම නිර්දේශ කරනු ලැබේ. සහාය විකල්ප තිබේ, වැඩිදුර තොරතුරු සඳහා &lt;u>g.co/pixel/6abattery&lt;/u> වෙත පිවිසෙන්න.</string>
     <string name="battery_management_action">චක්‍ර ගණන බලන්න</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">බැටරිය බෙදා ගනිමින්</string>
+    <string name="reverse_charging_device_name_text">වෙනත් Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ආරෝපණය ලබා දෙමින් (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">බැටරිය බෙදා ගැනීම ක්‍රියාත්මකයි</string>
 </resources>

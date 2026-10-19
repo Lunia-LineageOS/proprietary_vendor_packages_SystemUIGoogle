@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">由于电池可能存在过热问题，电池容量和充电性能会降低，建议更换电池。有多个支持选项供您使用，详见 &lt;u>g.co/pixel/6abattery&lt;/u>。</string>
     <string name="battery_replacement_early_notify_des">您的电池已达到 375 次充电周期。由于电池可能存在过热问题，当电池达到 400 次充电周期时，电池容量和充电性能会降低，届时建议更换电池。有多个支持选项供您使用，详见 &lt;u>g.co/pixel/6abattery&lt;/u>。</string>
     <string name="battery_management_action">查看充电周期计数</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">正在共享电池电量</string>
+    <string name="reverse_charging_device_name_text">另一台 Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s正在为其他设备充电 (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">电池共享功能已开启</string>
 </resources>

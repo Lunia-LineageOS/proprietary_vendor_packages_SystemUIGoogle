@@ -107,6 +107,7 @@ import com.android.wm.shell.bubbles.Bubbles;
 import com.android.wm.shell.startingsurface.StartingSurface;
 
 import com.google.android.systemui.power.batteryhealth.HealthManager;
+import com.google.android.systemui.reversecharging.ReverseChargingViewController;
 
 import dagger.Lazy;
 
@@ -121,6 +122,7 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
     private static final boolean DEBUG = Log.isLoggable(TAG, Log.DEBUG);
     private static final long CHARGING_ANIMATION_DURATION = 1500;
 
+    private final Optional<ReverseChargingViewController> mReverseChargingViewControllerOptional;
     private final Optional<HealthManager> mHealthManagerOptional;
     private long mAnimStartTime;
     private boolean mChargingAnimShown;
@@ -197,6 +199,7 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
 
     @Inject
     public CentralSurfacesGoogle(
+            Optional<ReverseChargingViewController> reverseChargingViewControllerOptional,
             Optional<HealthManager> healthManagerOptional,
             Context context,
             NotificationsController notificationsController,
@@ -389,6 +392,7 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
                 windowManager,
                 windowManagerProvider,
                 sessionTracker);
+        mReverseChargingViewControllerOptional = reverseChargingViewControllerOptional;
         mHealthManagerOptional = healthManagerOptional;
     }
 
@@ -396,9 +400,9 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
     public void start() {
         super.start();
         mBatteryController.observe(getLifecycle(), mBatteryStateChangeCallback);
-        // Stock also starts DockObserver, ReverseChargingViewController and WallpaperNotifier
-        // here; they are not ported yet.
+        // Stock also starts DockObserver and WallpaperNotifier here; they are not ported yet.
         mHealthManagerOptional.ifPresent(HealthManager::registerBootCompletedReceiver);
+        mReverseChargingViewControllerOptional.ifPresent(ReverseChargingViewController::init);
     }
 
     @Override

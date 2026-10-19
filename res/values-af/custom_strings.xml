@@ -109,4 +109,10 @@ Jou foon kan te warm raak wanneer:
     <string name="battery_replacement_notify_des">As gevolg van ’n probleem met moontlike oorverhitting van die battery, sal die batterykapasiteit en -laaiprestasie verminder word en word batteryvervanging aanbeveel. Steundienste-opsies is beskikbaar. Besoek &lt;u>g.co/pixel/6abattery&lt;/u> vir meer inligting.</string>
     <string name="battery_replacement_early_notify_des">Jou battery is op 375 laaisiklusse. As gevolg van ’n probleem met moontlike oorverhitting van die battery, sal die batterykapasiteit en -laaiprestasie verminder word wanneer jou battery 400 laaisiklusse bereik en word batteryvervanging aanbeveel. Steundienste-opsies is beskikbaar. Besoek &lt;u>g.co/pixel/6abattery&lt;/u> vir meer inligting.</string>
     <string name="battery_management_action">Sien siklustelling</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Deel tans battery</string>
+    <string name="reverse_charging_device_name_text">Ander Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s bied tans batterykrag (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Batterydeling is aan</string>
 </resources>

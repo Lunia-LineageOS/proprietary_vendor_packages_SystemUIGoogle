@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">የባትሪ ግለት ችግር ሊሆን በሚችል ምክንያት የባትሪ አቅም እና የኃይል መሙላት አፈጻጸም ይቀንሳል እና የባትሪ መተካት ይመከራል። የድጋፍ አማራጮች ይገኛሉ፣ ተጨማሪ መረጃ ለማግኘት &lt;u>g.co/pixel/6abattery&lt;/u> ይጎብኙ።</string>
     <string name="battery_replacement_early_notify_des">ባትሪዎ 375 የኃይል መሙያ ዑደቶች ላይ ነው። የባትሪ ግለት ችግር ሊሆን በሚችል ምክንያት ባትሪዎ 400 የኃይል መሙያ ዑደቶች ላይ ሲደርስ የባትሪ አቅም እና የኃይል መሙላት አፈጻጸም ይቀንሳል እና የባትሪ መተካት ይመከራል። የድጋፍ አማራጮች ይገኛሉ፣ ተጨማሪ መረጃ ለማግኘት &lt;u>g.co/pixel/6abattery&lt;/u> ይጎብኙ።</string>
     <string name="battery_management_action">የዑደት ቁጥርን ይመልከቱ</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ባትሪን በማጋራት ላይ</string>
+    <string name="reverse_charging_device_name_text">ሌላ Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ኃይልን በማቅረብ ላይ ነው (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ባትሪን ማጋራት በርቷል</string>
 </resources>

@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">‏עלולה להיווצר בעיה של התחממות יתר של הסוללה. לכן, קיבולת הסוללה מצומצמת וקצב הטעינה איטי יותר. מומלץ להחליף את הסוללה. יש אפשרויות תמיכה. מידע נוסף זמין בכתובת &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">‏הסוללה שלך עברה 375 מחזורי טעינה. עלולה להיווצר בעיה של התחממות יתר של הסוללה. לכן, אחרי 400 מחזורי טעינה, קיבולת הסוללה מצטמצמת וקצב הטעינה איטי יותר. בשלב הזה מומלץ להחליף את הסוללה. יש אפשרויות תמיכה. מידע נוסף זמין בכתובת &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">למספר מחזורי הטעינה</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">הסוללה משותפת</string>
+    <string name="reverse_charging_device_name_text">‏מכשיר Pixel אחר</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s מספק טעינה מהסוללה (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">שיתוף הסוללה פועל</string>
 </resources>

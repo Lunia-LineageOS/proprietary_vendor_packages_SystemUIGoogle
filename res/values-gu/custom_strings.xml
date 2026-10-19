@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">બૅટરી ઓવરહીટિંગની સંભવિત સમસ્યાને કારણે, બૅટરીની ક્ષમતા અને ચાર્જિંગના પર્ફોર્મન્સમાં ઘટાડો થાય છે અને બૅટરી બદલવાનો સુઝાવ આપવામાં આવે છે. સપોર્ટના વિકલ્પો ઉપલબ્ધ છે, વધુ માહિતી માટે &lt;u>g.co/pixel/6abattery&lt;/u>ની મુલાકાત લો.</string>
     <string name="battery_replacement_early_notify_des">તમારી બૅટરી 375 ચાર્જ સાઇકલ પર છે. બૅટરી ઓવરહીટિંગની સંભવિત સમસ્યાને કારણે, જ્યારે તમારી બૅટરી 400 ચાર્જ સાઇકલ પર પહોંચે, ત્યારે બૅટરીની ક્ષમતા અને ચાર્જિંગનું પર્ફોર્મન્સ ઘટશે અને બૅટરી બદલવાનો સુઝાવ આપવામાં આવે છે. સપોર્ટના વિકલ્પો ઉપલબ્ધ છે, વધુ માહિતી માટે &lt;u>g.co/pixel/6abattery&lt;/u>ની મુલાકાત લો.</string>
     <string name="battery_management_action">સાઇકલની સંખ્યા જુઓ</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">બૅટરી શેર કરી રહ્યાં છીએ</string>
+    <string name="reverse_charging_device_name_text">અન્ય Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ડિવાઇસ ચાર્જ કરી રહ્યું છે (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">બૅટરી શેર કરવાનું ચાલુ છે</string>
 </resources>

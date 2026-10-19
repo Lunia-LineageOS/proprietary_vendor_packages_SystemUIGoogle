@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">Поради потенциален проблем с прегряване на батерията капацитетът ѝ и ефективността на зареждането са намалени. Препоръчва се подмяна на батерията. Налице са опции за поддръжка. За повече информация посетете &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Батерията ви е на 375 цикъла на зареждане. Когато тя достигне 400 цикъла, поради потенциален проблем с прегряването ѝ капацитетът и ефективността на зареждане ще бъдат намалени и се препоръчва подмяната ѝ. Налице са опции за поддръжка. За повече информация посетете &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Преглед на броя цикли</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Батерията се споделя</string>
+    <string name="reverse_charging_device_name_text">Друг телефон Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s предоставя зареждане (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Функцията за споделяне на батерията е включена</string>
 </resources>

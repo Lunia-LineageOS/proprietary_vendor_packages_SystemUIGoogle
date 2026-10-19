@@ -109,4 +109,10 @@ Dein Smartphone kann zu heiß werden, wenn du:
     <string name="battery_replacement_notify_des">Da sich der Akku potenziell überhitzen kann, wurden die Akkukapazität und die Ladeleistung reduziert und es wird ein Akkutausch empfohlen. Informationen zu den verfügbaren Supportoptionen findest du unter &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Dein Akku hat 375 Ladezyklen erreicht. Da sich der Akku potenziell überhitzen kann, werden nach 400 Ladezyklen die Akkukapazität und die Ladeleistung reduziert und es wird ein Akkutausch empfohlen. Informationen zu den verfügbaren Supportoptionen findest du unter &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Anzahl der Ladezyklen anzeigen</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Akku wird geteilt</string>
+    <string name="reverse_charging_device_name_text">Anderes Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s lädt dieses Pixel (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">„Akku teilen“ aktiviert</string>
 </resources>

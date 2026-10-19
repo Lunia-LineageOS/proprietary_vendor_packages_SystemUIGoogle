@@ -20,6 +20,7 @@ import com.android.systemui.util.wakelock.DelayedWakeLock
 import com.google.android.systemui.ambientmusic.AmbientIndicationContainer
 import com.google.android.systemui.keyguard.ui.viewmodel.KeyguardAmbientIndicationViewModel
 import com.google.android.systemui.res.R
+import java.util.Objects
 import java.util.concurrent.Executor
 import kotlinx.coroutines.DisposableHandle
 import kotlinx.coroutines.flow.filterNotNull
@@ -98,6 +99,34 @@ object KeyguardAmbientIndicationAreaViewBinder {
                                 null,
                                 null,
                             )
+                        }
+                    }
+                }
+                launch {
+                    viewModel.reverseChargingMessage.collect { message ->
+                        if (
+                            !Objects.equals(
+                                ambientIndicationContainer.mReverseChargingMessage,
+                                message,
+                            ) || ambientIndicationContainer.mWirelessChargingMessage != null
+                        ) {
+                            ambientIndicationContainer.mWirelessChargingMessage = null
+                            ambientIndicationContainer.mReverseChargingMessage = message
+                            ambientIndicationContainer.updatePill()
+                        }
+                    }
+                }
+                launch {
+                    viewModel.wirelessChargingMessage.collect { message ->
+                        if (
+                            !Objects.equals(
+                                ambientIndicationContainer.mWirelessChargingMessage,
+                                message,
+                            ) || ambientIndicationContainer.mReverseChargingMessage != null
+                        ) {
+                            ambientIndicationContainer.mWirelessChargingMessage = message
+                            ambientIndicationContainer.mReverseChargingMessage = null
+                            ambientIndicationContainer.updatePill()
                         }
                     }
                 }

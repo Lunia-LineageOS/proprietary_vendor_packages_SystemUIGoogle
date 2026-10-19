@@ -109,4 +109,10 @@ Baliteke telefonoa gehiegi berotzea kasu hauetan:
     <string name="battery_replacement_notify_des">Bateria gehiegi berotzeagatiko arazoak egongo direnez agian, bateriaren ahalmena eta kargatzeko prozesuaren errendimendua txikiagotzen dira, eta bateria aldatzea gomendatzen da. Laguntza-aukerak daude. Informazio gehiago lortzeko, joan &lt;u>g.co/pixel/6abattery&lt;/u> helbidera.</string>
     <string name="battery_replacement_early_notify_des">Bateriak 375 karga-ziklo izan ditu. Bateria gehiegi berotzeagatiko arazoak egongo direnez agian, 400 karga-ziklotara heltzen denean bateriaren ahalmena eta kargatzeko prozesuaren errendimendua txikiagotuko dira, eta bateria aldatzea gomendatzen da. Laguntza-aukerak daude. Informazio gehiago lortzeko, joan &lt;u>g.co/pixel/6abattery&lt;/u> helbidera.</string>
     <string name="battery_management_action">Ikusi ziklo kopurua</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Bateria partekatzen</string>
+    <string name="reverse_charging_device_name_text">Beste Pixel gailu bat</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s bateria ematen ari da (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Bateria partekatzea aktibatuta dago</string>
 </resources>

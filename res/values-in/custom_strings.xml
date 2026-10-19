@@ -109,4 +109,10 @@ Ponsel dapat menjadi terlalu panas saat:
     <string name="battery_replacement_notify_des">Karena potensi masalah panas berlebih pada baterai, kapasitas baterai dan performa pengisian daya berkurang, dan Anda sebaiknya mengganti baterai. Opsi dukungan tersedia, buka &lt;u>g.co/pixel/6abattery&lt;/u> untuk mengetahui informasi selengkapnya.</string>
     <string name="battery_replacement_early_notify_des">Baterai Anda telah melalui 375 siklus pengisian daya. Karena potensi masalah panas berlebih pada baterai, saat baterai mencapai 400 siklus pengisian daya, kapasitas baterai dan performa pengisian daya akan berkurang dan Anda sebaiknya mengganti baterai. Opsi dukungan tersedia, buka &lt;u>g.co/pixel/6abattery&lt;/u> untuk mengetahui informasi selengkapnya.</string>
     <string name="battery_management_action">Lihat jumlah siklus</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Berbagi baterai</string>
+    <string name="reverse_charging_device_name_text">Pixel Lain</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s menyediakan pengisian daya (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Berbagi Baterai aktif</string>
 </resources>

@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ବେଟେରୀ ଅତ୍ୟଧିକ ଗରମ ହେବାର ଏକ ସମ୍ଭାବ୍ୟ ସମସ୍ୟା ଯୋଗୁଁ, ବେଟେରୀ କ୍ଷମତା ଓ ଚାର୍ଜିଂ ପରଫରମାନ୍ସ ହ୍ରାସ ପାଇଥାଏ ଏବଂ ବେଟେରୀ ରିପ୍ଲେସମେଣ୍ଟ ପାଇଁ ସୁପାରିଶ କରାଯାଏ। ସପୋର୍ଟ ବିକଳ୍ପଗୁଡ଼ିକ ଉପଲବ୍ଧ ଅଛି, ଅଧିକ ସୂଚନା ପାଇଁ &lt;u>g.co/pixel/6abattery&lt;/u>କୁ ଭିଜିଟ କରନ୍ତୁ।</string>
     <string name="battery_replacement_early_notify_des">ଆପଣଙ୍କ ବେଟେରୀ 375 ଚାର୍ଜ ସାଇକେଲରେ ଅଛି। ବେଟେରୀ ଅତ୍ୟଧିକ ଗରମ ହେବାର ଏକ ସମ୍ଭାବ୍ୟ ସମସ୍ୟା ଯୋଗୁଁ, ଆପଣଙ୍କର ବେଟେରୀ 400 ଚାର୍ଜ ସାଇକେଲରେ ପହଞ୍ଚିଲେ ବେଟେରୀ କ୍ଷମତା ଓ ଚାର୍ଜିଂ ପରଫରମାନ୍ସ ହ୍ରାସ ପାଇବ ଏବଂ ବେଟେରୀ ରିପ୍ଲେସମେଣ୍ଟ ପାଇଁ ସୁପାରିଶ କରାଯାଏ। ସପୋର୍ଟ ବିକଳ୍ପଗୁଡ଼ିକ ଉପଲବ୍ଧ ଅଛି, ଅଧିକ ସୂଚନା ପାଇଁ &lt;u>g.co/pixel/6abattery&lt;/u>କୁ ଭିଜିଟ କରନ୍ତୁ।</string>
     <string name="battery_management_action">ସାଇକେଲ କାଉଣ୍ଟ ଦେଖନ୍ତୁ</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ବ୍ୟାଟେରୀ ସେୟାର୍ କରାଯାଉଛି</string>
+    <string name="reverse_charging_device_name_text">ଅନ୍ୟ Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ଚାର୍ଜ କରୁଛି (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ବ୍ୟାଟେରୀ ସେୟାର୍ ଚାଲୁ ଅଛି</string>
 </resources>

@@ -6,11 +6,13 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.graphics.drawable.Drawable;
 import android.icu.text.DateFormat;
 import android.os.BatteryManager;
 import android.os.Looper;
 import android.os.UserHandle;
 import android.os.UserManager;
+import android.text.TextUtils;
 import android.text.format.Formatter;
 import android.util.Log;
 import android.view.accessibility.AccessibilityManager;
@@ -36,6 +38,8 @@ import com.android.systemui.deviceentry.domain.interactor.DeviceEntryBiometricSe
 import com.android.systemui.deviceentry.domain.interactor.DeviceEntryFaceAuthInteractor;
 import com.android.systemui.deviceentry.domain.interactor.DeviceEntryFingerprintAuthInteractor;
 import com.android.systemui.dock.DockManager;
+import com.android.systemui.keyguard.KeyguardIndication;
+import com.android.systemui.keyguard.KeyguardIndicationRotateTextViewController;
 import com.android.systemui.keyguard.ScreenLifecycle;
 import com.android.systemui.keyguard.domain.interactor.KeyguardInteractor;
 import com.android.systemui.keyguard.util.IndicationHelper;
@@ -327,6 +331,26 @@ public class KeyguardIndicationControllerGoogle extends KeyguardIndicationContro
             return;
         }
         mAdaptiveChargingManager.queryStatus(mAdaptiveChargingStatusReceiver);
+    }
+
+    public void setReverseChargingMessage(CharSequence charSequence) {
+        if (mStatusBarStateController.isDozing()) {
+            return;
+        }
+        if (TextUtils.isEmpty(charSequence)) {
+            mRotateTextViewController.hideIndication(
+                    KeyguardIndicationRotateTextViewController.INDICATION_TYPE_REVERSE_CHARGING);
+            return;
+        }
+        Drawable drawable = mContext.getDrawable(R.anim.reverse_charging_animation);
+        mRotateTextViewController.updateIndication(
+                KeyguardIndicationRotateTextViewController.INDICATION_TYPE_REVERSE_CHARGING,
+                new KeyguardIndication.Builder()
+                        .setMessage(charSequence)
+                        .setIcon(drawable)
+                        .setTextColor(getInitialTextColorState())
+                        .build(),
+                false);
     }
 
     protected class GoogleKeyguardCallback extends BaseKeyguardCallback {

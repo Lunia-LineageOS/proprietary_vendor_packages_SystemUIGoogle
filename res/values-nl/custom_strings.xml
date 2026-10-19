@@ -109,4 +109,10 @@ Je telefoon kan in de volgende gevallen te warm worden:
     <string name="battery_replacement_notify_des">Vanwege een mogelijk probleem met oververhitting van de batterij zijn de batterijcapaciteit en laadprestaties verminderd en wordt batterijvervanging aanbevolen. Er zijn supportopties beschikbaar. Ga naar &lt;u>g.co/pixel/6abattery&lt;/u> voor meer informatie.</string>
     <string name="battery_replacement_early_notify_des">Je batterij heeft 375 laadcycli gehad. Als je batterij 400 laadcycli heeft bereikt, worden de batterijcapaciteit en laadprestaties verminderd en wordt batterijvervanging aanbevolen vanwege een mogelijk probleem met oververhitting van de batterij. Er zijn supportopties beschikbaar. Ga naar &lt;u>g.co/pixel/6abattery&lt;/u> voor meer informatie.</string>
     <string name="battery_management_action">Aantal cycli bekijken</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Batterij delen</string>
+    <string name="reverse_charging_device_name_text">Andere Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s levert voeding (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Batterij delen staat aan</string>
 </resources>

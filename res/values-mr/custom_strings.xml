@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">बॅटरी ओव्हरहीटिंगच्या संभाव्य समस्येमुळे, बॅटरी क्षमता आणि चार्जिंग परफॉर्मन्स कमी झाला आहे व बॅटरी बदलण्याची शिफारस केली आहे. सपोर्टशी संबंधित पर्याय उपलब्ध आहेत, अधिक माहितीसाठी &lt;u>g.co/pixel/6abattery&lt;/u> ला भेट द्या.</string>
     <string name="battery_replacement_early_notify_des">तुमची बॅटरी ३७५ चार्ज सायकलवर आहे. बॅटरी ओव्हरहीटिंगच्या संभाव्य समस्येमुळे, तुमची बॅटरी ४०० चार्ज सायकलवर पोहोचते, तेव्हा बॅटरी क्षमता आणि चार्जिंग परफॉर्मन्स कमी होतो व बॅटरी बदलण्याची शिफारस केली जाते. सपोर्टशी संबंधित पर्याय उपलब्ध आहेत, अधिक माहितीसाठी &lt;u>g.co/pixel/6abattery&lt;/u> ला भेट द्या.</string>
     <string name="battery_management_action">चार्ज सायकलची संख्या पहा</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">बॅटरी शेअर करत आहे</string>
+    <string name="reverse_charging_device_name_text">इतर Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s वरून (%2$s) चार्ज झाले आहे</string>
+    <string name="reverse_charging_on_notification_title">बॅटरी शेअर सुरू आहे</string>
 </resources>

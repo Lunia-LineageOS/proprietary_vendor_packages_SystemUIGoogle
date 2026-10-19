@@ -26,4 +26,11 @@
 
     <!-- Whether to refresh the battery health index once a day -->
     <bool name="config_battery_health_periodic_update_enabled">false</bool>
+
+    <!-- Reverse charging (Battery Share) -->
+    <bool name="config_wlc_support_enabled">false</bool>
+    <bool name="config_nfc_conflict_with_wlc">false</bool>
+    <bool name="config_nfc_conflict_with_usb_audio">false</bool>
+    <integer-array name="config_nfc_conflict_with_usb_audio_vendorid" />
+    <integer-array name="config_nfc_conflict_with_usb_audio_productid" />
 </resources>

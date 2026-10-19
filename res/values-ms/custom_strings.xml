@@ -109,4 +109,10 @@ Telefon anda boleh menjadi terlalu panas apabila:
     <string name="battery_replacement_notify_des">Oleh sebab kemungkinan masalah bateri menjadi terlalu panas, kapasiti bateri dan prestasi pengecasan dikurangkan, dan penggantian bateri akan disyorkan. Pilihan sokongan tersedia, lawati &lt;u>g.co/pixel/6abattery&lt;/u> untuk mendapatkan maklumat lanjut.</string>
     <string name="battery_replacement_early_notify_des">Bateri anda telah melalui 375 kitaran pengecasan. Oleh sebab kemungkinan masalah bateri menjadi terlalu panas, apabila bateri anda mencapai 400 kitaran pengecasan, kapasiti bateri dan prestasi pengecasan akan dikurangkan, dan penggantian bateri akan disyorkan. Pilihan sokongan tersedia, lawati &lt;u>g.co/pixel/6abattery&lt;/u> untuk mendapatkan maklumat lanjut.</string>
     <string name="battery_management_action">Lihat kiraan kitaran</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Berkongsi bateri</string>
+    <string name="reverse_charging_device_name_text">Pixel lain</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s menyediakan cas (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Perkongsian Bateri dihidupkan</string>
 </resources>

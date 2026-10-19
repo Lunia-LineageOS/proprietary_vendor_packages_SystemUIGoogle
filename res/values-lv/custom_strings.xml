@@ -109,4 +109,10 @@ Tālrunis var pārkarst, ja:
     <string name="battery_replacement_notify_des">Iespējamas akumulatora pārkaršanas problēmas dēļ akumulatora ietilpība un uzlādes veiktspēja ir samazinājusies un ir ieteicams nomainīt akumulatoru. Ir pieejamas atbalsta iespējas. Lai iegūtu plašāku informāciju, apmeklējiet vietni &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Jūsu akumulatoram ir veikti 375 uzlādes cikli. Iespējamas akumulatora pārkaršanas problēmas dēļ, kad akumulators sasniegs 400 uzlādes ciklus, akumulatora ietilpība un uzlādes veiktspēja samazināsies un būs ieteicams nomainīt akumulatoru. Ir pieejamas atbalsta iespējas. Lai iegūtu plašāku informāciju, apmeklējiet vietni &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Skatīt ciklu skaitu</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Akumulatora koplietošana</string>
+    <string name="reverse_charging_device_name_text">Cita Pixel ierīce</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s nodrošina uzlādi (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Akumulatora dalīšana ieslēgta</string>
 </resources>

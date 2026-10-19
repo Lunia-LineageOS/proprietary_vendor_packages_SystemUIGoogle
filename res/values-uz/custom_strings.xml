@@ -109,4 +109,10 @@ Telefoningiz quyidagi hollarda qizib ketishi mumkin:
     <string name="battery_replacement_notify_des">Batareya qizib ketishi bilan aloqador muammo tufayli batareya sigʻimi va quvvatlash unumdorligi kamayadi hamda batareyani almashtirish tavsiya etiladi. Yordam variantlari mavjud, batafsil axborot uchun &lt;u>g.co/pixel/6abattery&lt;/u> manziliga kiring.</string>
     <string name="battery_replacement_early_notify_des">Batareyangiz quvvatlash sikli: 375. Batareya qizib ketishi bilan aloqador muammo tufayli batareyangiz quvvatlash sikli 400 ga yetganda batareya sigʻimi va quvvatlash unumdorligi kamayadi hamda batareyani almashtirish tavsiya etiladi. Yordam variantlari mavjud, batafsil axborot uchun &lt;u>g.co/pixel/6abattery&lt;/u> manziliga kiring.</string>
     <string name="battery_management_action">Sikllar sonini koʻrish</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Batareya quvvati ulashilmoqda</string>
+    <string name="reverse_charging_device_name_text">Boshqa Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s quvvatlamoqda (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Quvvat ulashish yoniq</string>
 </resources>

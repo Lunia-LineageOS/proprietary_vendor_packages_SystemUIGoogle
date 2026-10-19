@@ -109,4 +109,10 @@ Telefonunuz şu durumlarda aşırı ısınabilir:
     <string name="battery_replacement_notify_des">Aşırı ısınma sorunu nedeniyle pil kapasitesi ve şarj performansı azaldı. Pilin değiştirilmesi önerilir. Destek seçeneklerinden yararlanabilirsiniz. Daha fazla bilgi için &lt;u>g.co/pixel/6abattery&lt;/u> adresini ziyaret edin.</string>
     <string name="battery_replacement_early_notify_des">Piliniz 375. şarj döngüsünde. Aşırı ısınma sorunu yaşama olasılığı nedeniyle piliniz 400. şarj döngüsüne ulaştığında kapasitesi ve şarj performansı azalır. Bu durumda pilin değiştirilmesi önerilir. Destek seçeneklerinden yararlanabilirsiniz. Daha fazla bilgi için &lt;u>g.co/pixel/6abattery&lt;/u> adresini ziyaret edin.</string>
     <string name="battery_management_action">Şarj döngü sayısını göster</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Pil paylaşılıyor</string>
+    <string name="reverse_charging_device_name_text">Diğer Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s şarj sağlıyor (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Pil Paylaşımı açık</string>
 </resources>

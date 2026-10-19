@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">बैटरी ज़्यादा गर्म होने की संभावित समस्या की वजह से, बैटरी की क्षमता और चार्जिंग परफ़ॉर्मेंस में गिरावट आ जाएगी. ऐसे में, हमारा सुझाव है कि आप बैटरी बदल लें. सहायता के विकल्प उपलब्ध हैं. ज़्यादा जानकारी के लिए, &lt;u>g.co/pixel/6abattery&lt;/u> पर जाएं.</string>
     <string name="battery_replacement_early_notify_des">आपके डिवाइस की बैटरी के चार्ज साइकल की संख्या 375 हो गई है. बैटरी ज़्यादा गर्म होने की संभावित समस्या की वजह से, बैटरी के 400 चार्ज साइकल पूरे होने पर उसकी क्षमता और चार्जिंग परफ़ॉर्मेंस में गिरावट आ जाएगी. ऐसे में, हमारा सुझाव है कि आप बैटरी बदल लें. सहायता के विकल्प उपलब्ध हैं. ज़्यादा जानकारी के लिए, &lt;u>g.co/pixel/6abattery&lt;/u> पर जाएं.</string>
     <string name="battery_management_action">बैटरी के चार्ज साइकल की संख्या देखें</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">बैटरी शेयर की जा रही है</string>
+    <string name="reverse_charging_device_name_text">दूसरा Pixel डिवाइस</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s का इस्तेमाल बैटरी को चार्ज करने के लिए किया जा रहा है (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">बैटरी शेयर करने की सुविधा चालू है</string>
 </resources>

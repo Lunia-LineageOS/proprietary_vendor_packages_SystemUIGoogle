@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ဖြစ်နိုင်ချေရှိသော ဘက်ထရီအပူလွန်ကဲမှုပြဿနာကြောင့် ဘက်ထရီသိုလှောင်နိုင်မှု ပမာဏနှင့် အားသွင်းနှုန်း လျော့ကျသွားပြီး ဘက်ထရီလဲရန် အကြံပြုပါသည်။ ပံ့ပိုးကူညီမှုရွေးစရာများ ရနိုင်သည်။ နောက်ထပ်အချက်အလက်အတွက် &lt;u>g.co/pixel/6abattery&lt;/u> သို့ ဝင်ကြည့်ပါ။</string>
     <string name="battery_replacement_early_notify_des">သင်၏ဘက်ထရီသည် အားသွင်းခြင်းသံသရာ ၃၇၅ သို့ ရောက်နေပါပြီ။ ဖြစ်နိုင်ချေရှိသော ဘက်ထရီအပူလွန်ကဲမှုပြဿနာကြောင့် သင်၏ဘက်ထရီသည် အားသွင်းခြင်းသံသရာ ၄၀၀ သို့ ရောက်သောအခါ ဘက်ထရီသိုလှောင်နိုင်မှု ပမာဏနှင့် အားသွင်းနှုန်း လျော့ကျသွားမည်ဖြစ်ပြီး ဘက်ထရီလဲရန် အကြံပြုပါသည်။ ပံ့ပိုးကူညီမှုရွေးစရာများ ရနိုင်သည်။ နောက်ထပ်အချက်အလက်အတွက် &lt;u>g.co/pixel/6abattery&lt;/u> သို့ ဝင်ကြည့်ပါ။</string>
     <string name="battery_management_action">အားသွင်းအကြိမ်ရေ ကြည့်ရန်</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ဘက်ထရီ မျှဝေခြင်း</string>
+    <string name="reverse_charging_device_name_text">အခြား Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s က အားသွင်းပေးနေသည် (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">"'ဘက်ထရီမျှဝေခြင်း' ကို ဖွင့်ထားသည်"</string>
 </resources>

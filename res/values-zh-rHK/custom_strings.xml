@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">由於電池可能有過熱問題，導致電池容量和充電效能均會降低，因此我們建議你更換電池。你可選擇其他支援選項，詳情請瀏覽 &lt;u>g.co/pixel/6abattery&lt;/u>。</string>
     <string name="battery_replacement_early_notify_des">電池充電週期已達 375 次。由於電池可能有過熱問題，當充電週期達 400 次時，電池容量和充電效能均會降低，因此我們建議你更換電池。你可選擇其他支援選項，詳情請瀏覽 &lt;u>g.co/pixel/6abattery&lt;/u>。</string>
     <string name="battery_management_action">查看週期數</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">正在共用電池</string>
+    <string name="reverse_charging_device_name_text">其他 Pixel 裝置</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s 正在為其他裝置充電 (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">電池分享功能已開啟</string>
 </resources>

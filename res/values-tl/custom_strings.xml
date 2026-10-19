@@ -109,4 +109,10 @@ Posibleng uminit nang masyado ang iyong telepono kapag:
     <string name="battery_replacement_notify_des">Dahil sa potensyal na isyu sa pag-overheat ng baterya, nabawasan ang kapasidad ng baterya at performance ng pag-charge, at inirerekomenda ang pagpapalit ng baterya. Available ang mga opsyon sa suporta, bumisita sa &lt;u>g.co/pixel/6abattery&lt;/u> para sa higit pang impormasyon.</string>
     <string name="battery_replacement_early_notify_des">Nasa 375 cycle ng pag-charge ang iyong baterya. Dahil sa potensyal na isyu sa pag-overheat ng baterya, kapag umabot na sa 400 cycle ng pag-charge ang baterya mo, mababawasan ang kapasidad ng baterya at performance ng pag-charge at inirerekomenda ang pagpapalit ng baterya. Available ang mga opsyon sa suporta, bumisita sa &lt;u>g.co/pixel/6abattery&lt;/u> para sa higit pang impormasyon.</string>
     <string name="battery_management_action">Tingnan ang bilang ng cycle</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Nagbabahagi ng baterya</string>
+    <string name="reverse_charging_device_name_text">Kabilang Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">Nagbibigay ng charge ang %1$s (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Naka-on ang Battery Share</string>
 </resources>

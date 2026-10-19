@@ -7,10 +7,13 @@ import com.android.systemui.broadcast.BroadcastDispatcher;
 import com.android.systemui.dagger.SysUISingleton;
 import com.android.systemui.dagger.qualifiers.Application;
 import com.android.systemui.dagger.qualifiers.Background;
+import com.android.systemui.statusbar.policy.BatteryController;
 
 import com.google.android.systemui.power.batteryhealth.HealthManager;
 import com.google.android.systemui.res.R;
+import com.google.android.systemui.reversecharging.ReverseChargingViewController;
 
+import dagger.Lazy;
 import dagger.Module;
 import dagger.Provides;
 
@@ -42,5 +45,12 @@ public interface CentralSurfacesGoogleModule {
                                 bgDispatcher,
                                 applicationScope))
                 : Optional.empty();
+    }
+
+    @Provides
+    @SysUISingleton
+    static Optional<ReverseChargingViewController> provideReverseChargingViewControllerOptional(
+            BatteryController batteryController, Lazy<ReverseChargingViewController> rcvc) {
+        return batteryController.isReverseSupported() ? Optional.of(rcvc.get()) : Optional.empty();
     }
 }

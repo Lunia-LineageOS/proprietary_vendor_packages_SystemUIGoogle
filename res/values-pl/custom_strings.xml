@@ -109,4 +109,10 @@ Temperatura telefonu może wzrastać, gdy:
     <string name="battery_replacement_notify_des">Ze względu na potencjalny problem z przegrzewaniem się baterii jej pojemność i wydajność ładowania zostały ograniczone. Zalecamy wymianę baterii. Dostępne są opcje pomocy. Więcej informacji znajdziesz na stronie &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Bateria osiągnęła 375 cykli ładowania. Po osiągnięciu 400 cykli jej pojemność i wydajność ładowania zostaną ograniczone ze względu na potencjalny problem z przegrzewaniem się. Zalecamy wówczas wymianę baterii. Dostępne są opcje pomocy. Więcej informacji znajdziesz na stronie &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Zobacz liczbę cykli</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Współdzielenie baterii</string>
+    <string name="reverse_charging_device_name_text">Inny telefon Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ładuje (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Włączono współdzielenie baterii</string>
 </resources>

@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">バッテリーが過熱する恐れがあるため、バッテリー容量と充電性能が低下しています。バッテリーの交換をおすすめします。サポート オプションをご利用いただけます。詳しくは &lt;u>g.co/pixel/6abattery&lt;/u> をご覧ください。</string>
     <string name="battery_replacement_early_notify_des">バッテリーの充電サイクルは 375 回です。バッテリーが過熱する恐れがあるため、充電サイクルが 400 回に達すると、バッテリー容量と充電性能が低下します。バッテリーの交換をおすすめします。サポート オプションをご利用いただけます。詳しくは &lt;u>g.co/pixel/6abattery&lt;/u> をご覧ください。</string>
     <string name="battery_management_action">サイクル回数を表示</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">電池を共有しています</string>
+    <string name="reverse_charging_device_name_text">もう一方の Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s から充電されています（%2$s）</string>
+    <string name="reverse_charging_on_notification_title">バッテリー シェアはオンです</string>
 </resources>

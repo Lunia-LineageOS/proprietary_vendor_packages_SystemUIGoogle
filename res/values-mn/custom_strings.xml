@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">Батарей хэт халж болзошгүй асуудлын улмаас батарейн багтаамж, цэнэглэх явц багасах бөгөөд батарейг солихыг зөвлөдөг. Янз бүрийн аргаар тусламж авч болно. Нэмэлт мэдээлэл авах бол &lt;u>g.co/pixel/6abattery&lt;/u> URL-д зочилно уу.</string>
     <string name="battery_replacement_early_notify_des">Таны батарей 375-р цэнэглэх мөчлөгт байна. Батарей хэт халж болзошгүй асуудлын улмаас таны батарей 400 цэнэглэх мөчлөгт хүрэх үед батарейн багтаамж, цэнэглэх явц багасах бөгөөд батарейг солихыг зөвлөдөг. Янз бүрийн аргаар тусламж авч болно. Нэмэлт мэдээлэл авах бол &lt;u>g.co/pixel/6abattery&lt;/u> URL-д зочилно уу.</string>
     <string name="battery_management_action">Мөчлөгийн тоог харах</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Батарейн цэнэгийг хуваалцаж байна</string>
+    <string name="reverse_charging_device_name_text">Бусад Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s цэнэглэж байна (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Батарей хуваалцах онцлог асаалттай байна</string>
 </resources>

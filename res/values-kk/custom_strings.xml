@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">Батареяның қызып кетуі мүмкін болғандықтан, батарея сыйымдылығы мен зарядтау өнімділігі азайтылады. Бұл жағдайда батареяны ауыстырған жөн. Қолдау опциялары қолжетімді. Қосымша ақпарат алу үшін &lt;u>g.co/pixel/6abattery&lt;/u> бетіне өтіңіз.</string>
     <string name="battery_replacement_early_notify_des">Батарея 375 заряд цикліне жетті. Батареяның қызып кетуі мүмкін болғандықтан, батарея 400 заряд цикліне жеткен кезде, батарея сыйымдылығы мен зарядтау өнімділігі азайтылады. Бұл жағдайда батареяны ауыстырған жөн. Қолдау опциялары қолжетімді. Қосымша ақпарат алу үшін &lt;u>g.co/pixel/6abattery&lt;/u> бетіне өтіңіз.</string>
     <string name="battery_management_action">Цикл санын көру</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Батарея қуатын бөлісу</string>
+    <string name="reverse_charging_device_name_text">Басқа Pixel құрылғысы</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s құрылғысы батарея зарядын беріп жатыр (%2$s).</string>
+    <string name="reverse_charging_on_notification_title">Батареяны бөлісу функциясы қосулы</string>
 </resources>

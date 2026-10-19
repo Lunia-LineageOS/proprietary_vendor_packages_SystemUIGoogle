@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">Емкость батареи и эффективность зарядки снижены из-за возможной проблемы с перегревом. Рекомендуем заменить батарею. Чтобы узнать больше, перейдите по ссылке &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Батарея прошла 375 циклов зарядки. Когда число циклов достигнет 400, она может начать перегреваться, поэтому ее емкость и эффективность зарядки будут снижены. Рекомендуем заменить батарею. Чтобы узнать больше, перейдите по ссылке &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Посмотреть число циклов</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Передача заряда батареи…</string>
+    <string name="reverse_charging_device_name_text">Другое устройство Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s передает заряд батареи (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Передача заряда батареи включена</string>
 </resources>

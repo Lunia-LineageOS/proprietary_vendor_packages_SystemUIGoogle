@@ -109,4 +109,10 @@ A telefon akkor melegedhet túl, ha:
     <string name="battery_replacement_notify_des">Az akkumulátor túlmelegedésének lehetséges problémája miatt csökkent az akkumulátor kapacitása és töltési teljesítménye, ezért javasoljuk a cseréjét. Különböző támogatási lehetőségek állnak rendelkezésre. További információért látogasson el a &lt;u>g.co/pixel/6abattery&lt;/u> oldalra.</string>
     <string name="battery_replacement_early_notify_des">Az akkumulátor töltési ciklusainak száma 375. Az akkumulátor túlmelegedésének lehetséges problémája miatt, amikor az akkumulátor eléri a 400 töltési ciklust, az akkumulátor kapacitása és töltési teljesítménye csökken, ezért javasoljuk az akkumulátor cseréjét. Különböző támogatási lehetőségek állnak rendelkezésre. További információért látogasson el a &lt;u>g.co/pixel/6abattery&lt;/u> oldalra.</string>
     <string name="battery_management_action">A ciklusok számának megtekintése</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Akkumulátor megosztása</string>
+    <string name="reverse_charging_device_name_text">Másik Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">A töltést biztosítja: %1$s (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Az akkumumegosztás be van kapcsolva</string>
 </resources>

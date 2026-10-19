@@ -21,6 +21,12 @@ constructor(
     val ambientMusicState: StateFlow<AmbientIndicationMusic?> =
         ambientIndicationRepository.ambientMusic.asStateFlow()
 
+    val reverseChargingMessage: StateFlow<String> =
+        ambientIndicationRepository.reverseChargingMessage.asStateFlow()
+
+    val wirelessChargingMessage: StateFlow<String> =
+        ambientIndicationRepository.wirelessChargingMessage.asStateFlow()
+
     fun hideAmbientMusic() {
         ambientIndicationRepository.ambientMusic.value = null
         keyguardInteractor.setAmbientIndicationVisible(false)

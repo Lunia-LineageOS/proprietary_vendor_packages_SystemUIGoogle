@@ -109,4 +109,10 @@ Ifoni yakho ingafudumala kakhulu uma:
     <string name="battery_replacement_notify_des">Ngenxa yokuthi kungenzeka kube nenkinga yokushisa ngokweqile kwebhethri, umthamo webhethri kanye nesivinini sokushaja kuncishisiwe, futhi kunconywa ukuba kushintshwe ibhethri. Okungakhethwa kosekelo kuyatholakala, vakashela okuthi &lt;u>g.co/pixel/6abattery&lt;/u> ukuze uthole ulwazi olwengeziwe.</string>
     <string name="battery_replacement_early_notify_des">Ibhethri lakho lisemjikelezweni wokushaja wama-375. Ngenxa yokuthi kungase kube nenkinga yokushisha ngokweqile kwebhethri, lapho ibhethri yakho ifinyelela umjikelezo wokushaja wama-400 womthambo webhethri futhi isivinini sokushaja sizoncipha futhi kunconywa ukuba kushintshwe ibhethri. Okungakhethwa kosekelo kuyatholakala, vakashela okuthi &lt;u>g.co/pixel/6abattery&lt;/u> ukuze uthole ulwazi olwengeziwe.</string>
     <string name="battery_management_action">Bona isibalo somjikelezo</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Ukwabelana ngebhethri</string>
+    <string name="reverse_charging_device_name_text">Enye i-Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">I-%1$s ihlinzeka ngokushaja (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Ukwabelana ngebhethri kuvuliwe</string>
 </resources>

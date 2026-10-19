@@ -109,4 +109,10 @@ Telefon võib soojeneda järgmistel põhjustel.
     <string name="battery_replacement_notify_des">Aku võimaliku ülekuumenemise tõttu väheneb selle mahtuvus ja laadimisvõimsus ning on soovitatav aku välja vahetada. Saadaval on toevalikud, lisateavet leiate saidilt &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Teie aku on läbinud 375 laadimistsüklit. Aku võimaliku ülekuumenemise tõttu väheneb pärast 400 laadimistsüklit aku mahtuvus ja laadimisvõimsus ning on soovitatav aku välja vahetada. Saadaval on toevalikud, lisateavet leiate saidilt &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Vaadake tsüklite arvu</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Aku jagamine</string>
+    <string name="reverse_charging_device_name_text">Muu Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s annab toidet (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Aku jagamine on sees</string>
 </resources>

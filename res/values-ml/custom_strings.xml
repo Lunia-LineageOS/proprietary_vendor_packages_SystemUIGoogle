@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ബാറ്ററി ഓവർ ഹീറ്റ് ആകാൻ സാധ്യതയുള്ളതിനാൽ, ബാറ്ററി കപ്പാസിറ്റിയും ചാർജിംഗ് പ്രകടനവും കുറയും, ബാറ്ററി മാറ്റുന്നതാണ് നല്ലത്. പിന്തുണാ ഓപ്‌ഷനുകൾ ലഭ്യമാണ്, കൂടുതൽ വിവരങ്ങൾക്ക് &lt;u>g.co/pixel/6abattery&lt;/u> സന്ദർശിക്കുക.</string>
     <string name="battery_replacement_early_notify_des">നിങ്ങളുടെ ബാറ്ററി 375 ചാർജ് സൈക്കിൾ പൂർത്തിയാക്കി. ബാറ്ററി ഓവർ ഹീറ്റ് ആകാൻ സാധ്യതയുള്ളതിനാൽ, 400 ചാർജ് സൈക്കിൾ പൂർത്തിയാക്കുമ്പോൾ, ബാറ്ററി കപ്പാസിറ്റിയും ചാർജിംഗ് പ്രകടനവും കുറയും, ബാറ്ററി മാറ്റുന്നതാണ് നല്ലത്. പിന്തുണാ ഓപ്‌ഷനുകൾ ലഭ്യമാണ്, കൂടുതൽ വിവരങ്ങൾക്ക് &lt;u>g.co/pixel/6abattery&lt;/u> സന്ദർശിക്കുക.</string>
     <string name="battery_management_action">സൈക്കിൾ കൗണ്ട് കാണുക</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ബാറ്ററി പങ്കിടുന്നു</string>
+    <string name="reverse_charging_device_name_text">മറ്റ് Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ചാർജ് നൽകുന്നു (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ബാറ്ററി പങ്കിടൽ ഓണാണ്</string>
 </resources>

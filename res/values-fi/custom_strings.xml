@@ -109,4 +109,10 @@ Puhelin voi lämmetä liikaa, jos
     <string name="battery_replacement_notify_des">Akun mahdollisen ylikuumenemisen vuoksi akun kapasiteetti ja latausteho heikkenevät, ja akun vaihtamista suositellaan. Löydät tukivaihtoehdot ja lisätietoa osoitteesta &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Akulla on nyt 375 lataussykliä. Akun mahdollisen ylikuumenemisen vuoksi akun kapasiteetti ja latausteho heikkenevät, kun akku saavuttaa 400 lataussykliä, ja akun vaihtamista suositellaan. Löydät tukivaihtoehdot ja lisätietoa osoitteesta &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Katso syklien määrä</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Virtaa jaetaan</string>
+    <string name="reverse_charging_device_name_text">Muu Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s toimii virtalähteenä (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Akunjako on päällä</string>
 </resources>

@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">‏بیٹری کے اوورہیٹنگ کے ممکنہ مسئلے کی وجہ سے، بیٹری کی گنجائش اور چارجنگ پرفارمنس کم ہو جاتی ہے اور بیٹری کی تبدیلی کی تجویز کی جاتی ہے۔ سپورٹ کے اختیارات دستیاب ہیں، معلومات کے لیے &lt;u>g.co/pixel/6abattery&lt;/u> ملاحظہ کریں۔</string>
     <string name="battery_replacement_early_notify_des">‏آپ کی بیٹری 375 چارج سائیکلز پر ہے۔ بیٹری کے اوورہیٹنگ کے ممکنہ مسئلے کی وجہ سے، جب آپ کی بیٹری 400 چارج سائیکلز تک پہنچ جائے گی تو بیٹری کی گنجائش اور چارجنگ پرفارمنس کم ہو جائے گی اور بیٹری کی تبدیلی کی تجویز کی جاتی ہے۔ سپورٹ کے اختیارات دستیاب ہیں، معلومات کے لیے &lt;u>g.co/pixel/6abattery&lt;/u> ملاحظہ کریں۔</string>
     <string name="battery_management_action">چارج سائیکل کی تعداد دیکھیں</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">بیٹری کا اشتراک کیا جا رہا ہے</string>
+    <string name="reverse_charging_device_name_text">‏دیگر Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s (%2$s) چارج فراہم کر رہا ہے</string>
+    <string name="reverse_charging_on_notification_title">بیٹری کا اشتراک آن ہے</string>
 </resources>

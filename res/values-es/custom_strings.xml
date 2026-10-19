@@ -109,4 +109,10 @@ Tu teléfono puede calentarse demasiado cuando:
     <string name="battery_replacement_notify_des">Para evitar un posible sobrecalentamiento de la batería, la capacidad de la batería y el rendimiento de la carga se han reducido, por lo que se recomienda sustituir la batería. Hay opciones de asistencia disponibles. Consulta &lt;u>g.co/pixel/6abattery&lt;/u> para obtener más información.</string>
     <string name="battery_replacement_early_notify_des">Tu batería ha completado 375 ciclos de carga. Para evitar un posible sobrecalentamiento de la batería, cuando la batería alcance los 400 ciclos de carga, la capacidad de la batería y el rendimiento de la carga se reducirán, por lo que se recomienda sustituir la batería. Hay opciones de asistencia disponibles. Consulta &lt;u>g.co/pixel/6abattery&lt;/u> para obtener más información.</string>
     <string name="battery_management_action">Ver número de ciclos</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Compartiendo batería</string>
+    <string name="reverse_charging_device_name_text">Otro Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s está transfiriendo su carga (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">La función Compartir batería está activada</string>
 </resources>

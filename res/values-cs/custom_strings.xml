@@ -109,4 +109,10 @@ Telefon se může přehřát v následujících situacích:
     <string name="battery_replacement_notify_des">Kvůli možnému problému s přehříváním baterie se sníží její kapacita a nabíjecí výkon a doporučuje se ji vyměnit. K dispozici jsou možnosti podpory, další informace najdete na stránce &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Vaše baterie dosáhla 375 nabíjecích cyklů. Vzhledem k možnému problému s přehříváním se po dosažení 400 nabíjecích cyklů sníží její kapacita a nabíjecí výkon a doporučuje se ji vyměnit. K dispozici jsou možnosti podpory, další informace najdete na stránce &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Zobrazit počet cyklů</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Sdílení baterie</string>
+    <string name="reverse_charging_device_name_text">Jiný telefon Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s nabíjí (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Sdílení baterie je zapnuté</string>
 </resources>

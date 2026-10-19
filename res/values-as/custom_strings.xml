@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">বেটাৰী অধিক গৰম হোৱাৰ এটা সম্ভাৱ্য সমস্যাৰ বাবে, বেটাৰীৰ বহনক্ষমতা আৰু চাৰ্জিঙৰ কাৰ্যদক্ষতা হ্ৰাস পায় আৰু বেটাৰী সলনি কৰিবলৈ চুপাৰিছ কৰা হৈছে। সহায়ক বিকল্পসমূহ উপলব্ধ, অধিক তথ্যৰ বাবে ইয়ালৈ যাওক - &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">আপোনাৰ বেটাৰীটো চাৰ্জৰ চক্ৰ ৩৭৫ত আছে। বেটাৰী অধিক গৰম হোৱাৰ এটা সম্ভাৱ্য সমস্যাৰ বাবে, আপোনাৰ বেটাৰীটো চাৰ্জৰ চক্ৰ ৪০০ত উপনীত হ’লে বেটাৰীৰ বহনক্ষমতা আৰু চাৰ্জিঙৰ কাৰ্যদক্ষতা হ্ৰাস পাব আৰু বেটাৰী সলনি কৰিবলৈ চুপাৰিছ কৰা হৈছে। সহায়ক বিকল্পসমূহ উপলব্ধ, অধিক তথ্যৰ বাবে ইয়ালৈ যাওক - &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">চক্ৰৰ গণনা চাওক</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">বেটাৰী শ্বেয়াৰ কৰি থকা হৈছে</string>
+    <string name="reverse_charging_device_name_text">অন্য Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$sএ চাৰ্জ প্ৰদান কৰি আছে (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">বেটাৰী শ্বেয়াৰ কৰাৰ সুবিধাটো অন আছে</string>
 </resources>

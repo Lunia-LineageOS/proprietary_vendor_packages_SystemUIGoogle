@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ដោយសារបញ្ហាឡើងកម្ដៅថ្មខ្លាំងដែលអាចកើតឡើង កាប៉ាស៊ីតេបន្ទុករបស់ថ្ម និងប្រតិបត្តិការ​សាកថ្មនឹងថយចុះ ហើយការប្ដូរថ្មត្រូវបានណែនាំ។ អាចប្រើជម្រើសជំនួយបាន សូមចូលទៅកាន់ &lt;u>g.co/pixel/6abattery&lt;/u> ដើម្បីទទួលបានព័ត៌មានបន្ថែម។</string>
     <string name="battery_replacement_early_notify_des">ថ្មរបស់អ្នកឈានដល់វដ្ដសាកថ្ម 375 វដ្ដហើយ។ ដោយសារបញ្ហាឡើងកម្ដៅថ្មខ្លាំងដែលអាចកើតឡើង នៅពេលថ្មរបស់អ្នកឈានដល់វដ្ដសាកថ្ម 400 វដ្ដ កាប៉ាស៊ីតេបន្ទុករបស់ថ្ម និងប្រតិបត្តិការ​សាកថ្មនឹងថយចុះ ហើយការប្ដូរថ្មត្រូវបានណែនាំ។ អាចប្រើជម្រើសជំនួយបាន សូមចូលទៅកាន់ &lt;u>g.co/pixel/6abattery&lt;/u> ដើម្បីទទួលបានព័ត៌មានបន្ថែម។</string>
     <string name="battery_management_action">មើលចំនួនវដ្ដ</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">កំពុង​ចែករំលែក​ថ្ម</string>
+    <string name="reverse_charging_device_name_text">Pixel ផ្សេងទៀត</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s កំពុងផ្ដល់​ការសាកថ្ម (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ការចែករំលែកថ្ម​ត្រូវបានបើក</string>
 </resources>

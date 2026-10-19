@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">‏من المحتمل أن تسخن البطارية، لذا سيتم خفض سعتها وأداء الشحن، ويُنصح باستبدالها. خيارات الدعم متوفّرة، ويمكنك الانتقال إلى &lt;u>g.co/pixel/6abattery&lt;/u> لمعرفة المزيد من المعلومات.</string>
     <string name="battery_replacement_early_notify_des">‏لقد وصل عدد دورات شحن بطاريتك إلى 375. ومن المحتمل أن تسخن البطارية عندما تصل إلى 400 دورة شحن، لذا، سيتم خفض سعتها وأداء الشحن، ويُنصح باستبدالها. خيارات الدعم متوفّرة، ويمكنك الانتقال إلى &lt;u>g.co/pixel/6abattery&lt;/u> لمعرفة المزيد من المعلومات.</string>
     <string name="battery_management_action">الاطّلاع على عدد دورات الشحن</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">مشاركة البطارية</string>
+    <string name="reverse_charging_device_name_text">‏هاتف Pixel الآخر</string>
+    <string name="reverse_charging_device_providing_charge_text">يقدّم جهاز %1$s الشحن (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ميزة \"مشاركة البطارية\" مفعَّلة</string>
 </resources>

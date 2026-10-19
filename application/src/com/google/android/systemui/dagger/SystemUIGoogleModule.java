@@ -23,6 +23,9 @@ import static com.android.systemui.Dependency.LEAK_REPORT_EMAIL_NAME;
 
 import android.content.Context;
 import android.hardware.SensorPrivacyManager;
+import android.hardware.usb.UsbManager;
+import android.os.IThermalService;
+import android.os.ServiceManager;
 
 import com.android.keyguard.KeyguardViewController;
 import com.android.systemui.CoreStartable;
@@ -123,6 +126,8 @@ import com.google.android.systemui.keyguard.data.repository.AmbientIndicationRep
 import com.google.android.systemui.keyguard.ui.composable.elements.GoogleAmbientIndicationElementProvider;
 import com.google.android.systemui.keyguard.ui.sections.DefaultAmbientIndicationAreaSection;
 import com.google.android.systemui.power.dagger.PowerModuleGoogle;
+import com.google.android.systemui.res.R;
+import com.google.android.systemui.reversecharging.ReverseWirelessCharger;
 import com.google.android.systemui.smartspace.BcSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.DateSmartspaceDataProvider;
 import com.google.android.systemui.smartspace.KeyguardSmartspaceStartable;
@@ -390,4 +395,26 @@ public abstract class SystemUIGoogleModule {
     @Binds
     abstract ThemeOverlayController bindThemeOverlayController(
             ThemeOverlayControllerGoogle impl);
+
+    @Provides
+    @SysUISingleton
+    static IThermalService provideIThermalService() {
+        return IThermalService.Stub.asInterface(ServiceManager.getService("thermalservice"));
+    }
+
+    @Provides
+    @SysUISingleton
+    static Optional<UsbManager> provideUsbManager(Context context) {
+        return Optional.ofNullable(context.getSystemService(UsbManager.class));
+    }
+
+    @Provides
+    @SysUISingleton
+    static Optional<ReverseWirelessCharger> provideReverseWirelessCharger(Context context) {
+        // ??? The name is unused and R8 dropped the one stock passes; Settings passes
+        // "settings_callback".
+        return context.getResources().getBoolean(R.bool.config_wlc_support_enabled)
+                ? Optional.of(new ReverseWirelessCharger(context, "systemui_callback"))
+                : Optional.empty();
+    }
 }

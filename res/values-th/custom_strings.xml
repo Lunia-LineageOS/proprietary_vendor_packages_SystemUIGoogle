@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ความจุแบตเตอรี่และประสิทธิภาพการชาร์จจะลดลงเนื่องจากอาจเกิดปัญหาความร้อนของแบตเตอรี่เกินระดับปกติ จึงขอแนะนำให้เปลี่ยนแบตเตอรี่ ตัวเลือกการสนับสนุนพร้อมให้บริการแล้ว โปรดดูข้อมูลเพิ่มเติมที่ &lt;u>g.co/pixel/6abattery&lt;/u></string>
     <string name="battery_replacement_early_notify_des">แบตเตอรี่ของคุณมีรอบการชาร์จ 375 รอบ เมื่อแบตเตอรี่มีรอบการชาร์จถึง 400 รอบแล้ว ความจุแบตเตอรี่และประสิทธิภาพการชาร์จจะลดลงเนื่องจากอาจเกิดปัญหาความร้อนของแบตเตอรี่เกินระดับปกติ จึงขอแนะนำให้เปลี่ยนแบตเตอรี่ ตัวเลือกการสนับสนุนพร้อมให้บริการแล้ว โปรดดูข้อมูลเพิ่มเติมที่ &lt;u>g.co/pixel/6abattery&lt;/u></string>
     <string name="battery_management_action">ดูจำนวนรอบ</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">กำลังแชร์แบตเตอรี่</string>
+    <string name="reverse_charging_device_name_text">Pixel เครื่องอื่น</string>
+    <string name="reverse_charging_device_providing_charge_text">กำลังจากชาร์จจากแบตเตอรี่ของ %1$s (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">การแชร์แบตเตอรี่เปิดอยู่</string>
 </resources>

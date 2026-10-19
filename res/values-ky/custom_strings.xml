@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">Өтө ысып кетиши мүмкүн болгондуктан, батареянын сыйымдуулугу жана кубаттоо майнаптуулугу төмөндөдү, андыктан аны алмаштыруу сунушталат. Көбүрөөк маалымат алуу үчүн &lt;u>g.co/pixel/6abattery&lt;/u> бөлүмүнө өтүңүз.</string>
     <string name="battery_replacement_early_notify_des">Батареяңыз 375 кубаттоо мерчиминен өттү. 400 кубаттоо мерчимине жеткенде батарея өтө ысып кетиши мүмкүн болгондуктан, анын сыйымдуулугу жана кубаттоо майнаптуулугу төмөндөйт, андыктан батареяны алмаштыруу сунушталат. Көбүрөөк маалымат алуу үчүн &lt;u>g.co/pixel/6abattery&lt;/u> бөлүмүнө өтүңүз.</string>
     <string name="battery_management_action">Мерчимдердин санын көрүү</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Батареяны бөлүшүү</string>
+    <string name="reverse_charging_device_name_text">Башка Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s кубатын бөлүшүп жатат (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Батареяны бөлүшүү күйүк</string>
 </resources>

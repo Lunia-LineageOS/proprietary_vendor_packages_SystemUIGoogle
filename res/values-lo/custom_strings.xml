@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">ເນື່ອງຈາກບັນຫາຄວາມຮ້ອນເກີນຂອງແບັດເຕີຣີ, ຄວາມຈຸແບັດເຕີຣີ ແລະ ປະສິດທິພາບການສາກໄຟຫຼຸດລົງ ແລະ ແນະນຳໃຫ້ປ່ຽນແບັດເຕີຣີໃໝ່. ມີຕົວເລືອກການສະໜັບສະໜູນໃຫ້, ເຂົ້າເບິ່ງ &lt;u>g.co/pixel/6abattery&lt;/u> ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.</string>
     <string name="battery_replacement_early_notify_des">ແບັດເຕີຣີຂອງທ່ານມີຮອບການສາກໄຟ 375 ຮອບ. ເນື່ອງຈາກບັນຫາຄວາມຮ້ອນເກີນຂອງແບັດເຕີຣີ, ເມື່ອແບັດເຕີຣີຂອງທ່ານຮອດ 400 ຮອບການສາກໄຟ, ຄວາມຈຸແບັດເຕີຣີ ແລະ ປະສິດທິພາບການສາກໄຟຈະຫຼຸດລົງ ແລະ ແນະນຳໃຫ້ປ່ຽນແບັດເຕີຣີໃໝ່. ມີຕົວເລືອກການສະໜັບສະໜູນໃຫ້, ເຂົ້າເບິ່ງ &lt;u>g.co/pixel/6abattery&lt;/u> ສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.</string>
     <string name="battery_management_action">ເບິ່ງຈຳນວນຮອບ</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">ກຳລັງແບ່ງປັນແບັດເຕີຣີ</string>
+    <string name="reverse_charging_device_name_text">Pixel ອື່ນ</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s ກຳລັງຈ່າຍໄຟ (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">ເປີດໃຊ້ການແບ່ງປັນແບັດເຕີຣີແລ້ວ</string>
 </resources>

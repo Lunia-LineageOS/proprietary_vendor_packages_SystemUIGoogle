@@ -109,4 +109,10 @@ El telèfon es pot sobreescalfar quan:
     <string name="battery_replacement_notify_des">"A causa d'un possible problema de sobreescalfament de la bateria, la capacitat de la bateria i el rendiment de la càrrega han disminuït, i es recomana substituir la bateria. Hi ha opcions d'assistència disponibles. Visita &lt;u>g.co/pixel/6abattery&lt;/u> per obtenir més informació."</string>
     <string name="battery_replacement_early_notify_des">"La bateria ha completat 375 cicles de càrrega. A causa d'un possible problema de sobreescalfament de la bateria, quan la bateria arribi als 400 cicles de càrrega, es reduiran la capacitat de la bateria i el rendiment de la càrrega i es recomanarà substituir la bateria. Hi ha opcions d'assistència disponibles. Visita &lt;u>g.co/pixel/6abattery&lt;/u> per obtenir més informació."</string>
     <string name="battery_management_action">Mostra el recompte de cicles</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">"S'està compartint la bateria"</string>
+    <string name="reverse_charging_device_name_text">Un altre dispositiu Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s està proporcionant la càrrega (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">La funció Compartició de bateria està activada</string>
 </resources>

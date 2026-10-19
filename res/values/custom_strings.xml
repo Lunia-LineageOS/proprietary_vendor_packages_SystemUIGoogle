@@ -117,4 +117,12 @@ Your phone can get too warm when:
     <string name="battery_replacement_early_notify_des">Your battery is at 375 charge cycles. Due to a potential battery overheating issue, when your battery reaches 400 charge cycles the battery capacity and charging performance will be reduced and battery replacement is recommended. Support options are available, visit &lt;u>g.co/pixel/6abattery&lt;/u> for more information.</string>
     <string name="battery_management_action">See cycle count</string>
     <string name="battery_replacement_notify_help_url" translatable="false">https://g.co/pixel/6abattery</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Sharing battery</string>
+    <string name="status_bar_google_reverse_charging" translatable="false">batteryshare</string>
+    <string name="reverse_charging_on_notification_title">Battery Share is on</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s providing charge (%2$s)</string>
+    <string name="reverse_charging_device_name_text">Other Pixel</string>
+    <string name="reverse_charging_started_sound" translatable="false">/product/media/audio/ui/reverse_charging_start.ogg</string>
 </resources>

@@ -109,4 +109,10 @@ Telefón sa môže prehrievať v týchto prípadoch:
     <string name="battery_replacement_notify_des">V dôsledku možného prehrievania batérie sa jej kapacita a rýchlosť nabíjania znížia. V tom prípade sa odporúča jej výmena. K dispozícii sú možnosti podpory. Viac sa dozviete na &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Vaša batéria dosiahla 375 nabíjacích cyklov. Po dosiahnutí 400 nabíjacích cyklov sa jej kapacita a rýchlosť nabíjania v dôsledku možného prehrievania znížia. V tom prípade sa odporúča jej výmena. K dispozícii sú možnosti podpory. Viac sa dozviete na &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Zobraziť počet cyklov</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Zdieľa sa batéria</string>
+    <string name="reverse_charging_device_name_text">Iný Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s nabíja (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Zdieľanie batérie je zapnuté</string>
 </resources>

@@ -109,4 +109,10 @@ Telefon se lahko pregreje, če:
     <string name="battery_replacement_notify_des">Zaradi preprečevanja morebitne težave s pregrevanjem baterije sta zmogljivost baterije in učinkovitost polnjenja zmanjšani, zato je priporočena zamenjava baterije. Na voljo so možnosti podpore. Za več informacij obiščite &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Baterija je dosegla 375 polnilnih ciklov. Ko bo baterija dosegla 400 polnilnih ciklov, se bosta zaradi preprečevanja morebitne težave s pregrevanjem baterije zmogljivost baterije in učinkovitost polnjenja zmanjšali, zato je priporočena zamenjava baterije. Na voljo so možnosti podpore. Za več informacij obiščite &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Ogled števila ciklov</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Deljenje energije baterije</string>
+    <string name="reverse_charging_device_name_text">Drugi Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s zagotavlja polnjenje (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Deljenje energije baterije je vklopljeno</string>
 </resources>

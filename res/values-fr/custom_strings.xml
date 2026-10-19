@@ -109,4 +109,10 @@ Votre téléphone peut surchauffer si :
     <string name="battery_replacement_notify_des">"En raison d'un problème potentiel de surchauffe de la batterie, sa capacité et ses performances de recharge sont réduites. Nous vous recommandons de la remplacer. Des options d'assistance sont disponibles. Pour en savoir plus, consultez &lt;u>g.co/pixel/6abattery&lt;/u>."</string>
     <string name="battery_replacement_early_notify_des">"Votre batterie a effectué 375 cycles de charge. En raison d'un risque de surchauffe de la batterie, lorsque votre batterie aura atteint 400 cycles de charge, sa capacité et ses performances de charge seront réduites, et nous vous recommandons de la remplacer. Des options d'assistance sont disponibles. Pour en savoir plus, consultez &lt;u>g.co/pixel/6abattery&lt;/u>."</string>
     <string name="battery_management_action">Voir le nombre de cycles</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Partage de la batterie</string>
+    <string name="reverse_charging_device_name_text">Autre Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s fournit une recharge (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Le partage de batterie est activé</string>
 </resources>

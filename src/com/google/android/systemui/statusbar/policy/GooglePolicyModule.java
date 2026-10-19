@@ -16,6 +16,8 @@ import com.android.systemui.statusbar.policy.BatteryController;
 import com.android.systemui.statusbar.policy.BatteryControllerLogger;
 import com.android.systemui.util.settings.SecureSettings;
 
+import com.google.android.systemui.reversecharging.ReverseChargingController;
+
 import dagger.Module;
 import dagger.Provides;
 
@@ -35,6 +37,7 @@ public class GooglePolicyModule {
             @Main Handler mainHandler,
             @Background Handler bgHandler,
             UserTracker userTracker,
+            ReverseChargingController reverseChargingController,
             SecureSettings secureSettings) {
         BatteryControllerImplGoogle bC =
                 new BatteryControllerImplGoogle(
@@ -48,6 +51,7 @@ public class GooglePolicyModule {
                         mainHandler,
                         bgHandler,
                         userTracker,
+                        reverseChargingController,
                         secureSettings);
         bC.init();
         return bC;

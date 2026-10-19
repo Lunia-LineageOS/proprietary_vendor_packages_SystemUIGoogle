@@ -117,6 +117,8 @@ open class AmbientIndicationContainer(context: Context, attrs: AttributeSet) :
     var mOpenIntent: PendingIntent? = null
     var mPowerInteractor: PowerInteractor? = null
     lateinit var mRealTextSet: LinearLayout
+    var mReverseChargingAnimation: Drawable? = null
+    var mReverseChargingMessage: CharSequence? = null
     var mStatusBarState: Int = 0
     lateinit var mTempTextSet: LinearLayout
     lateinit var mTempTextView: TextView
@@ -127,6 +129,7 @@ open class AmbientIndicationContainer(context: Context, attrs: AttributeSet) :
     lateinit var mTextViewExtended: TextView
     var mUsingExtendedIndication: Boolean = false
     var mWakeLock: WakeLock? = null
+    var mWirelessChargingMessage: CharSequence? = null
 
     init {
         mAnimationState = 0
@@ -197,6 +200,7 @@ open class AmbientIndicationContainer(context: Context, attrs: AttributeSet) :
 
         mAmbientMusicAnimation = null
         mAmbientMusicNoteIcon = null
+        mReverseChargingAnimation = null
         mTextColor = mTextView.currentTextColor
         mAmbientIndicationIconSize =
             resources.getDimensionPixelSize(R.dimen.ambient_indication_icon_size)
@@ -1077,7 +1081,26 @@ open class AmbientIndicationContainer(context: Context, attrs: AttributeSet) :
         var iconDrawable: Drawable?
         var textIsEmpty: Boolean
 
-        if (!TextUtils.isEmpty(text) || textIsEmptyNonNull) {
+        if (!TextUtils.isEmpty(mReverseChargingMessage)) {
+            mIndicationTextMode = 2
+            text = mReverseChargingMessage
+            if (mReverseChargingAnimation == null) {
+                mReverseChargingAnimation = context.getDrawable(R.anim.reverse_charging_animation)
+            }
+            iconDrawable = mReverseChargingAnimation
+            mTextView.isClickable = false
+            mIconView.isClickable = false
+            mUsingExtendedIndication = false
+            textIsEmpty = false
+        } else if (!TextUtils.isEmpty(mWirelessChargingMessage)) {
+            mIndicationTextMode = 3
+            text = mWirelessChargingMessage
+            mTextView.isClickable = false
+            mIconView.isClickable = false
+            mUsingExtendedIndication = false
+            iconDrawable = null
+            textIsEmpty = false
+        } else if (!TextUtils.isEmpty(text) || textIsEmptyNonNull) {
             var icon = mAmbientIconOverride
             if (icon == null) {
                 icon =

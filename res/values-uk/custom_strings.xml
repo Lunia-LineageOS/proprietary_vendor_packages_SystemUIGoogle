@@ -109,4 +109,10 @@
     <string name="battery_replacement_notify_des">Через потенційну проблему з перегріванням акумулятора його ємність і ефективність заряджання зменшилися. Радимо його замінити. Щоб дізнатися про доступні варіанти підтримки, відвідайте сторінку &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">Ваш акумулятор пройшов 375 циклів заряджання. Через потенційну проблему з перегріванням акумулятора після 400 циклів заряджання його ємність і ефективність заряджання зменшаться. Після цього радимо його замінити. Щоб дізнатися про доступні варіанти підтримки, відвідайте сторінку &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Переглянути кількість циклів</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Спільне використання акумулятора</string>
+    <string name="reverse_charging_device_name_text">Інший пристрій Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">Заряджається від %1$s (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Увімкнено спільний акумулятор</string>
 </resources>

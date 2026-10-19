@@ -109,4 +109,10 @@ O teléfono pode quentarse en exceso nas seguintes situacións:
     <string name="battery_replacement_notify_des">Debido a un posible problema de sobrequecemento da batería, esta ten reducidos a capacidade e o rendemento de carga, polo que se recomenda substituíla. Dispós de opcións de asistencia. Tes máis información en &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">A túa batería leva 375 ciclos de carga. Debido a un posible problema de sobrequecemento da batería, cando esta chegue aos 400 ciclos, a súa capacidade e o rendemento de carga veranse reducidos, polo que se recomenda substituíla. Dispós de opcións de asistencia. Tes máis información en &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Ver número de ciclos</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Compartindo batería</string>
+    <string name="reverse_charging_device_name_text">Outro Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s está transferindo a súa carga (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">A función de compartir batería está activada</string>
 </resources>

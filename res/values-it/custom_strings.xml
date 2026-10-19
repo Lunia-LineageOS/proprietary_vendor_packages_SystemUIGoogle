@@ -109,4 +109,10 @@ Lo smartphone può surriscaldarsi se:
     <string name="battery_replacement_notify_des">A causa di un potenziale problema di surriscaldamento della batteria, la capacità della batteria e le prestazioni della ricarica sono ridotte ed è consigliata la sostituzione della batteria. Sono disponibili opzioni di assistenza. Per saperne di più, visita la pagina &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_replacement_early_notify_des">La tua batteria ha 375 cicli di ricarica. A causa di un potenziale problema di surriscaldamento della batteria, quando la batteria raggiunge i 400 cicli di ricarica, la capacità della batteria e le prestazioni della ricarica vengono ridotte ed è consigliata la sostituzione della batteria. Sono disponibili opzioni di assistenza. Per saperne di più, visita la pagina &lt;u>g.co/pixel/6abattery&lt;/u>.</string>
     <string name="battery_management_action">Visualizza numero di cicli</string>
+
+    <!-- Reverse Charging (Battery Share) -->
+    <string name="charging_reverse_text">Condivisione della batteria</string>
+    <string name="reverse_charging_device_name_text">Altro Pixel</string>
+    <string name="reverse_charging_device_providing_charge_text">%1$s fornisce carica (%2$s)</string>
+    <string name="reverse_charging_on_notification_title">Condividi batteria attivo</string>
 </resources>
