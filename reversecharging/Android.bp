@@ -1,0 +1,8 @@
+java_library {
+    name: "reversecharging-lib",
+    srcs: ["src/**/*.java"],
+    static_libs: [
+        "android.frameworks.stats-V2-java",
+        "vendor.google.wireless_charger-V1-java",
+    ],
+}

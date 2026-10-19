@@ -44,6 +44,7 @@ android_library {
         "columbus-lib",
         "columbus-proto-java",
         "googlebattery-lib",
+        "reversecharging-lib",
         "smartspace-proto-java",
         "smartspace-proto-lite-java",
         "tensorflowlite_java",
