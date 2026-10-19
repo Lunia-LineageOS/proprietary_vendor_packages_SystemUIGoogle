@@ -69,8 +69,15 @@ import com.android.systemui.plugins.BcSmartspaceDataPlugin;
 import com.android.systemui.plugins.keyguard.ui.composable.elements.LockscreenElementProvider;
 import com.android.systemui.plugins.qs.QSFactory;
 import com.android.systemui.qs.QSFragmentStartableModule;
+import com.android.systemui.qs.QsEventLogger;
 import com.android.systemui.qs.dagger.QSModule;
+import com.android.systemui.qs.pipeline.domain.model.AutoAddable;
+import com.android.systemui.qs.pipeline.shared.TileSpec;
+import com.android.systemui.qs.shared.model.TileCategory;
 import com.android.systemui.qs.tileimpl.QSFactoryImpl;
+import com.android.systemui.qs.tileimpl.QSTileImpl;
+import com.android.systemui.qs.tiles.base.shared.model.QSTileConfig;
+import com.android.systemui.qs.tiles.base.shared.model.QSTileUIConfig;
 import com.android.systemui.reardisplay.RearDisplayModule;
 import com.android.systemui.recents.Recents;
 import com.android.systemui.recents.RecentsImplementation;
@@ -126,6 +133,8 @@ import com.google.android.systemui.keyguard.data.repository.AmbientIndicationRep
 import com.google.android.systemui.keyguard.ui.composable.elements.GoogleAmbientIndicationElementProvider;
 import com.google.android.systemui.keyguard.ui.sections.DefaultAmbientIndicationAreaSection;
 import com.google.android.systemui.power.dagger.PowerModuleGoogle;
+import com.google.android.systemui.qs.pipeline.domain.autoaddable.ReverseChargingAutoAddable;
+import com.google.android.systemui.qs.tiles.ReverseChargingTile;
 import com.google.android.systemui.res.R;
 import com.google.android.systemui.reversecharging.ReverseWirelessCharger;
 import com.google.android.systemui.smartspace.BcSmartspaceDataProvider;
@@ -145,6 +154,7 @@ import dagger.Provides;
 import dagger.multibindings.ClassKey;
 import dagger.multibindings.IntoMap;
 import dagger.multibindings.IntoSet;
+import dagger.multibindings.StringKey;
 
 import java.util.Optional;
 import java.util.Set;
@@ -417,4 +427,25 @@ public abstract class SystemUIGoogleModule {
                 ? Optional.of(new ReverseWirelessCharger(context, "systemui_callback"))
                 : Optional.empty();
     }
+
+    @Binds
+    @IntoMap
+    @StringKey(ReverseChargingTile.TILE_SPEC)
+    abstract QSTileImpl<?> bindReverseChargingTile(ReverseChargingTile tile);
+
+    @Provides
+    @IntoMap
+    @StringKey(ReverseChargingTile.TILE_SPEC)
+    static QSTileConfig provideReverseChargingTileConfig(QsEventLogger uiEventLogger) {
+        return new QSTileConfig(
+                TileSpec.create(ReverseChargingTile.TILE_SPEC),
+                new QSTileUIConfig.Resource(
+                        R.drawable.qs_battery_share_icon_off, R.string.reverse_charging_title),
+                uiEventLogger.getNewInstanceId(),
+                TileCategory.UTILITIES);
+    }
+
+    @Binds
+    @IntoSet
+    abstract AutoAddable bindReverseChargingAutoAddable(ReverseChargingAutoAddable impl);
 }

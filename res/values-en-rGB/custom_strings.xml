@@ -112,7 +112,11 @@ Your phone can get too warm when:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Sharing battery</string>
+    <string name="low_battery_label">Low battery</string>
     <string name="reverse_charging_device_name_text">Other Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s providing charge (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Battery Share is on</string>
+    <string name="reverse_charging_title">Battery Share</string>
+    <string name="too_hot_label">Pixel too hot</string>
+    <string name="wireless_charging_label">Charging wirelessly</string>
 </resources>

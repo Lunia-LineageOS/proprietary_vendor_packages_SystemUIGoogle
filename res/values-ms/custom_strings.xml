@@ -112,7 +112,11 @@ Telefon anda boleh menjadi terlalu panas apabila:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Berkongsi bateri</string>
+    <string name="low_battery_label">Bateri lemah</string>
     <string name="reverse_charging_device_name_text">Pixel lain</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s menyediakan cas (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Perkongsian Bateri dihidupkan</string>
+    <string name="reverse_charging_title">Perkongsian Bateri</string>
+    <string name="too_hot_label">Pixel terlalu panas</string>
+    <string name="wireless_charging_label">Mengecas tanpa wayar</string>
 </resources>

@@ -112,7 +112,11 @@ Telefón sa môže prehrievať v týchto prípadoch:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Zdieľa sa batéria</string>
+    <string name="low_battery_label">Nízky stav batérie</string>
     <string name="reverse_charging_device_name_text">Iný Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s nabíja (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Zdieľanie batérie je zapnuté</string>
+    <string name="reverse_charging_title">Zdieľanie batérie</string>
+    <string name="too_hot_label">Pixel je príliš horúci</string>
+    <string name="wireless_charging_label">Nabíja sa bezdrôtovo</string>
 </resources>

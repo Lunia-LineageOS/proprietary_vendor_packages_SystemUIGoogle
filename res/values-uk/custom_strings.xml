@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Спільне використання акумулятора</string>
+    <string name="low_battery_label">Низький заряд акумулятора</string>
     <string name="reverse_charging_device_name_text">Інший пристрій Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">Заряджається від %1$s (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Увімкнено спільний акумулятор</string>
+    <string name="reverse_charging_title">Спільний акумулятор</string>
+    <string name="too_hot_label">Телефон Pixel загарячий</string>
+    <string name="wireless_charging_label">Бездротове заряджання</string>
 </resources>

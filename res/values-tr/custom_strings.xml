@@ -112,7 +112,11 @@ Telefonunuz şu durumlarda aşırı ısınabilir:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Pil paylaşılıyor</string>
+    <string name="low_battery_label">Pil seviyesi düşük</string>
     <string name="reverse_charging_device_name_text">Diğer Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s şarj sağlıyor (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Pil Paylaşımı açık</string>
+    <string name="reverse_charging_title">Pil Paylaşımı</string>
+    <string name="too_hot_label">Pixel çok sıcak</string>
+    <string name="wireless_charging_label">Kablosuz şarj oluyor</string>
 </resources>

@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">ဘက်ထရီ မျှဝေခြင်း</string>
+    <string name="low_battery_label">ဘက်ထရီ အားနည်းနေသည်</string>
     <string name="reverse_charging_device_name_text">အခြား Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s က အားသွင်းပေးနေသည် (%2$s)</string>
     <string name="reverse_charging_on_notification_title">"'ဘက်ထရီမျှဝေခြင်း' ကို ဖွင့်ထားသည်"</string>
+    <string name="reverse_charging_title">ဘက်ထရီ မျှဝေရန်</string>
+    <string name="too_hot_label">Pixel အလွန်ပူနေသည်</string>
+    <string name="wireless_charging_label">ကြိုးမဲ့ အားသွင်းနေသည်</string>
 </resources>

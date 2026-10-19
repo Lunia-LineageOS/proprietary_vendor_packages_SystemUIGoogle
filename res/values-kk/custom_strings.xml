@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Батарея қуатын бөлісу</string>
+    <string name="low_battery_label">Батарея заряды аз қалды.</string>
     <string name="reverse_charging_device_name_text">Басқа Pixel құрылғысы</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s құрылғысы батарея зарядын беріп жатыр (%2$s).</string>
     <string name="reverse_charging_on_notification_title">Батареяны бөлісу функциясы қосулы</string>
+    <string name="reverse_charging_title">Батареяны бөлісу</string>
+    <string name="too_hot_label">Pixel қызып кетті</string>
+    <string name="wireless_charging_label">Сымсыз зарядтау</string>
 </resources>

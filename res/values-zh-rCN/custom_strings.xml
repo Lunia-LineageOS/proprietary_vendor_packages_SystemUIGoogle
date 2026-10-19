@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">正在共享电池电量</string>
+    <string name="low_battery_label">电量低</string>
     <string name="reverse_charging_device_name_text">另一台 Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s正在为其他设备充电 (%2$s)</string>
     <string name="reverse_charging_on_notification_title">电池共享功能已开启</string>
+    <string name="reverse_charging_title">电池共享</string>
+    <string name="too_hot_label">Pixel 过热</string>
+    <string name="wireless_charging_label">正在无线充电</string>
 </resources>

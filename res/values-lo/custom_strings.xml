@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">ກຳລັງແບ່ງປັນແບັດເຕີຣີ</string>
+    <string name="low_battery_label">ແບັດເຕີຣີເຫຼືອໜ້ອຍ</string>
     <string name="reverse_charging_device_name_text">Pixel ອື່ນ</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s ກຳລັງຈ່າຍໄຟ (%2$s)</string>
     <string name="reverse_charging_on_notification_title">ເປີດໃຊ້ການແບ່ງປັນແບັດເຕີຣີແລ້ວ</string>
+    <string name="reverse_charging_title">ການແບ່ງປັນແບັດເຕີຣີ</string>
+    <string name="too_hot_label">Pixel ຮ້ອນເກີນໄປ</string>
+    <string name="wireless_charging_label">ກຳ​ລັງ​ສາກ​ໄຮ້​ສາຍ</string>
 </resources>

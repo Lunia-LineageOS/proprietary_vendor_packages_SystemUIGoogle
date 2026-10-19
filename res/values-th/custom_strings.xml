@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">กำลังแชร์แบตเตอรี่</string>
+    <string name="low_battery_label">แบตเตอรี่อ่อน</string>
     <string name="reverse_charging_device_name_text">Pixel เครื่องอื่น</string>
     <string name="reverse_charging_device_providing_charge_text">กำลังจากชาร์จจากแบตเตอรี่ของ %1$s (%2$s)</string>
     <string name="reverse_charging_on_notification_title">การแชร์แบตเตอรี่เปิดอยู่</string>
+    <string name="reverse_charging_title">การแชร์แบตเตอรี่</string>
+    <string name="too_hot_label">Pixel ร้อนเกินไป</string>
+    <string name="wireless_charging_label">กำลังชาร์จแบบไร้สาย</string>
 </resources>

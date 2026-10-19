@@ -112,7 +112,11 @@ Telefoningiz quyidagi hollarda qizib ketishi mumkin:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Batareya quvvati ulashilmoqda</string>
+    <string name="low_battery_label">Batareya quvvati kam</string>
     <string name="reverse_charging_device_name_text">Boshqa Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s quvvatlamoqda (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Quvvat ulashish yoniq</string>
+    <string name="reverse_charging_title">Quvvat ulashish</string>
+    <string name="too_hot_label">Pixel juda qizib ketdi</string>
+    <string name="wireless_charging_label">Simsiz quvvat olmoqda</string>
 </resources>

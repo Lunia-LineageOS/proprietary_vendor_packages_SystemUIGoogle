@@ -112,7 +112,11 @@ Simu yako inaweza kuwa na joto jingi ikiwa:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Kinashiriki betri</string>
+    <string name="low_battery_label">Chaji ya betri imepungua</string>
     <string name="reverse_charging_device_name_text">Pixel nyingine</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s inatoa chaji (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Kipengele cha Kushiriki Betri kimewashwa</string>
+    <string name="reverse_charging_title">Kutumia Betri Pamoja</string>
+    <string name="too_hot_label">Pixel ina joto jingi</string>
+    <string name="wireless_charging_label">Inachaji bila kutumia waya</string>
 </resources>

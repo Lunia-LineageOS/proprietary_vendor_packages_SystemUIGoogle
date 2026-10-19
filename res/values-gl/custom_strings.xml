@@ -112,7 +112,11 @@ O teléfono pode quentarse en exceso nas seguintes situacións:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Compartindo batería</string>
+    <string name="low_battery_label">Pouca batería</string>
     <string name="reverse_charging_device_name_text">Outro Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s está transferindo a súa carga (%2$s)</string>
     <string name="reverse_charging_on_notification_title">A función de compartir batería está activada</string>
+    <string name="reverse_charging_title">Compartir batería</string>
+    <string name="too_hot_label">O Pixel queceu demasiado</string>
+    <string name="wireless_charging_label">Cargando sen fíos</string>
 </resources>

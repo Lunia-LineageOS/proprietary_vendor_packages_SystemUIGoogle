@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">ब्याट्री सेयर गरिँदै</string>
+    <string name="low_battery_label">ब्याट्री कम छ</string>
     <string name="reverse_charging_device_name_text">अर्को Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$sप्रयोग गरी ब्याट्री चार्ज गरिँदै छ (%2$s)</string>
     <string name="reverse_charging_on_notification_title">ब्याट्री सेयर नामक सुविधा सक्रिय छ</string>
+    <string name="reverse_charging_title">ब्याट्री सेयर</string>
+    <string name="too_hot_label">पिक्सेल ज्यादै तातेको छ</string>
+    <string name="wireless_charging_label">वायरलेस तरिकाले चार्ज गरिँदै छ</string>
 </resources>

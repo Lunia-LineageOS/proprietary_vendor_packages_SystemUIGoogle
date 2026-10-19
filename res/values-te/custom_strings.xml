@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">బ్యాటరీ షేర్ చేయబడుతోంది</string>
+    <string name="low_battery_label">బ్యాటరీ తక్కువగా ఉంది</string>
     <string name="reverse_charging_device_name_text">ఇతర Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s ఛార్జింగ్‌ను అందిస్తోంది (%2$s)</string>
     <string name="reverse_charging_on_notification_title">బ్యాటరీ షేరింగ్ ఆన్‌లో ఉంది</string>
+    <string name="reverse_charging_title">బ్యాటరీ షేరింగ్</string>
+    <string name="too_hot_label">Pixel చాలా వేడిగా ఉంది</string>
+    <string name="wireless_charging_label">వైర్‌లెస్‌ ద్వారా ఛార్జ్ అవుతోంది</string>
 </resources>

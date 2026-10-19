@@ -112,7 +112,11 @@ Telefon se može pregrijati u sljedećim situacijama:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Dijeljenje baterije</string>
+    <string name="low_battery_label">Slaba baterija</string>
     <string name="reverse_charging_device_name_text">Drugi Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">Uređaj %1$s osigurava punjenje (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Dijeljenje baterije uključeno</string>
+    <string name="reverse_charging_title">Dijeljenje baterije</string>
+    <string name="too_hot_label">Pixel se previše zagrijao</string>
+    <string name="wireless_charging_label">Bežično punjenje</string>
 </resources>

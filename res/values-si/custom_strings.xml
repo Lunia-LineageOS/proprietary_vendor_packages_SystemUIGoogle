@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">බැටරිය බෙදා ගනිමින්</string>
+    <string name="low_battery_label">බැටරි බලය අඩුයි</string>
     <string name="reverse_charging_device_name_text">වෙනත් Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s ආරෝපණය ලබා දෙමින් (%2$s)</string>
     <string name="reverse_charging_on_notification_title">බැටරිය බෙදා ගැනීම ක්‍රියාත්මකයි</string>
+    <string name="reverse_charging_title">බැටරි බලය බෙදා ගැනීම</string>
+    <string name="too_hot_label">Pixel උණුසුම් වැඩිය</string>
+    <string name="wireless_charging_label">රැහැන් රහිතව ආරෝපණය වෙමින්</string>
 </resources>

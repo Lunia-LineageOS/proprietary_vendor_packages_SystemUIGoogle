@@ -112,7 +112,11 @@ Votre téléphone peut surchauffer lorsque :
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Partage de la pile</string>
+    <string name="low_battery_label">Pile faible</string>
     <string name="reverse_charging_device_name_text">Autre Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">Appareil fournissant la recharge : %1$s (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Le partage de la pile est activé</string>
+    <string name="reverse_charging_title">Partage de la pile</string>
+    <string name="too_hot_label">Le Pixel surchauffe</string>
+    <string name="wireless_charging_label">En recharge sans fil</string>
 </resources>

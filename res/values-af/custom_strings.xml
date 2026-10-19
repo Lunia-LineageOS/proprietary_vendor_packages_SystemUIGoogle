@@ -112,7 +112,11 @@ Jou foon kan te warm raak wanneer:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Deel tans battery</string>
+    <string name="low_battery_label">Lae battery</string>
     <string name="reverse_charging_device_name_text">Ander Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s bied tans batterykrag (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Batterydeling is aan</string>
+    <string name="reverse_charging_title">Batterydeling</string>
+    <string name="too_hot_label">Pixel is te warm</string>
+    <string name="wireless_charging_label">Laai tans draadloos</string>
 </resources>

@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Батеријата се споделува</string>
+    <string name="low_battery_label">Слаба батерија</string>
     <string name="reverse_charging_device_name_text">Друг Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s обезбедува полнење (%2$s)</string>
     <string name="reverse_charging_on_notification_title">„Споделувањето батерија“ е вклучено</string>
+    <string name="reverse_charging_title">Споделување батерија</string>
+    <string name="too_hot_label">Pixel е премногу загреан</string>
+    <string name="wireless_charging_label">Безжично полнење</string>
 </resources>

@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">ბატარეა ზიარდება</string>
+    <string name="low_battery_label">ბატარეის მუხტი დაბალია</string>
     <string name="reverse_charging_device_name_text">სხვა Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s აწვდის მუხტს (%2$s)</string>
     <string name="reverse_charging_on_notification_title">ბატარეის გაზიარება ჩართულია</string>
+    <string name="reverse_charging_title">ბატარეის გაზიარება</string>
+    <string name="too_hot_label">Pixel ზედმეტად ცხელია</string>
+    <string name="wireless_charging_label">დატენვა უსადენოდ</string>
 </resources>

@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">مشاركة البطارية</string>
+    <string name="low_battery_label">طاقة البطارية منخفضة</string>
     <string name="reverse_charging_device_name_text">‏هاتف Pixel الآخر</string>
     <string name="reverse_charging_device_providing_charge_text">يقدّم جهاز %1$s الشحن (%2$s)</string>
     <string name="reverse_charging_on_notification_title">ميزة \"مشاركة البطارية\" مفعَّلة</string>
+    <string name="reverse_charging_title">مشاركة البطارية</string>
+    <string name="too_hot_label">‏درجة حرارة هاتف Pixel مرتفعة جدًا.</string>
+    <string name="wireless_charging_label">جارٍ الشحن لاسلكيًا</string>
 </resources>

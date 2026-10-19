@@ -112,7 +112,11 @@ Temperatura telefonu może wzrastać, gdy:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Współdzielenie baterii</string>
+    <string name="low_battery_label">Słaba bateria</string>
     <string name="reverse_charging_device_name_text">Inny telefon Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s ładuje (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Włączono współdzielenie baterii</string>
+    <string name="reverse_charging_title">Współdzielenie baterii</string>
+    <string name="too_hot_label">Pixel za bardzo się nagrzał</string>
+    <string name="wireless_charging_label">Ładowanie bezprzewodowe</string>
 </resources>

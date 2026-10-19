@@ -112,7 +112,11 @@ Ponsel dapat menjadi terlalu panas saat:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Berbagi baterai</string>
+    <string name="low_battery_label">Daya baterai lemah</string>
     <string name="reverse_charging_device_name_text">Pixel Lain</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s menyediakan pengisian daya (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Berbagi Baterai aktif</string>
+    <string name="reverse_charging_title">Berbagi Baterai</string>
+    <string name="too_hot_label">Pixel terlalu panas</string>
+    <string name="wireless_charging_label">Mengisi daya secara nirkabel</string>
 </resources>

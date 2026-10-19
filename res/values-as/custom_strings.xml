@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">বেটাৰী শ্বেয়াৰ কৰি থকা হৈছে</string>
+    <string name="low_battery_label">বেটাৰী কমিছে</string>
     <string name="reverse_charging_device_name_text">অন্য Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$sএ চাৰ্জ প্ৰদান কৰি আছে (%2$s)</string>
     <string name="reverse_charging_on_notification_title">বেটাৰী শ্বেয়াৰ কৰাৰ সুবিধাটো অন আছে</string>
+    <string name="reverse_charging_title">বেটাৰী শ্বেয়াৰ কৰাৰ সুবিধা</string>
+    <string name="too_hot_label">Pixel বেছি গৰম হৈছে</string>
+    <string name="wireless_charging_label">তাঁৰৰ অবিহনে চাৰ্জ কৰি থকা হৈছে</string>
 </resources>

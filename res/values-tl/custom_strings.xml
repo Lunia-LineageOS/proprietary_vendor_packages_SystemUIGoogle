@@ -112,7 +112,11 @@ Posibleng uminit nang masyado ang iyong telepono kapag:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Nagbabahagi ng baterya</string>
+    <string name="low_battery_label">Mahinang baterya</string>
     <string name="reverse_charging_device_name_text">Kabilang Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">Nagbibigay ng charge ang %1$s (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Naka-on ang Battery Share</string>
+    <string name="reverse_charging_title">Battery Share</string>
+    <string name="too_hot_label">Masyadong mainit ang pixel</string>
+    <string name="wireless_charging_label">Wireless na nagcha-charge</string>
 </resources>

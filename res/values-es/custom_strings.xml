@@ -112,7 +112,11 @@ Tu teléfono puede calentarse demasiado cuando:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Compartiendo batería</string>
+    <string name="low_battery_label">Batería baja</string>
     <string name="reverse_charging_device_name_text">Otro Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s está transfiriendo su carga (%2$s)</string>
     <string name="reverse_charging_on_notification_title">La función Compartir batería está activada</string>
+    <string name="reverse_charging_title">Compartir batería</string>
+    <string name="too_hot_label">Píxel demasiado caliente</string>
+    <string name="wireless_charging_label">Cargando de forma inalámbrica</string>
 </resources>

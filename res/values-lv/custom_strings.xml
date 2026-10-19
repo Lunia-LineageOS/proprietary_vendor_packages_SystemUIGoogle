@@ -112,7 +112,11 @@ Tālrunis var pārkarst, ja:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Akumulatora koplietošana</string>
+    <string name="low_battery_label">Zems akumulatora uzlādes līmenis</string>
     <string name="reverse_charging_device_name_text">Cita Pixel ierīce</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s nodrošina uzlādi (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Akumulatora dalīšana ieslēgta</string>
+    <string name="reverse_charging_title">Akumulatora dalīšana</string>
+    <string name="too_hot_label">Pixel tālrunis ir pārāk karsts</string>
+    <string name="wireless_charging_label">Bezvadu uzlāde</string>
 </resources>

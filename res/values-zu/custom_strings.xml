@@ -112,7 +112,11 @@ Ifoni yakho ingafudumala kakhulu uma:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Ukwabelana ngebhethri</string>
+    <string name="low_battery_label">Ibhethri liphansi</string>
     <string name="reverse_charging_device_name_text">Enye i-Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">I-%1$s ihlinzeka ngokushaja (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Ukwabelana ngebhethri kuvuliwe</string>
+    <string name="reverse_charging_title">Ukwabelana ngebhethri</string>
+    <string name="too_hot_label">I-Pixel ishisa kakhulu</string>
+    <string name="wireless_charging_label">Iyashaja ngaphandle kwentambo</string>
 </resources>

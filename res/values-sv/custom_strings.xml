@@ -112,7 +112,11 @@ Telefonen kan bli för varm om du
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Delar batteri</string>
+    <string name="low_battery_label">Låg batterinivå</string>
     <string name="reverse_charging_device_name_text">En annan Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s används för att ladda (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Batteridelning är på</string>
+    <string name="reverse_charging_title">Batteridelning</string>
+    <string name="too_hot_label">Pixel är för varm</string>
+    <string name="wireless_charging_label">Laddas trådlöst</string>
 </resources>

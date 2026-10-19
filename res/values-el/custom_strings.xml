@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Κοινή χρήση μπαταρίας σε εξέλιξη</string>
+    <string name="low_battery_label">Χαμηλή στάθμη μπαταρίας</string>
     <string name="reverse_charging_device_name_text">Άλλο Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">Η συσκευή %1$s παρέχει φόρτιση (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Η Κοινή χρήση μπαταρίας είναι ενεργή</string>
+    <string name="reverse_charging_title">Κοινή χρήση μπαταρίας</string>
+    <string name="too_hot_label">Το Pixel είναι πολύ ζεστό</string>
+    <string name="wireless_charging_label">Ασύρματη φόρτιση</string>
 </resources>

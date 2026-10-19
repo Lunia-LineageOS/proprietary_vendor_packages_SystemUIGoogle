@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">הסוללה משותפת</string>
+    <string name="low_battery_label">הסוללה חלשה</string>
     <string name="reverse_charging_device_name_text">‏מכשיר Pixel אחר</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s מספק טעינה מהסוללה (%2$s)</string>
     <string name="reverse_charging_on_notification_title">שיתוף הסוללה פועל</string>
+    <string name="reverse_charging_title">שיתוף סוללה</string>
+    <string name="too_hot_label">‏מכשיר ה-Pixel התחמם יותר מדי</string>
+    <string name="wireless_charging_label">טעינה אלחוטית</string>
 </resources>

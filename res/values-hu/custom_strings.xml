@@ -112,7 +112,11 @@ A telefon akkor melegedhet túl, ha:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Akkumulátor megosztása</string>
+    <string name="low_battery_label">Alacsony töltöttség</string>
     <string name="reverse_charging_device_name_text">Másik Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">A töltést biztosítja: %1$s (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Az akkumumegosztás be van kapcsolva</string>
+    <string name="reverse_charging_title">Akkumegosztás</string>
+    <string name="too_hot_label">A Pixel telefon túl forró</string>
+    <string name="wireless_charging_label">Vezeték nélküli töltés</string>
 </resources>

@@ -112,7 +112,11 @@ Lo smartphone può surriscaldarsi se:
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Condivisione della batteria</string>
+    <string name="low_battery_label">Batteria in esaurimento</string>
     <string name="reverse_charging_device_name_text">Altro Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s fornisce carica (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Condividi batteria attivo</string>
+    <string name="reverse_charging_title">Condividi batteria</string>
+    <string name="too_hot_label">Il telefono Pixel è troppo caldo</string>
+    <string name="wireless_charging_label">In carica, wireless</string>
 </resources>

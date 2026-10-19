@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">배터리 공유 중</string>
+    <string name="low_battery_label">배터리 잔량 부족</string>
     <string name="reverse_charging_device_name_text">다른 Pixel</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s 기기를 통해 충전 중(%2$s)</string>
     <string name="reverse_charging_on_notification_title">배터리 공유 켜짐</string>
+    <string name="reverse_charging_title">배터리 공유</string>
+    <string name="too_hot_label">Pixel이 너무 뜨거움</string>
+    <string name="wireless_charging_label">충전 중(무선)</string>
 </resources>

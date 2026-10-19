@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">درحال اشتراک‌گذاری باتری</string>
+    <string name="low_battery_label">باتری ضعیف</string>
     <string name="reverse_charging_device_name_text">‏Pixel دیگر</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s درحال انتقال دادن شارژ است (%2$s)</string>
     <string name="reverse_charging_on_notification_title">«اشتراک باتری» روشن است</string>
+    <string name="reverse_charging_title">اشتراک باتری</string>
+    <string name="too_hot_label">‏Pixel بیش‌ازحد داغ شده است</string>
+    <string name="wireless_charging_label">درحال شارژ شدن به‌صورت بی‌سیم</string>
 </resources>

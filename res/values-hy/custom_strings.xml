@@ -112,7 +112,11 @@
 
     <!-- Reverse Charging (Battery Share) -->
     <string name="charging_reverse_text">Մարտկոցի լիցքի փոխանցում</string>
+    <string name="low_battery_label">Մարտկոցի լիցքը քիչ է</string>
     <string name="reverse_charging_device_name_text">Այլ Pixel սարք</string>
     <string name="reverse_charging_device_providing_charge_text">%1$s-ը փոխանցում է իր լիցքը (%2$s)</string>
     <string name="reverse_charging_on_notification_title">Մարտկոցի լիցքի փոխանցումը միացված է</string>
+    <string name="reverse_charging_title">Մարտկոցի լիցքի փոխանցում</string>
+    <string name="too_hot_label">Pixel-ը գերտաքացած է</string>
+    <string name="wireless_charging_label">Անլար լիցքավորում</string>
 </resources>
