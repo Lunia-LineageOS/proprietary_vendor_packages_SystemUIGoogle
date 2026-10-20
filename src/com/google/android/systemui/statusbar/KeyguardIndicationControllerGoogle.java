@@ -6,12 +6,15 @@ import android.content.BroadcastReceiver;
 import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
+import android.database.ContentObserver;
 import android.graphics.drawable.Drawable;
 import android.icu.text.DateFormat;
 import android.os.BatteryManager;
+import android.os.Handler;
 import android.os.Looper;
 import android.os.UserHandle;
 import android.os.UserManager;
+import android.provider.Settings;
 import android.text.TextUtils;
 import android.text.format.Formatter;
 import android.util.Log;
@@ -54,6 +57,7 @@ import com.android.systemui.tuner.TunerService;
 import com.android.systemui.user.domain.interactor.UserLogoutInteractor;
 import com.android.systemui.util.DeviceConfigProxy;
 import com.android.systemui.util.concurrency.DelayableExecutor;
+import com.android.systemui.util.settings.GlobalSettings;
 import com.android.systemui.util.settings.SecureSettings;
 import com.android.systemui.util.wakelock.WakeLock;
 
@@ -83,7 +87,9 @@ public class KeyguardIndicationControllerGoogle extends KeyguardIndicationContro
     private final TunerService mTunerService;
     private final DeviceConfigProxy mDeviceConfig;
     private final SecureSettings mSecureSettings;
+    private final GlobalSettings mGlobalSettings;
     private final UserTracker mUserTracker;
+    private final ContentObserver mWirelessIncompatibleChargingObserver;
     protected AdaptiveChargingManager mAdaptiveChargingManager;
 
     private boolean mInited;
@@ -164,7 +170,8 @@ public class KeyguardIndicationControllerGoogle extends KeyguardIndicationContro
             Lazy<SecureLockDeviceInteractor> secureLockDeviceInteractor,
             TunerService tunerService,
             DeviceConfigProxy deviceConfigProxy,
-            SecureSettings secureSettings) {
+            SecureSettings secureSettings,
+            GlobalSettings globalSettings) {
         super(
                 context,
                 mainLooper,
@@ -207,6 +214,15 @@ public class KeyguardIndicationControllerGoogle extends KeyguardIndicationContro
         mSecureSettings = secureSettings;
         mUserTracker = userTracker;
         mAdaptiveChargingManager = new AdaptiveChargingManager(context);
+        mGlobalSettings = globalSettings;
+        mWirelessIncompatibleChargingObserver =
+                new ContentObserver(new Handler(mainLooper)) {
+                    @Override
+                    public void onChange(boolean selfChange) {
+                        Log.d(TAG, "mWirelessIncompatibleChargingObserver.onChange");
+                        updateDeviceEntryIndication(true);
+                    }
+                };
     }
 
     @Override
@@ -232,6 +248,9 @@ public class KeyguardIndicationControllerGoogle extends KeyguardIndicationContro
                 new IntentFilter(ACTION_ADAPTIVE_CHARGING_DEADLINE_SET),
                 null,
                 UserHandle.ALL);
+        mGlobalSettings.registerContentObserverAsync(
+                Settings.Global.getUriFor("wireless_incompatible_charging_state"),
+                mWirelessIncompatibleChargingObserver);
     }
 
     @Override
@@ -265,6 +284,17 @@ public class KeyguardIndicationControllerGoogle extends KeyguardIndicationContro
 
     @Override
     protected String computePowerIndication() {
+        if (!mPowerPluggedInWired
+                && Settings.Global.getInt(
+                                mContext.getContentResolver(),
+                                "wireless_incompatible_charging_state",
+                                0)
+                        == 1) {
+            Log.d(TAG, "computePowerIndication: wireless incompatible charging");
+            return mContext.getString(
+                    com.android.systemui.res.R.string.keyguard_plugged_in_incompatible_charger,
+                    formatPercentage());
+        }
         if (mPowerPluggedIn && mAdaptiveChargingEnabledInSettings && mAdaptiveChargingActive) {
             return mContext.getString(
                     R.string.adaptive_charging_time_estimate,
