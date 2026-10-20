@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">বেটাৰী শ্বেয়াৰ কৰাৰ সুবিধা</string>
     <string name="too_hot_label">Pixel বেছি গৰম হৈছে</string>
     <string name="wireless_charging_label">তাঁৰৰ অবিহনে চাৰ্জ কৰি থকা হৈছে</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">কণ্ঠধ্বনিৰ দ্বাৰা সন্ধান</string>
+    <string name="accessibility_settings_gear">Pixel Stand ছেটিং</string>
+    <string name="dock_a11y_action_show_photo_text">ফট’ ফ্ৰে’ম দেখুৱাওক</string>
+    <string name="dock_photo_preview_text">ফট’ ফ্ৰে’ম আৰম্ভ হৈছে...</string>
+    <string name="dock_promo_text">ফট’ ফ্ৰে’মৰ বাবে বাওঁফাললৈ ছোৱাইপ কৰক</string>
 </resources>

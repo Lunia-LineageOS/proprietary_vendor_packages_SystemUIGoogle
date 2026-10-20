@@ -119,4 +119,11 @@ Telefón sa môže prehrievať v týchto prípadoch:
     <string name="reverse_charging_title">Zdieľanie batérie</string>
     <string name="too_hot_label">Pixel je príliš horúci</string>
     <string name="wireless_charging_label">Nabíja sa bezdrôtovo</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Hlasové vyhľadávanie</string>
+    <string name="accessibility_settings_gear">Nastavenia stojančeka Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Zobraziť fotorámček</string>
+    <string name="dock_photo_preview_text">Spúšťa sa fotorámček...</string>
+    <string name="dock_promo_text">Ak chcete zobraziť fotorámček, potiahnite doľava</string>
 </resources>

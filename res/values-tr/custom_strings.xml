@@ -119,4 +119,11 @@ Telefonunuz şu durumlarda aşırı ısınabilir:
     <string name="reverse_charging_title">Pil Paylaşımı</string>
     <string name="too_hot_label">Pixel çok sıcak</string>
     <string name="wireless_charging_label">Kablosuz şarj oluyor</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Sesli arama</string>
+    <string name="accessibility_settings_gear">Pixel Stand ayarları</string>
+    <string name="dock_a11y_action_show_photo_text">Fotoğraf çerçevesi göster</string>
+    <string name="dock_photo_preview_text">Fotoğraf çerçevesi başlıyor...</string>
+    <string name="dock_promo_text">Fotoğraf çerçevesi için sola kaydırın</string>
 </resources>

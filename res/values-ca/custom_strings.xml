@@ -119,4 +119,11 @@ El telèfon es pot sobreescalfar quan:
     <string name="reverse_charging_title">Compartició de bateria</string>
     <string name="too_hot_label">El Pixel està massa calent</string>
     <string name="wireless_charging_label">"S'està carregant sense fil"</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Cerca per veu</string>
+    <string name="accessibility_settings_gear">Configuració de Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Mostra el marc de fotos</string>
+    <string name="dock_photo_preview_text">"S'està iniciant el marc de fotos..."</string>
+    <string name="dock_promo_text">"Llisca cap a l'esquerra per configurar un marc de fotos"</string>
 </resources>

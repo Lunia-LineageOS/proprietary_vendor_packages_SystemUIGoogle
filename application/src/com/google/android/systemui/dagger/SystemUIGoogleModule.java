@@ -44,7 +44,6 @@ import com.android.systemui.display.dagger.SystemUIDisplaySubcomponent;
 import com.android.systemui.display.data.repository.DisplayPhoneModule;
 import com.android.systemui.display.ui.viewmodel.ConnectingDisplayViewModel;
 import com.android.systemui.dock.DockManager;
-import com.android.systemui.dock.DockManagerImpl;
 import com.android.systemui.doze.DozeHost;
 import com.android.systemui.dreams.suppression.dagger.NoOpActivityRecognitionModule;
 import com.android.systemui.education.dagger.ContextualEducationModule;
@@ -126,6 +125,9 @@ import com.android.systemui.wallpapers.dagger.WallpaperModule;
 import com.google.android.systemui.GoogleServices;
 import com.google.android.systemui.battery.BatterySaverModuleGoogle;
 import com.google.android.systemui.columbus.legacy.ColumbusModule;
+import com.google.android.systemui.dreamliner.DockObserver;
+import com.google.android.systemui.dreamliner.WirelessCharger;
+import com.google.android.systemui.dreamliner.WirelessChargerImpl;
 import com.google.android.systemui.gesture.GestureModule;
 import com.google.android.systemui.keyguard.AmbientIndicationCoreStartable;
 import com.google.android.systemui.keyguard.data.quickaffordance.NowPlayingQuickAffordanceConfig;
@@ -279,7 +281,16 @@ public abstract class SystemUIGoogleModule {
     public abstract QSFactory bindQSFactory(QSFactoryImpl qsFactoryImpl);
 
     @Binds
-    abstract DockManager bindDockManager(DockManagerImpl dockManager);
+    abstract DockManager bindDockManager(DockObserver dockObserver);
+
+    @Provides
+    @SysUISingleton
+    static Optional<WirelessCharger> provideWirelessCharger(Context context) {
+        WirelessChargerImpl wirelessChargerImpl = new WirelessChargerImpl(context);
+        return wirelessChargerImpl.initHALInterface()
+                ? Optional.of(wirelessChargerImpl)
+                : Optional.empty();
+    }
 
     @Provides
     @SysUISingleton

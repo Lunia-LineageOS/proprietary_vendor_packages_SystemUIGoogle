@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">Батареяны бөлісу</string>
     <string name="too_hot_label">Pixel қызып кетті</string>
     <string name="wireless_charging_label">Сымсыз зарядтау</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Дауыспен іздеу</string>
+    <string name="accessibility_settings_gear">Pixel Stand параметрлері</string>
+    <string name="dock_a11y_action_show_photo_text">Сурет жақтауын көрсету</string>
+    <string name="dock_photo_preview_text">Сурет жақтауын іске қосу...</string>
+    <string name="dock_promo_text">Сурет жақтауы үшін солға сырғытыңыз</string>
 </resources>

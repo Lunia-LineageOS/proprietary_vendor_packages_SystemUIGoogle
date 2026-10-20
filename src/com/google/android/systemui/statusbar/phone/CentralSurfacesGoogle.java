@@ -13,6 +13,7 @@ import android.service.dreams.IDreamManager;
 import android.text.TextUtils;
 import android.util.DisplayMetrics;
 import android.util.Log;
+import android.view.View;
 import android.view.WindowManager;
 
 import com.android.internal.logging.MetricsLogger;
@@ -24,6 +25,7 @@ import com.android.systemui.assist.AssistManager;
 import com.android.systemui.bouncer.domain.interactor.AlternateBouncerInteractor;
 import com.android.systemui.brightness.data.repository.BrightnessMirrorShowingRepository;
 import com.android.systemui.broadcast.BroadcastDispatcher;
+import com.android.systemui.broadcast.BroadcastSender;
 import com.android.systemui.charging.WiredChargingRippleController;
 import com.android.systemui.classifier.FalsingCollector;
 import com.android.systemui.colorextraction.SysuiColorExtractor;
@@ -106,7 +108,10 @@ import com.android.systemui.wallet.controller.QuickAccessWalletController;
 import com.android.wm.shell.bubbles.Bubbles;
 import com.android.wm.shell.startingsurface.StartingSurface;
 
+import com.google.android.systemui.dreamliner.DockIndicationController;
+import com.google.android.systemui.dreamliner.DockObserver;
 import com.google.android.systemui.power.batteryhealth.HealthManager;
+import com.google.android.systemui.res.R;
 import com.google.android.systemui.reversecharging.ReverseChargingViewController;
 
 import dagger.Lazy;
@@ -122,6 +127,12 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
     private static final boolean DEBUG = Log.isLoggable(TAG, Log.DEBUG);
     private static final long CHARGING_ANIMATION_DURATION = 1500;
 
+    private final Context mContext;
+    private final BroadcastSender mBroadcastSender;
+    private final DockObserver mDockObserver;
+    private final KeyguardIndicationController mKeyguardIndicationController;
+    private final NotificationShadeWindowController mNotificationShadeWindowController;
+    private final SysuiStatusBarStateController mStatusBarStateController;
     private final Optional<ReverseChargingViewController> mReverseChargingViewControllerOptional;
     private final Optional<HealthManager> mHealthManagerOptional;
     private long mAnimStartTime;
@@ -200,6 +211,7 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
     @Inject
     public CentralSurfacesGoogle(
             Optional<ReverseChargingViewController> reverseChargingViewControllerOptional,
+            DockObserver dockObserver,
             Optional<HealthManager> healthManagerOptional,
             Context context,
             NotificationsController notificationsController,
@@ -215,6 +227,7 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
             FalsingManager falsingManager,
             FalsingCollector falsingCollector,
             BroadcastDispatcher broadcastDispatcher,
+            BroadcastSender broadcastSender,
             NotificationGutsManager notificationGutsManager,
             ShadeExpansionStateManager shadeExpansionStateManager,
             KeyguardViewMediator keyguardViewMediator,
@@ -392,6 +405,12 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
                 windowManager,
                 windowManagerProvider,
                 sessionTracker);
+        mContext = context;
+        mBroadcastSender = broadcastSender;
+        mDockObserver = dockObserver;
+        mKeyguardIndicationController = keyguardIndicationController;
+        mNotificationShadeWindowController = notificationShadeWindowController;
+        mStatusBarStateController = statusBarStateController;
         mReverseChargingViewControllerOptional = reverseChargingViewControllerOptional;
         mHealthManagerOptional = healthManagerOptional;
     }
@@ -400,7 +419,20 @@ public class CentralSurfacesGoogle extends CentralSurfacesImpl {
     public void start() {
         super.start();
         mBatteryController.observe(getLifecycle(), mBatteryStateChangeCallback);
-        // Stock also starts DockObserver and WallpaperNotifier here; they are not ported yet.
+        if (!mContext.getResources().getBoolean(R.bool.config_show_low_light_clock_when_docked)) {
+            View shadeView = getNotificationShadeWindowViewController().getView();
+            mDockObserver.setDreamlinerGear(shadeView.findViewById(R.id.dreamliner_gear));
+            mDockObserver.setPhotoPreview(shadeView.findViewById(R.id.photo_preview));
+            mDockObserver.setIndicationController(
+                    new DockIndicationController(
+                            mContext,
+                            mBroadcastSender,
+                            mNotificationShadeWindowController,
+                            mKeyguardIndicationController,
+                            mStatusBarStateController));
+            mDockObserver.registerDockAlignInfo();
+        }
+        // Stock also starts WallpaperNotifier here; it is not ported yet.
         mHealthManagerOptional.ifPresent(HealthManager::registerBootCompletedReceiver);
         mReverseChargingViewControllerOptional.ifPresent(ReverseChargingViewController::init);
     }

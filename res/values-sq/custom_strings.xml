@@ -119,4 +119,11 @@ Telefoni yt mund të nxehet shumë kur:
     <string name="reverse_charging_title">Ndarja e baterisë</string>
     <string name="too_hot_label">Pixel është tepër i nxehtë</string>
     <string name="wireless_charging_label">Po karikohet në mënyrë wireless</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Kërkim me zë</string>
+    <string name="accessibility_settings_gear">Cilësimet e Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Shfaq kornizën e fotografisë</string>
+    <string name="dock_photo_preview_text">Korniza e fotografisë po hapet...</string>
+    <string name="dock_promo_text">Rrëshqit shpejt majtas për kornizën e fotografisë</string>
 </resources>

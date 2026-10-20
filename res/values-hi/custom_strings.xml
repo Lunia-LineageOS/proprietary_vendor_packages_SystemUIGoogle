@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">बैटरी शेयर करने की सुविधा</string>
     <string name="too_hot_label">Pixel फ़ोन बहुत गर्म हो गया है</string>
     <string name="wireless_charging_label">वायरलेस तरीके से चार्ज किया जा रहा है</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">बोलकर खोजें</string>
+    <string name="accessibility_settings_gear">Pixel Stand की सेटिंग</string>
+    <string name="dock_a11y_action_show_photo_text">फ़ोटो फ़्रेम दिखाएं</string>
+    <string name="dock_photo_preview_text">फ़ोटो फ़्रेम शुरू हो रहा है...</string>
+    <string name="dock_promo_text">फ़ोटो फ़्रेम के लिए बाईं ओर स्वाइप करें</string>
 </resources>

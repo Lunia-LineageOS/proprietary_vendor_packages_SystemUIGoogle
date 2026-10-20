@@ -119,4 +119,11 @@ Lo smartphone può surriscaldarsi se:
     <string name="reverse_charging_title">Condividi batteria</string>
     <string name="too_hot_label">Il telefono Pixel è troppo caldo</string>
     <string name="wireless_charging_label">In carica, wireless</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Ricerca vocale</string>
+    <string name="accessibility_settings_gear">Impostazioni Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Mostra cornice digitale</string>
+    <string name="dock_photo_preview_text">Avvio di Cornice digitale…</string>
+    <string name="dock_promo_text">Scorri verso sinistra per Cornice digitale</string>
 </resources>

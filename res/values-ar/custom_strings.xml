@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">مشاركة البطارية</string>
     <string name="too_hot_label">‏درجة حرارة هاتف Pixel مرتفعة جدًا.</string>
     <string name="wireless_charging_label">جارٍ الشحن لاسلكيًا</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">البحث الصوتي</string>
+    <string name="accessibility_settings_gear">إعدادات Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">عرض إطار الصور</string>
+    <string name="dock_photo_preview_text">جارٍ بدء إطار الصور...</string>
+    <string name="dock_promo_text">مرّر سريعًا لليمين للوصول إلى إطار الصور.</string>
 </resources>

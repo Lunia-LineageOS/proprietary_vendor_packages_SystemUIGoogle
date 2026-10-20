@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">Батарей хуваалцах</string>
     <string name="too_hot_label">Pixel хэт халуун байна</string>
     <string name="wireless_charging_label">Утасгүй цэнэглэж байна</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Дуут хайлт</string>
+    <string name="accessibility_settings_gear">Pixel Stand-н тохиргоо</string>
+    <string name="dock_a11y_action_show_photo_text">Зургийн жаазыг харуулах</string>
+    <string name="dock_photo_preview_text">Зургийн жаазыг эхлүүлж байна...</string>
+    <string name="dock_promo_text">Зургийн жаазыг харах бол зүүн тийш шударна уу</string>
 </resources>

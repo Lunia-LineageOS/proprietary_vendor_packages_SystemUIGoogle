@@ -34,6 +34,19 @@
     <!-- Shutdown Mode -->
     <protected-broadcast android:name="com.google.android.apps.turbo.CHECK_SHUTDOWN_MODE_STATE"/>
 
+    <!-- Pixel Stand / Dreamliner -->
+    <protected-broadcast android:name="com.google.android.apps.dreamliner.SETTINGS"/>
+    <protected-broadcast android:name="com.google.android.systemui.dreamliner.ALIGNMENT_CHANGE"/>
+    <protected-broadcast android:name="com.google.android.systemui.dreamliner.TOUCH_EVENT"/>
+    <protected-broadcast android:name="com.google.android.systemui.dreamliner.FLING_EVENT"/>
+    <protected-broadcast android:name="com.google.android.systemui.dreamliner.ASSISTANT_POODLE"/>
+    <protected-broadcast android:name="com.google.android.systemui.dreamliner.ACTION_UPDATE_FAN_LEVEL"/>
+    <protected-broadcast android:name="com.google.android.systemui.dreamliner.PHOTO_EVENT"/>
+    <permission
+        android:name="com.google.android.systemui.permission.WIRELESS_CHARGER_STATUS"
+        android:protectionLevel="signature|privileged"/>
+    <uses-permission android:name="com.google.android.apps.dreamliner.permission.DREAMLINER_SERVICE"/>
+
     <application
         android:appComponentFactory="com.google.android.systemui.SystemUIGoogleAppComponentFactory"
         tools:replace="android:appComponentFactory">

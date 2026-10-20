@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">Перадача зараду акумулятара</string>
     <string name="too_hot_label">Прылада Pixel перагрэлася</string>
     <string name="wireless_charging_label">Бесправадная зарадка</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Галасавы пошук</string>
+    <string name="accessibility_settings_gear">Налады падстаўкі Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Паказаць фотарамку</string>
+    <string name="dock_photo_preview_text">Запускаецца фотарамка…</string>
+    <string name="dock_promo_text">Правядзіце пальцам улева, каб уключыць рэжым фотарамкі</string>
 </resources>

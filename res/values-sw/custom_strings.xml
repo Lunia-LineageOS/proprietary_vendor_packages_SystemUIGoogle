@@ -119,4 +119,11 @@ Simu yako inaweza kuwa na joto jingi ikiwa:
     <string name="reverse_charging_title">Kutumia Betri Pamoja</string>
     <string name="too_hot_label">Pixel ina joto jingi</string>
     <string name="wireless_charging_label">Inachaji bila kutumia waya</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Kutafuta kwa kutamka</string>
+    <string name="accessibility_settings_gear">Mipangilio ya Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Onyesha fremu ya picha</string>
+    <string name="dock_photo_preview_text">Inaanza kuweka fremu ya picha...</string>
+    <string name="dock_promo_text">Telezesha kidole kushoto ili upate fremu ya picha</string>
 </resources>

@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">اشتراک باتری</string>
     <string name="too_hot_label">‏Pixel بیش‌ازحد داغ شده است</string>
     <string name="wireless_charging_label">درحال شارژ شدن به‌صورت بی‌سیم</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">جستجوی گفتاری</string>
+    <string name="accessibility_settings_gear">تنظیمات Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">نمایش قاب عکس</string>
+    <string name="dock_photo_preview_text">قاب عکس درحال شروع...</string>
+    <string name="dock_promo_text">برای قاب عکس، تند به چپ بکشید</string>
 </resources>

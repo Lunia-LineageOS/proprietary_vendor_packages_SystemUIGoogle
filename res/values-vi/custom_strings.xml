@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">Chia sẻ pin</string>
     <string name="too_hot_label">Điện thoại Pixel quá nóng</string>
     <string name="wireless_charging_label">Sạc không dây</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Tìm kiếm bằng giọng nói</string>
+    <string name="accessibility_settings_gear">Cài đặt Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Hiển thị khung ảnh</string>
+    <string name="dock_photo_preview_text">Đang mở tính năng Khung ảnh...</string>
+    <string name="dock_promo_text">Vuốt sang trái để mở khung ảnh</string>
 </resources>

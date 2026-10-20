@@ -119,4 +119,11 @@ Je telefoon kan in de volgende gevallen te warm worden:
     <string name="reverse_charging_title">Batterij delen</string>
     <string name="too_hot_label">Pixel te heet</string>
     <string name="wireless_charging_label">Draadloos opladen</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Gesproken zoekopdracht</string>
+    <string name="accessibility_settings_gear">Instellingen voor Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Fotolijstje tonen</string>
+    <string name="dock_photo_preview_text">Fotolijstje starten…</string>
+    <string name="dock_promo_text">Swipe naar links voor het fotolijstje</string>
 </resources>

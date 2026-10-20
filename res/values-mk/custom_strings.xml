@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">Споделување батерија</string>
     <string name="too_hot_label">Pixel е премногу загреан</string>
     <string name="wireless_charging_label">Безжично полнење</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Гласовно пребарување</string>
+    <string name="accessibility_settings_gear">Поставки за Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Прикажи рамка за фотографии</string>
+    <string name="dock_photo_preview_text">„Рамката за фотографии“ стартува…</string>
+    <string name="dock_promo_text">Повлечете налево за рамка за фотографија</string>
 </resources>

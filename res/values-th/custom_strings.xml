@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">การแชร์แบตเตอรี่</string>
     <string name="too_hot_label">Pixel ร้อนเกินไป</string>
     <string name="wireless_charging_label">กำลังชาร์จแบบไร้สาย</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">ค้นหาด้วยเสียง</string>
+    <string name="accessibility_settings_gear">การตั้งค่า Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">แสดงกรอบรูป</string>
+    <string name="dock_photo_preview_text">กรอบรูปกำลังเริ่ม...</string>
+    <string name="dock_promo_text">เลื่อนไปทางซ้ายเพื่อดูกรอบรูป</string>
 </resources>

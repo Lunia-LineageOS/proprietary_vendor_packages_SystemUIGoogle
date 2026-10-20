@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">ಬ್ಯಾಟರಿ ಹಂಚಿಕೆ</string>
     <string name="too_hot_label">Pixel ತುಂಬಾ ಬಿಸಿಯಾಗಿದೆ</string>
     <string name="wireless_charging_label">ವೈರ್‌ಲೆಸ್ ಚಾರ್ಜಿಂಗ್</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">ಧ್ವನಿ ಹುಡುಕಾಟ</string>
+    <string name="accessibility_settings_gear">Pixel Stand ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+    <string name="dock_a11y_action_show_photo_text">ಫೋಟೋ ಫ್ರೇಮ್ ಅನ್ನು ತೋರಿಸಿ</string>
+    <string name="dock_photo_preview_text">ಫೋಟೋ ಫ್ರೇಮ್ ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="dock_promo_text">ಫೋಟೋ ಫ್ರೇಮ್‌ಗಾಗಿ ಎಡಕ್ಕೆ ಸ್ವೈಪ್ ಮಾಡಿ</string>
 </resources>

@@ -33,4 +33,7 @@
     <bool name="config_nfc_conflict_with_usb_audio">false</bool>
     <integer-array name="config_nfc_conflict_with_usb_audio_vendorid" />
     <integer-array name="config_nfc_conflict_with_usb_audio_productid" />
+
+    <!-- Whether to show the low light clock when docked -->
+    <bool name="config_show_low_light_clock_when_docked">false</bool>
 </resources>

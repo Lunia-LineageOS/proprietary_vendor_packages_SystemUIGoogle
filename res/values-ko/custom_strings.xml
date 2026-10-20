@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">배터리 공유</string>
     <string name="too_hot_label">Pixel이 너무 뜨거움</string>
     <string name="wireless_charging_label">충전 중(무선)</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">음성 검색</string>
+    <string name="accessibility_settings_gear">Pixel Stand 설정</string>
+    <string name="dock_a11y_action_show_photo_text">디지털 액자 표시</string>
+    <string name="dock_photo_preview_text">디지털 액자를 시작하는 중...</string>
+    <string name="dock_promo_text">디지털 액자를 사용하려면 왼쪽으로 스와이프하세요.</string>
 </resources>

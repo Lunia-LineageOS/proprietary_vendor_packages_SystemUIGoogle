@@ -8,4 +8,7 @@
 
     <!-- Shutdown Mode -->
     <color name="shutdown_mode_thermometer_icon_color">#f55e57</color>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <color name="dock_photo_text">#ffffff</color>
 </resources>

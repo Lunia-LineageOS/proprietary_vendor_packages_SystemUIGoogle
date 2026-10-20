@@ -119,4 +119,11 @@ Telefonen kan bli for varm når du
     <string name="reverse_charging_title">Batterideling</string>
     <string name="too_hot_label">Pixel er for varm</string>
     <string name="wireless_charging_label">Lader trådløst</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Talesøk</string>
+    <string name="accessibility_settings_gear">Pixel Stand-innstillinger</string>
+    <string name="dock_a11y_action_show_photo_text">Vis bilderamme</string>
+    <string name="dock_photo_preview_text">Bilderamme starter …</string>
+    <string name="dock_promo_text">Sveip til venstre for å vise bilderammen</string>
 </resources>

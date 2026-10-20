@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">電池分享</string>
     <string name="too_hot_label">Pixel 過熱</string>
     <string name="wireless_charging_label">正在透過無線方式充電</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">語音搜尋</string>
+    <string name="accessibility_settings_gear">Pixel Stand 設定</string>
+    <string name="dock_a11y_action_show_photo_text">顯示相框</string>
+    <string name="dock_photo_preview_text">正在啟動相框模式…</string>
+    <string name="dock_promo_text">向左滑動即可使用相框模式</string>
 </resources>

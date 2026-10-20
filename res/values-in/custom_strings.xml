@@ -119,4 +119,11 @@ Ponsel dapat menjadi terlalu panas saat:
     <string name="reverse_charging_title">Berbagi Baterai</string>
     <string name="too_hot_label">Pixel terlalu panas</string>
     <string name="wireless_charging_label">Mengisi daya secara nirkabel</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Penelusuran suara</string>
+    <string name="accessibility_settings_gear">Setelan Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Tampilkan bingkai foto</string>
+    <string name="dock_photo_preview_text">Bingkai foto dimulai...</string>
+    <string name="dock_promo_text">Geser ke kiri untuk bingkai foto</string>
 </resources>

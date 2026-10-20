@@ -119,4 +119,11 @@ O telemóvel pode aquecer demasiado quando:
     <string name="reverse_charging_title">Partilhar bateria</string>
     <string name="too_hot_label">Pixel demasiado quente</string>
     <string name="wireless_charging_label">A carregar por ligação sem fios…</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Pesquisa por voz</string>
+    <string name="accessibility_settings_gear">Definições do Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Mostrar Moldura de foto</string>
+    <string name="dock_photo_preview_text">A iniciar a Moldura de foto…</string>
+    <string name="dock_promo_text">Deslize rapidamente para a esquerda para aceder à Moldura de foto.</string>
 </resources>

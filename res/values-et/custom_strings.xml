@@ -119,4 +119,11 @@ Telefon võib soojeneda järgmistel põhjustel.
     <string name="reverse_charging_title">Aku jagamine</string>
     <string name="too_hot_label">Pixel on liiga kuum</string>
     <string name="wireless_charging_label">Juhtmevaba laadimine</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Häälotsing</string>
+    <string name="accessibility_settings_gear">Seadme Pixel Stand seaded</string>
+    <string name="dock_a11y_action_show_photo_text">Kuva fotoraam</string>
+    <string name="dock_photo_preview_text">Fotoraami käivitamine …</string>
+    <string name="dock_promo_text">Fotoraami kuvamiseks pühkige vasakule</string>
 </resources>

@@ -73,4 +73,12 @@
     <dimen name="shutdown_mode_screen_description_text_size">16sp</dimen>
     <dimen name="shutdown_mode_screen_shutdown_button_text_size">14sp</dimen>
     <dimen name="shutdown_mode_screen_title_text_size">24sp</dimen>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <dimen name="dock_photo_diff">48dp</dimen>
+    <dimen name="dock_promo_padding">48dp</dimen>
+    <dimen name="settings_gear_touch_target_size">48dp</dimen>
+    <dimen name="settings_gear_margin">30dp</dimen>
+    <dimen name="swipe_arrow_height">48dp</dimen>
+    <dimen name="swipe_arrow_width">48dp</dimen>
 </resources>

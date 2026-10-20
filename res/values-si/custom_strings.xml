@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">බැටරි බලය බෙදා ගැනීම</string>
     <string name="too_hot_label">Pixel උණුසුම් වැඩිය</string>
     <string name="wireless_charging_label">රැහැන් රහිතව ආරෝපණය වෙමින්</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">හඬ සෙවීම</string>
+    <string name="accessibility_settings_gear">Pixel Stand සැකසීම්</string>
+    <string name="dock_a11y_action_show_photo_text">ඡායාරූප රාමුව පෙන්වන්න</string>
+    <string name="dock_photo_preview_text">පින්තූර රාමුව ආරම්භ වෙමින්...</string>
+    <string name="dock_promo_text">ඡායාරූප රාමුව සඳහා වමට ස්වයිප් කරන්න</string>
 </resources>

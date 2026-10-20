@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">Κοινή χρήση μπαταρίας</string>
     <string name="too_hot_label">Το Pixel είναι πολύ ζεστό</string>
     <string name="wireless_charging_label">Ασύρματη φόρτιση</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Φωνητική αναζήτηση</string>
+    <string name="accessibility_settings_gear">Ρυθμίσεις Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Εμφάνιση κάδρου φωτογραφίας</string>
+    <string name="dock_photo_preview_text">Έναρξη κάδρου φωτογραφιών…</string>
+    <string name="dock_promo_text">Σύρετε αριστερά για κάδρο φωτογραφιών</string>
 </resources>

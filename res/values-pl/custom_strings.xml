@@ -119,4 +119,11 @@ Temperatura telefonu może wzrastać, gdy:
     <string name="reverse_charging_title">Współdzielenie baterii</string>
     <string name="too_hot_label">Pixel za bardzo się nagrzał</string>
     <string name="wireless_charging_label">Ładowanie bezprzewodowe</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Wyszukiwanie głosowe</string>
+    <string name="accessibility_settings_gear">Ustawienia urządzenia Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Pokaż ramkę na zdjęcia</string>
+    <string name="dock_photo_preview_text">Uruchamiam Ramkę na zdjęcia...</string>
+    <string name="dock_promo_text">Przesuń w lewo, by wyświetlić ramkę na zdjęcia</string>
 </resources>

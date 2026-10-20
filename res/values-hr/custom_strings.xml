@@ -119,4 +119,11 @@ Telefon se može pregrijati u sljedećim situacijama:
     <string name="reverse_charging_title">Dijeljenje baterije</string>
     <string name="too_hot_label">Pixel se previše zagrijao</string>
     <string name="wireless_charging_label">Bežično punjenje</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Glasovno pretraživanje</string>
+    <string name="accessibility_settings_gear">Postavke za Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Prikaži fotookvir</string>
+    <string name="dock_photo_preview_text">Pokretanje fotookvira...</string>
+    <string name="dock_promo_text">Prijeđite prstom ulijevo za Fotookvir</string>
 </resources>

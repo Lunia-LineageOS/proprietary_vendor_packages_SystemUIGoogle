@@ -119,4 +119,11 @@ Veja algumas possíveis razões para superaquecimento:
     <string name="reverse_charging_title">Compartilhamento de bateria</string>
     <string name="too_hot_label">O Pixel está muito quente</string>
     <string name="wireless_charging_label">Carregando sem fio</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Pesquisa por voz</string>
+    <string name="accessibility_settings_gear">Configurações do Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Mostrar Porta-retratos</string>
+    <string name="dock_photo_preview_text">Iniciando \"Porta-retratos\"…</string>
+    <string name="dock_promo_text">Deslize para a esquerda para ver o porta-retratos</string>
 </resources>

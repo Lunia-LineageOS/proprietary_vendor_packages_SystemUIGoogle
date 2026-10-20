@@ -119,4 +119,11 @@ Jou foon kan te warm raak wanneer:
     <string name="reverse_charging_title">Batterydeling</string>
     <string name="too_hot_label">Pixel is te warm</string>
     <string name="wireless_charging_label">Laai tans draadloos</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Stemsoektog</string>
+    <string name="accessibility_settings_gear">Pixel Stand-instellings</string>
+    <string name="dock_a11y_action_show_photo_text">Wys fotoraam</string>
+    <string name="dock_photo_preview_text">Fotoraam begin …</string>
+    <string name="dock_promo_text">Swiep links of regs vir fotoraam</string>
 </resources>

@@ -119,4 +119,11 @@ Posibleng uminit nang masyado ang iyong telepono kapag:
     <string name="reverse_charging_title">Battery Share</string>
     <string name="too_hot_label">Masyadong mainit ang pixel</string>
     <string name="wireless_charging_label">Wireless na nagcha-charge</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Paghahanap gamit ang boses</string>
+    <string name="accessibility_settings_gear">Mga setting ng Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Ipakita ang frame ng larawan</string>
+    <string name="dock_photo_preview_text">Nagsisimula ang photo frame...</string>
+    <string name="dock_promo_text">Mag-swipe pakaliwa para sa photo frame</string>
 </resources>

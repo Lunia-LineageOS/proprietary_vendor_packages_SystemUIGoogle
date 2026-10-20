@@ -119,4 +119,11 @@ El teléfono puede calentarse por los siguientes factores:
     <string name="reverse_charging_title">Compartir batería</string>
     <string name="too_hot_label">El teléfono Pixel está demasiado caliente</string>
     <string name="wireless_charging_label">Cargando de manera inalámbrica</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Búsqueda por voz</string>
+    <string name="accessibility_settings_gear">Configuración de Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Mostrar marco de fotos</string>
+    <string name="dock_photo_preview_text">Iniciando marco de fotos…</string>
+    <string name="dock_promo_text">Desliza a la izquierda para el marco de fotos</string>
 </resources>

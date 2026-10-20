@@ -119,4 +119,11 @@ Votre téléphone peut surchauffer si :
     <string name="reverse_charging_title">Partage de batterie</string>
     <string name="too_hot_label">Pixel trop chaud</string>
     <string name="wireless_charging_label">En charge sans fil</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Recherche vocale</string>
+    <string name="accessibility_settings_gear">Paramètres du Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Afficher le cadre de la photo</string>
+    <string name="dock_photo_preview_text">Lancement du Cadre photo…</string>
+    <string name="dock_promo_text">Balayez vers la gauche pour accéder au Cadre photo</string>
 </resources>

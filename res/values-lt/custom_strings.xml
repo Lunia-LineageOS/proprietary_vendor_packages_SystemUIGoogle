@@ -119,4 +119,11 @@ Telefonas gali per daug įkaisti, kai:
     <string name="reverse_charging_title">Dalijimasis baterija</string>
     <string name="too_hot_label">„Pixel“ per daug įkaito</string>
     <string name="wireless_charging_label">Įkraunama be laidų</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Paieška balsu</string>
+    <string name="accessibility_settings_gear">„Pixel Stand“ nustatymai</string>
+    <string name="dock_a11y_action_show_photo_text">Rodyti nuotraukų rėmelį</string>
+    <string name="dock_photo_preview_text">Pradedamas nuotraukų rėminimas…</string>
+    <string name="dock_promo_text">Perbraukite kairėn, kad būtų parodytas nuotraukos rėmelis</string>
 </resources>

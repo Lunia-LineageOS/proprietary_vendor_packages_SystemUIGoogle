@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">שיתוף סוללה</string>
     <string name="too_hot_label">‏מכשיר ה-Pixel התחמם יותר מדי</string>
     <string name="wireless_charging_label">טעינה אלחוטית</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">חיפוש קולי</string>
+    <string name="accessibility_settings_gear">הגדרות Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">הצגת האלבום הדיגיטלי</string>
+    <string name="dock_photo_preview_text">הפעלת האלבום הדיגיטלי מתחילה…</string>
+    <string name="dock_promo_text">כדי להציג את האלבום הדיגיטלי, יש להחליק שמאלה</string>
 </resources>

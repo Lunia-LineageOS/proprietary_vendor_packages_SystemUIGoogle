@@ -119,4 +119,11 @@ Síminn getur ofhitnað þegar þú:
     <string name="reverse_charging_title">Deiling rafhlöðu</string>
     <string name="too_hot_label">Pixel er of heitur</string>
     <string name="wireless_charging_label">Hleður þráðlaust</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Raddleit</string>
+    <string name="accessibility_settings_gear">Stillingar Pixel Stand</string>
+    <string name="dock_a11y_action_show_photo_text">Sýna myndaramma</string>
+    <string name="dock_photo_preview_text">Myndarammi ræsist...</string>
+    <string name="dock_promo_text">Strjúktu til vinstri til að fá myndaramma</string>
 </resources>

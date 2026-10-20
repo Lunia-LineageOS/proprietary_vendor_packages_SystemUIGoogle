@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">バッテリー シェア</string>
     <string name="too_hot_label">Pixel が過熱しています</string>
     <string name="wireless_charging_label">ワイヤレスで充電しています</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">音声検索</string>
+    <string name="accessibility_settings_gear">Pixel Stand の設定</string>
+    <string name="dock_a11y_action_show_photo_text">フォトフレームを表示する</string>
+    <string name="dock_photo_preview_text">フォトフレームを開始しています...</string>
+    <string name="dock_promo_text">左にスワイプしてフォトフレームを表示</string>
 </resources>

@@ -119,4 +119,11 @@ Baliteke telefonoa gehiegi berotzea kasu hauetan:
     <string name="reverse_charging_title">Bateria partekatzea</string>
     <string name="too_hot_label">Pixel beroegi dago</string>
     <string name="wireless_charging_label">Hari gabe kargatzen</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Ahozko bilaketa</string>
+    <string name="accessibility_settings_gear">Pixel Stand ezarpenak</string>
+    <string name="dock_a11y_action_show_photo_text">Erakutsi argazki-markoa</string>
+    <string name="dock_photo_preview_text">Argazki-markoa abiarazten…</string>
+    <string name="dock_promo_text">Pasatu hatza ezkerretara argazki-markoa ager dadin</string>
 </resources>

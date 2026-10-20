@@ -119,4 +119,11 @@
     <string name="reverse_charging_title">ବେଟେରୀ ସେୟାର</string>
     <string name="too_hot_label">Pixel ବହୁତ ଗରମ ହୋଇଛି</string>
     <string name="wireless_charging_label">ୱେୟାରଲେସ୍ ଭାବେ ଚାର୍ଜ କରାଯାଉଛି</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">ଭଏସ ସର୍ଚ୍ଚ</string>
+    <string name="accessibility_settings_gear">Pixel Stand ସେଟିଂସ</string>
+    <string name="dock_a11y_action_show_photo_text">ଫଟୋ ଫ୍ରେମ ଦେଖାନ୍ତୁ</string>
+    <string name="dock_photo_preview_text">ଫଟୋ ଫ୍ରେମ୍ ଆରମ୍ଭ ହେଉଛି...</string>
+    <string name="dock_promo_text">ଫଟୋ ଫ୍ରେମ୍ ପାଇଁ ବାମକୁ ସ୍ୱାଇପ୍ କରନ୍ତୁ</string>
 </resources>

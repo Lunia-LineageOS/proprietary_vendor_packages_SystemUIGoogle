@@ -119,4 +119,11 @@ Puhelin voi lämmetä liikaa, jos
     <string name="reverse_charging_title">Akunjako</string>
     <string name="too_hot_label">Pixel liian kuuma</string>
     <string name="wireless_charging_label">Ladataan langattomasti</string>
+
+    <!-- Pixel Stand / Dreamliner -->
+    <string name="accessibility_assistant_poodle">Puhehaku</string>
+    <string name="accessibility_settings_gear">Pixel Stand: asetukset</string>
+    <string name="dock_a11y_action_show_photo_text">Näytä kehykset</string>
+    <string name="dock_photo_preview_text">Valokuvakehys käynnistyy…</string>
+    <string name="dock_promo_text">Ota kehykset käyttöön pyyhkäisemällä vasemmalle</string>
 </resources>
