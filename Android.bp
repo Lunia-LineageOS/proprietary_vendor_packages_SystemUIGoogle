@@ -25,6 +25,7 @@ android_library {
     ],
     static_libs: [
         "SystemUI-core",
+        "bcsmartspace",
         "android.frameworks.stats-V2-java",
         "androidx.compose.runtime_runtime",
         "columbus-lib",

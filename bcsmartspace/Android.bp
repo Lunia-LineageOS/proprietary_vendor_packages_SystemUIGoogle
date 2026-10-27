@@ -1,0 +1,22 @@
+android_library {
+    name: "bcsmartspace",
+    srcs: [
+        "src/**/*.java",
+        "src/**/*.kt",
+    ],
+    use_resource_processor: true,
+    static_libs: [
+        "SystemUIClocks-CommonLib",
+        "SystemUIPluginLib",
+        "androidx-constraintlayout_constraintlayout",
+        "androidx.appcompat_appcompat",
+        "androidx.core_core-ktx",
+        "androidx.recyclerview_recyclerview",
+        "androidx.viewpager2_viewpager2",
+        "animationlib",
+        "dynamiccolors",
+        "iconloader_base",
+        "smartspace-proto-java",
+        "smartspace-proto-lite-java",
+    ],
+}

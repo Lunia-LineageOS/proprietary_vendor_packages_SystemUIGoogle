@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Smartspace -->
-    <attr name="backgroundCornerRadius" format="dimension" />
-    <attr name="smartspaceSubtitleTextSize" format="dimension" />
-    <attr name="smartspaceTitleTextSize" format="dimension" />
     <declare-styleable name="WeatherSmartspaceView">
         <attr name="iconInset" format="dimension" />
         <attr name="iconSize" format="dimension" />

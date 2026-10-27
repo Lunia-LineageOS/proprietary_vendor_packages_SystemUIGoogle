@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_smartspace_page">%2$d ਵਿੱਚੋਂ %1$d ਪੰਨਾ</string>
+    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
+    <string name="smartspace_content_desc">ਇੱਕ ਨਜ਼ਰ ਵਿੱਚ</string>
+    <string name="smartspace_flight_qr_code">QR ਕੋਡ</string>
+</resources>

@@ -2,10 +2,6 @@
 <resources>
     <!-- Smartspace -->
     <string name="accessibility_next_alarm">Neste alarm kl. %s</string>
-    <string name="accessibility_smartspace_page">Side %1$d av %2$d</string>
-    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
-    <string name="smartspace_content_desc">Kort fortalt</string>
-    <string name="smartspace_flight_qr_code">QR-kode</string>
 
     <!-- Ambient Indication -->
     <string name="accessibility_action_expand">Utvid</string>

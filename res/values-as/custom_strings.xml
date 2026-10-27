@@ -2,10 +2,6 @@
 <resources>
     <!-- Smartspace -->
     <string name="accessibility_next_alarm">পৰৱৰ্তী এলাৰ্ম %sত</string>
-    <string name="accessibility_smartspace_page">%2$d খন পৃষ্ঠাৰ %1$d নম্বৰখন</string>
-    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
-    <string name="smartspace_content_desc">এক দৃষ্টিত</string>
-    <string name="smartspace_flight_qr_code">কিউআৰ ক’ড</string>
 
     <!-- Ambient Indication -->
     <string name="accessibility_action_expand">বিস্তাৰ কৰক</string>

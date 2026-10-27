@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="backgroundCornerRadius" format="dimension" />
+    <attr name="smartspaceSubtitleTextSize" format="dimension" />
+    <attr name="smartspaceTitleTextSize" format="dimension" />
+</resources>

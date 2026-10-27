@@ -326,7 +326,7 @@ public class WeatherSmartspaceView extends LinearLayout
                         mIsAodEnabled = isAodEnabled;
                     }
                 };
-        context.getTheme().applyStyle(R.style.Smartspace, false);
+        context.getTheme().applyStyle(com.android.systemui.bcsmartspace.R.style.Smartspace, false);
         TypedArray obtainStyledAttributes =
                 context.getTheme()
                         .obtainStyledAttributes(attrs, R.styleable.WeatherSmartspaceView, 0, 0);
@@ -335,12 +335,16 @@ public class WeatherSmartspaceView extends LinearLayout
                     obtainStyledAttributes.getDimensionPixelSize(
                             R.styleable.WeatherSmartspaceView_iconSize,
                             context.getResources()
-                                    .getDimensionPixelSize(R.dimen.enhanced_smartspace_icon_size));
+                                    .getDimensionPixelSize(
+                                            com.android.systemui.bcsmartspace.R.dimen
+                                                    .enhanced_smartspace_icon_size));
             int iconInset =
                     obtainStyledAttributes.getDimensionPixelSize(
                             R.styleable.WeatherSmartspaceView_iconInset,
                             context.getResources()
-                                    .getDimensionPixelSize(R.dimen.enhanced_smartspace_icon_inset));
+                                    .getDimensionPixelSize(
+                                            com.android.systemui.bcsmartspace.R.dimen
+                                                    .enhanced_smartspace_icon_inset));
             mRemoveTextDescent =
                     obtainStyledAttributes.getBoolean(
                             R.styleable.WeatherSmartspaceView_removeTextDescent, false);

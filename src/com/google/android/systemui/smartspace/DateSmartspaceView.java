@@ -213,7 +213,9 @@ public class DateSmartspaceView extends LinearLayout
             int iconSize =
                     getContext()
                             .getResources()
-                            .getDimensionPixelSize(R.dimen.enhanced_smartspace_icon_size);
+                            .getDimensionPixelSize(
+                                    com.android.systemui.bcsmartspace.R.dimen
+                                            .enhanced_smartspace_icon_size);
             mNextAlarmData.mImage.setBounds(0, 0, iconSize, iconSize);
             mNextAlarmIconDrawable.setIcon(mNextAlarmData.mImage);
             mNextAlarmTextView.setCompoundDrawablesRelative(
@@ -360,7 +362,7 @@ public class DateSmartspaceView extends LinearLayout
                         mIsAodEnabled = isAodEnabled;
                     }
                 };
-        context.getTheme().applyStyle(R.style.Smartspace, false);
+        context.getTheme().applyStyle(com.android.systemui.bcsmartspace.R.style.Smartspace, false);
         mNextAlarmIconDrawable = new DoubleShadowIconDrawable(context);
         mDndIconDrawable = new DoubleShadowIconDrawable(context);
     }

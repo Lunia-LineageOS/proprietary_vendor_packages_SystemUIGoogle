@@ -2,10 +2,6 @@
 <resources>
     <!-- Smartspace -->
     <string name="accessibility_next_alarm">Nächster Wecker um %s</string>
-    <string name="accessibility_smartspace_page">Seite %1$d von %2$d</string>
-    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
-    <string name="smartspace_content_desc">Live-Anzeige</string>
-    <string name="smartspace_flight_qr_code">QR-Code</string>
 
     <!-- Ambient Indication -->
     <string name="accessibility_action_expand">Maximieren</string>

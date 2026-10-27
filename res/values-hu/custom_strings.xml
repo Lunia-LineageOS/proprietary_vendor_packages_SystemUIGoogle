@@ -2,10 +2,6 @@
 <resources>
     <!-- Smartspace -->
     <string name="accessibility_next_alarm">Következő ébresztés időpontja: %s</string>
-    <string name="accessibility_smartspace_page">%1$d. oldal, összesen: %2$d oldal</string>
-    <string name="generic_smartspace_concatenated_desc">%1$s, %2$s</string>
-    <string name="smartspace_content_desc">Áttekintés</string>
-    <string name="smartspace_flight_qr_code">QR-kód</string>
 
     <!-- Ambient Indication -->
     <string name="accessibility_action_expand">Kibontás</string>
