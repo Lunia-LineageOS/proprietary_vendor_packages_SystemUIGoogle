@@ -38,43 +38,6 @@ android_library {
     enable_ksp: true,
 }
 
-android_library {
-    name: "SystemUIGoogle-application",
-    srcs: [
-        "application/src/**/*.java",
-        "application/src/**/*.kt",
-    ],
-    use_resource_processor: true,
-    resource_dirs: [],
-    libs: [
-        "keepanno-annotations",
-    ],
-    kotlincflags: [
-        "-Xjvm-default=all",
-        "-opt-in=kotlinx.coroutines.ExperimentalCoroutinesApi",
-        "-P plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true",
-    ],
-    plugins: [
-        "androidx.room_room-compiler-plugin",
-        "dagger2-compiler",
-    ],
-    static_libs: [
-        "sysuig_monolith",
-        "com.android.systemui.bundle.phone_dagger",
-        "dagger2",
-    ],
-    enable_ksp: true,
-    annotation_processor_flags: [
-        "dagger.fastInit=enabled",
-        "dagger.explicitBindingConflictsWithInject=ERROR",
-        "dagger.strictMultibindingValidation=enabled",
-        "dagger.useBindingGraphFix=ENABLED",
-    ],
-    manifest: "AndroidManifest.xml",
-    additional_manifests: ["LineageManifest.xml"],
-}
-
-
 android_app {
     name: "SystemUIGoogle",
     defaults: [
@@ -83,12 +46,13 @@ android_app {
         "wmshell_defaults",
     ],
     static_libs: [
-        "SystemUIGoogle-application"
+        "sysuig_phone"
     ],
     jni_libs: ["libtensorflowlite_jni"],
     use_embedded_native_libs: true,
     resource_dirs: [],
     asset_dirs: ["assets"],
+    additional_manifests: ["LineageManifest.xml"],
     aaptflags: [
         "-0 .tflite",
         "-0 .vocab",

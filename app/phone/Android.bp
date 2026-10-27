@@ -1,0 +1,32 @@
+android_library {
+    name: "sysuig_phone",
+    srcs: [
+        "src/**/*.java",
+        "src/**/*.kt",
+    ],
+    use_resource_processor: true,
+    libs: [
+        "keepanno-annotations",
+    ],
+    kotlincflags: [
+        "-Xjvm-default=all",
+        "-opt-in=kotlinx.coroutines.ExperimentalCoroutinesApi",
+        "-P plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true",
+    ],
+    plugins: [
+        "androidx.room_room-compiler-plugin",
+        "dagger2-compiler",
+    ],
+    static_libs: [
+        "sysuig_monolith",
+        "com.android.systemui.bundle.phone_dagger",
+        "dagger2",
+    ],
+    enable_ksp: true,
+    annotation_processor_flags: [
+        "dagger.fastInit=enabled",
+        "dagger.explicitBindingConflictsWithInject=ERROR",
+        "dagger.strictMultibindingValidation=enabled",
+        "dagger.useBindingGraphFix=ENABLED",
+    ],
+}
