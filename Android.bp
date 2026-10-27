@@ -1,7 +1,16 @@
-java_defaults {
-    name: "SystemUIGoogle-srcs-defaults",
+android_library {
+    name: "sysuig_monolith",
+    srcs: [
+        "src/**/*.kt",
+        "src/**/*.java",
+        "src/**/*.aidl",
+    ],
     use_resource_processor: true,
-    resource_dirs: [],
+    resource_dirs: [
+        "res",
+        "res-keyguard",
+    ],
+    manifest: "AndroidManifest-res.xml",
     libs: [
         "keepanno-annotations",
     ],
@@ -14,31 +23,8 @@ java_defaults {
         "androidx.room_room-compiler-plugin",
         "dagger2-compiler",
     ],
-}
-
-android_library {
-    name: "SystemUIGoogle-res",
-    use_resource_processor: true,
-    enable_ksp: true,
-    resource_dirs: [
-        "res",
-        "res-keyguard",
-    ],
-    static_libs: ["SystemUI-res"],
-    manifest: "AndroidManifest-res.xml",
-}
-
-android_library {
-    name: "SystemUIGoogle-core",
-    srcs: [
-        "src/**/*.kt",
-        "src/**/*.java",
-        "src/**/*.aidl",
-    ],
-    defaults: ["SystemUIGoogle-srcs-defaults"],
     static_libs: [
         "SystemUI-core",
-        "SystemUIGoogle-res",
         "android.frameworks.stats-V2-java",
         "androidx.compose.runtime_runtime",
         "columbus-lib",
@@ -58,9 +44,22 @@ android_library {
         "application/src/**/*.java",
         "application/src/**/*.kt",
     ],
-    defaults: ["SystemUIGoogle-srcs-defaults"],
+    use_resource_processor: true,
+    resource_dirs: [],
+    libs: [
+        "keepanno-annotations",
+    ],
+    kotlincflags: [
+        "-Xjvm-default=all",
+        "-opt-in=kotlinx.coroutines.ExperimentalCoroutinesApi",
+        "-P plugin:androidx.compose.compiler.plugins.kotlin:sourceInformation=true",
+    ],
+    plugins: [
+        "androidx.room_room-compiler-plugin",
+        "dagger2-compiler",
+    ],
     static_libs: [
-        "SystemUIGoogle-core",
+        "sysuig_monolith",
         "com.android.systemui.bundle.phone_dagger",
         "dagger2",
     ],
